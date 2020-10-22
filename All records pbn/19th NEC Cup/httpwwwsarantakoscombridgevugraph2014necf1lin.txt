@@ -1,0 +1,942 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 873.A7432.J5.AJ7 KT4.K965.AKT.T86 AQJ6.T8.Q73.Q954 952.QJ.98642.K32 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "E"]
+D5 DK D3 D8
+S3 S4 SJ S9
+H2 H5 H8 HJ
+HA H6 HT HQ
+H3 HK C4 D4
+DJ DA D7 D2
+H4 H9 C5 D6
+C7 DT DQ D9
+CJ C6 C9 C2
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 873.A7432.J5.AJ7 KT4.K965.AKT.T86 AQJ6.T8.Q73.Q954 952.QJ.98642.K32 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass Pass Pass
+[Play "E"]
+D5 DK D3 D2
+HA H5 HT HJ
+DJ DA D7 D8
+H2 HK H8 HQ
+H3 H6 C4 S2
+C7 DT DQ D6
+CJ C6 C5 C2
+S3 S4 SQ S5
+CA C8 C9 C3
+S7 ST SJ S9
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A4.J854.QJ83.KJ5 KJ82.QT62.A6.A32 Q97.K.KT752.8764 T653.A973.94.QT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+Pass 1D an 2+
+X 2C 2D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A4.J854.QJ83.KJ5 KJ82.QT62.A6.A32 Q97.K.KT752.8764 T653.A973.94.QT9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+Pass 1C X 1D
+1S 2D 2S 3D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ6.T9832.965.6 73.AJ4.QJ732.973 Q842.6.AK.AKJT42 T95.KQ75.T84.Q85 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D an !H Pass
+1S Pass 2S Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ6.T9832.965.6 73.AJ4.QJ732.973 Q842.6.AK.AKJT42 T95.KQ75.T84.Q85 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+Pass Pass 1C an
+2+ Pass 1D Pass
+1S Pass 3S Pass
+4C Pass 4D Pass
+4N Pass 5H Pass
+6S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK7652.AT5.AJ5.J 8.KJ87432.T976.5 T943.Q.KQ.AT9873 QJ.96.8432.KQ642 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "W"]
+3H Pass 4C 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK7652.AT5.AJ5.J 8.KJ87432.T976.5 T943.Q.KQ.AT9873 QJ.96.8432.KQ642 "]
+[Declarer "S"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "W"]
+3H Pass Pass 3S
+Pass 4C Pass 4N
+Pass 5C X 5N
+Pass 6D Pass 6H
+Pass 7S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT5.T7.T42.AJ653 92.A542.J87.KQT8 KJ8.KQJ.AQ6.9742 Q7643.9863.K953."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT5.T7.T42.AJ653 92.A542.J87.KQT8 KJ8.KQJ.AQ6.9742 Q7643.9863.K953."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T843.Q9.QJ63.743 AQJ9.82.942.AT82 K652.KJT73.KT.Q5 7.A654.A875.KJ96 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "9"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+1D Pass 1S Pass
+2C Pass 2H X
+Pass Pass 4C Pass
+4D Pass 5C Pass
+6C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T843.Q9.QJ63.743 AQJ9.82.942.AT82 K652.KJT73.KT.Q5 7.A654.A875.KJ96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+1C an 2+ Pass
+1H an S X
+Pa Pass 3C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T82.Q9873.J9765.KQ43 A65.AKJ83.T.65 JT42.T764.AQ2.AJ97 K.Q952.K843."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+Pass 1C Pass 1S
+an 4c Pass 2C
+Pass 2H Pass 2S
+an ac Pass 3C
+an Q Pass 3D
+an Q Pass 3H
+an Q Pass 4C
+Pass 4N an RK
+Pass 5D an 0
+3 Pass 5H an
+as Pass 5N Pass
+6S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T82.Q9873.J9765.KQ43 A65.AKJ83.T.65 JT42.T764.AQ2.AJ97 K.Q952.K843."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+Pass 1D Pass 1S
+1N an 5+ 4C
+4H Pass Pass 4S
+Pass 5H Pass 6S
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A875.A65.732.852 Q9.J974.QJT.J943 KT43.T32.A98.KQ7 J62.KQ8.K654.AT6 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A875.A65.732.852 Q9.J974.QJT.J943 KT43.T32.A98.KQ7 J62.KQ8.K654.AT6 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ53.T2.AKJT7.Q4 7.KQJ75.9.KJT873 Q6.986.Q643.A965 KT9842.A43.852.2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+Pass Pass 1N an
+15 2H Pass Pass
+X 3C X 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ53.T2.AKJT7.Q4 7.KQJ75.9.KJT873 Q6.986.Q643.A965 KT9842.A43.852.2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+Pass 2S 3D Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ8.864.AJ63.QT5 T62.Q975.QT8.J84 A9543.KT2.K95.A3 J7.AJ3.742.K9762 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 1N Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ8.864.AJ63.QT5 T62.Q975.QT8.J84 A9543.KT2.K95.A3 J7.AJ3.742.K9762 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJ73.8.AJ53.AT86 AT95.T4.KQ9642.5 42.KQJ5.T.Q97432 K86.A97632.87.KJ "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+1D Pass 1H Pass
+1S 2D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJ73.8.AJ53.AT86 AT95.T4.KQ9642.5 42.KQJ5.T.Q97432 K86.A97632.87.KJ "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+1C 1D X! Pass
+1S Pass 2C Pass
+Pass 2D 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K762.J94.J654.43 Q9.K86.T872.KQT2 J8.T72.AK9.AJ986 AT543.AQ53.Q3.75 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "W"]
+Pass 1N 2C an
+!H Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K762.J94.J654.43 Q9.K86.T872.KQT2 J8.T72.AK9.AJ986 AT543.AQ53.Q3.75 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "W"]
+Pass 1C 1S Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT5.QJ2.J8754.65 KQ87432.A8.Q3.Q4 T753.KT9.AKJ983. J96.K964.A62.T72 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+1C Pass 1S an
+no 2S 3C 3S
+Pass 4S 4N X
+5D X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT5.QJ2.J8754.65 KQ87432.A8.Q3.Q4 T753.KT9.AKJ983. J96.K964.A62.T72 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+1C Pass 1N 2S
+4C 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q76.J532.AJ43.Q9 AK3.A4.K9.AKJT82 54.KT976.QT876.4 JT982.Q8.52.7653 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+Pass Pass 1C 1H
+Pass 2C 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q76.J532.AJ43.Q9 AK3.A4.K9.AKJT82 54.KT976.QT876.4 JT982.Q8.52.7653 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+2S Pass 6S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K4.J.975.KQ98432 9.QT743.AQ642.J6 T8753.A985.KJ83. AQJ62.K62.T.AT75 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+3C Pass Pass 3S
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K4.J.975.KQ98432 9.QT743.AQ642.J6 T8753.A985.KJ83. AQJ62.K62.T.AT75 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "19th NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "E Gladysh"]
+[North "M Bell"]
+[East "M Krasnose"]
+[South "A Hydes"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AK.KQ.KJ74.JT632 632.J8652.Q86.Q9 QJT974.T9.2.AK85 85.A743.AT953.74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "England Hinden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2S Pass 3S
+Pass 3N Pass 4D
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

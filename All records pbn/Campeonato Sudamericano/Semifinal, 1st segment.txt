@@ -1,0 +1,933 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K.98764.K732.Q64 AJ754.KQT.A8.KJ7 Q83.A3.JT6.AT982 T962.J52.Q954.53 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "N"]
+Pass 1C X Pass
+1S Pass 2D Pass
+2H Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+HA H4 H3 HQ
+CA C6 C2 C9
+H8 H2 HK HJ
+DQ DA D2 D5
+D3 D6 S2 DK
+SA S4 S3 ST
+SK S7 S5 S9
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K.98764.K732.Q64 AJ754.KQT.A8.KJ7 Q83.A3.JT6.AT982 T962.J52.Q954.53 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "N"]
+Pass 1C X Pass
+1H Pass 2D Pass
+Pass Pass
+[Play "W"]
+CA C6 C2 C4
+CK C7 C9 C5
+H3 HQ H2 H4
+DQ DA D2 D5
+D6 S2 DK D4
+H6 HT H8 HA
+D3 CJ CT CQ
+S3 C3 DJ D8
+H9 C8 DT D9
+S9 SA S4 S5
+SK S7 S6 ST
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ62.KJ.KJ53.T97 43.Q732.AQ42.K42 KQT87.T964.986.8 95.A85.T7.AQJ653 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "E"]
+Pass 1S 2C Pass
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "E"]
+C2 C3 C6 CJ
+C7 C5 CT C9
+C8 S7 CK CA
+S3 S5 S4 CQ
+S6 C4 H8 D3
+DA D7 D6 D5
+S2 H2 ST S9
+H6 H3 H5 D2
+SK SJ S8 H4
+HT HQ HA D4
+HJ D9 D8 DQ
+HK H9 H7 DK
+SA DJ DT SQ
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ62.KJ.KJ53.T97 43.Q732.AQ42.K42 KQT87.T964.986.8 95.A85.T7.AQJ653 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "E"]
+Pass 1S an 11
+2C Pass 3C 3D
+3H Pass 3N Pass
+Pass 4D Pass Pass
+Pass
+[Play "W"]
+C6 CJ C5 CA
+CT C8 C7 CK
+S3 S7 SQ SA
+C9 H5 C2 CQ
+HJ H2 H7 D2
+S5 S4 S2 D6
+H6 H3 HA D4
+S6 S8 D9 ST
+DQ HT H4 D8
+HK DJ SK S9
+C3 HQ D5 DK
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9874.KT2.A86.KJ4 2.Q9864.KQJ3.A62 KT6.753.T52.Q987 AQJ53.AJ.974.T53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "S"]
+Pass Pass 1C 1H
+1S 2H 2S Pass
+3C Pass 4S Pass
+Pass Pass
+[Play "W"]
+HQ H2 H5 H6
+HK H9 H7 H8
+S2 HT HJ HA
+S4 S3 S7 SA
+S8 S6 ST SQ
+C9 CK C4 C5
+S5 SJ SK H3
+D2 D3 D4 DK
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9874.KT2.A86.KJ4 2.Q9864.KQJ3.A62 KT6.753.T52.Q987 AQJ53.AJ.974.T53 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "S"]
+1N an 10 Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ85.KQ954.T.753 KT4.AJT3.A6.J962 62.87.KJ432.KT84 Q973.62.Q9875.AQ "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ85.KQ954.T.753 KT4.AJT3.A6.J962 62.87.KJ432.KT84 Q973.62.Q9875.AQ "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "W"]
+Pass 2D an 5M
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K654.AQJ54.KQ.A7 Q3.K.AT98754.K63 J987.98732.32.T4 AT2.T6.J6.QJ9852 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "N"]
+1H Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K654.AQJ54.KQ.A7 Q3.K.AT98754.K63 J987.98732.32.T4 AT2.T6.J6.QJ9852 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "N"]
+1H X 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T8.QJ973.7654.93 J976.A64.AQJT8.6 AK3.KT.32.KQJT82 Q542.852.K9.A754 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "E"]
+Pass 1H 2D 2H
+3H 4C X 4H
+5D Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 7.AQJ973.T8653.K AK932.T62.Q9753.Q86 K54.AQJ72.J8.JT54 8.K94.AT642."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "S"]
+1D X Pass 1H
+2D 2S 3D 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 7.AQJ973.T8653.K AK932.T62.Q9753.Q86 K54.AQJ72.J8.JT54 8.K94.AT642."]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "S"]
+1D 1S Pass Pass
+X XX 2C 2H
+3D Pass Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ2.9843.A8.Q982 QT954.Q7.J654.43 763.AJ65.K2.K765 A8.KT2.QT973.AJT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 1S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ2.9843.A8.Q982 QT954.Q7.J654.43 763.AJ65.K2.K765 A8.KT2.QT973.AJT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "W"]
+Pass 2H an 5+
+Pass 2N Pass 3H
+an ma Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK85.9764.T76.K7 T7432.JT.AQ85.J4 Q.A.KJ2.AQ986532 J96.KQ8532.943.T "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "N"]
+Pass Pass 1C 1D
+Pass 1H X 1S
+Pass 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK85.9764.T76.K7 T7432.JT.AQ85.J4 Q.A.KJ2.AQ986532 J96.KQ8532.943.T "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "N"]
+Pass Pass 1C an
+16 2C an  
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQT92.JT2.J5.983 KJ85.8.Q432.KT74 4.KQ9764.A98.AJ5 763.A53.KT76.Q62 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 1N
+Pass 2C an 3 
+Pass 2H Pass 3N
+an 18 Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQT92.JT2.J5.983 KJ85.8.Q432.KT74 4.KQ9764.A98.AJ5 763.A53.KT76.Q62 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "E"]
+Pass 1C an 18
+Pass 1S an ba
+Pass 1N an XX
+Pass 2H Pass 2S
+Pass 3D an 34
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJ.QT42.AQT9864.KT873 42.8753.52.AQJ64 853.6.KJ73.952 AQT976.AKJ9."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "S"]
+Pass Pass 2S 2N
+Pass 3S Pass 3N
+Pass 4S Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJ.QT42.AQT9864.KT873 42.8753.52.AQJ64 853.6.KJ73.952 AQT976.AKJ9."]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "S"]
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK5.K72.J643.T53 96.A84.KQT9.KJ42 742.QJ965.852.87 QJT83.T3.A7.AQ96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "W"]
+1S Pass 1N Pass
+3N Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK5.K72.J643.T53 96.A84.KQT9.KJ42 742.QJ965.852.87 QJT83.T3.A7.AQ96 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "W"]
+2N Pass 3C Pass
+3S Pass 4D Pass
+4N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K963.QJ.JT73.A54 AQ874.2.2.KQJ632 5.KT87643.A8654. JT2.A95.KQ9.T987 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "N"]
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K963.QJ.JT73.A54 AQ874.2.2.KQJ632 5.KT87643.A8654. JT2.A95.KQ9.T987 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "N"]
+2S an 3- Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K93.J86.AQT.QT64 AQJ72.KQ5.J6.AK5 T54.T7.8754.J873 86.A9432.K932.92 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "E"]
+1D Pass 1S Pass
+3D Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K93.J86.AQT.QT64 AQJ72.KQ5.J6.AK5 T54.T7.8754.J873 86.A9432.K932.92 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "E"]
+1D Pass 1S Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K2.T95432.872.J4 54.AKQ6.9653.Q82 AQJ93.87.Q.AKT53 T876.J.AKJT4.976 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "S"]
+Pass Pass 1H 2D
+3D Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K2.T95432.872.J4 54.AKQ6.9653.Q82 AQJ93.87.Q.AKT53 T876.J.AKJT4.976 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "S"]
+Pass Pass 1H 2D
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "West"]
+[North "carrera"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJT4.T872.AK.J96 A8653.J3.654.A42 972.AQ6.T73.QT53 K.K954.QJ982.K87 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brasil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colombia"]
+[Auction "W"]
+Pass 1C X 1H
+1S 2C 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+

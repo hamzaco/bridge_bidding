@@ -1,0 +1,701 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT4.K752.Q9.A765 K53.AJ643.A4.KJ3 AQ8.QT8.KJ72.QT4 9762.9.T8653.982 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "E"]
+H2 H3 HT H9
+H5 HA HQ S6
+ST S3 S8 S9
+S4 S5 SQ S2
+DQ DA D2 D3
+SJ SK SA S7
+D9 D4 DK D5
+C5 H4 DJ D6
+HK H6 H8 D8
+H7 HJ D7 DT
+C6 CJ CQ C2
+CA C3 C4 C8
+C7 CK CT C9
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJT7.KT86.A654.2 Q953.954.T8.AQT8 864.73.J73.KJ965 K2.AQJ2.KQ92.743 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+H6 H9 H7 H2
+D4 DT DJ DK
+D5 D8 D3 D2
+HK H4 H3 HQ
+C2 CQ CK C4
+ST SQ S8 S2
+H8 H5 C5 HA
+HT C8 C6 HJ
+D6 CA C9 C3
+SA S3 S4 SK
+SJ S5 S6 C7
+DA CT D7 D9
+S7 S9 CJ DQ
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T753.QJT983.K.K4 J642.K7.T976.873 AK98.2.Q8543.Q96 Q.A654.AJ2.AJT52 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+2H an   Pass
+Pass 2N Pass Pass
+Pass
+[Play "S"]
+HQ HK H2 H6
+CK C3 C6 CJ
+H8 H7 D4 H4
+H9 C7 S8 HA
+C4 C8 C9 CA
+S3 D6 CQ C2
+DK D7 D3 DA
+HT S2 S9 CT
+H3 D9 D5 C5
+HJ DT DQ D2
+S5 S4 SK SQ
+S7 S6 SA H5
+ST SJ D8 DJ
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J9854.J5.QJ8.K76 7632.AK8.A4.AQT5 K.QT764.532.J832 AQT.932.KT976.94 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 2C Pass 2D
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+S5 S2 SK SA
+D8 DA D2 D7
+DJ D4 D3 DK
+DQ S3 D5 D9
+H5 HA H7 H2
+S4 S6 H4 SQ
+C6 S7 H6 DT
+S8 H8 C2 D6
+C7 C5 CJ C9
+HJ HK HT H3
+CK CA C3 C4
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K652.AJT4.J.KJ74 JT9.Q96.KQ864.QT 43.K7.A97532.932 AQ87.8532.T.A865 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+Pass 1C Pass 1D
+X Pass Pass Pass
+[Play "S"]
+DJ DQ DA DT
+SK S9 S3 S8
+S2 ST S4 S7
+C4 D4 D7 H3
+H4 H6 HK H2
+HJ HQ H7 H5
+S5 SJ D2 SA
+CJ CQ C2 C6
+C7 CT C3 CA
+S6 H9 D3 SQ
+CK D6 C9 C5
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ2.K64.J73.KQJ6 Q.Q73.KQ65.AT874 T854.AJT982.4.32 A9763.5.AT982.95 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+1C Pass 1H 1S
+X XX 2H 2S
+Pass 2N Pass 3D
+Pass 3H X Pass
+Pass 3S Pass Pass
+Pass
+[Play "W"]
+CK CA C3 C5
+SK SQ S4 S3
+HK H3 H8 H5
+H6 H7 HJ S6
+S2 C4 S5 SA
+D3 DK D4 D2
+D7 D5 H2 DA
+DJ DQ S8 DT
+CJ C7 C2 C9
+H4 HQ HA S7
+SJ D6 ST S9
+CQ C8 H9 D8
+C6 CT HT D9
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ542.AJ43.J7.JT 3.KT87.Q9854.K42 K7.965.K63.A9875 AT986.Q2.AT2.Q63 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "W"]
+Pass Pass 1S an
+ov Pass 1N Pass
+Pass Pass
+[Play "N"]
+CT CK C7 C3
+DJ D4 D3 DT
+CJ C2 C5 CQ
+HA H7 H5 HQ
+H3 HK H6 H2
+D7 DQ D6 DA
+S2 S3 S7 SA
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 53.AQ982.J973.T5 42.KJ654.2.Q9764 KQJ9.T73.KQ4.K82 AT876.AT865.AJ3."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+1C 1S X Pass
+1N 2D Pass 2S
+Pass Pass Pass
+[Play "N"]
+CT CQ CK CA
+D3 D2 D4 DA
+D7 S2 DQ D5
+S3 S4 SJ SA
+S5 H4 SQ ST
+H8 H5 S9 S6
+D9 H6 DK D6
+H2 HJ H3 S7
+C5 C4 C2 CJ
+H9 C9 C8 C3
+HQ C7 SK D8
+HA HK H7 S8
+DJ C6 HT DT
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ832.A63.Q.AK83 7.J9.KJ7632.T652 54.KQ54.A954.J94 AQT96.T872.T8.Q7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2C Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+H3 HJ HK H8
+SJ S7 S4 S6
+HA H9 H4 H2
+H6 D7 HQ H7
+S2 D2 S5 SA
+S3 D6 H5 HT
+SK D3 D4 S9
+C3 C6 CJ CQ
+S8 DJ D5 SQ
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A5.J53.A865.AKT5 T87.84.K432.J862 QJ4.AKQT76.Q7.Q7 K9632.92.JT9.943 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+1N Pass 4D Pass
+4H Pass 4N Pass
+5C an 3  Pass
+6N Pass Pass Pass
+[Play "S"]
+D6 D3 DQ DJ
+S5 S7 SQ S3
+H3 H8 HA H9
+H5 H4 HK H2
+HJ C6 HQ S6
+D5 D2 HT C3
+D8 S8 H7 C4
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A653.AKJ4.T.8764 Q8.96.KJ986.AKJ2 K97.87532.A7.T93 JT42.QT.Q5432.Q5 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +70"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "W"]
+1D Pass 1S X
+2C 2H 3D 3H
+4D Pass Pass Pass
+[Play "E"]
+HK H6 H3 HT
+HA H9 H8 HQ
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK94.K3.KJ.AT852 Q87.AT.T9852.KQ7 T2.QJ9742.Q4.J43 J653.865.A763.96 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -70"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass 2N Pass
+3H Pass Pass Pass
+[Play "N"]
+SA S7 S2 S5
+HK HA H2 H5
+H3 HT HQ H6
+DK D2 D4 D6
+DJ DT DQ DA
+SK S8 ST S3
+S4 SQ H9 S6
+C2 D5 HJ H8
+C5 D8 H7 D3
+CT CQ C3 C9
+S9 D9 H4 D7
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKJ2.K32.AQ.9743 43.AQJT85.75.AJ5 86.964.JT432.K62 QT975.7.K986.QT8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+Pass 1N 2D Pass
+2H Pass Pass Pass
+[Play "S"]
+SA S4 S8 S5
+C3 C5 CK C8
+DA D5 DJ DK
+DQ D7 D4 D6
+SK S3 S6 S7
+C4 CJ C2 CQ
+H3 HQ H4 H7
+H2 HA H6 S9
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T96.A874.73.9754 72.K5.JT942.AK63 AQ4.963.AQ65.J82 KJ853.QJT2.K8.QT "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+Pass Pass 1D 1S
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+H7 HK H9 H2
+D3 D2 D5 DK
+H4 H5 H6 HT
+HA D4 H3 HJ
+H8 C3 D6 HQ
+C5 CA C2 CT
+S6 S7 SQ SK
+C4 C6 C8 CQ
+D7 D9 DQ D8
+S9 DT DA S3
+ST S2 SA S5
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 3.AJT2.KQ632.A82 AKQJT2.3.J7.Q965 9875.8.9854.JT43 64.KQ97654.AT.K7 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "W"]
+1S Pass 2H Pass
+2S Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+CA C6 CJ CK
+S3 SA S5 S4
+C2 CQ C3 C7
+C8 C5 C4 S6
+HA H3 H8 HK
+DK D7 D4 DA
+H2 DJ S7 HQ
+DQ S2 D9 DT
+D2 SK S8 H4
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 63.A9.KQT943.A82 K75.QT72.A85.T63 A82.KJ64.J2.Q754 QJT94.853.76.KJ9 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+3N Pass Pass Pass
+[Play "N"]
+H9 H2 H4 H8
+D3 D5 DJ D6
+DQ DA D2 D7
+S3 S5 SA SQ
+HA H7 H6 H3
+DK D8 S2 S4
+DT C3 S8 H5
+D9 C6 C4 C9
+D4 CT C5 S9
+CA HT C7 CJ
+S6 S7 CQ ST
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A974.AK63.AK864.3 JT97.75.AQT976.KQ 54.JT932.KJ85. JT8652.Q82.Q.432 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+2D X 2S an
+  2N Pass 3D
+Pass 4D Pass 6D
+Pass Pass Pass
+[Play "S"]
+SK S8 S4 S3
+DQ DA D5 D2
+D4 D7 DJ S6
+S2 S7 C7 SQ
+*
+
+
+[Event "2006 PABF"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "F.Karwur"]
+[North "S.Wan"]
+[East "Panelewen"]
+[South "Derek Zen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJT98652.Q73.J3.K73 AQT.92.AQ964.J86532 AJ4.KT87..Q4 K974.KT865.52."]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "China Hong Kong"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+4S Pass Pass Pass
+[Play "S"]
+D3 D9 D4 DK
+D7 D2 DJ DT
+HT H2 HK S2
+SA S3 H3 S4
+SJ S7 H5 SQ
+DQ SK DA D8
+C7 C5 C3 CA
+C2 CJ C4 CK
+*
+
+

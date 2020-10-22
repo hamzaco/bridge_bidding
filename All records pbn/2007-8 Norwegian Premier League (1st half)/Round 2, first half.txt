@@ -1,0 +1,912 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J2.KJ864.K8763.T KT984.AQ97.5.A83 AQ753.T52.AQ4.96 6.3.JT92.KQJ7542 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "N"]
+1S 3C Pass 5C
+Pass Pass Pass
+[Play "S"]
+SJ SK SA S6
+S2 S4 S5 CJ
+CT C3 C6 CK
+D3 CA C9 C2
+H4 ST SQ C4
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J2.KJ864.K8763.T KT984.AQ97.5.A83 AQ753.T52.AQ4.96 6.3.JT92.KQJ7542 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "N"]
+1S 4C X! Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 32.AQ873.AQ87.75 KQJ87.K6.K.AJT63 A4.T9542.JT964.9 T965.J.532.KQ842 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "E"]
+Pass 1H 1S 3C
+4S 5H 5S X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 32.AQ873.AQ87.75 KQJ87.K6.K.AJT63 A4.T9542.JT964.9 T965.J.532.KQ842 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "E"]
+Pass 1H 1S 4H
+4S Pass Pass 5H
+Pass Pass 5S X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ43.AK5.JT82.JT 9852.643.K.Q7654 AKT6.QT87.54.AK2 7.J92.AQ9763.983 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2H Pass 2S Pass
+3H Pass 4C Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ43.AK5.JT82.JT 9852.643.K.Q7654 AKT6.QT87.54.AK2 7.J92.AQ9763.983 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 2D Pass
+2H Pass 2S Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 8543.K832.KT.AK2 92.J974.Q742.J94 QJ76.AT5.AJ.QT76 AKT.Q6.98653.853 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 8543.K832.KT.AK2 92.J974.Q742.J94 QJ76.AT5.AJ.QT76 AKT.Q6.98653.853 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1S Pass 2D
+Pass 2N Pass 3S
+Pass 4D Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q9754.J6.AQ.QJT4 AT63.KQT.T974.32 8.98753.K2.K9875 KJ2.A42.J8653.A6 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "N"]
+Pass 1D 1S 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q9754.J6.AQ.QJT4 AT63.KQT.T974.32 8.98753.K2.K9875 KJ2.A42.J8653.A6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "N"]
+Pass 1D 1S 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 62.AKT8.J874.AJ9 AJ87.6432.T5.K84 Q954.Q.AKQ96.QT5 KT3.J975.32.7632 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 62.AKT8.J874.AJ9 AJ87.6432.T5.K84 Q954.Q.AKQ96.QT5 KT3.J975.32.7632 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "E"]
+Pass 1D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q8543.QT32.9.T93 AJ.A9876.753.K65 T7.KJ.KQJ862.742 K962.54.AT4.AQJ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "S"]
+Pass 1H 2D X
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q8543.QT32.9.T93 AJ.A9876.753.K65 T7.KJ.KQJ862.742 K962.54.AT4.AQJ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "S"]
+Pass 1H 2D X
+Pass 2H Pass 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ2.A985.J952.72 AT97654.KQ32.T.4 J83.T7.K3.AKT953 .J64.AQ8764.QJ86 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "W"]
+1S 2C 2D Pass
+2H Pass 3D Pass
+3S Pass 3N X
+4S Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ2.A985.J952.72 AT97654.KQ32.T.4 J83.T7.K3.AKT953 .J64.AQ8764.QJ86 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "W"]
+1S 2C Pass 2N
+3S 3N X! an
+wh Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT874.53.AJ65.97 AJ65.KJ8.3.A8632 32.AQT974.Q7.KJ5 K9.62.KT9842.QT4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "N"]
+1H Pass 1S 2C
+2H 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT874.53.AJ65.97 AJ65.KJ8.3.A8632 32.AQT974.Q7.KJ5 K9.62.KT9842.QT4 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "N"]
+1H Pass 1S Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQT6.7.Q432.QJ65 8752.KJ432.JT.A7 943.AQT9.A85.KT4 KJ.865.K976.9832 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "E"]
+Pass Pass 2H Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQT6.7.Q432.QJ65 8752.KJ432.JT.A7 943.AQT9.A85.KT4 KJ.865.K976.9832 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 73.AT72.T83.KJ63 KQ9842.Q5.QJ7.98 A65.6.AK962.QT74 JT.KJ9843.54.A52 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "S"]
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 73.AT72.T83.KJ63 KQ9842.Q5.QJ7.98 A65.6.AK962.QT74 JT.KJ9843.54.A52 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "S"]
+Pass 2D an mu
+Pass 2S Pass Pass
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T.KQJT7.84.QT432 976542.8642.A2.9 AKJ8.95.KJT763.5 Q3.A3.Q95.AKJ876 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "W"]
+Pass 1D 1N X
+3S X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T.KQJT7.84.QT432 976542.8642.A2.9 AKJ8.95.KJT763.5 Q3.A3.Q95.AKJ876 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "W"]
+2D Pass 2N Pass
+3H an ve Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A.A6.J976.QT9543 KQ96.KQ93.A52.J2 8754.T52.K.AK876 JT32.J874.QT843."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "N"]
+Pass Pass 3C X
+4C X Pass 4H
+Pass Pass X Pass
+5C Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A.A6.J976.QT9543 KQ96.KQ93.A52.J2 8754.T52.K.AK876 JT32.J874.QT843."]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "N"]
+Pass Pass 1C X
+1S 2D Pass Pass
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ95.T6.K72.7543 T64.Q94.A93.AT98 AQ72.K873.J8.KQ2 83.AJ52.QT654.J6 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ95.T6.K72.7543 T64.Q94.A93.AT98 AQ72.K873.J8.KQ2 83.AJ52.QT654.J6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "E"]
+Pass Pass 1C X
+1H 1S Pass 2S
+3D 3S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT83.84.KQ42.975 AJ.KJT6.J975.QJ4 Q765.A93.86.AT86 942.Q752.AT3.K32 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT83.84.KQ42.975 AJ.KJT6.J975.QJ4 Q765.A93.86.AT86 942.Q752.AT3.K32 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "S"]
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007-8 Norwegian Premier League (1st half)"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Nordby"]
+[North "Eide"]
+[East "Lillevik"]
+[South "SO Høyland"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT982.KQT8.J6.97 K743.76.AQT743.2 A65.A93.98.AT854 J.J542.K52.KQJ63 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hordaland 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oslo 1"]
+[Auction "W"]
+1D X XX 2D
+Pass 3C X 3S
+X Pass Pass Pass
+[Play "W"]
+*
+
+

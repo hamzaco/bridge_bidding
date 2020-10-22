@@ -1,0 +1,576 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ763.T87.64.Q65 AT5.Q6543.AJ.732 984.K2.QT75.AJT9 J2.AJ9.K9832.K84 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1N Pass 2C
+Pass 2D Pass 4H
+Pass Pass Pass
+[Play "N"]
+SQ SA S8 S2
+SK S5 S9 SJ
+C5 C2 C9 CK
+D4 DA D5 D2
+S3 ST S4 C4
+C6 C3 CT C8
+D6 DJ D7 DK
+H7 H3 H2 HA
+CQ H4 DT D3
+HT C7 CJ H9
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ763.T87.64.Q65 AT5.Q6543.AJ.732 984.K2.QT75.AJT9 J2.AJ9.K9832.K84 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+Pass 1D 1S 2H
+2S 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q932.874.QT5.862 7654.Q9532.7.QT5 KJT.A6.K984.AK97 A8.KJT.AJ632.J43 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+1N Pass 2D Pass
+2H Pass Pass X
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q932.874.QT5.862 7654.Q9532.7.QT5 KJT.A6.K984.AK97 A8.KJT.AJ632.J43 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+1D Pass 1H 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A6.Q42.K9543.K97 97.AJT95.J86.Q43 QJT543.K83.72.AJ K82.76.AQT.T8652 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "S"]
+1D 1H 1S Pass
+1N Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A6.Q42.K9543.K97 97.AJT95.J86.Q43 QJT543.K83.72.AJ K82.76.AQT.T8652 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "S"]
+1D Pass 1S Pass
+1N Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT2.AT93.AK.8543 A863.K8.9742.KQ7 975.QJ42.T865.J9 KQ4.765.QJ3.AT62 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "W"]
+1D Pass 2C Pass
+2D an ) Pass
+3C Pass 3H Pass
+3N Pass 4C Pass
+4N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT2.AT93.AK.8543 A863.K8.9742.KQ7 975.QJ42.T865.J9 KQ4.765.QJ3.AT62 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "W"]
+1D Pass 2C Pass
+3C Pass 3S Pass
+4S Pass Pass X
+Pass Pass 5C X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 2.AJT876.K7.J852 A984.9532.84.T74 QJT7.K.AJT963.A6 K653.Q4.Q52.KQ93 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "12"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 2.AJT876.K7.J852 A984.9532.84.T74 QJT7.K.AJT963.A6 K653.Q4.Q52.KQ93 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ972.KQJT8.A96.A85 73.AQT765.QJ.K6 A654.J43.K853.T43 92.K982.T742."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+Pass 1S 2D X
+3D 4D an (
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ972.KQJT8.A96.A85 73.AQT765.QJ.K6 A654.J43.K853.T43 92.K982.T742."]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+Pass 1S 2D X
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT6.9.J876543.T6 K854.T874.AK9.97 AQ93.AJ32.QT.542 72.KQ65.2.AKQJ83 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass Pass 1C 1N
+Pass 2C Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT6.9.J876543.T6 K854.T874.AK9.97 AQ93.AJ32.QT.542 72.KQ65.2.AKQJ83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D X Pass 2D
+Pass 2H Pass 4D
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQJ92.J7.A964.AT 3.AT83.KJT3.J764 A875.K9.Q75.Q932 T64.Q6542.82.K85 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQJ92.J7.A964.AT 3.AT83.KJT3.J764 A875.K9.Q75.Q932 T64.Q6542.82.K85 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "W"]
+Pass 1C Pass 1S
+X 2S 3H 4C
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ4.983.AKJ75.A8 K76532.2.Q843.43 9.KT76.T6.KJT965 QT8.AQJ54.92.Q72 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+Pass 1H X 1S
+2C Pass 2D Pass
+3C Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ4.983.AKJ75.A8 K76532.2.Q843.43 9.KT76.T6.KJT965 QT8.AQJ54.92.Q72 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+Pass 1H X 1S
+2C X XX 2S
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 White House Junior"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Montanari"]
+[North "Segev"]
+[East "Franchi"]
+[South "Tal"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AT87.JT643.AQ.42 943.985.KJ853.A9 6.KQ7.942.KT8753 KQJ52.A2.T76.QJ6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Israel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+1S Pass 1N Pass
+2C an ( Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+

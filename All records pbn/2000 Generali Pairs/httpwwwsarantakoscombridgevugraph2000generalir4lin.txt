@@ -1,0 +1,758 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 98732.T92.8.KQ65 AQ.AK86.643.T732 JT.J53.KT975.984 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "S"]
+C5 C2 C4 CJ
+S2 SQ ST S4
+D8 D3 D5 DQ
+S3 SA SJ S5
+S7 D4 DT DJ
+S8 C3 C9 SK
+C6 C7 C8 CA
+HT HA H3 H4
+H2 H6 H5 HQ
+H9 HK HJ H7
+CQ H8 D7 D2
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T.A975.J943.A942 QJ632.KQ.T6.Q876 A85.T432.AQ75.K5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1S Pass
+2S Pass Pass X
+Pass 3H Pass Pass
+3S Pass Pass Pass
+[Play "None"]
+HA HQ H3 H6
+C2 C8 CK C3
+CA CQ C5 CJ
+C4 C7 S5 CT
+D3 D6 DA D2
+D4 DT D5 DK
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT3.Q5.QJT92.Q43 K854.J97.A4.KT62 A76.KT6.8753.987 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1S Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+DQ D4 D5 DK
+HQ H7 H6 H4
+D2 DA D3 D6
+H5 HJ HK HA
+S3 SK SA S2
+ST S4 S7 S9
+SQ S5 S6 SJ
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ6.T87.K72.J853 A97.KJ652.J864.9 QT8.Q9.QT53.KQT2 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 1N
+Pass Pass X Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ54.Q2.KT53.Q85 2.AJT965.8.JT643 T73.K73.Q9742.72 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 3N Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ3.Q532.KJ764.J AT95.A.QT832.T53 862.K87.A.AKQ876 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q8643.A75.65.AK7 A.T43.KJ732.J843 JT92.KQJ62.Q84.5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q965.A752.KJ.T83 874.KQJ964.Q.AK7 A32.9876532.965."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2C Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 83.K973.K2.K9874 K64.AJ4.AJ76.QT3 J95.T852.QT5.A62 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2H Pass 2S
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A87.T82.AJ9.J632 53.AJ6.753.KQ987 KQT942.K7.864.A5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C 1S
+X XX 2C 2S
+Pass 3C Pass 3H
+Pass 3S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 6.KQJ4.863.QT875 JT974.T98.J95.A9 AQ52.A.AKQT74.32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 95.T9.A543.J8764 KT8.KJ.KT97.AT95 QJ432.A6432.8.32 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N 2C X Pass
+Pass 2S X Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A8643.K42.432.AJ J952.JT976.A9.T9 7.3.KQJ876.Q8643 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C 1S X
+2D 2H 3D 3H
+4D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 86.A96.T9.KT9652 QJ3.J85.AQ864.AJ AKT74.KQ7.K72.Q3 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 3S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT74.97.QJ95.AKJ QJ853.J65.87.T96 A92.AT82.AKT2.43 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2N Pass 3D Pass
+3S Pass 4D Pass
+4N Pass 5D Pass
+6D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT7.T32.98765.J4 AJ8432.8.Q3.A652 .KQJ96.AJ.KQ9873 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S 2S 4C 4D
+4H 5C Pass Pass
+5S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K97.AK2.9762.T84 AQ63.QT63.Q.Q753 T42.J9874.AK83.9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1C
+1H 2H X Pass
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 83.J873.AJT95.J3 QT2.KT4.62.KQ862 754.A962.Q87.A97 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 3S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J96.K87.KT86.AJT AT854.J62.A7.K42 K2.A53.Q542.Q765 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D 1S 2S X
+Pass Pass 2N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A632.J4.JT6.AKJ3 T.AQT.KQ972.Q842 KQ75.8532.A4.T76 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D Pass Pass 1N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 4.J8742.A532.J84 Q6.T6.KQJT876.A7 K987.A93.9.K9632 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S Pass 2D
+Pass 2S Pass 3C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q972.8.K853.8542 K3.QT76542.AT7.6 85.KJ.964.KQJT93 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 2H 3C
+3H 5C 5H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 94.K87.AJT98.AQ2 AJ65.AQ94.63.K65 QT83.J53.KQ2.J84 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1N Pass 2N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J7.A64.J865.K642 A63.Q32.A2.Q8753 QT98.T75.QT93.AJ "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C Pass 1H Pass
+1N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Generali Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "De Falco"]
+[North "Westra"]
+[East "Sementa"]
+[South "Kokish"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 97.AQJ4.AQ7.T743 43.82.J52.AQ9862 KT.T653.T9643.J5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S X 2C
+Pass 2S Pass Pass
+3D 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+

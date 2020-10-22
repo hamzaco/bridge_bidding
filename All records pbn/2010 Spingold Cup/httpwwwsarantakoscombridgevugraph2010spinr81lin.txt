@@ -1,0 +1,926 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A4.752.JT8765.A2 QT2.43.AKQ42.J94 9753.KJT986.T85.KJ86 AQ.93.KQ763."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "N"]
+Pass 1N Pass 2N
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+DJ DA H9 D3
+CA C9 CT CK
+DT DK H6 D9
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A4.752.JT8765.A2 QT2.43.AKQ42.J94 9753.KJT986.T85.KJ86 AQ.93.KQ763."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "N"]
+Pass 1C 1D Pass
+1H 1S Pass 2D
+2H 2N 3H 3N
+Pass Pass Pass
+[Play "S"]
+H2 H3 HK HA
+C2 CJ CT C3
+CA C9 C5 C6
+H5 H4 H6 HQ
+C4 C8 CK S4
+D8 D2 S7 CQ
+D5 S2 S3 C7
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT96.Q.AJ9.J9653 A87542.T9.T87.A7 KQ3.AJ7653.43.T2 .K842.KQ652.KQ84 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "E"]
+1D Pass 1S Pass
+2C an   Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT96.Q.AJ9.J9653 A87542.T9.T87.A7 KQ3.AJ7653.43.T2 .K842.KQ652.KQ84 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "E"]
+1D Pass 1S Pass
+2C Pass 2D 2H
+Pass Pass 2S Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQJ875.AT42.3.87 KT.K6.A862.QT642 643.QJ8.QJT9.AJ9 92.9753.K754.K53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "S"]
+1S Pass 1N Pass
+2H Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQJ875.AT42.3.87 KT.K6.A862.QT642 643.QJ8.QJT9.AJ9 92.9753.K754.K53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "S"]
+1S Pass 1N Pass
+2H Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 4.KQ.AKQJ4.AJT42 A952.A.8762.K985 KT83.JT9862.Q76.QJ76 7543.T953.3."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "W"]
+1D Pass 1H 2C
+Pass an no 3C
+Pass 5C X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 4.KQ.AKQJ4.AJT42 A952.A.8762.K985 KT83.JT9862.Q76.QJ76 7543.T953.3."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1H Pass 3C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ32.AT5.KT752.J 94.J64.9863.T953 T87.K3.A4.AQ8642 AK65.Q9872.QJ.K7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "N"]
+1C X XX 1D
+2C Pass 2N Pass
+3N Pass Pass Pass
+2C Pass
+[Play "W"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ32.AT5.KT752.J 94.J64.9863.T953 T87.K3.A4.AQ8642 AK65.Q9872.QJ.K7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "N"]
+1C 2C X XX
+3C Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 972.J854.Q5.J543 KQ3.T76.JT7.KT87 JT5.AQ92.AK82.AQ A864.K3.9643.962 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "E"]
+Pass Pass Pass 2N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 972.J854.Q5.J543 KQ3.T76.JT7.KT87 JT5.AQ92.AK82.AQ A864.K3.9643.962 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "E"]
+Pass Pass Pass 2C
+Pass 2D Pass 2N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T8652.K.9874.T64 A74.76543.KT.KJ2 QJ3.AJ2.532.AQ53 K9.QT98.AQJ6.987 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "S"]
+Pass 1H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T8652.K.9874.T64 A74.76543.KT.KJ2 QJ3.AJ2.532.AQ53 K9.QT98.AQJ6.987 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2S Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJT6.A2.AQ72.A4 Q987.K54.K64.QJ6 53.QJT76.9.K8753 42.983.JT853.T92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "W"]
+1D Pass Pass X
+Pass 1H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJT6.A2.AQ72.A4 Q987.K54.K64.QJ6 53.QJT76.9.K8753 42.983.JT853.T92 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "W"]
+Pass Pass Pass 2C
+Pass 2D Pass 2S
+Pass 3C an 0-
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A64.KJ7.K432.J75 Q932.Q9865.T8.K8 K8.T42.J95.Q6432 JT75.A3.AQ76.AT9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A64.KJ7.K432.J75 Q932.Q9865.T8.K8 K8.T42.J95.Q6432 JT75.A3.AQ76.AT9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "N"]
+Pass 1N Pass 3C
+an 5  Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A6.AJT7.T9.T9742 K5.KQ983.K82.AQ8 98743.5.AJ763.65 QJT2.642.Q54.KJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "E"]
+Pass Pass 1C an
+aX  s Pass 2H
+an aX  8 Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A6.AJT7.T9.T9742 K5.KQ983.K82.AQ8 98743.5.AJ763.65 QJT2.642.Q54.KJ3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "E"]
+Pass Pass 1H Pass
+2H Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJT.KQ65.JT7432.Q863 AT3.KJ7532.A2.J974 K6.AQ986..9754 82.AQ985.T4."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "S"]
+Pass 2C Pass Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJT.KQ65.JT7432.Q863 AT3.KJ7532.A2.J974 K6.AQ986..9754 82.AQ985.T4."]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1S Pass 2C
+Pass 3C X 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K54.94.J972.AJ83 A9873.3.KT6.KT97 QT2.AT52.A8543.4 J6.KQJ876.Q.Q652 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "3"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "W"]
+1S Pass 1N Pass
+2C an 2+ X
+2H 3C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K54.94.J972.AJ83 A9873.3.KT6.KT97 QT2.AT52.A8543.4 J6.KQJ876.Q.Q652 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "W"]
+Pass Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q4.KJ7.KQJ974.K4 J753.65.T32.T872 KT92.Q93.86.QJ95 A86.AT842.A5.A63 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "N"]
+Pass 1C an aX
+ s 1D Pass Pass
+1H Pass Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q4.KJ7.KQJ974.K4 J753.65.T32.T872 KT92.Q93.86.QJ95 A86.AT842.A5.A63 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "N"]
+Pass 1H 1N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 753.J5.J72.KQT64 QT6.T83.A86.AJ52 AJ92.AQ64.Q93.87 K84.K972.KT54.93 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "E"]
+Pass Pass 1D X
+1N 2C Pass Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 753.J5.J72.KQT64 QT6.T83.A86.AJ52 AJ92.AQ64.Q93.87 K84.K972.KT54.93 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "E"]
+Pass Pass 1C X
+Pass Pass XX Pass
+1D Pass Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A63.K862.QJT4.97 84.J75.76.J85432 K9.AQT43.K83.AQ6 QJT752.9.A952.KT "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "S"]
+Pass Pass 1H 1S
+2S Pass 4H 4S
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A63.K862.QJT4.97 84.J75.76.J85432 K9.AQT43.K83.AQ6 QJT752.9.A952.KT "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "S"]
+Pass Pass 1H 1S
+2N an al Pass
+3D an aX  n
+3S Pass an al
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2010 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Aronov"]
+[North "Seamon"]
+[East "Stefanov"]
+[South "Cayne"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 96.AK84.KQT7.KQT AKJ732.QT5.94.64 QT854.J3.AJ86.72 .9762.532.AJ9853 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Cayne"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DeKnijff"]
+[Auction "W"]
+1S Pass 1N X
+2S X Pass 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+

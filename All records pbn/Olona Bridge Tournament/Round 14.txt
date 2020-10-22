@@ -1,0 +1,493 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J9752.K872.A98.3 K6.Q95.QJ62.8765 AQ4.JT3.K7.QJT42 T83.A64.T543.AK9 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "N"]
+1N Pass 2C Pass
+2D Pass 2H Pass
+2S Pass Pass Pass
+[Play "E"]
+C3 C8 C4 CA
+D8 DJ DK D5
+S2 C5 CQ CK
+DA D2 D7 D3
+D9 D6 S4 D4
+H2 C6 CJ C9
+S5 C7 CT S3
+S7 S6 SQ S8
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J9752.K872.A98.3 K6.Q95.QJ62.8765 AQ4.JT3.K7.QJT42 T83.A64.T543.AK9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "N"]
+1C Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 2H Pass
+2S Pass Pass Pass
+[Play "W"]
+C3 C5 CQ CK
+H8 HQ H3 H6
+H2 H9 HT HA
+H7 H5 HJ H4
+S2 S6 SA S3
+D8 D2 DK D3
+DA D6 D7 D4
+D9 DQ S4 D5
+S5 SK SQ S8
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 82.9654.Q8543.A3 AQ54.A7.92.KJT95 JT3.QT832.AK76.2 K976.KJ.JT.Q8764 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "E"]
+Pass Pass 1C 1H
+X 3H 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+D3 D2 DA DT
+CA C5 C2 C4
+C3 CT S3 C6
+D4 D9 DK DJ
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 82.9654.Q8543.A3 AQ54.A7.92.KJT95 JT3.QT832.AK76.2 K976.KJ.JT.Q8764 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "E"]
+Pass Pass 1C 1S
+an ca Pass 2C
+Pass 2H X 3H
+4S Pass Pass Pass
+[Play "N"]
+D8 D2 DA DJ
+D3 D9 DK DT
+CA C5 C2 C4
+C3 CK S3 C6
+D5 C9 D6 S6
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T32.A2.A96.KJT82 K95.T96.QT842.Q9 7.QJ8753.KJ3.A75 AQJ864.K4.75.643 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "S"]
+1N Pass 4C Pass
+4H Pass Pass Pass
+[Play "W"]
+S3 S5 S7 SA
+CJ CQ CA C4
+HA H6 H3 H4
+H2 HT HQ HK
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T32.A2.A96.KJT82 K95.T96.QT842.Q9 7.QJ8753.KJ3.A75 AQJ864.K4.75.643 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "S"]
+1N Pass 4H Pass
+Pass Pass
+[Play "E"]
+D6 DQ DK D5
+HA H6 H3 H4
+H2 H9 HQ HK
+S2 S5 S7 SA
+S3 S9 H5 SQ
+C2 HT HJ S6
+C8 D2 H8 S4
+CT D4 H7 S8
+D9 D8 DJ D7
+DA DT D3 SJ
+CK C9 C5 C3
+CJ CQ CA C4
+ST SK C7 C6
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T4.J7.KT9653.A84 J8.Q942.Q74.Q652 Q97652.T85.KT73.AK3 AK63.AJ82.J9."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "W"]
+Pass Pass 2N Pass
+3C Pass 3D Pass
+3S Pass 4H Pass
+Pass Pass
+[Play "S"]
+ST SJ SQ SA
+H7 H2 H5 HA
+HJ H4 H8 HK
+D6 HQ HT H3
+D5 D4 S5 DA
+D9 DQ S2 D2
+CA C2 C3 CJ
+S4 S8 S9 SK
+D3 D7 S6 S3
+DT H9 S7 D8
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T4.J7.KT9653.A84 J8.Q942.Q74.Q652 Q97652.T85.KT73.AK3 AK63.AJ82.J9."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H 1S X Pass
+2D Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T932.Q54.KJ85.A3 Q85.6.T7.KQJT872 AKJ6.98732.943.4 74.AKJT.AQ62.965 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "N"]
+Pass 1D Pass 3C
+Pass 3H Pass 3S
+X 5C Pass Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T932.Q54.KJ85.A3 Q85.6.T7.KQJT872 AKJ6.98732.943.4 74.AKJT.AQ62.965 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "N"]
+Pass 1C Pass 2S
+Pass 3C Pass 5C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q6.KQ2.A974.AT93 AT9842.AT9.83.74 J75.8643.JT2.J85 K3.J75.KQ65.KQ62 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "E"]
+1D 1N 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q6.KQ2.A974.AT93 AT9842.AT9.83.74 J75.8643.JT2.J85 K3.J75.KQ65.KQ62 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "E"]
+1N X 2H Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K.AKJ643.752.JT6 A74.T82.83.87542 JT8653.J64.AK93.Q92 Q975.AKQT9.Q."]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "S"]
+1H Pass 1N 2D
+Pass Pass X Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K.AKJ643.752.JT6 A74.T82.83.87542 JT8653.J64.AK93.Q92 Q975.AKQT9.Q."]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "S"]
+1H Pass 1S 2D
+2H Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olona Bridge Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bakkeren"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK96.84.KJ3.QT94 QT.3.A8542.AJ852 J5.QJT9652.9.K73 87432.AK7.QT76.6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM ORANGE"]
+[Auction "W"]
+1D 3H X Pass
+4C Pass 4D Pass
+Pass Pass
+[Play "N"]
+*
+
+

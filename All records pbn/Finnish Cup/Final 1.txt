@@ -1,0 +1,937 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A98753.K4.K74.J4 QJ6.T532.AQT962.T4 Q98.853.Q8762. K2.AJ76.J.AKT953 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "N"]
+Pass 1C 1S 2C
+Pass 3C Pass 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+SA S6 S4 S2
+S9 SJ ST SK
+C4 D2 C6 CA
+CJ D6 C2 CK
+D4 DA D3 DJ
+S3 SQ H9 HJ
+HK D9 C7 C3
+H4 H2 H8 HA
+S5 H3 C8 C5
+D7 DT D5 H6
+CQ CT S7 H5
+DK DQ D8 H7
+S8 HT HQ C9
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A98753.K4.K74.J4 QJ6.T532.AQT962.T4 Q98.853.Q8762. K2.AJ76.J.AKT953 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "N"]
+Pass 1C 1S X
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+SA S6 S4 S2
+S9 SJ ST SK
+C4 D2 C7 CA
+CJ D6 C2 CK
+D4 DA D5 DJ
+D7 D9 D8 H6
+S8 H2 C6 C3
+DK DT D3 H7
+HK DQ C8 C5
+H4 H3 H8 HJ
+S3 H5 CQ C9
+S5 SQ H9 HA
+HQ CT S7 HT
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ.AJ2.T965.QT94 JT63.Q43.K74.A83 A54.K9876.Q82.72 9872.T5.AJ3.KJ65 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1N Pass Pass
+X Pass 2S Pass
+Pass Pass
+[Play "N"]
+C9 CA C7 C5
+SQ S3 S4 S9
+H2 H3 HK H5
+C4 C3 C2 CK
+SK S6 S5 S2
+CQ C8 H9 C6
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ.AJ2.T965.QT94 JT63.Q43.K74.A83 A54.K9876.Q82.72 9872.T5.AJ3.KJ65 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "E"]
+Pass 1N an 12
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "W"]
+SK SJ S4 S9
+D5 DK D2 D3
+SQ S3 S5 S7
+D6 D7 D8 DJ
+CT CA C2 C5
+D9 D4 DQ DA
+C4 C3 C7 CK
+DT S6 SA S2
+H2 H3 HK H5
+HJ HQ H6 HT
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T6.AJT84.T92.T92 J987.Q752.63.QJ3 AQ3.K6.KJ5.K8754 K542.93.AQ874.A6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "S"]
+Pass Pass 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+C2 C3 C4 CA
+C9 CJ CK C6
+H4 H2 HK H3
+HT HQ H6 H9
+D2 D6 D5 DQ
+DT D3 DK DA
+D9 H5 DJ D8
+CT CQ C5 S5
+S6 S8 SQ SK
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T6.AJT84.T92.T92 J987.Q752.63.QJ3 AQ3.K6.KJ5.K8754 K542.93.AQ874.A6 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "S"]
+Pass Pass 1N an
+15 Pass Pass Pass
+[Play "E"]
+D2 D3 DJ D7
+H4 H2 HK H3
+HJ HQ H6 H9
+D9 D6 D5 DQ
+DT H5 DK DA
+H8 H7 S3 D8
+HT S8 C4 D4
+C2 C3 C5 CA
+C9 CJ CK C6
+CT CQ C7 S2
+S6 S7 SQ SK
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ3.JT62.Q54.T82 8.K7543.KT83.KJ4 Q976.A9.6.AQ9763 KT542.Q8.AJ972.5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "W"]
+1H an 4+  u
+ 8  c 2C X
+3C Pass Pass X
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+CT C4 CA C5
+SJ S8 S6 S2
+H6 H3 HA H8
+H2 H4 H9 HQ
+D4 D3 D6 DA
+D5 DT C3 D2
+DQ DK C6 D7
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ3.JT62.Q54.T82 8.K7543.KT83.KJ4 Q976.A9.6.AQ9763 KT542.Q8.AJ972.5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "W"]
+Pass 2C an (9
+Pass 2N Pass 3C
+Pass Pass Pass
+[Play "E"]
+S3 S8 S9 S4
+DQ DK D6 D7
+D4 D3 C3 D2
+C2 C4 CA C5
+SJ CJ S6 S5
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A94.KT5.Q9643.T6 QT76.A9.AT8.8532 K32.QJ73.KJ75.J4 J85.8642.2.AKQ97 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "N"]
+Pass 1H an 4+
+ 8  c Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+C6 C2 CJ CA
+S4 SQ SK S5
+CT C3 C4 CK
+S9 S6 S2 SJ
+SA S7 S3 S8
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A94.KT5.Q9643.T6 QT76.A9.AT8.8532 K32.QJ73.KJ75.J4 J85.8642.2.AKQ97 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "N"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T5.62.A85.AQJ653 KQ6.83.QJ97.KT94 A98.KJT974.T63.2 J7432.AQ5.K42.87 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "E"]
+1S an 4+  8
+ u  c 2C 2S
+an wi X 3S
+Pass Pass Pass
+[Play "S"]
+H6 H3 H7 HQ
+S5 SK SA S2
+CA C4 C2 C7
+CQ C9 S8 C8
+H2 H8 HK HA
+ST S6 S9 SJ
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T5.62.A85.AQJ653 KQ6.83.QJ97.KT94 A98.KJT974.T63.2 J7432.AQ5.K42.87 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "E"]
+Pass 2C an 10
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+S5 SQ SA S3
+CA C4 C2 C7
+CQ CK H4 C8
+ST SK S9 S2
+H2 H3 HJ HQ
+H6 H8 H7 HA
+C3 S6 S8 SJ
+D5 D7 H9 S7
+D8 D9 HK H5
+DA DJ D3 D4
+CJ C9 D6 S4
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT862.Q7.KT2.A83 73.AKT6.A65.KT95 Q954.85.J73.J762 AK.J9432.Q984.Q4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "S"]
+Pass 1N an 12
+Pass 2D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+S2 S3 S5 SK
+H7 HA H8 H2
+HQ HK H5 H4
+CA C5 C6 CQ
+S6 S7 S4 SA
+C3 CK C2 C4
+C8 CT C7 H3
+D2 DA D3 D4
+DK D5 D7 DQ
+DT D6 DJ D9
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT862.Q7.KT2.A83 73.AKT6.A65.KT95 Q954.85.J73.J762 AK.J9432.Q984.Q4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "S"]
+Pass 1H Pass 4H
+Pass Pass Pass
+[Play "N"]
+DT DA D3 D8
+H7 HK H5 H2
+HQ HA H8 H3
+DK D6 D7 D9
+CA C5 C2 C4
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K43.T753.AQ743.7 QT.AJ6.K852.K853 J876.K42.J9.AT92 A952.Q98.T6.QJ64 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "W"]
+1N an 12 Pass
+Pass Pass
+[Play "N"]
+SK ST S6 S2
+D4 D2 DJ D6
+DQ DK D9 DT
+C7 C3 C2 CQ
+S3 CK CA C4
+S4 C5 CT CJ
+H7 SQ S8 S5
+H3 C8 C9 C6
+HT HJ H2 H8
+H5 HA H4 H9
+D3 H6 HK HQ
+D7 D5 SJ SA
+DA D8 S7 S9
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K43.T753.AQ743.7 QT.AJ6.K852.K853 J876.K42.J9.AT92 A952.Q98.T6.QJ64 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "W"]
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "N"]
+SK ST S7 S2
+H5 H6 HK H8
+HT HA H4 H9
+C7 C3 C2 CQ
+D4 CK CA C4
+H3 HJ H2 HQ
+S3 SQ S6 S5
+S4 C5 C9 CJ
+D3 D2 S8 SA
+D7 DK D9 D6
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT865.QT7.KQ92.K AK42.J54.853.AT8 73.A986.T6.J7532 J9.K32.AJ74.Q964 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "N"]
+Pass Pass 1S Pass
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT865.QT7.KQ92.K AK42.J54.853.AT8 73.A986.T6.J7532 J9.K32.AJ74.Q964 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "N"]
+Pass Pass 1S an
+10 Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 82.QJ8.KQ76.AK85 AKQJ4.A32.J.J432 T973.KT5.T82.Q76 65.9764.A9543.T9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "E"]
+Pass 1N 2S an
+be Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 82.QJ8.KQ76.AK85 AKQJ4.A32.J.J432 T973.KT5.T82.Q76 65.9764.A9543.T9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "E"]
+Pass 1C an 15
+1S Pass Pass X
+XX 2C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J652.96543.A542.KQT984 J.AT8.J96.A73 AT.97532.T87. KQ872.KQJ64.KQ3."]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "S"]
+Pass 1C an 12
+Pass 1D an 0-
+Pass 1S an 4+
+ u  c Pass 2C
+an 4+ Pass 2S
+Pass 3H Pass 4D
+Pass 4H Pass 4S
+Pass 5C Pass 5D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J652.96543.A542.KQT984 J.AT8.J96.A73 AT.97532.T87. KQ872.KQJ64.KQ3."]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "S"]
+2D an 4- Pass
+2S 3D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQT532.6.85.QJ92 J86.AKT5.AJT3.74 A97.QJ983.42.A83 4.742.KQ976.KT65 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "W"]
+1N an 12 Pass
+Pass 2C an an
+Pass 2D X 2S
+Pass 4S Pass Pass
+5D X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQT532.6.85.QJ92 J86.AKT5.AJT3.74 A97.QJ983.42.A83 4.742.KQ976.KT65 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "W"]
+1H Pass 2H 2S
+Pass 3H Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT3.Q985.QT973.7 AJ7.A64.AJ98542.J97542 K642.T63..AQ86 T3.KJ852.KQ."]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "N"]
+Pass 1C an 12
+Pass 1D an GF
+Pass 1S an 4+
+ u  c Pass 1N
+an !c Pass 2C
+an ne Pass 3C
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT3.Q985.QT973.7 AJ7.A64.AJ98542.J97542 K642.T63..AQ86 T3.KJ852.KQ."]
+[Declarer "E"]
+[Contract "6"]
+[Result "9"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "N"]
+Pass 1D Pass 3C
+Pass 3S Pass 4D
+Pass 4N Pass 5C
+Pass 5H Pass 6D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Finnish Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Koistinen"]
+[North "Paganus"]
+[East "Bäckström"]
+[South "Järvinen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ.63.K653.KQ752 A7654.KJT75.A2.4 JT32.984.QT97.T8 98.AQ2.J84.AJ963 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Paganus"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sue"]
+[Auction "E"]
+Pass 1D 1S Pass
+2C Pass 2H Pass
+2S Pass Pass Pass
+Pass Pass
+[Play "N"]
+*
+
+

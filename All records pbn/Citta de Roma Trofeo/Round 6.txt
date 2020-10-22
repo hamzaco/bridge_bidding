@@ -1,0 +1,452 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 84.Q8.Q987.J9643 K.K73.AK64.AKT72 T975.AJ962.JT53. AQJ632.T54.2.Q85 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "N"]
+Pass 2S Pass 2N
+Pass 3C Pass 4S
+Pass Pass Pass
+[Play "S"]
+S4 SK S5 S2
+C3 C2 S7 C5
+D7 DA D3 D2
+D8 D4 D5 S3
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 84.Q8.Q987.J9643 K.K73.AK64.AKT72 T975.AJ962.JT53. AQJ632.T54.2.Q85 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "N"]
+Pass 2D Pass 2N
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "N"]
+D9 DA DJ D2
+S8 SK S5 S2
+C3 C2 S7 C5
+D7 D4 D5 S3
+S4 H3 S9 SA
+D8 D6 ST SQ
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 98.T53.J2.KT6432 KJ32.KJ74.843.J8 AQ754.AQ98.Q6.AQ T6.62.AKT975.975 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "E"]
+2D Pass 3D X
+Pass 4C Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 98.T53.J2.KT6432 KJ32.KJ74.843.J8 AQ754.AQ98.Q6.AQ T6.62.AKT975.975 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 1N Pass 2C
+Pass 2S Pass 3H
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 93.A85432.84.JT9 KT87.K9.AKQ3.A76 A654.T7.62.Q8532 QJ2.QJ6.JT975.K4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "S"]
+Pass 1D Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 93.A85432.84.JT9 KT87.K9.AKQ3.A76 A654.T7.62.Q8532 QJ2.QJ6.JT975.K4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKQ42.K2.JT4.J52 7.JT9.KQ9862.A63 983.654.53.KQT94 JT65.AQ873.A7.87 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "W"]
+2D Pass Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKQ42.K2.JT4.J52 7.JT9.KQ9862.A63 983.654.53.KQT94 JT65.AQ873.A7.87 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "W"]
+1D Pass 1H 1S
+Pass 2S X Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKQ.T9.872.T7653 6532.Q752.95.K94 JT84.AK843.A3.Q8 97.J6.KQJT64.AJ2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "N"]
+1H 2D X Pass
+2S Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKQ.T9.872.T7653 6532.Q752.95.K94 JT84.AK843.A3.Q8 97.J6.KQJT64.AJ2 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "N"]
+1H 2D Pass Pass
+X Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A987.J8.AJ5.J754 Q32.A4.K982.KQ82 64.KQ9652.743.T9 KJT5.T73.QT6.A63 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "E"]
+Pass Pass 1D 2H
+X Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A987.J8.AJ5.J754 Q32.A4.K982.KQ82 64.KQ9652.743.T9 KJT5.T73.QT6.A63 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "E"]
+Pass Pass 1D 3H
+X Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT72.AT2.A3.Q95 J3.K983.T97.J643 A9865.J6.654.AT8 4.Q754.KQJ82.K72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "S"]
+1S Pass 3D X
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT72.AT2.A3.Q95 J3.K983.T97.J643 A9865.J6.654.AT8 4.Q754.KQJ82.K72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "S"]
+1N Pass 2H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Versace"]
+[North "Paoluzi"]
+[East "Lauria"]
+[South "Saccavini"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJT9.J964.A83.T3 6532.3.742.KJ854 84.AQ7.KQJT.AQ72 AQ7.KT852.965.96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "FIGB 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "W"]
+Pass 2D Pass 3C
+X Pass Pass XX
+Pass 3H Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

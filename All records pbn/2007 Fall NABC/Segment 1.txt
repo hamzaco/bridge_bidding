@@ -1,0 +1,878 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ2.K8432.KJ.K98 K9743.A7.Q986.Q3 T865.96.AT75.J75 Q.QJT5.432.AT642 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "N"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJT8.AJ7.QJ2.986 K4.QT92.864.KT52 92.K653.AT95.Q73 Q7653.84.K73.AJ4 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJT8.AJ7.QJ2.986 K4.QT92.864.KT52 92.K653.AT95.Q73 Q7653.84.K73.AJ4 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "E"]
+Pass 1C Pass 1H
+1S X Pass 2C
+Pass Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T.A.AKJT632.KQ94 742.KT9875.974.8 AQJ8.J642.Q8.JT7 K9653.Q3.5.A6532 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "S"]
+2C Pass 2D Pass
+3D Pass 3S Pass
+3N Pass 6N X
+Pass Pass Pass
+[Play "S"]
+S7 S4 S5 C9
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T.A.AKJT632.KQ94 742.KT9875.974.8 AQJ8.J642.Q8.JT7 K9653.Q3.5.A6532 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "S"]
+1D Pass 1H 1S
+2C Pass 2N Pass
+4D Pass 4S Pass
+5D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A82.QJ3.652.KQJ6 K97654.KT82.KJ.3 J3.754.AQT4.9852 QT.A96.9873.AT74 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "W"]
+1S Pass 1N Pass
+2S Pass 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A82.QJ3.652.KQJ6 K97654.KT82.KJ.3 J3.754.AQT4.9852 QT.A96.9873.AT74 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "W"]
+1S Pass 1N Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+S2 C9 C9 CA
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 64.KT97.3.AT7432 T952.AQ843.AKT.9 KQJ8.Q9752.KQJ8.A73 J652.J864.65."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 1N Pass
+2C Pass Pass Pass
+[Play "N"]
+C2 C9 CJ C6
+S4 S2 SQ SA
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 64.KT97.3.AT7432 T952.AQ843.AKT.9 KQJ8.Q9752.KQJ8.A73 J652.J864.65."]
+[Declarer "N"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 1N Pass
+2C Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT3.6.J873.T832 9.KQJ73.AQ6.KQJ6 A742.AT54.542.94 Q865.982.KT9.A75 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "E"]
+Pass Pass 1C Pass
+2D Pass 2H Pass
+2S Pass 3C Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT3.6.J873.T832 9.KQJ73.AQ6.KQJ6 A742.AT54.542.94 Q865.982.KT9.A75 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "E"]
+Pass Pass 1H Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q.KJ5.AQ9863.K95 AK832.AT963.J4.6 T954.87.K7.AQJ73 J76.Q42.T52.T842 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "S"]
+1D 2D an MA
+3C Pass 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q.KJ5.AQ9863.K95 AK832.AT963.J4.6 T954.87.K7.AQJ73 J76.Q42.T52.T842 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "S"]
+1D 2D 2H an
+!C Pass 3H Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K83.A962.6.QJ832 T74.J7.KJT98.A96 Q96.KQ85.AQ73.K4 AJ52.T43.542.T75 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K83.A962.6.QJ832 T74.J7.KJT98.A96 Q96.KQ85.AQ73.K4 AJ52.T43.542.T75 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A94.43.832.AQJ85 T.J6.AKQ9765.KT2 652.AKQ82.4.9643 KQJ873.T975.JT.7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "N"]
+2H 2S Pass 3D
+Pass 3S Pass 5D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A94.43.832.AQJ85 T.J6.AKQ9765.KT2 652.AKQ82.4.9643 KQJ873.T975.JT.7 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "N"]
+2H Pass 3H 4D
+Pass 4S Pass 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A8.Q74.AJT.KQJ82 J94.KT9853.Q43.A T763.A2.986.T963 KQ52.J6.K752.754 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "E"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A8.Q74.AJT.KQJ82 J94.KT9853.Q43.A T763.A2.986.T963 KQ52.J6.K752.754 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "E"]
+Pass 1N 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKT76.95.T62.QT2 Q54.KQ4.AKQ5.954 832.AJ83.43.AK86 J9.T762.J987.J73 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKT76.95.T62.QT2 Q54.KQ4.AKQ5.954 832.AJ83.43.AK86 J9.T762.J987.J73 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J652.Q52.KQ.AT73 KQ93.K6.J98.9865 AT4.AJ74.A2.KQJ2 87.T983.T76543.4 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "W"]
+Pass 1C 2D X
+3D 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J652.Q52.KQ.AT73 KQ93.K6.J98.9865 AT4.AJ74.A2.KQJ2 87.T983.T76543.4 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "W"]
+Pass 2N Pass 3C
+Pass 3H Pass 4N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q73.A.963.KJ8762 JT92.J8754.AK.Q9 6.QT92.T8754.AT5 AK854.K63.QJ2.43 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "N"]
+Pass 1S 2C 4S
+5C Pass Pass X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q73.A.963.KJ8762 JT92.J8754.AK.Q9 6.QT92.T8754.AT5 AK854.K63.QJ2.43 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "N"]
+Pass 1S Pass 2N
+an J2 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QT7632.QT9.QT86.J54 J42.AJ75.K83.98 A83.K432.9652. AK.K765.9.AQJT74 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "E"]
+1C 2S X Pass
+3C Pass 3S Pass
+4H Pass 5C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QT7632.QT9.QT86.J54 J42.AJ75.K83.98 A83.K432.9652. AK.K765.9.AQJT74 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "E"]
+1C 2S Pass Pass
+X Pass 3S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT8.A854.876.943 9765432.Q.Q9.KJ8 AQJ.K96.KT42.T52 .JT732.AJ53.AQ76 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "S"]
+Pass Pass 1D 1H
+Pass 1S Pass 2C
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT8.A854.876.943 9765432.Q.Q9.KJ8 AQJ.K96.KT42.T52 .JT732.AJ53.AQ76 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "S"]
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Fall NABC"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "CLERKIN"]
+[North "LEVINE"]
+[East "CLERKIN"]
+[South "JABBOUR"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q3.7654.JT.AT843 9842.A3.AK752.96 AKT.KJT9.Q843.J7 J765.Q82.96.KQ52 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "HOLLMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LEVINE"]
+[Auction "W"]
+1D 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,335 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJT.52.AKQT543.8 A8.JT876.962.J93 973.AQ9.J7.KQ742 Q6542.K43.8.AT65 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "N"]
+1C Pass 1D an
+no  a  F Pass
+1N Pass 3D Pass
+3N Pass Pass Pass
+[Play "E"]
+ST SA S3 S4
+H2 HJ HQ HK
+H5 HT HA H4
+SJ S8 S7 S2
+D3 D6 DJ D8
+*
+
+
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K93.JT93.KQT72.8 T.AQ52.543.KT965 84.K87.AJ986.A43 AQJ7652.64.QJ72."]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "E"]
+1S Pass 1N 2D
+2S 3D Pass Pass
+3S Pass Pass Pass
+[Play "E"]
+DK D3 D6 S2
+S3 ST S4 S5
+C8 C5 C3 CQ
+D2 C9 CA C7
+S9 C6 C4 CJ
+HJ HQ HK H4
+H3 HA H8 H6
+D7 D4 D8 S6
+*
+
+
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A4.A73.K95.AQ742 Q52.J85.J86.KJ83 JT873.Q2.A2.T965 K96.KT964.QT743."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "S"]
+1N Pass 2H X
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KQ7.AKT3.KT43.T6 9865.82.Q9.KQ974 AJT42.64.8765.A2 3.QJ975.AJ2.J853 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1S Pass 1N
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 6.K987.J2.KQ9532 97542.J.AT983.T4 QT3.5432.Q74.J87 AKJ8.AQT6.K65.A6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "N"]
+Pass 2N Pass 3H
+Pass 4C Pass 4H
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT52.AT3.AT65.Q9 KJ963.QJ95.K3.K5 Q84.864.J974.432 7.K72.Q82.AJT876 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "E"]
+Pass 1D 1S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 76.T865.32.AQ942 A4.KJ7.AT87.8765 KQJT3.Q432.K65.T 9852.A9.QJ94.KJ3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "S"]
+Pass 1D 1S 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K.AT.T9762.KQT98 762.Q7.AQ3.AJ654 Q5.9843.KJ54.732 AJT9843.KJ652.8."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "W"]
+Pass Pass 1S 2N
+3C Pass 4H Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K52.86.AKQ93.K53 963.T95.J6.JT874 AQ7.KQJ.T87542.A JT84.A7432.Q962."]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "N"]
+1D 1H X Pass
+2D Pass 2H Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A.QT982.AKJT8.97 Q9853.KJ5.954.62 T742.63.73.KJT84 KJ6.A74.Q62.AQ53 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "E"]
+1N 2D an !D
+2H 2S Pass 2N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Mar del Plata"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Del Carril"]
+[North "Suarez"]
+[East "Gueglio"]
+[South "Marinescu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q52.32.KT832.KQT AKT76.AJT5.A974.J84 KQ8.A54.J863.93 9764.QJ976.52."]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Gutmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gueglio"]
+[Auction "S"]
+Pass 1S Pass Pass
+Pass
+[Play "N"]
+*
+
+

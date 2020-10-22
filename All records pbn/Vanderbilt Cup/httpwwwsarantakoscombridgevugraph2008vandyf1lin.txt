@@ -1,0 +1,934 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 987.A932.J753.A8 A64.JT6.6.QJ7643 Q2.Q754.KQT9.952 KJT53.K8.A842.KT "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "N"]
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "S"]
+D5 D6 D9 DA
+D3 S4 DT D4
+C8 C3 C5 CK
+D7 S6 DQ D2
+CA C4 C9 CT
+S7 SA S2 S5
+S8 CQ C2 D8
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 987.A932.J753.A8 A64.JT6.6.QJ7643 Q2.Q754.KQT9.952 KJT53.K8.A842.KT "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "N"]
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "S"]
+CA C3 C9 CK
+HA H6 H7 H8
+H2 HJ HQ HK
+C8 C4 C5 CT
+S7 S4 S2 SK
+S8 SA SQ S3
+H3 HT H4 D2
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.AK62.KJ86.T432 86542.Q94.AKQ97.K73 JT873.93.J65.QJT9 5.AQT7542.8."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "E"]
+1D Pass 2C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.AK62.KJ86.T432 86542.Q94.AKQ97.K73 JT873.93.J65.QJT9 5.AQT7542.8."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "E"]
+1D Pass 1S Pass
+2S X 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 765.964.KT.KJ962 QJ32.83.J762.QT5 K9.AT7.543.A8743 AT84.KQJ52.AQ98."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "S"]
+Pass Pass 1C X
+2C Pass 3C X
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 765.964.KT.KJ962 QJ32.83.J762.QT5 K9.AT7.543.A8743 AT84.KQJ52.AQ98."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "S"]
+Pass Pass 1N 2C
+3C 3S Pass 4C
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K72.QJT72.T943.9 J8.9654.AK86.A65 AQT9.8.QJ5.KT873 6543.AK3.72.QJ42 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "W"]
+1C Pass 1S Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K72.QJT72.T943.9 J8.9654.AK86.A65 AQT9.8.QJ5.KT873 6543.AK3.72.QJ42 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "W"]
+1C 1S X 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQJ.T.AJ9853.KJ8 T92.Q9875.Q7.742 A87543.A6.2.AQ95 6.KJ432.KT64.T63 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "N"]
+1S Pass 2C Pass
+3D an ma Pass
+3H Pass 3N an
+62 Pass 4C an
+XX Pass 4D Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQJ.T.AJ9853.KJ8 T92.Q9875.Q7.742 A87543.A6.2.AQ95 6.KJ432.KT64.T63 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "N"]
+1S Pass 2D Pass
+2S Pass 4H Pass
+4N Pass 5S Pass
+6C Pass 7S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K875.Q2.943.AQJ2 AQJ64.J7.A865.95 93.AKT4.QJ7.KT84 T2.98653.KT2.763 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "E"]
+Pass 1C 1S X
+Pass 1N Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K875.Q2.943.AQJ2 AQJ64.J7.A865.95 93.AKT4.QJ7.KT84 T2.98653.KT2.763 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT3.986.A754.KT5 K9862.K4.Q8.QJ63 Q754.Q75.K932.98 J.AJT32.JT6.A742 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 1S Pass 1N
+Pass 2C Pass 2D
+an mi Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT3.986.A754.KT5 K9862.K4.Q8.QJ63 Q754.Q75.K932.98 J.AJT32.JT6.A742 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "S"]
+1C 1S Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJT8.Q9.K8762.62 7532.AT8654.94.Q A9.K732.Q.AKJT93 K64.J.AJT53.8754 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "W"]
+Pass 1C 1D 1H
+an sP 2H 3C
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJT8.Q9.K8762.62 7532.AT8654.94.Q A9.K732.Q.AKJT93 K64.J.AJT53.8754 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "W"]
+Pass 1C 1D Pass
+1H 2C Pass 2H
+Pass 4H Pass 5C
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q54.AJ8.KT82.972 72.K63.AQ9643.AK AT63.QT9.7.Q8653 KJ98.7542.J5.JT4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S an =1 Pass
+Pass X Pass 1N
+Pass 2N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q54.AJ8.KT82.972 72.K63.AQ9643.AK AT63.QT9.7.Q8653 KJ98.7542.J5.JT4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "N"]
+Pass Pass Pass 1D
+X Pass 1N Pass
+2C Pass Pass 2D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9.AT764.AQ73.842 J654.9852.98.KJ7 KQ3.KQJ3.K54.A95 AT872.JT62.QT63."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "E"]
+Pass Pass Pass 1C
+1S 2D an ht
+3S 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9.AT764.AQ73.842 J654.9852.98.KJ7 KQ3.KQJ3.K54.A95 AT872.JT62.QT63."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2D Pass 2H
+Pass 2S Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJT7.53.KJT43.K2 Q843.JT8.AQ7.QJT 5.Q942.652.97543 A962.AK76.98.A86 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "S"]
+Pass 1C Pass 1H
+X XX 2D 3D
+X 3H Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJT7.53.KJT43.K2 Q843.JT8.AQ7.QJT 5.Q942.652.97543 A962.AK76.98.A86 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "S"]
+1D Pass 1H X
+Pass 2D Pass 2H
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T3.73.QT7.KJT954 A986.AKJ4.4.Q872 QJ75.Q985.982.A6 K42.T62.AKJ653.3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "W"]
+1C Pass 2D Pass
+2H Pass 2S Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T3.73.QT7.KJT954 A986.AKJ4.4.Q872 QJ75.Q985.982.A6 K42.T62.AKJ653.3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "W"]
+1C Pass 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 74.K9875.AK6.KJT KQ92.J32.82.AQ74 AT83.AQT.JT54.52 J65.64.Q973.9863 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "N"]
+1C Pass 1S X
+XX Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 74.K9875.AK6.KJT KQ92.J32.82.AQ74 AT83.AQT.JT54.52 J65.64.Q973.9863 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 2D Pass
+2H Pass 2N Pass
+3D Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T3.KT54.K5.T9875 KJ5.AQJ82.A43.AQ AQ984.97.Q62.643 762.63.JT987.KJ2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "E"]
+Pass Pass 1C 1S
+Pass Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T3.KT54.K5.T9875 KJ5.AQJ82.A43.AQ AQ984.97.Q62.643 762.63.JT987.KJ2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "E"]
+Pass Pass 1H 1S
+Pass Pass 1N Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 5.KQJ763.T8632.5 K63.A9.A5.QT9863 982.T82.KJ4.KJ72 AQJT74.54.Q97.A4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "S"]
+2H 3C Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 5.KQJ763.T8632.5 K63.A9.A5.QT9863 982.T82.KJ4.KJ72 AQJT74.54.Q97.A4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "S"]
+2D 3C Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Gierulski"]
+[North "Jansma"]
+[East "Skrzypczak"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q764.AKQ2.T5.A85 AK98.986.J84.643 532.JT75.Q3.KJ72 JT.43.AK9762.QT9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Rubin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Poland"]
+[Auction "W"]
+Pass Pass 1D X
+1S X! Pass 2H
+3D Pass Pass Pass
+[Play "S"]
+*
+
+

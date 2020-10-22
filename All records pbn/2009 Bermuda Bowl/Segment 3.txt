@@ -1,0 +1,926 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 8.KQ83.K87632.Q6 K732.952.Q54.AK9 AT964.764.AJ.843 QJ5.AJT.T9.JT752 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2D Pass
+3D Pass Pass Pass
+[Play "W"]
+C6 CA C3 C7
+CQ CK C4 C2
+D2 C9 C8 CT
+D3 D4 DJ D9
+D6 D5 DA DT
+S8 S2 SA S5
+HK H2 H4 HT
+DK DQ S6 CJ
+H3 H5 H7 HJ
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 8.KQ83.K87632.Q6 K732.952.Q54.AK9 AT964.764.AJ.843 QJ5.AJT.T9.JT752 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2D Pass
+Pass X Pass 2H
+3D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT.Q83.QJT852.63 9.A764.4.AKJT952 KJ8752.T95.K96.8 Q643.KJ2.A73.Q74 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "E"]
+Pass Pass 1C 1S
+1N 2D 2H 3D
+4D Pass 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT.Q83.QJT852.63 9.A764.4.AKJT952 KJ8752.T95.K96.8 Q643.KJ2.A73.Q74 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "E"]
+1C an ca 1D
+2C an na  F
+2S Pass Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ6.AJT6.KT82.K7 T93.K987.AQ953.J A75.5.J76.QT9865 J842.Q432.4.A432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "S"]
+1N Pass 2S Pass
+2N Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ6.AJT6.KT82.K7 T93.K987.AQ953.J A75.5.J76.QT9865 J842.Q432.4.A432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "S"]
+1N an 14 Pass
+2S an si Pass
+3C an ma Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T8753.76.A42.JT9 Q6.AQJ.QJ93.K543 K942.KT842.T5.Q2 AJ.953.K876.A876 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T8753.76.A42.JT9 Q6.AQJ.QJ93.K543 K942.KT842.T5.Q2 AJ.953.K876.A876 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "W"]
+1N Pass 2C Pass
+2D an 4! Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T654.AK872.Q5.84 K83.JT.JT987.KJ9 Q7.6543.K63.AT76 AJ92.Q9.A42.Q532 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "N"]
+Pass 1C 1H 2C
+2N Pass 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T654.AK872.Q5.84 K83.JT.JT987.KJ9 Q7.6543.K63.AT76 AJ92.Q9.A42.Q532 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "N"]
+Pass 1C an co
+1H 1S an wi
+ t 3D an mi
+Pass 3H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q2.K762.J986.T75 J.AQ5.K753.J9632 KT983.T9843.Q.KQ A7654.J.AT42.A84 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "E"]
+1S Pass 1N Pass
+2D Pass 2N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q2.K762.J986.T75 J.AQ5.K753.J9632 KT983.T9843.Q.KQ A7654.J.AT42.A84 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "E"]
+1S Pass 1N Pass
+2D Pass 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K65.AKT4.A9432.9 T842.862.Q85.642 AJ3.J.KJT76.KJ87 Q97.Q9753.AQT53."]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "S"]
+1D Pass 2C Pass
+2H Pass 2N Pass
+3C Pass 3D Pass
+3N Pass 4D Pass
+4H Pass 4S Pass
+4N Pass 5S Pass
+6D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K65.AKT4.A9432.9 T842.862.Q85.642 AJ3.J.KJT76.KJ87 Q97.Q9753.AQT53."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "S"]
+1D an co Pass
+2D an F1 2H
+4H an RK Pass
+5C an 2  X
+6D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ7643.AK7.642.4 952.Q93.AQ9.KT92 T.J4.JT875.AJ865 AK8.T8652.K3.Q73 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "W"]
+Pass Pass 1H 1S
+2S Pass 3H Pass
+Pass 3N X 4D
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ7643.AK7.642.4 952.Q93.AQ9.KT92 T.J4.JT875.AJ865 AK8.T8652.K3.Q73 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "W"]
+Pass Pass 1H 1S
+2N an in Pass
+3H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ98.T72.T5.Q987 J6.A.QJ987.KJT43 2.KQJ8.A6432.A62 KT7543.96543.K.5 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "N"]
+1D 1S 1N 2C
+X 2H Pass 2S
+Pass Pass X Pass
+2N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ98.T72.T5.Q987 J6.A.QJ987.KJT43 2.KQJ8.A6432.A62 KT7543.96543.K.5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "N"]
+1D an co 1S
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J3.AT82.KQ72.KT9 Q75.74.AJ53.J763 KT62.J.864.AQ852 A984.KQ9653.T9.4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "E"]
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J3.AT82.KQ72.KT9 Q75.74.AJ53.J763 KT62.J.864.AQ852 A984.KQ9653.T9.4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "E"]
+1H Pass 1N Pass
+2H Pass Pass X
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q95.AJ754.A5.T42 J84.98.T32.KJ985 AKT3.632.J94.Q63 762.KQT.KQ876.A7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "S"]
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q95.AJ754.A5.T42 J84.98.T32.KJ985 AKT3.632.J94.Q63 762.KQT.KQ876.A7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "S"]
+1H Pass 2H an
+co Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK97654.Q5.T862.QJ KJT832.A5.K93.T82 KQ97.QJT752..3 A9764.J43.A864."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "W"]
+1H 2C 3C 3S
+4H Pass Pass X
+Pass 4S 5H X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK97654.Q5.T862.QJ KJT832.A5.K93.T82 KQ97.QJT752..3 A9764.J43.A864."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "W"]
+1H Pass 3D an
+GF  !  u 3S
+4H 4S 5H 5S
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 872.A9763.87.J94 QJ643.8.QJ64.A65 95.T54.9532.KQ32 AKT.KQJ2.AKT.T87 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "N"]
+Pass 2N Pass 3H
+Pass 3S Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 872.A9763.87.J94 QJ643.8.QJ64.A65 95.T54.9532.KQ32 AKT.KQJ2.AKT.T87 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "N"]
+Pass 2N Pass 3H
+Pass 3S Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK.QT.K75.K76543 JT962.J984.AT9.J Q854.K73.82.AQ98 73.A652.QJ643.T2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 2H
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK.QT.K75.K76543 JT962.J984.AT9.J Q854.K73.82.AQ98 73.A652.QJ643.T2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "E"]
+Pass 1N Pass 2N
+an as Pass 3C
+an no Pass 3H
+an 4! Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 842.QJ.KJT62.KJ9 QJ96.KT87.73.Q83 AK75.64.Q984.AT5 T3.A9532.A5.7642 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "S"]
+Pass Pass 1D 1H
+3C 3D Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 842.QJ.KJT62.KJ9 QJ96.KT87.73.Q83 AK75.64.Q984.AT5 T3.A9532.A5.7642 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "S"]
+1D an co Pass
+1S Pass 1N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Bermuda Bowl"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "MAHMOOD Zi"]
+[North "DUBOIN Gio"]
+[East "HAMMAN Bob"]
+[South "SEMENTA An"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJ8.853.A8532.Q2 AT93.AJ64.KJ.K94 K7.KT2.QT.JT8753 6542.Q97.9764.A6 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "ITALY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA 2"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+

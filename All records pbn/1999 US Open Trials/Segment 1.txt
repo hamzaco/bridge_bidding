@@ -1,0 +1,888 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T4.Q843.AQ54.KJ9 J8732.75.J96.QT3 Q65.K92.872.7654 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2N Pass 3H
+Pass 3S Pass Pass
+Pass
+[Play "N"]
+DQ D6 D2 D3
+CJ CQ C7 C2
+HQ H5 H2 HT
+CK C3 C4 CA
+S4 S2 S6 SA
+ST S3 S5 SK
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T4.Q843.AQ54.KJ9 J8732.75.J96.QT3 Q65.K92.872.7654 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1H Pass 1S
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+CK C3 C7 C8
+CJ CT C4 CA
+S4 S3 S6 SA
+ST S2 S5 SK
+C9 CQ C5 C2
+DQ DJ D8 D3
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.T985.KQT6.KJ97 986.A43.AJ43.Q32 QT3.KQJ6.987.AT6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "E"]
+2S X 3S 4H
+Pass Pass Pass
+[Play "E"]
+SA S6 S3 S7
+H5 H3 HQ H2
+H8 S9 ST S2
+C7 C2 CA C4
+H9 S8 SQ SK
+DK D4 D8 D5
+HT HA H6 H7
+D6 H4 HK S4
+C9 CQ CT C8
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.T985.KQT6.KJ97 986.A43.AJ43.Q32 QT3.KQJ6.987.AT6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "E"]
+2S X 3S 4H
+Pass Pass Pass
+[Play "E"]
+SA S9 S3 S7
+HT H3 H6 H2
+H5 HA HJ H7
+H8 H4 HK S2
+D6 DJ D9 D5
+H9 S8 ST SJ
+C7 C2 CA C4
+C9 CQ CT C8
+DT DA D8 D2
+CJ S6 SQ SK
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J6.KJ2.T.AJT8754 973.A9.KQ9875.62 T82.T875.632.KQ9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "S"]
+1C 1D Pass 2C
+X 2D 2H 2S
+Pass 3S Pass 4C
+Pass 4D Pass 4S
+Pass Pass Pass
+[Play "S"]
+H2 H9 HT HQ
+S6 S3 S2 SA
+SJ S7 S8 SK
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J6.KJ2.T.AJT8754 973.A9.KQ9875.62 T82.T875.632.KQ9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "S"]
+1C 1D Pass 2C
+Pass 2D Pass 2S
+Pass 3S Pass 4C
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+H2 H9 HT HQ
+S6 S3 S2 SA
+SJ S7 S8 SK
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 4.AJ72.AQ8.QJ843 AK8.953.KJ763.65 QT753.KQT6.T5.K2 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "W"]
+Pass Pass Pass 1C
+X XX 1S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 4.AJ72.AQ8.QJ843 AK8.953.KJ763.65 QT753.KQT6.T5.K2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "W"]
+1D 1S Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ4.64.974.AK832 72.873.AQT832.T6 QT85.AKT.KJ65.94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "N"]
+1D 1H 2C 2H
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ4.64.974.AK832 72.873.AQT832.T6 QT85.AKT.KJ65.94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "N"]
+1N 2C 2S 3D
+X XX Pass 3H
+Pass Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 74.KQ96.J54.KJT9 K85.J742.Q97.753 AT92.A5.63.A8642 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "E"]
+1D Pass 1H X
+XX 2C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 74.KQ96.J54.KJT9 K85.J742.Q97.753 AT92.A5.63.A8642 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "E"]
+1D Pass 1H X
+Pass 2C Pass Pass
+2D 3C 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T65.QJ5.K73.AK64 KQJ43.AT642.T5.2 972.873.QJ64.QJ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "S"]
+1C 2C Pass 3C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T65.QJ5.K73.AK64 KQJ43.AT642.T5.2 972.873.QJ64.QJ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "S"]
+1N 2C Pass 2D
+Pass 2S Pass 2N
+Pass 3H Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K843.A95.K874.76 QJT7.T6.3.AKJT32 A652.43.T965.984 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "W"]
+1C Pass 2H Pass
+3C Pass 3D Pass
+3H Pass 3S Pass
+3N Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K843.A95.K874.76 QJT7.T6.3.AKJT32 A652.43.T965.984 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "W"]
+2C Pass 3H Pass
+4H Pass 4N Pass
+5C Pass 5H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 42.94.AQT962.J63 K9865.AKT82.5.T5 AQ7.Q53.K74.A874 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "N"]
+1N Pass 2D Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 42.94.AQT962.J63 K9865.AKT82.5.T5 AQ7.Q53.K74.A874 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "N"]
+1C Pass 1D X
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQJ832.QT3.64.T8 T.K9876.J83.A974 97.J2.QT952.KQJ3 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "E"]
+1C 1S X Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQJ832.QT3.64.T8 T.K9876.J83.A974 97.J2.QT952.KQJ3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "E"]
+1D 2S X Pass
+2N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A72.T93.A765.986 T983.K.Q32.AQT42 Q6.QJ84.KJT4.J53 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 1S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A72.T93.A765.986 T983.K.Q32.AQT42 Q6.QJ84.KJT4.J53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A95.AT3.K2.T9875 KQ6.84.AQJ87.J32 T732.Q92.643.AK6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "W"]
+1D Pass 1H Pass
+1N Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A95.AT3.K2.T9875 KQ6.84.AQJ87.J32 T732.Q92.643.AK6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "W"]
+1D Pass 1H Pass
+1N Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT6.K83.Q87.QT64 7.AT7.K9653.K985 Q5.Q954.AT42.A72 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "N"]
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT6.K83.Q87.QT64 7.AT7.K9653.K985 Q5.Q954.AT42.A72 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "N"]
+Pass 2S Pass Pass
+X Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ9652.Q93.975.Q 7.AJT2.AT43.9652 K8.K4.KQ86.AT874 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "E"]
+Pass 2S Pass 2N
+Pass 3H Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ9652.Q93.975.Q 7.AJT2.AT43.9652 K8.K4.KQ86.AT874 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "E"]
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "1999 US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Wolfson"]
+[North "Vogel"]
+[East "Silverman"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 965.K654.6.KQJ72 QT3.Q983.Q95.T63 AJ42.2.AKJT72.95 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Goldman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfson"]
+[Auction "S"]
+Pass Pass 1D X
+1H Pass 1S Pass
+1N Pass 2D Pass
+Pass Pass
+[Play "E"]
+*
+
+

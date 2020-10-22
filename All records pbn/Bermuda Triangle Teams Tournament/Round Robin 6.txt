@@ -1,0 +1,455 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "41"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A4.843.J8.AQ6543 J765.9.AKT94.T87 QT8.AJT52.72.K92 K932.KQ76.Q653.J "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "N"]
+Pass Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+H3 H9 H2 HK
+H4 D9 HJ H6
+C3 C7 CK CJ
+CA CT C2 D5
+CQ C8 C9 S2
+C5 S5 S8 S3
+C6 D4 D2 D3
+C4 DT D7 D6
+H8 S6 HA H7
+SA S7 ST S9
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "41"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A4.843.J8.AQ6543 J765.9.AKT94.T87 QT8.AJT52.72.K92 K932.KQ76.Q653.J "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "N"]
+Pass Pass 1C 1D
+1H X! 2C 2S
+3C 4S Pass Pass
+Pass
+[Play "N"]
+CA C8 C2 CJ
+DJ DA D2 D3
+H4 H9 HA H6
+D8 D9 D7 D5
+SA S6 S8 SK
+C5 C7 C9 S2
+H3 CT H2 HK
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "42"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q82.85.AJ32.K832 AT763.AQJ4.K7.J9 94.K9632.965.A74 KJ5.T7.QT84.QT65 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2H Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "42"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q82.85.AJ32.K832 AT763.AQJ4.K7.J9 94.K9632.965.A74 KJ5.T7.QT84.QT65 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "E"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "43"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T842.T653.KJ752.KJ96 AJ972.T8.KQ.A53 KQ8.Q64.AJ84. Q7.4.A93.T976532 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "S"]
+Pass 1H 1N 2C
+an no 2D 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "43"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T842.T653.KJ752.KJ96 AJ972.T8.KQ.A53 KQ8.Q64.AJ84. Q7.4.A93.T976532 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "S"]
+Pass 1H 1N 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "44"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 975.A3.J.KQT9875 KT.JT95.K976.A43 QJ8.Q864.QT852.6 A6432.K72.A43.J2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "W"]
+Pass Pass 1S 3C
+X Pass 3S Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "44"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 975.A3.J.KQT9875 KT.JT95.K976.A43 QJ8.Q864.QT852.6 A6432.K72.A43.J2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "W"]
+Pass Pass 1S 3C
+X Pass 3D Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "45"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT6.AT7.AJ84.QJ4 Q8.KQ2.Q75.AK763 K9532.8543.K.985 A74.J96.T9632.T2 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "N"]
+Pass Pass 1C an
+2+ Pass 1D Pass
+1H an 3+ Pass
+1S Pass 1N X
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "45"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT6.AT7.AJ84.QJ4 Q8.KQ2.Q75.AK763 K9532.8543.K.985 A74.J96.T9632.T2 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "N"]
+Pass Pass 1D 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ6.AJ9542.J764.Q4 K87.AK83.KQ86.A752 Q.T9.T97543. T983.T63.Q52.AJ2 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "E"]
+Pass 1H 1N 2C
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ6.AJ9542.J764.Q4 K87.AK83.KQ86.A752 Q.T9.T97543. T983.T63.Q52.AJ2 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "E"]
+Pass 1H 1N 2C
+X 2D X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K9742.J.Q76.9832 J65.Q95.KJT42.A5 A8.T7642.3.QJT64 QT3.AK83.A985.K7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K9742.J.Q76.9832 J65.Q95.KJT42.A5 A8.T7642.3.QJT64 QT3.AK83.A985.K7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "48"]
+[West "Parezanin"]
+[North "Brink"]
+[East "Duricic"]
+[South "Prooijen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 87.AJ52.JT3.9654 QT95.T763.942.QJ J63.9.AK8765.K83 AK42.KQ84.Q.AT72 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Serbia"]
+[Auction "W"]
+Pass 1D X 3D
+Pass 5D X Pass
+Pass Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,944 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 3.KJ6.QJ74.T9763 A94.T952.T983.54 QT7652.AQ84.A6.8 KJ8.73.K52.AKQJ2 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "N"]
+1S 1N Pass 2C
+Pass 2D Pass Pass
+Pass
+[Play "S"]
+CT C4 C8 CJ
+C3 C5 D6 CA
+S3 S9 S6 S8
+D4 D3 DA D2
+D7 S4 ST SJ
+H6 H2 HA H3
+DJ SA SQ SK
+HK H5 H4 H7
+HJ H9 H8 D5
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 3.KJ6.QJ74.T9763 A94.T952.T983.54 QT7652.AQ84.A6.8 KJ8.73.K52.AKQJ2 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "N"]
+1S 1N Pass Pass
+2H Pass Pass Pass
+[Play "E"]
+HJ H5 H4 H3
+S3 S4 S7 SJ
+H6 H9 HQ H7
+HK S9 S2 S8
+D4 D8 DA D2
+C3 H2 HA C2
+D7 D3 D6 DK
+C6 C4 C8 CA
+C7 C5 S5 CK
+C9 D9 S6 CQ
+CT HT ST CJ
+DJ DT SQ D5
+DQ SA H8 SK
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J32.KQ92.T74.T97 KQT87.A863.965.3 95.J74.AKQ8.AQ85 A64.T5.J32.KJ642 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "E"]
+Pass Pass 1S X
+2H an FX 2S
+X Pass 3H Pass
+Pass Pass
+[Play "W"]
+C9 C3 C5 CJ
+CT H3 C8 C6
+S2 SK S5 S4
+S3 S7 S9 SA
+C7 H6 CQ C2
+SJ SQ H4 S6
+H2 HA HJ H5
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J32.KQ92.T74.T97 KQT87.A863.965.3 95.J74.AKQ8.AQ85 A64.T5.J32.KJ642 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "E"]
+Pass Pass 1S X
+XX 2H Pass Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T9876.T75.KT9.97 A4.Q64.AQ6.KJT32 Q32.KJ9832.J832. KJ5.A.754.AQ8654 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "S"]
+Pass 1C 2H an
+we 3D an .
+Pass 4C Pass 4H
+Pass 4S Pass 4N
+Pass 6C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T9876.T75.KT9.97 A4.Q64.AQ6.KJT32 Q32.KJ9832.J832. KJ5.A.754.AQ8654 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "S"]
+Pass 1N 3H 6C
+6H 7C X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A85.JT63.AQT.QJ9 QJT6.K74.753.762 7432.A9852.94.85 K9.Q.KJ862.AKT43 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "W"]
+Pass Pass 1D X
+1S 2H 3C Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A85.JT63.AQT.QJ9 QJT6.K74.753.762 7432.A9852.94.85 K9.Q.KJ862.AKT43 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "W"]
+Pass Pass 1D X
+1S 2H 3C Pass
+3D Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT.T2.KT872.AK75 J8632.AKJ65.4.43 A4.984.A9.QJT962 Q975.Q73.QJ653.8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "N"]
+1C Pass 1S 2C
+Pass 2S 3N Pass
+Pass 4S X Pass
+4N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT.T2.KT872.AK75 J8632.AKJ65.4.43 A4.984.A9.QJT962 Q975.Q73.QJ653.8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "N"]
+1C Pass 1D 2C
+Pass 3S 3N Pass
+Pass 4S Pass Pass
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 98653.KQ9.K972.A Q7.AT86.A83.8632 A4.754.JT654.QJ7 KJT2.J32.Q.KT954 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2D Pass 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 98653.KQ9.K972.A Q7.AT86.A83.8632 A4.754.JT654.QJ7 KJT2.J32.Q.KT954 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2D Pass 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT.K8.AKJ9.A9632 AQ9762.A72.63.K5 J85.QJT4.T4.J874 43.9653.Q8752.QT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "S"]
+1C 2S Pass Pass
+X Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT.K8.AKJ9.A9632 AQ9762.A72.63.K5 J85.QJT4.T4.J874 43.9653.Q8752.QT "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "S"]
+1C 1S Pass Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J97.K9753.Q7.T53 T53.JT6.AJT9.Q72 Q62.Q4.K65432.J9 AK84.A82.8.AK864 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "W"]
+Pass Pass 1C Pass
+1D an . Pass
+1H an . Pass
+2D Pass 3C Pass
+3D Pass 3S Pass
+4C Pass 5C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J97.K9753.Q7.T53 T53.JT6.AJT9.Q72 Q62.Q4.K65432.J9 AK84.A82.8.AK864 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "W"]
+Pass 2D X Pass
+2H Pass 3C Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 72.T8764.J97.AQT J3.AKQ53.AT3.832 KQ954.92.Q8642.4 AT86.J.K5.KJ9765 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "8"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "N"]
+2S an we 3C
+Pass 3H Pass 3N
+Pass 4C Pass 4D
+Pass 4H Pass 4S
+Pass 4N Pass 5C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 72.T8764.J97.AQT J3.AKQ53.AT3.832 KQ954.92.Q8642.4 AT86.J.K5.KJ9765 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "N"]
+2S Pass Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT5.T96.KJ5.KJT2 A642.KJ82.7432.Q K9.Q54.T98.A9753 Q873.A73.AQ6.864 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "E"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT5.T96.KJ5.KJT2 A642.KJ82.7432.Q K9.Q54.T98.A9753 Q873.A73.AQ6.864 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "E"]
+1C Pass 1H Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ872.K.KJ86.J62 K54.76.T94.QT873 Q6.QT854.AQ752.5 T93.AJ932.3.AK94 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "S"]
+1S Pass 2H Pass
+2N Pass 3D Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ872.K.KJ86.J62 K54.76.T94.QT873 Q6.QT854.AQ752.5 T93.AJ932.3.AK94 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "S"]
+1S Pass 2D an
+!h Pass 2S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 75.QT863.A9.AQ73 J9.A2.T87653.K64 KT3.9754.KQ42.82 AQ8642.KJ.J.JT95 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "W"]
+Pass Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 75.QT863.A9.AQ73 J9.A2.T87653.K64 KT3.9754.KQ42.82 AQ8642.KJ.J.JT95 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "W"]
+Pass Pass 1S X
+2D Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q84.AKQ982.986.A 963.53.AQT75.QT5 A7.JT6.K42.J9762 KJT52.74.J3.K843 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "N"]
+Pass Pass 1H Pass
+2H 2S 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q84.AKQ982.986.A 963.53.AQT75.QT5 A7.JT6.K42.J9762 KJT52.74.J3.K843 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "N"]
+Pass Pass 1H Pass
+2H Pass 2S Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T8.AKQJ6.972.K54 Q76.52.QJ643.J63 J532.T974.5.9872 AK94.83.AKT8.AQT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "E"]
+1C 1H 1S an
+. 3H an ba
+Pass Pass X Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T8.AKQJ6.972.K54 Q76.52.QJ643.J63 J532.T974.5.9872 AK94.83.AKT8.AQT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "E"]
+2N Pass 3C Pass
+3D Pass 3H Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K9873.72.AKT82.3 A54.AQ8.9753.AJ9 QJ6.KT9653.J.874 T2.J4.Q64.KQT652 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "S"]
+1S Pass 2S 3C
+3S 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K9873.72.AKT82.3 A54.AQ8.9753.AJ9 QJ6.KT9653.J.874 T2.J4.Q64.KQT652 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "S"]
+1S X 3S 4C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Wijs"]
+[North "Herbst I."]
+[East "Muller"]
+[South "Herbst O."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KT852.A6.A42.QJ7 4.QJ4.QJ96.85432 Q963.T98753.73.T AJ7.K2.KT85.AK96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Herbst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ned White"]
+[Auction "W"]
+Pass Pass 1C 1S
+Pass 3S an we
+3N Pass Pass Pass
+[Play "S"]
+*
+
+

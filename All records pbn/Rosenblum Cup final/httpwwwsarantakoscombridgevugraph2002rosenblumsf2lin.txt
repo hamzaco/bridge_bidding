@@ -1,0 +1,949 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K86.A76.KJT.KJ93 Q.KQT9842.Q83.86 AT32.J.A72.AQT52 J9754.53.9654.74 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1h P 1s P
+1N 2h 3c P
+3h P 3s P
+4X P 4h P
+4N P 5h P
+5N P 6c P
+P P
+[Play "W"]
+HA H2 HJ H5
+H6 HK C5 H3
+C9 C6 C2 C4
+H7 HQ CQ S4
+CK C8 CT C7
+S6 SQ S2 S5
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K86.A76.KJT.KJ93 Q.KQT9842.Q83.86 AT32.J.A72.AQT52 J9754.53.9654.74 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "12"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1c P 2c 3h
+4h P 4s P
+4N P 5h P
+5N P 7c P
+P P
+[Play "E"]
+HA H2 HJ H5
+C3 C6 CA C4
+CJ C8 C2 C7
+H6 HQ CT H3
+S6 SQ SA S4
+SK H4 S2 S9
+S8 H8 S3 SJ
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ9.AQJ965.K.A52 542.T.AT983.KJ76 T83.K3.QJ754.T43 KQ76.8742.62.Q98 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+P 1c 1X P
+P 1h P 1N
+P 3N P P
+P
+[Play "E"]
+DK DA D5 D6
+C2 C6 C4 C8
+CA C7 C3 C9
+H5 HT HK H2
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ9.AQJ965.K.A52 542.T.AT983.KJ76 T83.K3.QJ754.T43 KQ76.8742.62.Q98 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+P 1h P 1N
+P 2c P 2h
+P 4h P P
+P
+[Play "W"]
+SA S2 S3 SQ
+DK DA D4 D2
+SJ S4 S8 SK
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K63.85.JT97.A976 975.AJT6.Q832.K2 AQT84.KQ93.AK5.4 J2.742.64.QJT853 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+P P 1c P
+1h P 1N P
+2c P 3c P
+4s P P P
+[Play "W"]
+S6 S5 S4 S2
+H5 H6 HK H2
+CA C2 C4 CQ
+H8 HA H3 H4
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K63.85.JT97.A976 975.AJT6.Q832.K2 AQT84.KQ93.AK5.4 J2.742.64.QJT853 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+P P 1s P
+2s P 3h P
+4s P P P
+[Play "E"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q76.T8732.9.KJ62 K95.A5.KT75.AQ94 J842.J96.AJ432.8 AT3.KQ4.Q86.T753 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1N P 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q76.T8732.9.KJ62 K95.A5.KT75.AQ94 J842.J96.AJ432.8 AT3.KQ4.Q86.T753 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1N P 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A876.T32.JT.J632 942.Q987.K96.Q98 T53.A6.AQ8542.K7 KQJ.KJ54.73.AT54 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1N P P P
+[Play "E"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A876.T32.JT.J632 942.Q987.K96.Q98 T53.A6.AQ8542.K7 KQJ.KJ54.73.AT54 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1X X P 1h
+2X 2h 3X P
+P P
+[Play "E"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T43.3.JT9743.J98 AQ.654.Q85.KT764 875.KT982.AK62.5 KJ962.AQJ7.AQ32."]
+[Declarer "W"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -640"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1s P 2c P
+2h P 2N P
+3c P P P
+[Play "N"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T43.3.JT9743.J98 AQ.654.Q85.KT764 875.KT982.AK62.5 KJ962.AQJ7.AQ32."]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1c P 1N 2h
+2s P 3c P
+4X P 4s P
+5X P 7c P
+P P
+[Play "S"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 43.AQT842.87.K97 AT9.965.KJT64.A4 Q652.K.AQ93.QT63 KJ87.J73.52.J852 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1h P 1s P
+2h P 2N P
+P P
+[Play "E"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 43.AQT842.87.K97 AT9.965.KJT64.A4 Q652.K.AQ93.QT63 KJ87.J73.52.J852 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+2h P P P
+[Play "W"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 654.T952.T982.T5 KQT93.K83.K3.986 J872.76.J75.KJ32 A.AQJ4.AQ64.AQ74 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1s P 2c P
+2X P 2h P
+2N P 3c P
+3s P 6N P
+P P
+[Play "N"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 654.T952.T982.T5 KQT93.K83.K3.986 J872.76.J75.KJ32 A.AQJ4.AQ64.AQ74 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1s P 2c P
+2X P 2h P
+2s P 2N P
+3c P 3h P
+3s P 4c P
+4h P 4N P
+5X P 5h P
+6c P 6N P
+P P
+[Play "S"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KT5.T76.KT6.Q653 976.Q52.Q97.AKT9 QJ32.AKJ4.J843.2 A84.983.A52.J874 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1X P 1N P
+P P
+[Play "W"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KT5.T76.KT6.Q653 976.Q52.Q97.AKT9 QJ32.AKJ4.J843.2 A84.983.A52.J874 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1X P 1N P
+P P
+[Play "W"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q96.JT9432.76.73 K73.65.T84.98542 42.AQ8.KQ953.AJ6 AJT85.K7.AJ2.KQT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1s P 2s X
+XX 3h P P
+3s P P P
+[Play "S"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q96.JT9432.76.73 K73.65.T84.98542 42.AQ8.KQ953.AJ6 AJT85.K7.AJ2.KQT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1c P 1X 1N
+X 2X P 2h
+2s P 3s P
+P P
+[Play "S"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q843.QJ6.T.AJT97 JT2.A8.AQ6432.42 976.KT75432.J.53 AK5.9.K9875.KQ86 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1X P 2h X
+3h 3N 4h X
+P P P
+[Play "E"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q843.QJ6.T.AJT97 JT2.A8.AQ6432.42 976.KT75432.J.53 AK5.9.K9875.KQ86 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+P 1X 3h 4h
+P 5X P P
+P
+[Play "N"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K5432.AT.A9842.9 A87.J9.Q3.QJ7654 QJ9.8732.T76.AT2 T6.KQ654.KJ5.K83 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1N P 2X P
+2h P P 2s
+P P X P
+3c P P P
+[Play "N"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K5432.AT.A9842.9 A87.J9.Q3.QJ7654 QJ9.8732.T76.AT2 T6.KQ654.KJ5.K83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+P P 1h 1s
+2c 2s 2N P
+3c P P 3X
+3h 3s P P
+P
+[Play "W"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 763.Q864.32.JT65 AQ92.753.K74.K32 K854.JT92.AJT9.4 JT.AK.Q865.AQ987 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+P 1N P 3N
+P P P
+[Play "S"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 763.Q864.32.JT65 AQ92.753.K74.K32 K854.JT92.AJT9.4 JT.AK.Q865.AQ987 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+P 1N P 2c
+P 2X P 3N
+P P P
+[Play "S"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ862.T62.Q63.93 K743.AQ8.AJ8.A85 AT95.54.9542.QT6 .KJ973.KT7.KJ742 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1h P 2c P
+2X P 2h P
+3h P 3s P
+3N P 4X P
+4h P 4s P
+5c P 5X P
+5s P 6h P
+P P
+[Play "S"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ862.T62.Q63.93 K743.AQ8.AJ8.A85 AT95.54.9542.QT6 .KJ973.KT7.KJ742 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1h P 2c P
+2X P 2h P
+3s P 4c P
+4X P 6h P
+P P
+[Play "S"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKQT83.T9.AJ7.K7 7.KJ82.T853.A964 62.A7653.94.8532 J954.Q4.KQ62.QJT "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1c P 1X P
+1N P 2X P
+2h P P P
+[Play "W"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKQT83.T9.AJ7.K7 7.KJ82.T853.A964 62.A7653.94.8532 J954.Q4.KQ62.QJT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1s P 1N P
+2c P 2s P
+3s P 4s P
+P X P P
+P
+[Play "W"]
+*
+
+
+[Event "Rosenblum Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Duboin"]
+[North "Nystrom"]
+[East "Bocchi"]
+[South "Stromberg"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AKT975.T.J75.Q65 J86.72.A3.KJT974 42.KJ94.KT62.832 Q3.AQ8653.Q984.A "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Fredin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+P P 1h 1s
+2c P 2h 2s
+P P P
+[Play "W"]
+*
+
+

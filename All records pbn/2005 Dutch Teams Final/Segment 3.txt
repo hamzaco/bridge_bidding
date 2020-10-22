@@ -1,0 +1,921 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9874.AJ86.AQ.K62 QJ652.KQ74.2.QJ7 A3.T32.J985.T943 KT.95.KT7643.A85 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+Pass 2C X 2D
+Pass Pass Pass
+[Play "N"]
+CK C7 CT C5
+C6 CQ C9 C8
+DA D2 D5 DK
+HA H7 HT H5
+C2 CJ C4 CA
+DQ S5 D9 D3
+S9 SJ SA SK
+S4 S2 S3 ST
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9874.AJ86.AQ.K62 QJ652.KQ74.2.QJ7 A3.T32.J985.T943 KT.95.KT7643.A85 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+Pass 2C X 2D
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+CK CJ CT C5
+HA H7 HT H5
+H6 HK H3 H9
+DQ D2 D5 DT
+HJ H4 H2 D3
+DA S2 D9 D4
+C6 C7 C9 CA
+S4 SQ SA ST
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ765.J9.Q854.QJ A82.KT63.7.AT942 Q4.852.AKJT932.K T93.AQ74.6.87653 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+Pass Pass 1C 2S
+Pass 2N Pass 3N
+X Pass Pass 4D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ765.J9.Q854.QJ A82.KT63.7.AT942 Q4.852.AKJT932.K T93.AQ74.6.87653 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+Pass Pass 1C 1D
+1H 1S 2H 3D
+3H 4C 4H Pass
+Pass 5D X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J2.63.K8732.K976 K83.AKT9874.J5.3 Q764.QJ5.64.Q854 AT95.2.AQT9.AJT2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+2C 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J2.63.K8732.K976 K83.AKT9874.J5.3 Q764.QJ5.64.Q854 AT95.2.AQT9.AJT2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A95.53.T543.Q984 83.Q976.AK86.AT3 KJ76.A2.J72.7652 QT42.KJT84.Q9.KJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+1D Pass 1H Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A95.53.T543.Q984 83.Q976.AK86.AT3 KJ76.A2.J72.7652 QT42.KJT84.Q9.KJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+1D Pass 1H Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q974.QT.6432.T64 AK62.532.J.A9873 3.AK974.AKT5.KQ5 JT85.J86.Q987.J2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+1H Pass Pass 1S
+X 3S Pass Pass
+X Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q974.QT.6432.T64 AK62.532.J.A9873 3.AK974.AKT5.KQ5 JT85.J86.Q987.J2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+1H Pass 1S 2C
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T763.AQ7.AK4.AT8 852.KT32.QJT8.96 AKQJ94.86.93.543 .J954.7652.KQJ72 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2N Pass 3S
+Pass 4C Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T763.AQ7.AK4.AT8 852.KT32.QJT8.96 AKQJ94.86.93.543 .J954.7652.KQJ72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+Pass 1N Pass 2H
+Pass 2N Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A92.9.AJ9763.843 KJT.A7653.Q84.52 854.KT84.T2.AK76 Q763.QJ2.K5.QJT9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A92.9.AJ9763.843 KJT.A7653.Q84.52 854.KT84.T2.AK76 Q763.QJ2.K5.QJT9 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+2C Pass 2D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT75.98.AK52.865 Q9.KT743.JT764.9 AK8432.QJ65.83.A 6.A2.Q9.KQJT7432 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+Pass 1S 4C 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT75.98.AK52.865 Q9.KT743.JT764.9 AK8432.QJ65.83.A 6.A2.Q9.KQJT7432 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+2H 2S 5C X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ.Q83.Q42.QJ763 A32.AJ9.KJ85.T42 T87.KT654.AT97.K K9654.72.63.A985 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+Pass Pass Pass 1D
+1H 1S 2H X!
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ.Q83.Q42.QJ763 A32.AJ9.KJ85.T42 T87.KT654.AT97.K K9654.72.63.A985 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+Pass Pass Pass 1D
+1H 1S 2H 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 8654.32.976.QT72 T972.Q.AK853.K93 AKJ3.A754.QJ2.A6 Q.KJT986.T4.J854 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+2D Pass 2H X
+Pass 2S Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 8654.32.976.QT72 T972.Q.AK853.K93 AKJ3.A754.QJ2.A6 Q.KJT986.T4.J854 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+2D Pass 2H X
+Pass 2S Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8762.A9732.8.A6 KJ3.K5.AT752.Q93 A954.QJ4.K63.K54 Q.T86.QJ94.JT872 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+Pass 1D Pass 3D
+4D Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8762.A9732.8.A6 KJ3.K5.AT752.Q93 A954.QJ4.K63.K54 Q.T86.QJ94.JT872 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+Pass 1D Pass 2D
+3D Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKQ6.T86.QJ53.T8 T3.J742.AT6.K763 J987.KQ9.K2.9542 542.A53.9874.AQJ "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+Pass Pass 1C X
+1H 1S Pass Pass
+2C Pass 2H 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKQ6.T86.QJ53.T8 T3.J742.AT6.K763 J987.KQ9.K2.9542 542.A53.9874.AQJ "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J5.984.A42.AKQT9 AK7632.AT.QJ5.J8 QT8.KQJ76.983.64 94.532.KT76.7532 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+Pass Pass 1N 2D
+3D Pass 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J5.984.A42.AKQT9 AK7632.AT.QJ5.J8 QT8.KQJ76.983.64 94.532.KT76.7532 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+2D Pass 4H 4S
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J73.A86.J875.T32 652.K732.943.Q98 AQT.J95.AKQ6.A64 K984.QT4.T2.KJ75 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1D Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J73.A86.J875.T32 652.K732.943.Q98 AQT.J95.AKQ6.A64 K984.QT4.T2.KJ75 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+Pass Pass Pass 2C
+Pass 2D Pass 2N
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K7.JT8432.K54.QT T852.A97.862.J96 A63.K.AQT97.K732 QJ94.Q65.J3.A854 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+2D Pass 4C Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K7.JT8432.K54.QT T852.A97.862.J96 A63.K.AQT97.K732 QJ94.Q65.J3.A854 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 2C Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Nab"]
+[North "Schollaar"]
+[East "Paulissen"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A6.K8752.KQJT97.QJ QJT942.Q643.A.K942 8.AJT9.8632.T8753 AK7653.54."]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "De Lombard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+1H Pass 4D 4N
+Pass 5D 5H X!
+Pass 6D Pass Pass
+6H Pass Pass Pass
+[Play "N"]
+*
+
+

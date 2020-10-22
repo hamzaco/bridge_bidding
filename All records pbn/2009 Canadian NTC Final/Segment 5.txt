@@ -1,0 +1,932 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ9.Q32.AK7.KQJ5 8.AKJT7.T9632.A4 AK74.5.QJ8.98762 T6532.9864.54.T3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+Pass Pass 1C 1H
+1S 3H 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+H2 HT H5 H9
+H3 HK S4 H6
+CK C4 C6 C3
+HQ H7 S7 H4
+CQ CA C2 CT
+S9 S8 SK S2
+DA D2 D8 D4
+SJ D3 SA S3
+D7 D6 DQ D5
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ9.Q32.AK7.KQJ5 8.AKJT7.T9632.A4 AK74.5.QJ8.98762 T6532.9864.54.T3 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+Pass Pass 1C 1H
+X 3H X 4H
+5C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T5.A2.KJ6.QJ9542 J4.Q83.A9872.KT8 K9876.9754.Q3.A6 AQ32.KJT6.T54.73 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T5.A2.KJ6.QJ9542 J4.Q83.A9872.KT8 K9876.9754.Q3.A6 AQ32.KJT6.T54.73 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+Pass 1C 1D 1H
+X 2C Pass 3C
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J9754.J54.A3.KQT T63.AQ86.982.J76 AKQ8.K93.KJT5.94 2.T72.Q764.A8532 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass Pass 1N Pass
+2D Pass 2S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J9754.J54.A3.KQT T63.AQ86.982.J76 AKQ8.K93.KJT5.94 2.T72.Q764.A8532 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass Pass 1N Pass
+2H Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQT.983.Q87.A752 6.QJ6.K64.KQJT64 9842.AT7542.T3.8 KJ753.K.AJ952.93 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+1C Pass 1S Pass
+2C Pass 2D Pass
+3C Pass 3D Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQT.983.Q87.A752 6.QJ6.K64.KQJT64 9842.AT7542.T3.8 KJ753.K.AJ952.93 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+1C Pass 1S Pass
+2C Pass 2D Pass
+3C Pass 3H Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQT8.K9.AJT.A874 43.AQ8752.Q32.65 A62.J6.K987.KJ32 J975.T43.654.QT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+1C Pass 1S 2H
+2S Pass 3C Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQT8.K9.AJT.A874 43.AQ8752.Q32.65 A62.J6.K987.KJ32 J975.T43.654.QT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+1D Pass 1S 2H
+X Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ95.K.73.87642 7.T9632.KQ865.KJ 632.AJ84.AT42.T9 JT84.Q75.J9.AQ53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+Pass 1S Pass 2S
+Pass Pass 2N X
+3C Pass 3D X
+3H Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ95.K.73.87642 7.T9632.KQ865.KJ 632.AJ84.AT42.T9 JT84.Q75.J9.AQ53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+Pass 1S Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQJ.Q.Q632.AK853 54.AK9865.AK4.JT K93.J72.JT85.976 T8762.T43.97.Q42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+1C 1H Pass Pass
+X Pass 2C Pass
+Pass 2H Pass Pass
+3C Pass Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQJ.Q.Q632.AK853 54.AK9865.AK4.JT K93.J72.JT85.976 T8762.T43.97.Q42 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+1C 1H Pass Pass
+X 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T5.7543.T654.Q75 4.KQJ9.AQ872.J83 AKQ62.T62.KJ.KT2 J9873.A8.93.A964 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+1D 1N X Pass
+Pass 2S Pass Pass
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T5.7543.T654.Q75 4.KQJ9.AQ872.J83 AKQ62.T62.KJ.KT2 J9873.A8.93.A964 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+1D 1S 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T8.T53.Q953.KT84 76.AKQJ97.J4.765 53.862.AK862.AJ2 AKQJ942.4.T7.Q93 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+1D 1S Pass 2D
+Pass 3S 4H Pass
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T8.T53.Q953.KT84 76.AKQJ97.J4.765 53.862.AK862.AJ2 AKQJ942.4.T7.Q93 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+1D 1S Pass 2D
+an tX Pass 3S
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT653.AQT4.K9.K8 J2.J.AJT5432.T72 K987.K8532.87.96 A4.976.Q6.AQJ543 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1C 1S 2H 3S
+Pass Pass 4D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT653.AQT4.K9.K8 J2.J.AJT5432.T72 K987.K8532.87.96 A4.976.Q6.AQJ543 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1C 1S Pass 2S
+Pass Pass 3D 3H
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K93.43.J985.K876 AT754.972.K2.QT9 86.T85.43.AJ5432 QJ2.AKQJ6.AQT76."]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 1S Pass 3D
+Pass 3H Pass 3S
+Pass 4D Pass 4N
+Pass 5C X Pass
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K93.43.J985.K876 AT754.972.K2.QT9 86.T85.43.AJ5432 QJ2.AKQJ6.AQT76."]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass Pass Pass 2C
+Pass 2S Pass 3H
+Pass 4H Pass 5C
+Pass 5D Pass 5H
+Pass 5S Pass 6H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A4.K72.AKT2.AKT3 9876.4.J985.Q742 KQJT.Q9853.Q64.J 532.AJT6.73.9865 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2N Pass 3H
+Pass 4H Pass 4N
+Pass 5D Pass 6H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A4.K72.AKT2.AKT3 9876.4.J985.Q742 KQJT.Q9853.Q64.J 532.AJT6.73.9865 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass 2H Pass 2N
+Pass 3S Pass 4C
+Pass 4H Pass 4N
+Pass 5S Pass 6H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T5.KJ8.K93.KJ763 AJ6.A976532.5.QT 973.T4.QJ7642.A4 KQ842.Q.AT8.9852 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+2D Pass 3D 3H
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T5.KJ8.K93.KJ763 AJ6.A976532.5.QT 973.T4.QJ7642.A4 KQ842.Q.AT8.9852 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+Pass Pass 1C 1H
+Pass 1S Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 742.7543.A732.62 K8.96.KT54.AT954 96.AQJT2.Q8.K873 AQJT53.K8.J96.QJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1S Pass 1N 2H
+2S 3H 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 742.7543.A732.62 K8.96.KT54.AT954 96.AQJT2.Q8.K873 AQJT53.K8.J96.QJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1S Pass 1N X
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 98432.83.843.AJ7 AJ5.AQT96.97.T95 T76.742.AKT62.K6 KQ.KJ5.QJ5.Q8432 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2D X 2S
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 98432.83.843.AJ7 AJ5.AQT96.97.T95 T76.742.AKT62.K6 KQ.KJ5.QJ5.Q8432 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 2C Pass 2D
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Fergani"]
+[North "Carruthers"]
+[East "L'Ecuyer"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q32.532.KJ3.JT82 AK95.T4.AQ9642.9 6.AKQJ96.T87.653 JT874.87.5.AKQ74 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+1D 1H X 2H
+3S Pass 4C Pass
+4D 4H 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+

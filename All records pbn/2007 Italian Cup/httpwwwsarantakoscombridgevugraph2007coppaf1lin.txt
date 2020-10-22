@@ -1,0 +1,903 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 84.J75.KQ.AJT763 A762.AT9.8752.K5 T5.K862.T43.Q984 KQJ93.Q43.AJ96.2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+Pass 1S 2C 3C
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "S"]
+DK D2 D4 DA
+S4 S2 S5 SK
+S8 S6 ST SQ
+CA C5 C8 C2
+DQ D5 D3 D6
+C7 CK C4 H3
+C3 D7 DT DJ
+C6 D8 C9 D9
+H5 HA H2 H4
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 84.J75.KQ.AJT763 A762.AT9.8752.K5 T5.K862.T43.Q984 KQJ93.Q43.AJ96.2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+Pass 1S 2C 3N
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+DK D2 D4 DA
+S4 S2 S5 SK
+S8 S7 ST SQ
+CA C5 C4 C2
+DQ D5 D3 D6
+C3 CK C8 H3
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT76.T4.J9432.AJ J2.A983.AQT.KT98 K984.76.K865.653 Q53.KQJ52.7.Q742 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass Pass 1H Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT76.T4.J9432.AJ J2.A983.AQT.KT98 K984.76.K865.653 Q53.KQJ52.7.Q742 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass Pass 1N Pass
+2D Pass 3H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K76.AT43.982.AT6 954.9765.QT3.542 AT3.QJ.KJ6.KQJ97 QJ82.K82.A754.83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+Pass Pass 1C Pass
+2D Pass 2N Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K76.AT43.982.AT6 954.9765.QT3.542 AT3.QJ.KJ6.KQJ97 QJ82.K82.A754.83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+Pass Pass 1C Pass
+2C Pass 2N Pass
+3C Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQJ832.AK92.9.52 K6.QJT3.QJ64.KQT 975.84.A8532.A83 T4.765.KT7.J9764 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+1D Pass Pass X
+Pass 1N Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQJ832.AK92.9.52 K6.QJT3.QJ64.KQT 975.84.A8532.A83 T4.765.KT7.J9764 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+1N Pass Pass X
+Pass 2D Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A9765.8.A732.Q54 QT8.AT72.Q65.862 J42.965.JT8.JT97 K3.KQJ43.K94.AK3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A9765.8.A732.Q54 QT8.AT72.Q65.862 J42.965.JT8.JT97 K3.KQJ43.K94.AK3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+Pass 1H 1S 3D
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T82.AK84.T9.AK32 6.QJ5.K875.QJT85 J9543.T762.AJ42. AKQ7.93.Q63.9764 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T82.AK84.T9.AK32 6.QJ5.K875.QJT85 J9543.T762.AJ42. AKQ7.93.Q63.9764 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT5.A.KQ8643.AJ7 AK8.KT9753.AT.Q2 9762.Q64.J2.K985 J43.J82.975.T643 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1C 2H X Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT5.A.KQ8643.AJ7 AK8.KT9753.AT.Q2 9762.Q64.J2.K985 J43.J82.975.T643 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1D 1H Pass Pass
+X Pass 1S Pass
+2D 2H 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T7632.J9.K8643.2 AJ8.KQ2.Q5.A9764 94.AT765.AT2.Q53 KQ5.843.J97.KJT8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T7632.J9.K8643.2 AJ8.KQ2.Q5.A9764 94.AT765.AT2.Q53 KQ5.843.J97.KJT8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A543.8.T9865.874 KJT6.A.AK3.JT962 Q972.JT532.J74.3 8.KQ9764.Q2.AKQ5 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2H Pass 2S
+Pass 4C Pass 4D
+Pass 4H Pass 4S
+Pass 4N Pass 5C
+Pass 6C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A543.8.T9865.874 KJT6.A.AK3.JT962 Q972.JT532.J74.3 8.KQ9764.Q2.AKQ5 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2N Pass 3C
+Pass 3H Pass 3S
+Pass 4C Pass 4D
+Pass 4H Pass 6C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 6.KT52.Q932.Q542 QJ74.Q98.AK.J986 832.AJ764.J754.T AKT95.3.T86.AK73 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+1S Pass 2C Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 6.KT52.Q932.Q542 QJ74.Q98.AK.J986 832.AJ764.J754.T AKT95.3.T86.AK73 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+1S Pass 2C Pass
+3C Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKJ72.K42.Q87.K5 T5.A83.542.QJ974 Q96.Q6.KT93.AT83 843.JT975.AJ6.62 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1C Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKJ72.K42.Q87.K5 T5.A83.542.QJ974 Q96.Q6.KT93.AT83 843.JT975.AJ6.62 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1S Pass 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T54.AQ2.KJ7.A532 973.KT64.Q965.KJ KQJ62.J95.3.T876 A8.873.AT842.Q94 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T54.AQ2.KJ7.A532 973.KT64.Q965.KJ KQJ62.J95.3.T876 A8.873.AT842.Q94 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+Pass Pass 1D X
+2D 3S Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 98764.QJT93.AT3.532 KT542.8.Q765.AKJT 98763.A64.J.Q AQJ.K752.K9842."]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+1H Pass 1S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 98764.QJT93.AT3.532 KT542.8.Q765.AKJT 98763.A64.J.Q AQJ.K752.K9842."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+1H Pass 1S Pass
+2S X Pass 3C
+Pass Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q962.A62.T3.QJ94 JT.KJT953.J2.AT3 A875.Q7.K9876.K5 K43.84.AQ54.8762 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass Pass 2D Pass
+2H Pass Pass X
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q962.A62.T3.QJ94 JT.KJT953.J2.AT3 A875.Q7.K9876.K5 K43.84.AQ54.8762 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass Pass 1H Pass
+1N Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT8.A95.K3.KJ763 A62.Q83.T8652.95 QJ9543.2.AQ974.2 7.KJT764.J.AQT84 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1N Pass 2H X
+2S Pass 3D 4C
+4S 5H 5S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Ricciarell"]
+[North "De Falco"]
+[East "Baroni"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT8.A95.K3.KJ763 A62.Q83.T8652.95 QJ9543.2.AQ974.2 7.KJT764.J.AQT84 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Angelini TCP-Bove"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1N Pass 2H 2S
+X XX 4S 5C
+X 5H Pass Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,74 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Compton"]
+[North "Fredin"]
+[East "Hamman"]
+[South "Fallenius"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 7.AKJ74.QT963.T9 KQT93.63.75.8654 85.QT2.82.AKJ732 AJ642.985.AKJ4.Q "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1S 3C
+an !X 3S 4C
+Pass 4D 4S X
+Pass Pass Pass
+[Play "S"]
+HA H3 H2 H5
+CT C4 CK CQ
+HK H6 HQ H8
+C9 C5 CA S2
+S7 SK S5 S4
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Compton"]
+[North "Fredin"]
+[East "Hamman"]
+[South "Fallenius"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K952.A763.J8.QJ6 T7643.95.QT54.K8 AQJ8.KQT4.K962.2 .J82.A73.AT97543 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D 3C X Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "S"]
+C6 CK C2 CT
+S2 S4 SQ H2
+H6 H5 HT H8
+H3 H9 HK HJ
+S5 S3 SA C3
+SK S6 S8 C4
+DJ DQ DK DA
+*
+
+

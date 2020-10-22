@@ -1,0 +1,469 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT74.KT64.Q63.84 9.Q.AJ98.KJ97632 AJ.A753.KT7542.5 Q86532.J982.AQT."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "N"]
+1D 1S X 2C
+2H 3C 3H 5C
+Pass Pass Pass
+[Play "N"]
+H4 HQ HA H2
+HT C2 H3 H8
+D3 D8 D2 CT
+H6 C3 H5 H9
+D6 D9 D4 CQ
+HK C7 H7 HJ
+DQ DJ D5 CA
+S4 S9 SA S2
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 87653.AJ98.J7.AQ J9.K762.A854.964 AKQT42.QT4.632.T .53.KQT9.KJ87532 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "E"]
+3C X Pass 4N
+Pass 5H Pass 6S
+Pass Pass Pass
+[Play "N"]
+D7 D4 D2 DK
+DJ D5 D3 DQ
+S3 D8 D6 DT
+S5 S9 SA C5
+S6 SJ SK C2
+H8 HK HQ H3
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A.KQ92.AKT2.Q985 Q543.T875.Q73.J2 KJT762.A.965.A64 98.J643.J84.KT73 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 3S Pass
+4N Pass 5C Pass
+5D Pass 5H Pass
+6S Pass Pass Pass
+[Play "E"]
+H2 H8 HA H3
+SA S3 S2 S8
+C5 C2 CA C3
+D2 S4 SK S9
+DT SQ ST D4
+C8 CJ C6 CK
+CQ S5 C4 C7
+DK D3 D5 D8
+DA D7 D6 DJ
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A74.KT2.QT4.QT54 Q83.AJ75.A2.A876 T.Q864.K8653.J92 KJ9652.93.J97.K3 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "W"]
+1C Pass 1S Pass
+1N Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q952.J85.64.K643 KJ.T43.AQJT3.QT7 A43.762.K985.852 T876.AKQ9.72.AJ9 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2N an al
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK964.T4.Q.KQT52 T82.K7652.A54.J6 53.AJ83.T8632.98 QJ7.Q9.KJ97.A743 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "E"]
+1N 2S 2N Pass
+3C X 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKQJT4.A8.95.A53 975.T42.J863.KJ4 3.QJ3.KQT.QT9862 862.K9765.A742.7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "S"]
+2S Pass 3C Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K.JT95.AJ3.KQJT5 A432.Q7632.96.87 JT75.K84.QT2.642 Q986.A.K8754.A93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "W"]
+Pass Pass 1D 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT754.A4.A43.AK7 K8.JT53.7.T98642 62.KQ6.KQT65.QJ5 AJ93.9872.J982.3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "N"]
+1D Pass 1S Pass
+1N Pass 2C an
+al Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T5.53.KQ4.AQJ432 A6432.T87.A87.T5 J9.KQJ4.9632.986 KQ87.A962.JT5.K7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "E"]
+1N 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 32.T3.8762.QJT42 KQ865.J.J43.9653 974.A9764.QT5.K8 AJT.KQ852.AK9.A7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "S"]
+Pass Pass Pass 2C
+Pass 2D Pass 2N
+Pass 3H an al
+Pass 4C Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J843.AK5.J96.AQ7 QT5.Q42.AT.J8643 K9762.JT9763.8.2 A.8.KQ75432.KT95 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "W"]
+Pass Pass 1D 1N
+Pass 2D 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J7.J3.JT97642.J4 K9654.A94.5.AK83 AQ.KQT865.Q8.T96 T832.72.AK3.Q752 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "N"]
+1H Pass Pass X
+Pass 1S 2D 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT32.JT95.43.AJ8 86.Q864.J82.QT96 4.AK73.AQT65.K42 KQJ975.2.K97.753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "E"]
+2D an al Pass
+2H an al Pass
+2S Pass Pass X
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "J Thompson"]
+[North "K Moses"]
+[East "J Hoffman"]
+[South "N Bashar"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T.8532.82.AQJ954 KJ9764.AKT.QJ3.T A853.6.A9764.763 Q2.QJ974.KT5.K82 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "MOSES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HOFFMAN"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 2S Pass 2N
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+

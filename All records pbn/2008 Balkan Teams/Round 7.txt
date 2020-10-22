@@ -1,0 +1,918 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J9.T874.J8.AQ852 QT7654.963.4.K97 AK8.KJ2.A9763.JT 32.AQ5.KQT52.643 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+1N Pass 2C Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+D8 D4 DA DQ
+C2 C9 CJ C6
+H4 H6 HJ HQ
+SJ SQ SK S3
+H7 H3 HK HA
+DJ H9 D3 DK
+C5 S4 D6 DT
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J9.T874.J8.AQ852 QT7654.963.4.K97 AK8.KJ2.A9763.JT 32.AQ5.KQT52.643 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+1C 1D X 2S
+Pass Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A3.K97.Q87.AT872 QJ92.6542.AK63.5 7654.AJT3.J92.K6 KT8.Q8.T54.QJ943 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+Pass 1C X 1H
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A3.K97.Q87.AT872 QJ92.6542.AK63.5 7654.AJT3.J92.K6 KT8.Q8.T54.QJ943 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+Pass 1D X XX
+2C X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ2.AT65.KQ98.Q7 J87.QJ982.AJT6.3 A63.K.542.KJ6542 T954.743.73.AT98 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ2.AT65.KQ98.Q7 J87.QJ982.AJT6.3 A63.K.542.KJ6542 T954.743.73.AT98 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+1C 1H X Pass
+1N Pass 2S Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT5.KQ542.A.J732 J7.A763.T95.K984 AQ84.9.KQ864.AQ6 9632.JT8.J732.T5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT5.KQ542.A.J732 J7.A763.T95.K984 AQ84.9.KQ864.AQ6 9632.JT8.J732.T5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 2D Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ864.7542.65.Q3 53.83.QJT9874.K5 JT97.AKQJ6.A2.84 K2.T9.K3.AJT9762 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+1H 2C 2N 3D
+4H 5C X 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ864.7542.65.Q3 53.83.QJT9874.K5 JT97.AKQJ6.A2.84 K2.T9.K3.AJT9762 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+1H 2C 3S 4D
+4S 5C Pass Pass
+5D X Pass Pass
+5H Pass 5S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K53.765.K9863.32 98.K9843.A2.KJ75 QJT76.AQJ2.54.QT A42.T.QJT7.A9864 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+1D Pass 1H 1S
+Pass 2S X Pass
+3C Pass Pass 3S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K53.765.K9863.32 98.K9843.A2.KJ75 QJT76.AQJ2.54.QT A42.T.QJT7.A9864 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+1D Pass 1H 1S
+Pass 2S X Pass
+3C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J7642.AJT82.KT3.KT85 53.8.JT8642.Q9 K6.Q76542.K93. A3.Q974.AJ9.AQ75 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+2D Pass 2H 2N
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J7642.AJT82.KT3.KT85 53.8.JT8642.Q9 K6.Q76542.K93. A3.Q974.AJ9.AQ75 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+2N Pass 3D X
+3H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 953.9.AKJ92.A872 QJ7.KQ432.QT74.Q 642.JT6.853.JT94 AKT8.A875.6.K653 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "W"]
+1H Pass 3D X
+4H Pass 4S Pass
+5H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 953.9.AKJ92.A872 QJ7.KQ432.QT74.Q 642.JT6.853.JT94 AKT8.A875.6.K653 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "W"]
+1H Pass 2N 3D
+Pass Pass 4D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 652.4.82.AKJ9543 A873.AJT2.Q93.T7 Q4.K98763.K764.8 KJT9.Q5.AJT5.Q62 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+2H X 3C 3H
+Pass 3S 5C X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 652.4.82.AKJ9543 A873.AJT2.Q93.T7 Q4.K98763.K764.8 KJT9.Q5.AJT5.Q62 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+Pass 1D 2C X
+2H Pass 3C X
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ.AKQ32.T92.Q93 JT9863.AJ4.AT75.7 JT6.KQ863.KJ86.A542 98754.75.42."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+Pass 1H 1S 2D
+2S X Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ.AKQ32.T92.Q93 JT9863.AJ4.AT75.7 JT6.KQ863.KJ86.A542 98754.75.42."]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+Pass 1C 1S X
+3S 4H 4S 5H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K93.KT7654.6.875 8752.J9.AT32.AKQ T4.Q2.KJ874.T932 AQJ6.A83.Q95.J64 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2S Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K93.KT7654.6.875 8752.J9.AT32.AKQ T4.Q2.KJ874.T932 AQJ6.A83.Q95.J64 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+2H X Pass 3H
+X Pass Pass XX
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T73.Q9732.52.AK4 J8642.A65.T93.Q6 K5.KJ4.AKQJ.T982 AQ9.T8.8764.J753 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "W"]
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T73.Q9732.52.AK4 J8642.A65.T93.Q6 K5.KJ4.AKQJ.T982 AQ9.T8.8764.J753 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "W"]
+Pass 1N Pass 2D
+Pass 2N Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J8.AQT64.K653.A9 KQ942.8.AT2.KT85 765.KJ92.Q74.J76 AT3.753.J98.Q432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+Pass Pass 1H 1S
+2H 2S X Pass
+3H Pass Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J8.AQT64.K653.A9 KQ942.8.AT2.KT85 765.KJ92.Q74.J76 AT3.753.J98.Q432 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+Pass Pass 2H 2S
+3H 3S 4H 4S
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A84.A73.QJ.KT973 952.Q8.T8653.AQ6 T73.K962.K972.54 KQJ6.JT54.A4.J82 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+1D Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A84.A73.QJ.KT973 952.Q8.T8653.AQ6 T73.K962.K972.54 KQJ6.JT54.A4.J82 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+1C Pass 1N Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 83.QJ5.AKT4.Q943 QJT5.T976.Q752.A AK74.842.6.T8652 962.AK3.J983.KJ7 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 83.QJ5.AKT4.Q943 QJT5.T976.Q752.A AK74.842.6.T8652 962.AK3.J983.KJ7 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Rusev"]
+[North "Iordache"]
+[East "Velichkov"]
+[South "Serpoi"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJT.T7.KT964.A85 97643.AQ54.8.742 5.K832.J72.KQJT9 AK82.J96.AQ53.63 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Romania 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "W"]
+Pass 1C X 1D
+1S Pass Pass 1N
+2H Pass 2S 3C
+Pass Pass 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,462 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQJ875.AQ9.2.JT3 A9.J8743.Q83.AQ6 43.KT6.AK9654.82 T62.52.JT7.K9754 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "N"]
+1D Pass 2S Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+H9 H8 HK H2
+SQ S9 S3 S6
+SK SA S4 S2
+C3 CQ C2 C5
+CT CA C8 C4
+CJ C6 D4 CK
+S5 H3 D5 C9
+S7 D3 D6 C7
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q85.QT.A87652.Q7 J762.32.9.AK9643 94.A54.KQJ4.J852 AKT3.KJ9876.T3.T "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "E"]
+1H Pass 1S Pass
+2S Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+D2 D9 DK D3
+D5 S2 DQ DT
+HQ H2 H5 HJ
+C7 CA C5 CT
+HT H3 HA H6
+D6 S6 H4 H7
+SQ S7 S4 ST
+CQ CK C2 H8
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 987.95.KT92.K953 AJT65.KJ2.84.AT8 42.876.AJ753.Q76 KQ3.AQT43.Q6.J42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "S"]
+Pass 1S Pass 4S
+Pass Pass Pass
+[Play "N"]
+H5 HJ H8 H3
+S7 S5 S2 SK
+S8 S6 S4 SQ
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A9752.T.AKT76.QT T86.K54.854.AJ93 J3.AQ6.QJ92.K874 KQ4.J98732.3.652 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1N Pass 2C
+X 2N Pass 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 985.72.J72.AQ952 AT62.93.T85.T764 74.QJ86.A9643.J8 KQJ3.AKT54.KQ.K3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 2D Pass 2N
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ.KJ32.AQ942.K8 T62.T8.J8753.J42 A7543.94.T6.9753 K98.AQ765.K.AQT6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "E"]
+1C 1D Pass 1S
+Pass 2N an 16
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T7.8432.A932.A72 K83.T.QJT64.K953 AQJ96.AK976.8.86 542.QJ5.K75.QJT4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "S"]
+Pass Pass 1S Pass
+1N Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKT93.8754.T.T83 QJ64.AT6.853.KJ4 72.KJ.AKJ72.Q652 85.Q932.Q964.A97 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "W"]
+1D Pass 1H 1S
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 432.QJ7543.AK.82 KJ6.A6.QJ4.KQ765 QT5.KT982.98.T94 A987.T76532.AJ3."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "N"]
+Pass Pass 1H 2C
+3H 4D Pass 5D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT.KT4.AQ743.854 AJ72.AQ.T862.KQ6 9864.J632.KJ.A73 K53.9875.95.JT92 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "E"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q5.832.Q872.A965 KJ98.KQT4.AKJ9.T A7632.J95.53.843 T4.A76.T64.KQJ72 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "S"]
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K964.986.753.AQ6 72.JT.J984.KJ754 AT83.7532.T.T932 QJ5.AKQ4.AKQ62.8 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "W"]
+Pass Pass 1C Pass
+1D Pass 2D an
+GF Pass 3C an
+4-  c Pass 3N
+an to Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QJ3.AK9.Q84.AT96 872.Q8543.T.K843 64.J72.KJ632.QJ5 AKT95.T6.A975.72 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "N"]
+Pass 2S an 5!
+ 1 Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 972.J72.AQT.AJ75 65.K84.97654.KQT AJT8.Q65.K2.9832 KQ43.AT93.J83.64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "E"]
+Pass 1C an 4+
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 DBV Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A742.J4.A9.A6432 Q85.K65.QJ74.JT7 KJ3.AT972.65.Q85 T96.Q83.KT832.K9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Hamburg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Duesseldorf"]
+[Auction "S"]
+1C an 4+ Pass
+1H Pass 1S Pass
+2D X Pass Pass
+2H Pass 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+

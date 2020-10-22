@@ -1,0 +1,916 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ986.J7.A.97532 53.42.KQJT873.J4 742.AKQT93.42.86 AKT.865.965.AKQT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+2H X Pass 3D
+Pass Pass Pass
+[Play "N"]
+HJ H2 HA H5
+H7 H4 HK H6
+C2 D3 HQ H8
+DA DK D2 D5
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ986.J7.A.97532 53.42.KQJT873.J4 742.AKQT93.42.86 AKT.865.965.AKQT "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+3H X Pass 5D
+Pass Pass Pass
+[Play "N"]
+HJ H2 HA H5
+H7 H4 HK H6
+DA S3 HQ H8
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A763.J32.82.Q973 J4.K986.94.KJ865 QT9.QT4.QT653.AT K852.A75.AKJ7.42 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+1N Pass 2C Pass
+2S Pass 2N Pass
+Pass Pass
+[Play "S"]
+C3 C5 CT C2
+D2 D4 D6 DK
+C7 CJ CA C4
+D8 D9 D3 DJ
+H2 H6 HT H7
+S3 C6 DQ DA
+H3 H8 H4 HA
+HJ HK HQ H5
+S6 H9 S9 S2
+C9 CK D5 S5
+CQ C8 ST D7
+S7 S4 SQ SK
+SA SJ DT S8
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A763.J32.82.Q973 J4.K986.94.KJ865 QT9.QT4.QT653.AT K852.A75.AKJ7.42 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+1N Pass 2C Pass
+2S Pass 2N Pass
+Pass Pass
+[Play "S"]
+C3 CJ CA C2
+C7 C5 CT C4
+D2 D9 D3 D7
+D8 D4 D5 DJ
+H2 H8 HT H5
+S6 C6 DT DK
+S3 S4 D6 DA
+H3 H6 H4 HA
+HJ HK HQ H7
+S7 H9 S9 S2
+C9 CK DQ S5
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT9.J32.AQJ765.9 2.A5.9832.AQ8654 AK8743.KQ964.T.J J65.T87.K4.KT732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass Pass 1S Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "E"]
+C9 CA CJ C2
+H2 HA H4 H7
+H3 H5 HK H8
+S9 S2 SA S5
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT9.J32.AQJ765.9 2.A5.9832.AQ8654 AK8743.KQ964.T.J J65.T87.K4.KT732 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass 2C 4C 5C
+5D Pass 5H Pass
+Pass Pass
+[Play "E"]
+C9 CA CJ C7
+DJ D2 DT D4
+H2 HA H4 H7
+DA D3 S4 DK
+HJ H5 H6 H8
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 97.72.AQ53.K9762 K2.AQ843.KJ74.J8 AJT6543.T.T62.Q4 Q8.KJ965.98.AT53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+1H 2S 4C Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 97.72.AQ53.K9762 K2.AQ843.KJ74.J8 AJT6543.T.T62.Q4 Q8.KJ965.98.AT53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+1H 2S 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT54.AK732.Q.KJ6 K8763.QJ95.A.T42 A92.T6.J7652.AQ5 J.84.KT9843.9873 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+Pass Pass 1H 1S
+X Pass 1N Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT54.AK732.Q.KJ6 K8763.QJ95.A.T42 A92.T6.J7652.AQ5 J.84.KT9843.9873 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+Pass Pass 1H 1S
+X Pass 1N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q87.84.A65.AQJ97 T532.JT652.T982.AJ9 AKQ9.Q4.T865. K64.73.KJ73.K432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q87.84.A65.AQJ97 T532.JT652.T982.AJ9 AKQ9.Q4.T865. K64.73.KJ73.K432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J7.87.KQT32.A973 AK965.J94.J64.J8 QT2.KQT52.95.KQ2 843.A63.A87.T654 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass Pass 1H Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J7.87.KQT32.A973 AK965.J94.J64.J8 QT2.KQT52.95.KQ2 843.A63.A87.T654 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass Pass 1H Pass
+2D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 92.AKJT87.J2.AJ4 KT7.Q62.KQT.KT96 AQ6543.9.83.Q753 J8.543.A97654.82 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+1C 2S Pass 2N
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 92.AKJT87.J2.AJ4 KT7.Q62.KQT.KT96 AQ6543.9.83.Q753 J8.543.A97654.82 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+1C 2S Pass 3H
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q74.65.QT96.QJT5 JT63.AQ9732.53.2 K85.8.AKJ4.K8643 A92.KJT4.872.A97 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+1D Pass 1N Pass
+2C Pass 2D 2H
+3C 3D 5D Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q74.65.QT96.QJT5 JT63.AQ9732.53.2 K85.8.AKJ4.K8643 A92.KJT4.872.A97 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+1C Pass 1D 2H
+3D 4H 5C Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ763.KQ84.9.K85 T2.JT753.QJ876.J K84.96.AK52.QT42 Q95.A2.T43.A9763 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+Pass 1S Pass 2N
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ763.KQ84.9.K85 T2.JT753.QJ876.J K84.96.AK52.QT42 Q95.A2.T43.A9763 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2H Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQJ.KQT952.K.982 54.AJ7.A98654.A6 K87632.843.2.QJ7 T9.6.QJT73.KT543 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+1H 2D 2H 5D
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQJ.KQT952.K.982 54.AJ7.A98654.A6 K87632.843.2.QJ7 T9.6.QJT73.KT543 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+1H 2D 2H 4D
+4H Pass Pass 5D
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J3.Q73.J742.KT76 Q854.KJT4.KQT3.3 AKT6.A.85.AQJ954 972.98652.A96.82 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+1D X 1H Pass
+2H X Pass 3C
+Pass 3H Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J3.Q73.J742.KT76 Q854.KJT4.KQT3.3 AKT6.A.85.AQJ954 972.98652.A96.82 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+Pass 1C Pass 1N
+X XX 2H Pass
+Pass 2S Pass 3C
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT73.T74.KQJT.J6 Q.AKJ63.98632.92 K62.98.A754.AK75 A9854.Q52.QT843."]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+1D 1S 1N 2H
+Pass Pass 3D Pass
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT73.T74.KQJT.J6 Q.AKJ63.98632.92 K62.98.A754.AK75 A9854.Q52.QT843."]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+1D 1S 2D 2H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQT3.AK83.T965.4 92.75.KQ8.KJ9875 J654.Q.AJ43.AQT3 K87.JT9642.72.62 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQT3.AK83.T965.4 92.75.KQ8.KJ9875 J654.Q.AJ43.AQT3 K87.JT9642.72.62 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2S 3C X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 7654.K96.J.KQ932 AQT983.Q7.AKQT.6 KJ.JT852.8632.74 2.A43.9754.AJT85 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Meyer"]
+[North "Rigaud"]
+[East "Stoppa"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 7654.K96.J.KQ932 AQT983.Q7.AKQT.6 KJ.JT852.8632.74 2.A43.9754.AJT85 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass 1C an fo
+Pass 1D Pass 1S
+Pass 2C Pass 2S
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+

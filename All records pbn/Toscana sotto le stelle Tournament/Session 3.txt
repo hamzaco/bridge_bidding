@@ -1,0 +1,427 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 853.A76.JT93.KQJ QJ94.T83.A8.T632 KT72.KQJ95.K7.97 A6.42.Q6542.A854 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H Pass 2N an
+3  Pass 3H Pass
+Pass Pass
+[Play "E"]
+S3 S4 S2 SA
+S5 SJ SK S6
+H6 H3 HQ H2
+HA H8 H5 H4
+H7 HT HK D2
+CK C2 C7 C4
+S8 SQ S7 D4
+D3 DA D7 D5
+CJ C3 C9 CA
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A5.QJ2.J95.AQJ86 KT3.A83.Q873.K95 Q9862.T7654.KT.2 J74.K9.A642.T743 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 2H
+an   Pass Pass
+Pass
+[Play "None"]
+CA C5 C2 C7
+SA S3 S2 S4
+S5 SK S6 S7
+D5 D3 DT DA
+D9 D7 DK D2
+H2 H3 H4 HK
+DJ DQ H5 D4
+HQ ST S8 SJ
+HJ HA H6 H9
+C6 D8 H7 D6
+C8 H8 HT C3
+CJ C9 SQ C4
+CQ CK S9 CT
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K87.KQT975.J8.A4 T.A843.QT764.932 AJ94.62.32.KJT75 Q6532.J.AK95.Q86 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H Pass 1N an
+le X 2H X
+Pass Pass Pass
+[Play "E"]
+S7 ST SJ S6
+HQ HA H2 HJ
+D8 D4 D2 DK
+S8 H3 S4 S5
+CA C3 C5 C8
+HK H4 H6 S3
+HT H8 D3 D5
+H9 D6 C7 D9
+H7 D7 CT DA
+SK C2 S9 S2
+C4 C9 CK C6
+DJ DT SA SQ
+H5 DQ CJ CQ
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T92.AJ64.Q854.KJ AQJ4.7532.AK7.A3 763.K98.T32.Q876 K85.QT.J96.T9542 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N an 17 Pass
+2N Pass Pass Pass
+[Play "None"]
+S9 SQ S6 S5
+CJ CA C6 C2
+CK C3 C7 C4
+ST S4 S7 SK
+S2 SA S3 S8
+HJ H2 H8 HT
+D4 D7 D3 D9
+D5 DK D2 D6
+D8 DA DT DJ
+H4 SJ C8 C5
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT92.J.AJ86.9853 KQ87.Q765.532.K2 J6.K9843.KQT9.74 543.AT2.74.AQJT6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N an 10
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A87.AJ72.Q98752.KJ963 JT86.Q6.J3.Q542 AK2.K9853.4.T Q97543.T4.AKT6."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2D an 24 Pass
+3H an Pa Pass
+4H 5C Pass Pass
+X Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A3.K9.T92.JT8532 KJ865.AQT8.J73.9 T974.764.K64.AQ4 Q2.J532.AQ85.K76 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT97.6.A98543.J2 KJ85.QT75.J62.K5 Q643.KJ984.K.A76 2.A32.QT7.QT9843 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S Pass 4S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K96.87.Q854.KQ93 A87.JT.A6.AJ8642 J5432.AQ942.K9.5 QT.K653.JT732.T7 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S Pass 1N 2C
+2H Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A8.AT872.T9.A985 KJ94.53.A653.T74 752.J64.KQJ8.KJ2 QT63.KQ9.742.Q63 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1H Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 53.Q8643.A5.Q542 964.K95.87432.A7 A72.J.KQJT9.JT83 KQJT8.AT72.6.K96 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1D an
+  1S 2H Pass
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQJ84.76.72.AK54 T32.KJ52.A65.QJ3 95.A94.QJT43.T96 A76.QT83.K98.872 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 2S
+an sP Pass Pass
+X Pass 3H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Toscana sotto le stelle Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J732.T64.Q32.K43 A54.98.AK87.AQ98 KT86.32.JT94.T52 Q9.AKQJ75.65.J76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 2H an 11
+Pass 2N Pass 3H
+Pass 5H Pass 6H
+Pass Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,188 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Levin"]
+[North "Krekorian"]
+[East "Weinstein"]
+[South "Casen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AKT7.KJ.A.AQT974 QJ83.AT876.J94.3 96.Q9.QT86532.86 542.5432.K7.KJ52 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "North - South"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "East - West"]
+[Auction "W"]
+Pass Pass Pass 2C
+Pass 2D Pass 3C
+Pass 3D Pass 3S
+Pass 4D Pass 4S
+Pass 5C Pass Pass
+Pass
+[Play "W"]
+HJ HA H9 H2
+C4 C3 C6 C2
+SA S3 S6 S2
+SK S8 S9 S5
+S7 SJ C8 S4
+HK H6 HQ H3
+CA H7 D2 C5
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Levin"]
+[North "Krekorian"]
+[East "Weinstein"]
+[South "Casen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ94.Q98.953.AQ3 A875.A6.KQJT2.T7 K632.J53.84.KJ92 T.KT742.A76.8654 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "North - South"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "East - West"]
+[Auction "N"]
+Pass Pass 1S 2D
+3H an 4  X
+3S X Pass 4D
+Pass Pass Pass
+[Play "W"]
+SJ SA S3 ST
+S4 S8 S2 D6
+H8 HA H3 H2
+S9 S5 S6 D7
+H9 H6 H5 HK
+HQ D2 HJ H4
+SQ S7 SK DA
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Levin"]
+[North "Krekorian"]
+[East "Weinstein"]
+[South "Casen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ74.QJ64.53.AK7 K63.AK3.864.Q986 T952.9852.KQ2.J3 A8.T7.AJT97.T542 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "North - South"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "East - West"]
+[Auction "E"]
+Pass 1C Pass 1H
+2D 2H 3D Pass
+Pass Pass
+[Play "N"]
+D3 D4 DQ DA
+D5 D6 DK DJ
+HJ HA H9 HT
+H4 D8 D2 DT
+HQ HK H5 H7
+H6 H3 H8 D7
+C7 CQ C3 C4
+CK C6 CJ C2
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Levin"]
+[North "Krekorian"]
+[East "Weinstein"]
+[South "Casen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9.J6543.QT42.KJ2 JT852.AQ9.J.9854 K.K2.AK8763.Q763 AQ7643.T87.95.AT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "North - South"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "East - West"]
+[Auction "S"]
+Pass Pass 1D an
+co 2S X 4S
+4N X Pass Pass
+5C Pass 5D X
+Pass Pass Pass
+[Play "W"]
+S9 SJ SK SA
+H3 HQ HK H7
+D2 DJ DA D5
+DT S8 DK D9
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Levin"]
+[North "Krekorian"]
+[East "Weinstein"]
+[South "Casen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQJ9.KT9652.Q6.T A75.74.K52.KQJ53 T8632.Q8.974.642 4.AJ3.AJT83.A987 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "North - South"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "East - West"]
+[Auction "W"]
+1C Pass 1D 1H
+X! an 3  Pass
+2H Pass 3C Pass
+4C Pass 4D Pass
+4N Pass 5S Pass
+7C Pass Pass Pass
+[Play "S"]
+SJ SA S2 S4
+CT CK C2 C7
+H2 C5 C4 CA
+H6 C3 C6 C8
+D6 D2 D4 DA
+*
+
+

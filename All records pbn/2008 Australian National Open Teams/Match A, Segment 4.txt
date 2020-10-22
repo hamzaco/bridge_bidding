@@ -1,0 +1,713 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 76.T85.Q84.KQT83 QT5.J643.K752.42 KJ93.KQ2.AJ93.J6 A842.A97.T6.A975 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "E"]
+S6 SQ SK S2
+C3 C2 CJ C5
+CK C4 C6 C7
+DQ D2 D3 D6
+D8 D5 DJ DT
+H5 H4 HK H7
+D4 D7 DA C9
+S7 S5 SJ SA
+C8 ST D9 CA
+CT H3 S9 S4
+CQ H6 S3 S8
+H8 HJ H2 HA
+HT DK HQ H9
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 76.T85.Q84.KQT83 QT5.J643.K752.42 KJ93.KQ2.AJ93.J6 A842.A97.T6.A975 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "E"]
+S6 SQ SK S2
+D4 D2 DJ D6
+D8 D5 DA DT
+C3 C4 CJ C5
+C8 C2 C6 CA
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T4.JT642.96.9842 AKJ863.9.T87.A76 9752.AKQ5.J32.K3 Q.873.AKQ54.QJT5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "E"]
+1D Pass 1S Pass
+2C Pass 2H X
+Pass 3H 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+H6 H9 HK H3
+H2 S3 HQ H7
+S4 S6 S2 SQ
+C2 CA C3 C5
+ST SA S5 H8
+H4 SK S7 CT
+HJ SJ S9 CJ
+D6 D8 D2 DA
+D9 D7 D3 DK
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T4.JT642.96.9842 AKJ863.9.T87.A76 9752.AKQ5.J32.K3 Q.873.AKQ54.QJT5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "E"]
+1D Pass 2S Pass
+Pass Pass
+[Play "N"]
+H2 H9 HA H3
+H4 S6 HK H7
+S4 S3 S2 SQ
+C2 CA C3 C5
+ST SA S5 CT
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T32.K92.K8754.92 7.AQJ54.QJT93.AJ Q854.876.A62.QT7 AKJ96.T3.K86543."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2D Pass 2S
+Pass 3D Pass 3N
+Pass 4C Pass 4D
+Pass 4H Pass 4S
+Pass 5C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T32.K92.K8754.92 7.AQJ54.QJT93.AJ Q854.876.A62.QT7 AKJ96.T3.K86543."]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2D Pass 2S
+an ! Pass 3D
+Pass 3S Pass 4C
+Pass 4H Pass 5N
+Pass 6C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT63.KT2.J964.73 J54.9643.AKQ82.T A92.AQJ7.73.QJ62 K87.85.T5.AK9854 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT63.KT2.J964.73 J54.9643.AKQ82.T A92.AQJ7.73.QJ62 K87.85.T5.AK9854 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "W"]
+1D X XX 1S
+Pass Pass 2C Pass
+2D Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T873.AQ9.A985.A2 Q652.J82.QJ4.KQ8 94.KT65.32.T9543 AKJ.743.KT76.J76 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T873.AQ9.A985.A2 Q652.J82.QJ4.KQ8 94.KT65.32.T9543 AKJ.743.KT76.J76 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 5.3.KQ86532.AK76 73.KQT84.97.J842 KQT94.965.AJ.T93 AJ862.AJ72.T4.Q5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "E"]
+1S 2D X Pass
+2H 3D 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 5.3.KQ86532.AK76 73.KQT84.97.J842 KQT94.965.AJ.T93 AJ862.AJ72.T4.Q5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "E"]
+1S 2D X XX
+2H 2S 3H Pass
+Pass 4D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A974.AQT83.T83.T KJ.J54.AQJ7542.9 QT86.976.96.K543 532.K2.K.AQJ8762 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "S"]
+2D 3D 3S 4C
+Pass 4D Pass 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A974.AQT83.T83.T KJ.J54.AQJ7542.9 QT86.976.96.K543 532.K2.K.AQJ8762 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "S"]
+Pass 1D Pass 2C
+X 3D 3S Pass
+Pass 3N Pass 4N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT9.976.A2.QT754 A43.4.JT9874.986 8752.AKQT2.63.A2 KJ6.J853.KQ5.KJ3 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "W"]
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT9.976.A2.QT754 A43.4.JT9874.986 8752.AKQT2.63.A2 KJ6.J853.KQ5.KJ3 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "W"]
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A9.JT9642.K3.A87 7.AK5.J9642.JT32 QJ654.3.AQT8.KQ6 KT832.Q87.75.954 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "N"]
+1S Pass 2H Pass
+2N Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A9.JT9642.K3.A87 7.AK5.J9642.JT32 QJ654.3.AQT8.KQ6 KT832.Q87.75.954 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "N"]
+1S Pass 2H Pass
+2S Pass 2N Pass
+3D Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AJT4.9.A84.AT984 8.KT86.K93.K6532 KQ96.J43.QT52.Q7 7532.AQ752.J76.J "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 3H Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AJT4.9.A84.AT984 8.KT86.K93.K6532 KQ96.J43.QT52.Q7 7532.AQ752.J76.J "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "E"]
+Pass 2C an !
+Pass Pass X Pass
+2H Pass Pass X
+Pass 3S Pass 4S
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A2.75.Q8652.QJ42 Q85.A862.T97.873 KJ974.KQT4.4.KT6 T63.J93.AKJ3.A95 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "S"]
+Pass Pass 1S Pass
+1N Pass 2D an
+sh Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A2.75.Q8652.QJ42 Q85.A862.T97.873 KJ974.KQT4.4.KT6 T63.J93.AKJ3.A95 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "S"]
+Pass Pass 1S Pass
+1N Pass 2H Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Peake"]
+[North "Thompson"]
+[East "Green"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K962.KT986.8762.5 7542.QT943.A94.AJ43 AQ.AJ652.53.QT87 J3.K87.KQJT."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Green"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2H Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

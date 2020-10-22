@@ -1,0 +1,921 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT95.43.Q4.AT863 AKJ4.T85.9752.94 63.KJ962.KT83.Q2 872.AQ7.AJ6.KJ75 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "N"]
+Pass 1N Pass 2C
+2H Pass Pass Pass
+[Play "E"]
+S9 SJ S3 S2
+H3 H5 H9 HQ
+ST SA S6 S8
+CA C9 C2 CJ
+C3 C4 CQ CK
+D4 D9 DT D6
+DQ D2 D3 DA
+CT H8 HJ C5
+H4 HT H2 H7
+C6 D5 DK DJ
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT95.43.Q4.AT863 AKJ4.T85.9752.94 63.KJ962.KT83.Q2 872.AQ7.AJ6.KJ75 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "N"]
+Pass 1C Pass 1S
+X XX 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T843.Q74.KJ73.KQ KQ95.A6.A42.7652 J2.KJ32.8.AJT843 A76.T985.QT965.9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H X! Pass an
+Xe 1N 2D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T843.Q74.KJ73.KQ KQ95.A6.A42.7652 J2.KJ32.8.AJT843 A76.T985.QT965.9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 1S Pass
+1N Pass Pass 2C
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9.J973.KT65.KJT9 K6432.A2.A.A8732 AJ7.KQT.J432.Q65 QT85.8654.Q987.4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "S"]
+Pass 1S Pass 3C
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9.J973.KT65.KJT9 K6432.A2.A.A8732 AJ7.KQT.J432.Q65 QT85.8654.Q987.4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "S"]
+Pass 1S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ9.A82.T86.Q987 AJ76.KQJ.A42.AK6 T543.963.KJ5.J32 82.T754.Q973.T54 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "W"]
+2C Pass 2D Pass
+2N Pass 3C Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ9.A82.T86.Q987 AJ76.KQJ.A42.AK6 T543.963.KJ5.J32 82.T754.Q973.T54 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "W"]
+2N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK972.7.A862.AK8 J5.Q932.T9.J7532 Q43.AJT64.KJ43.4 T86.K85.Q75.QT96 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "N"]
+1H Pass 2C Pass
+2S an 4+ Pass
+3D an oX Pass
+3H an ba Pass
+3S an a? Pass
+4D Pass 6D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK972.7.A862.AK8 J5.Q932.T9.J7532 Q43.AJT64.KJ43.4 T86.K85.Q75.QT96 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 3C Pass
+3S Pass 4D Pass
+5C Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ832.6.KT98732.97 Q653.AQ42.AQ4.JT AT984.K9853.J.A654 KJ72.JT7.65."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "E"]
+Pass 2C Pass 2H
+an na  N Pass
+2S Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ832.6.KT98732.97 Q653.AQ42.AQ4.JT AT984.K9853.J.A654 KJ72.JT7.65."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "E"]
+Pass Pass 1D 2H
+2N 3C 3N Pass
+Pass 4C X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q83.K87.T5.AKQT2 AJ762.652.4.J863 T9.J943.J8632.75 K54.AQT.AKQ97.94 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "S"]
+1D an 2+ Pass
+Pass X 2C 2S
+4D X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q83.K87.T5.AKQT2 AJ762.652.4.J863 T9.J943.J8632.75 K54.AQT.AKQ97.94 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT4.92.AT9.QJ853 AK976.A54.8652.2 Q.KQ76.KQJ74.A94 8532.JT83.3.KT76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "W"]
+1S X! 3C X
+4S X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT4.92.AT9.QJ853 AK976.A54.8652.2 Q.KQ76.KQJ74.A94 8532.JT83.3.KT76 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "W"]
+1S X 3S 4C
+Pass 5C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ953.53.A86.765 K874.KJT.T92.QJ2 J2.Q842.Q74.AK94 T6.A976.KJ53.T83 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "N"]
+1D an 2+ Pass
+1H Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ953.53.A86.765 K874.KJT.T92.QJ2 J2.Q842.Q74.AK94 T6.A976.KJ53.T83 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "N"]
+1C Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT.T43.T72.KT832 4.KQJ85.QJ9.7654 Q963.976.K65.AJ9 AJ8752.A2.A843.Q "]
+[Declarer "E"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "E"]
+1S Pass 1N Pass
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT.T43.T72.KT832 4.KQJ85.QJ9.7654 Q963.976.K65.AJ9 AJ8752.A2.A843.Q "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "E"]
+1S Pass 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJT.8732.T4.AQT3 9875.KQT.AK8.K85 Q3.AJ96.96.J7642 A642.54.QJ7532.9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJT.8732.T4.AQT3 9875.KQT.AK8.K85 Q3.AJ96.96.J7642 A642.54.QJ7532.9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 1N Pass 2D
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A52.AQJ5.Q9.J984 Q6.T8764.KJT65.3 JT874.K9.A3.AKT5 K93.32.8742.Q762 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "W"]
+Pass 1S Pass 2C
+2D 2H an 53
+3D 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A52.AQJ5.Q9.J984 Q6.T8764.KJT65.3 JT874.K9.A3.AKT5 K93.32.8742.Q762 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "W"]
+Pass 1S Pass 1N
+2D Pass 3D 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A43.KJ974.7.KT87 Q9875.6.43.AQJ93 K6.T83.KQT82.654 JT2.AQ52.AJ965.2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "N"]
+Pass 1D 1H 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A43.KJ974.7.KT87 Q9875.6.43.AQJ93 K6.T83.KQT82.654 JT2.AQ52.AJ965.2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "N"]
+Pass 1D 1H 1S
+2H 2S 3H 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ7.KT642.T83.74 T94.J875.J762.AQ J86.AK954.T8652.A532 AQ93.Q.KJ93."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "E"]
+1C Pass 1H 2D
+3H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ7.KT642.T83.74 T94.J875.J762.AQ J86.AK954.T8652.A532 AQ93.Q.KJ93."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "E"]
+1C Pass 1H 2D
+3H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 543.A54.Q932.T93 JT6.T6.AKJT5.AJ4 Q9.J82.64.KQ7652 AK872.KQ973.87.8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "S"]
+Pass 1N Pass 2H
+Pass 2S Pass 3D
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 543.A54.Q932.T93 JT6.T6.AKJT5.AJ4 Q9.J82.64.KQ7652 AK872.KQ973.87.8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "S"]
+Pass 1N Pass 2H
+Pass 2S Pass 3H
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Hungarian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Lakatos"]
+[North "Czimer"]
+[East "Macskasy"]
+[South "Szots"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T932.Q5.KT7.QJ94 J864.K97.AJ3.T73 K.JT8643.Q52.852 AQ75.A2.9864.AK6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Galim"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gamax"]
+[Auction "W"]
+Pass Pass 1D Pass
+1S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,346 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ82.KJ4.72.KJT K73.Q82.K965.A86 654.T93.AQJ83.Q5 T9.A765.T4.97432 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+[Play "W"]
+SQ S3 S6 ST
+D2 D6 DQ D4
+SJ SK S4 S9
+H4 H2 H3 HA
+HJ HQ H9 H5
+CT CA C5 C7
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ82.KJ4.72.KJT K73.Q82.K965.A86 654.T93.AQJ83.Q5 T9.A765.T4.97432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "N"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "W"]
+D7 D5 DQ D4
+SQ SK S4 S9
+H4 H2 H3 HA
+HJ HQ H9 H5
+CT CA C5 C3
+CK C8 CQ C2
+SA S3 S5 ST
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q6.K8.AKJ872.842 K93.QJ752.AKJT7.875 T96.Q63.Q965.AJT42 A43.T954.3."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "E"]
+Pass 1D 1H Pass
+2D X 4H Pass
+Pass Pass
+[Play "N"]
+D4 DK H2 D3
+HK HJ H6 H3
+D7 H5 D6 D5
+SQ S3 S5 SJ
+S6 S9 S7 ST
+H7 DQ D9 D2
+H8 HQ H9 H4
+C3 C2 CA C5
+C6 DT C4 CK
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q6.K8.AKJ872.842 K93.QJ752.AKJT7.875 T96.Q63.Q965.AJT42 A43.T954.3."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "E"]
+Pass 1D 1H Pass
+1S Pass 2D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q83.AT87.J8.JT92 AJ62.3.T9765.AK8 9.KQ654.KQ43.763 KT754.J92.A2.Q54 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "S"]
+Pass 1D 1H 1S
+3H 3S Pass 4S
+Pass Pass 5H X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q83.AT87.J8.JT92 AJ62.3.T9765.AK8 9.KQ654.KQ43.763 KT754.J92.A2.Q54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "S"]
+Pass 1D 1H 1S
+3H 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A862.QT7.762.Q62 KJ94.K96542.54.9 Q753.AJ83.AQ8.43 T.KJT93.AKJT875."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "W"]
+Pass 1D 4C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A862.QT7.762.Q62 KJ94.K96542.54.9 Q753.AJ83.AQ8.43 T.KJT93.AKJT875."]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "W"]
+Pass 1D 2C Pass
+2H Pass 3D Pass
+3H Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ2.AK2.J73.Q653 3.QJ973.AQ985.72 T98754.84.42.A84 AQ6.T65.KT6.KJT9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1N Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ2.AK2.J73.Q653 3.QJ973.AQ985.72 T98754.84.42.A84 AQ6.T65.KT6.KJT9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1N Pass 2C
+Pass 2D Pass 3D
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Cohen"]
+[North "Verhees"]
+[East "Weinstein"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q93.AJT2.Q98.QT5 K72.854.AKJ64.J7 A8654.9763.T72.9 JT.KQ.53.AK86432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "E"]
+1C Pass 1D Pass
+2C Pass 3C Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

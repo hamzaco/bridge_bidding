@@ -1,0 +1,986 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ5.T84.AKQ.AT72 7643.AKQ76.3.KJ4 T98.J92.J8742.53 AJ2.53.T965.Q986 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "N"]
+Pass Pass 1C 1H
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+SK S3 S8 S2
+SQ S4 S9 SA
+C7 CJ C3 C6
+CA CK C5 C8
+DA D3 D7 D5
+S5 S6 ST SJ
+H4 HA H2 H5
+H8 HK H9 H3
+HT HQ HJ D6
+DK H7 D2 D9
+DQ H6 D4 DT
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ5.T84.AKQ.AT72 7643.AKQ76.3.KJ4 T98.J92.J8742.53 AJ2.53.T965.Q986 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "N"]
+Pass Pass 1C 1H
+Pass Pass X Pass
+2D Pass Pass Pass
+[Play "E"]
+H4 HQ H2 H5
+H8 HK H9 H3
+HT HA HJ S2
+DQ D3 D2 D5
+DK S3 D4 D6
+SK S6 S8 SA
+SQ S4 S9 SJ
+DA S7 D7 D9
+CA C4 C3 C9
+C2 CK C5 C6
+C7 H7 D8 DT
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T.J64.AJ54.KQ764 KQJ852.A875.982.A3 Q932.63.AJ983. 9764.KT.KQT7.T52 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "E"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+[Play "N"]
+HK H4 H5 H2
+ST SJ SA S4
+C4 S8 S3 S6
+DA D8 D3 DQ
+H6 HA H3 HT
+HJ H7 H9 S7
+CQ S5 C3 C2
+C6 H8 HQ S9
+D4 D2 D6 DK
+DJ D9 C8 D7
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T.J64.AJ54.KQ764 KQJ852.A875.982.A3 Q932.63.AJ983. 9764.KT.KQT7.T52 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "E"]
+Pass 1C 1S X
+3C Pass 4S X
+Pass Pass Pass
+[Play "N"]
+HK H6 H5 H2
+ST SJ SA S4
+DK DA D2 D6
+CK S2 C3 C2
+C4 SK S3 S6
+H4 HA H3 HT
+HJ H7 H9 S7
+C6 S5 C8 C5
+C7 H8 HQ S9
+CQ S8 C9 CT
+DJ D9 D3 D7
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K53.742.A876.KJ4 QJ.J653.KQ5.A732 A8764.T.JT93.QT6 T92.AKQ98.42.985 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "S"]
+1N an 11 Pass
+2H X 2S 3H
+Pass Pass Pass
+[Play "N"]
+D6 DK DJ D2
+H2 H3 HT HA
+H4 H5 S6 HK
+DA D5 D3 D4
+S3 SJ SA S2
+CK CA C6 C5
+H7 HJ S4 H8
+D7 DQ D9 C8
+SK SQ S7 S9
+CJ C2 CT C9
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K53.742.A876.KJ4 QJ.J653.KQ5.A732 A8764.T.JT93.QT6 T92.AKQ98.42.985 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+S3 SJ SA S2
+SK SQ S8 S9
+DA D5 D3 D2
+D6 DQ D9 D4
+H2 H3 HT HA
+H4 H5 S4 HK
+H7 H6 DT HQ
+S5 C2 S6 ST
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ97642.K7.AKQ.5 5.A853.7.AQJ9742 AT8.JT94.932.863 J3.Q62.JT8654.KT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "W"]
+1C Pass 1D 2S
+3C 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+DA D7 D2 D4
+SK S5 S8 S3
+S2 C2 SA SJ
+H7 HA HJ H2
+HK H8 HT H6
+S4 C4 ST D5
+S6 H3 H4 HQ
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ97642.K7.AKQ.5 5.A853.7.AQJ9742 AT8.JT94.932.863 J3.Q62.JT8654.KT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "W"]
+1C Pass 1D 4S
+Pass Pass Pass
+[Play "W"]
+DA D7 D2 D4
+SQ S5 S8 S3
+S2 C7 SA SJ
+H7 H3 HJ H2
+HK HA H4 H6
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJT83.Q6.KQ8.K94 742.K9.7543.7653 Q6.JT843.A6.AQJT A95.A752.JT92.82 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "N"]
+1H Pass 1S Pass
+2C Pass 3N Pass
+Pass Pass
+[Play "W"]
+D8 D7 DA D2
+S3 S2 SQ S5
+S8 S7 S6 SA
+HQ HK H3 H2
+H6 H9 HT HA
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJT83.Q6.KQ8.K94 742.K9.7543.7653 Q6.JT843.A6.AQJT A95.A752.JT92.82 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "N"]
+1H Pass 1S Pass
+2C Pass 3N Pass
+Pass Pass
+[Play "W"]
+C4 C6 CA C2
+S3 S2 SQ S5
+SJ S7 S6 S9
+SK S4 H3 SA
+D8 D4 DA DJ
+CK C3 CT C8
+C9 C5 CJ H5
+H6 C7 CQ H2
+DQ D3 D6 D2
+DK D5 H4 D9
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 84.AKQ62.K72.KQJ AQ765.QT963.643.K3 T854.J854.A82.JT92 J973.A.T975."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "E"]
+Pass 1H 2H 3H
+3S 4H Pass Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 84.AKQ62.K72.KQJ AQ765.QT963.643.K3 T854.J854.A82.JT92 J973.A.T975."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "E"]
+Pass 1H 2H 2S
+4S 5H Pass Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ4.QJ2.AJ95.A42 AT75.K.KQ863.J83 K832.T75.T7.Q976 96.A98643.42.KT5 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "S"]
+1D Pass Pass 1H
+Pass 1S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ4.QJ2.AJ95.A42 AT75.K.KQ863.J83 K832.T75.T7.Q976 96.A98643.42.KT5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "S"]
+1N X Pass 2C
+Pass 2D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 4.9763.AQ3.QJ954 KJ62.AJ84.KJ84.6 QT753.KQ5.652.K7 A98.T2.T97.AT832 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "W"]
+1D 1S 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 4.9763.AQ3.QJ954 KJ62.AJ84.KJ84.6 QT753.KQ5.652.K7 A98.T2.T97.AT832 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "W"]
+1D 1S 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q.AQ53.T43.KQJ72 AK3.JT842.2.AT93 JT86.AKQJ75.654.97542 K976.986.8."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "N"]
+1D Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q.AQ53.T43.KQJ72 AK3.JT842.2.AT93 JT86.AKQJ75.654.97542 K976.986.8."]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "N"]
+1D Pass 2C Pass
+3C Pass 3H Pass
+3S Pass 4C Pass
+5C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT64.K2.K73.KJ53 K9.87.Q82.AQ9864 AQ875.AJT543.J4. 32.Q96.AT965.T72 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "E"]
+Pass Pass 1C 2N
+Pass 3S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT64.K2.K73.KJ53 K9.87.Q82.AQ9864 AQ875.AJT543.J4. 32.Q96.AT965.T72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass 1S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJ9752.KJ3.8.AK2 A86.AQ9.KJ94.975 T3.T862.QT5.QJ83 Q4.754.A7632.T64 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "S"]
+1S Pass 1N Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJ9752.KJ3.8.AK2 A86.AQ9.KJ94.975 T3.T862.QT5.QJ83 Q4.754.A7632.T64 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "S"]
+1S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K54.Q84.QJ.KJ974 Q862.AKT6.3.AT32 A97.92.KT9864.86 JT3.J753.A752.Q5 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "W"]
+1C Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K54.Q84.QJ.KJ974 Q862.AKT6.3.AT32 A97.92.KT9864.86 JT3.J753.A752.Q5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "W"]
+1C Pass 1H Pass
+3D Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 7.7543.T975.Q762 T9853.T96.42.K84 AJ64.AKQJ.A86.AT KQ2.82.KQJ3.J953 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "N"]
+2D Pass 2H Pass
+2N Pass 3C Pass
+3D Pass 3S Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 7.7543.T975.Q762 T9853.T96.42.K84 AJ64.AKQJ.A86.AT KQ2.82.KQJ3.J953 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "6"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "N"]
+2C Pass 2H Pass
+2N Pass 3C Pass
+3D Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T853.AJ.A83.J832 Q972.Q743.7.AK76 AKJ6.T965.T.QT54 4.K82.KQJ96542.9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "E"]
+4D Pass Pass X
+Pass 4S X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T853.AJ.A83.J832 Q972.Q743.7.AK76 AKJ6.T965.T.QT54 4.K82.KQJ96542.9 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "E"]
+5D Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T8.AK762.JT642.2 Q97.QT.K9.AQT953 KJ2.9853.Q8.KJ74 A6543.J4.A753.86 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "S"]
+2H Pass 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T8.AK762.JT642.2 Q97.QT.K9.AQT953 KJ2.9853.Q8.KJ74 A6543.J4.A753.86 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "S"]
+2H Pass 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Solar"]
+[North "Hoffman"]
+[East "Mott"]
+[South "Thompson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 9763.J842.Q6432.QT975 JT42.T5.KJ.643 Q5.763.T9875.AKJ82 AK8.AKQ9.A."]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Hoffman"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Snow"]
+[Auction "W"]
+Pass Pass 2C an
+bi Pass 2D Pass
+2S Pass 4S Pass
+5S Pass 6S Pass
+Pass Pass
+[Play "S"]
+*
+
+

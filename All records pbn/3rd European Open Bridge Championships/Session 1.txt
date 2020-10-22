@@ -1,0 +1,837 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q7.J.QJ965.AT753 AK984.K832.A3.82 J32.Q964.T87.QJ9 T65.AT75.K42.K64 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1D 1S
+X 2H Pass 2S
+Pass Pass 3C X
+3D 3S Pass Pass
+Pass
+[Play "N"]
+DJ DA D8 D2
+S7 SA S2 S5
+SQ SK S3 S6
+HJ HK H4 H5
+C3 H2 H6 H7
+D5 D3 D7 DK
+D6 S4 DT D4
+C5 H3 H9 HT
+C7 H8 HQ HA
+D9 S8 SJ ST
+CA C2 CQ CK
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J965.Q84.KQ7.Q65 K7.K62.A983.T742 432.A9.JT542.A98 AQT8.JT753.6.KJ3 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1H Pass 1N Pass
+2C Pass 3H Pass
+Pass Pass
+[Play "None"]
+DK DA D2 D6
+CQ C2 C8 CJ
+DQ D3 D4 H3
+C5 C4 CA CK
+D7 D8 DJ H5
+C6 CT C9 C3
+S6 SK S2 S8
+S5 S7 S3 SA
+S9 C7 S4 SQ
+SJ HK HA ST
+H8 D9 DT H7
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ987.T643.5.AKT 4.A92.KJT743.QJ3 KT5.K87.Q82.8752 J632.QJ5.A96.964 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S 2D 2S 3D
+3H Pass 3S Pass
+Pass Pass
+[Play "S"]
+D5 DT DQ DA
+S7 D4 D2 D9
+H3 H2 HK H5
+H4 H9 H7 HJ
+CA C3 C2 C6
+CK CJ C5 C4
+SA S4 S5 S2
+H6 HA H8 HQ
+CT CQ C7 C9
+S8 DK D8 D6
+HT D3 SK SJ
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J93.QT954.KQJ2.J T.AK72.8654.AK75 A7542.J3.QT9862.KQ86 86.AT973.43."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D 1S 2H an
+  2S Pass 3S
+X Pass Pass Pass
+[Play "None"]
+H4 HK H3 H8
+D2 D5 HJ DA
+HQ HA S2 H6
+C3 CJ CK CT
+H5 H2 C2 S6
+S3 C5 C6 C4
+DJ D4 C8 D3
+DQ D6 C9 D7
+DK D8 CQ D9
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ73.KQ754.A42.6 A64.A832.K5.KT95 T92.J96.T98.8432 K85.T.QJ763.AQJ7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D 1H 2C
+Pass 2D Pass 2H
+Pass 3C Pass 3H
+Pass 5C Pass 6C
+Pass Pass Pass
+[Play "W"]
+HQ HA H9 HT
+H4 H2 H6 C7
+D4 DK D8 D3
+DA D5 D9 DQ
+S3 SA ST S5
+H5 H3 HJ CJ
+D2 S4 DT DJ
+C6 C5 C2 CA
+S7 CK C3 CQ
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A953.QT9.965.762 J76.A4.AJ742.KT5 KQ4.K6532.Q3.QJ8 T82.J87.KT8.A943 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1D 1H
+Pass 2H Pass Pass
+Pass
+[Play "None"]
+H9 HA H5 H7
+C2 C5 CQ CA
+D5 DA D3 D8
+D6 D2 DQ DK
+D9 D4 H2 DT
+HT H4 HK H8
+HQ CT H3 HJ
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A864.AQ2.Q732.A4 JT753.743.J.7653 92.KT986.6.QJT92 KQ.J5.AKT9854.K8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1N Pass 2D 3D
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+D3 DJ D6 DK
+SA S3 S2 SK
+HA H3 H6 H5
+HQ H4 H8 HJ
+H2 H7 H9 D5
+C4 C3 CQ C8
+CA C5 C2 CK
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ54.J96.JT8642.Q76 K.97.8765432.9832 Q754.A53.T9. AT.AT832.KQ.AKQJ "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "None"]
+DJ D7 DA DQ
+D9 D5 DK D2
+S4 C2 C9 CK
+S5 C3 CT CA
+CQ D4 C4 S2
+H9 C5 S3 CJ
+H6 HK H5 H8
+C6 D3 ST D6
+C7 S8 HT D8
+HJ C8 S9 H2
+H4 SA SJ S6
+S7 H7 HA DT
+SQ HQ H3 SK
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ8.75.AQJ5.A843 432.QJ632.T84.QJ T6.AT4.K9732.K96 AJ975.K98.6.T752 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1C Pass
+2D Pass 2H Pass
+2S an   X
+3N Pass Pass Pass
+[Play "N"]
+S8 S3 S6 SA
+SK S4 ST SJ
+DA D4 D2 D6
+DQ D8 D3 S5
+DJ DT D7 H8
+D5 H2 D9 H9
+H5 H3 DK S7
+C3 CJ CK C2
+C4 CQ C9 C5
+SQ S2 H4 S9
+H7 HJ HA HK
+CA H6 C6 C7
+C8 HQ HT CT
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A3.987.T32.AQT54 J75.A642.AJ8.KJ6 KQ82.KQT53.754.3 T964.J.KQ96.9872 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C 1H
+X 2C Pass 2H
+Pass Pass Pass
+[Play "None"]
+D2 D8 D4 DK
+D3 DJ D7 D6
+DT DA D5 D9
+H7 H2 HK HJ
+SA S5 S2 S4
+S3 S7 SQ S6
+H8 SJ S8 S9
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 94.A43.82.K98732 AQ52.QT75.A65.Q6 T863.KJ82.JT3.J4 KJ7.96.KQ974.AT5 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 3N
+Pass Pass Pass
+[Play "E"]
+C7 C6 CJ CA
+CK CQ C4 C5
+HA H5 H2 H6
+H4 H7 HJ H9
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J6.KQT42.93.JT86 Q87.J873.Q64.943 K94.9.AJT852.AK2 AT532.A65.K7.Q75 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1D 1S X
+Pass 3D Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T4.QJ6.AKT4.KT96 J852.A7.Q53.AJ87 AQ96.K85.82.Q532 K73.T9432.J976.4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A7.97.AT75.K9632 3.KT.QJ9863.AQ87 KQJT8542.QJ52.T.96 A8643.K42.J54."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1D 4S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J72.T9.8643.AJT2 A94.85.Q.KQ87654 653.J42.AKJT97.9 KQT8.AKQ763.52.3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 2C 2D X!
+3D Pass Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AK2.K9.T64.AKQ64 875.AJ6432.A9.73 Q643.KQ8532.J85.JT9 QT875.J7.T92."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2D Pass 2S 3N
+4H 5H Pass 5S
+Pass 6S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT985.9843.KT96.Q7 QJ2.7.K987654.K63 6.AJ8542.AJ2. A42.AKT75.Q3.QT3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D 1H 1S 4C
+X 4H 4S Pass
+Pass 5H Pass Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K962.954.QT.JT73 QJ.72.KJ52.AKQ84 T843.AKJ6.9873.2 A75.QT83.A64.965 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT92.985.85.AK95 K5.KQJ7432.A97.3 J643.T.KQ63.Q864 A87.A6.JT42.JT72 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1H Pass 1N
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK8543.83.854.T9 J2.5.A763.Q87542 Q76.AK72.K92.AKJ T9.QJT964.QJT.63 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 2D Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A43.AK973.643.A7 8.QJ5.52.KQT9854 T952.64.KT98.J62 KQJ76.T82.AQJ7.3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S 2H 3C
+Pass 3D Pass 4C
+Pass 4D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K53.KQJ2.JT86.65 Q92.985.AK43.732 A87.AT73.Q2.AQT9 JT64.64.975.KJ84 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass 2C Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT53.A85.J53.AQ 974.K92.KQ.98654 AJ82.QJ74.A98.J2 6.T63.T7642.KT73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1N Pass 2C Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJT952.AKT4.KQT.Q6 Q53.AKJ63.973.K8 J76.QT984.A65.743 982.752.J842."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D Pass 1S Pass
+1N Pass 2C Pass
+2D Pass Pass X
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "3rd European Open Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Ginossar"]
+[North "Muller"]
+[East "Pachtman"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK43.974.Q3.A852 65.AQT86.T975.63 QJ972.K2.A64.QJT T8.J53.KJ82.K974 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S Pass 2N Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+

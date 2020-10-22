@@ -1,0 +1,555 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT864.AJ.A74.862 Q72.Q52.KT3.T975 J5.K986.Q852.KJ3 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "W"]
+HJ H2 H6 H3
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT864.AJ.A74.862 Q72.Q52.KT3.T975 J5.K986.Q852.KJ3 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "W"]
+C2 CT CJ CQ
+S4 SQ S5 S3
+C6 C9 CK CA
+C8 C5 C3 C4
+S6 S7 SJ SK
+SA S2 D2 S9
+D4 DK D5 D6
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ973.K7.AJ.AJT2 Q864.T854.5.K865 52.AJ.KQT643.943 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "N"]
+Pass 2H X 4H
+5D Pass Pass Pass
+[Play "E"]
+H7 HT HJ H2
+DA D5 D3 D2
+DJ H4 DK D7
+S3 C5 DQ D8
+S7 S4 DT D9
+CJ CK C3 C7
+SA S6 S2 SK
+HK H5 HA H3
+C2 C6 D6 H6
+S9 C8 D4 H9
+SJ SQ S5 ST
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ973.K7.AJ.AJT2 Q864.T854.5.K865 52.AJ.KQT643.943 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "N"]
+1D Pass 1S Pass
+2D Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+HK H4 HJ H3
+DA D5 D3 D2
+DJ C6 DK D7
+H7 H5 DQ D8
+S3 H8 DT D9
+S7 S4 D6 H2
+S9 C5 D4 H6
+CA C8 C3 CQ
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K543.J2.AQ9.AJ43 AQJ7.T87.KJ62.T9 T9.AQ943.T873.85 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+CA CT C5 CQ
+HJ H8 H3 H5
+H2 H7 HQ HK
+DQ DK D3 D5
+C3 C9 C8 CK
+DA D2 D7 D4
+CJ HT H4 C2
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K543.J2.AQ9.AJ43 AQJ7.T87.KJ62.T9 T9.AQ943.T873.85 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+S3 SJ ST S6
+H2 H7 H3 HK
+S4 SQ S9 S8
+HJ H8 H4 H5
+S5 S7 H9 S2
+C3 HT HA H6
+DQ DK D3 D5
+SK SA HQ C7
+DA D2 D7 D4
+D9 DJ D8 C2
+CJ C9 C5 C6
+CA CT C8 CQ
+C4 D6 DT CK
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K64.T2.J87.97653 98.AKQ97.AKQ65.Q T7532.J543.T42.8 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1520"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "S"]
+Pass 1C Pass 1N
+Pass 2C Pass 2H
+Pass 3C Pass 3D
+Pass 3H Pass 3S
+Pass 4H Pass 4S
+Pass 5D Pass 5H
+Pass 5S Pass 6H
+Pass 7N Pass Pass
+Pass
+[Play "S"]
+HT HA H4 H6
+C3 CQ C8 C2
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K64.T2.J87.97653 98.AKQ97.AKQ65.Q T7532.J543.T42.8 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1020"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 3D Pass 4C
+Pass 5C Pass 6N
+Pass Pass Pass
+[Play "S"]
+HT HA H3 H6
+C3 CQ C8 C2
+H2 HK H4 H8
+D7 HQ H5 D3
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T7.KT8752.95.J92 AQJ2.AJ.74.Q8654 K95.93.AQJT6.AT3 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "W"]
+1S 2D 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T7.KT8752.95.J92 AQJ2.AJ.74.Q8654 K95.93.AQJT6.AT3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "W"]
+1C 1D 1S Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJT85.3.73.KJ962 K.98.AKQJT842.T4 A764.KJT654.AQ5."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "N"]
+1H Pass 1S 3H
+X 3N Pass Pass
+4S X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJT85.3.73.KJ962 K.98.AKQJT842.T4 A764.KJT654.AQ5."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "N"]
+1H Pass 1S 3H
+4S 4N 5C Pass
+5D Pass 5S Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT632.Q43.AQ4.97 A.KJT9872.85.T63 K97.6.KJT72.AKQ5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "E"]
+Pass Pass 3H X
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT632.Q43.AQ4.97 A.KJT9872.85.T63 K97.6.KJT72.AKQ5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "E"]
+Pass Pass 3H X
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J96.KT943.6.AQ53 QT742.872.T5.K87 A3.J5.AJ8742.964 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "S"]
+2H Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J96.KT943.6.AQ53 QT742.872.T5.K87 A3.J5.AJ8742.964 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "S"]
+Pass Pass 1D 1N
+2H 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Marston"]
+[North "Nagi"]
+[East "Del Monte"]
+[South "Sadek"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJ98.K42.AT3.AJ3 AJ653.J2.T87542. KQ6542.97.K987.K "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Egypt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Australia"]
+[Auction "W"]
+2H 2S Pass 3H
+4C 4S 4N 5C
+Pass 5D Pass 5S
+Pass Pass Pass
+[Play "E"]
+*
+
+

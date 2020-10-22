@@ -1,0 +1,925 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT3.AK762.AT4.62 7.QJ98.KJ7.AK543 KQ4.T3.Q9652.QJT A98652.54.83.987 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass Pass 1H Pass
+1N Pass Pass Pass
+[Play "E"]
+SJ S7 S4 S6
+DA D7 D2 D8
+DT DJ DQ D3
+D4 DK D5 S5
+C2 C4 CQ C8
+C6 C5 D9 S2
+H2 C3 D6 S8
+S3 H9 SK SA
+HA H8 H3 H5
+HK HJ HT H4
+ST CK SQ S9
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT3.AK762.AT4.62 7.QJ98.KJ7.AK543 KQ4.T3.Q9652.QJT A98652.54.83.987 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass Pass 1H Pass
+2D Pass 3D Pass
+3N Pass Pass X
+Pass Pass Pass
+[Play "E"]
+HA H8 H3 H5
+S3 S7 SK SA
+H2 HJ HT H4
+C2 CK CQ C8
+HK H9 D2 S6
+H6 HQ D5 C9
+C6 C3 CT C7
+ST D7 SQ S2
+SJ C4 S4 S5
+H7 C5 D6 D3
+DA DJ D9 D8
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A82.Q87.J532.T42 T5.A93.K98.AKJ97 KJ643.J.QT76.653 Q97.KT6542.A4.Q8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+1H Pass 2C Pass
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A82.Q87.J532.T42 T5.A93.K98.AKJ97 KJ643.J.QT76.653 Q97.KT6542.A4.Q8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+1H Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A983.Q42.T.JT762 J65.96.AKJ3.K985 T7.KJT853.Q7.AQ3 KQ42.A7.986542.4 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+Pass 1D 2H X
+4H Pass Pass 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A983.Q42.T.JT762 J65.96.AKJ3.K985 T7.KJT853.Q7.AQ3 KQ42.A7.986542.4 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+Pass 1C 1H X
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A972.K65.QJ4.AT9 63.AJT987.A.Q862 T84.Q3.98732.K74 KQJ5.42.KT65.J53 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+1H Pass 1S Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A972.K65.QJ4.AT9 63.AJT987.A.Q862 T84.Q3.98732.K74 KQJ5.42.KT65.J53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+1H Pass 1S Pass
+2C Pass 2N Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A762.J94.QJ8.KT9 JT.72.T7632.AQ83 K54.AKQT3.K5.J54 Q983.865.A94.762 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+1H Pass 1S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A762.J94.QJ8.KT9 JT.72.T7632.AQ83 K54.AKQT3.K5.J54 Q983.865.A94.762 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+1H Pass 1S Pass
+2C Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 6.Q95.97542.A973 Q5.8632.Q863.QJT AJ3.KJT.AKT.K864 KT98742.A74.J.52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+3S Pass Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 6.Q95.97542.A973 Q5.8632.Q863.QJT AJ3.KJT.AKT.K864 KT98742.A74.J.52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+Pass Pass Pass 1C
+2S Pass Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A86.AKJ54.A9854.KJT85 T943.72.KJ.Q93 K5.QT863.762.A7642 QJ72.9.QT3."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+1D Pass Pass X
+2C 2S 3D 3S
+4D Pass 5D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A86.AKJ54.A9854.KJT85 T943.72.KJ.Q93 K5.QT863.762.A7642 QJ72.9.QT3."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+1D 1H 2D 2S
+3C 3S Pass Pass
+5D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 83.AK95.QJT9.973 6.QT842.AK76.T62 KQJT972.8.KQJ85.A54 J763.5432.A4."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+Pass 2C Pass 2H
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 83.AK95.QJT9.973 6.QT842.AK76.T62 KQJT972.8.KQJ85.A54 J763.5432.A4."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+2H 3H 4H X
+Pass 4S X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ52.K8.AQT985.J AT3.T92.72.98652 J86.QJ765.43.KT4 974.A43.KJ6.AQ73 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass 1C 1S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ52.K8.AQT985.J AT3.T92.72.98652 J86.QJ765.43.KT4 974.A43.KJ6.AQ73 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass 1C 1D Pa
+1H Pass 1S 2C
+Pass Pass X 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 7.AQ972.QJ9432.3 AKJ5.K86.T7.J962 T9632.JT54.5.T74 Q84.3.AK86.AKQ85 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+1C 1D 1S 2H
+3H 4H 4S Pass
+4N 5H 5S Pass
+6S Pass Pass X
+Pass 7H X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 7.AQ972.QJ9432.3 AKJ5.K86.T7.J962 T9632.JT54.5.T74 Q84.3.AK86.AKQ85 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+1C 2N X 4H
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 96.AJ.QJ8652.J98 AKJ72.K942.K.743 QT4.Q87653.3.AK2 853.T.AT974.QT65 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+Pass 1S Pass 2S
+Pass Pass 3H 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 96.AJ.QJ8652.J98 AKJ72.K942.K.743 QT4.Q87653.3.AK2 853.T.AT974.QT65 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+2D X Pass 2N
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ74.73.J65.KT76 AJT9863.A9542.4.5 KT6.AK9842.AQ5.2 QJ8.QT73.J9832."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+1S X Pass 1N
+4S X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ74.73.J65.KT76 AJT9863.A9542.4.5 KT6.AK9842.AQ5.2 QJ8.QT73.J9832."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+1S 2D Pass 3D
+4S X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ52.J85.A942.A7 AT87.K632.K.JT95 Q63.A9.T653.Q842 94.QT74.QJ87.K63 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass Pass 1D X
+2D 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ52.J85.A942.A7 AT87.K632.K.JT95 Q63.A9.T653.Q842 94.QT74.QJ87.K63 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass Pass 1D 1H
+2D 2H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 73.K963.753.Q975 T84.AQT7.KJ6.JT6 AQJ96.J2.Q982.A2 K52.854.AT4.K843 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+Pass Pass 1C 1S
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 73.K963.753.Q975 T84.AQT7.KJ6.JT6 AQJ96.J2.Q982.A2 K52.854.AT4.K843 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 1N Pass 2D
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J952.64.T972.Q87 Q84.QJ95.63.AKJ6 A73.AK32.AQ.T942 KT6.T87.KJ854.53 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+Pass 1C 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J952.64.T972.Q87 Q84.QJ95.63.AKJ6 A73.AK32.AQ.T942 KT6.T87.KJ854.53 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+Pass 1C 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Balkan Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Pritchard"]
+[North "Likar"]
+[East "Susek"]
+[South "Todorovic"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KQ93.9542.2.Q765 7652.AJ7.KQ84.32 A.KQT3.AJ963.K84 JT84.86.T75.AJT9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Serbia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+

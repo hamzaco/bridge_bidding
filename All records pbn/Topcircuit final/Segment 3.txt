@@ -1,0 +1,1054 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ743.K.K3.K9763 QJT63.9876.AQT5.865 A82.QJ54.842. AJT92.9754.AT2.J "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+C6 C5 C2 CJ
+H3 H2 H4 HK
+SQ HT S5 S2
+H5 C3 HQ HA
+D6 DQ D2 D3
+HJ H8 H9 S3
+C4 DT C7 CA
+D4 DA DK D7
+D8 S6 SA S4
+S8 SJ S7 D9
+C8 ST SK H6
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ743.K.K3.K9763 QJT63.9876.AQT5.865 A82.QJ54.842. AJT92.9754.AT2.J "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1S 2H
+2S 3S 4C X
+an lo 4S Pass
+an Xo Pass X
+Pass Pass Pass
+[Play "W"]
+H4 HK HQ H2
+D3 D6 DQ DA
+C3 C5 C2 CJ
+D4 DT DK D7
+SK H3 S5 SA
+S6 SJ SQ H6
+S3 HJ S8 S9
+C4 ST S4 CQ
+HT D5 S2 S7
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K98764.KQ.K64.A2 QJ.A43.AJ75.KJ73 A5.JT952.Q92.864 T32.876.T83.QT95 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S X 1N
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K98764.KQ.K64.A2 QJ.A43.AJ75.KJ73 A5.JT952.Q92.864 T32.876.T83.QT95 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S X 1N
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT9.AJ862.42.K87 AKQ6.Q4.QT875.T3 52.KT973.6.AQ964 8743.5.AKJ93.J52 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1D 2N 3D
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT9.AJ862.42.K87 AKQ6.Q4.QT875.T3 52.KT973.6.AQ964 8743.5.AKJ93.J52 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1D 2N an
+!c 3C an !X
+ i 3D 3S Pass
+4S 5H Pa Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J97.QJ853.J5.J63 AKQ432.K976.6.Q7 6.2.AKT92.KT9842 T85.AT4.Q8743.A5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S 2N 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J97.QJ853.J5.J63 AKQ432.K976.6.Q7 6.2.AKT92.KT9842 T85.AT4.Q8743.A5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S 2N an !c
+3D an !s  i
+Pass 4D Pass 4H
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 86542.KJ3.Q53.82 J.Q8.AK982.QJT75 T3.AT9652.JT4.A6 AKQ97.74.76.K943 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2D X 2H X!
+Pass 2S Pass 3H
+Pass 4C Pass 5C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 86542.KJ3.Q53.82 J.Q8.AK982.QJT75 T3.AT9652.JT4.A6 AKQ97.74.76.K943 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2D an mu 2S
+3H X Pass 4C
+Pass 5C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 862.AJ5432.AQ.97 T54.T8.J943.KT42 AQJ97.Q976.K6.65 K3.K.T8752.AQJ83 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D 1H 2D 3D
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 862.AJ5432.AQ.97 T54.T8.J943.KT42 AQJ97.Q976.K6.65 K3.K.T8752.AQJ83 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D 1H 2D 2N
+3C 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q76.754.QT92.J72 854.AKT2.J765.A5 KT92.J8.3.KQT986 AJ3.Q963.AK84.43 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1D 2C X
+3C 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q76.754.QT92.J72 854.AKT2.J765.A5 KT92.J8.3.KQT986 AJ3.Q963.AK84.43 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C 2C X
+an TO Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T953.A543.43.T86 AK82.KJ962.J7.54 J7.QT7.KQ65.Q972 Q64.8.AT982.AKJ3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2D Pass
+2H Pass 3C Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T953.A543.43.T86 AK82.KJ962.J7.54 J7.QT7.KQ65.Q972 Q64.8.AT982.AKJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2C an
+GF Pass 2H an
+!s Pass 2S Pass
+3C an mi Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q97.842.J52.KT83 KJ4.JT65.AK4.Q76 T82.A93.Q6.AJ542 A653.KQ7.T9873.9 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q97.842.J52.KT83 KJ4.JT65.AK4.Q76 T82.A93.Q6.AJ542 A653.KQ7.T9873.9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1S Pass 1N
+Pass 2C an fo
+Pass 2D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 8.K642.AT52.AT98 Q7.QJ98753.J96.5 AKT65.Q87.KQ762.J9432 AT.K43.J43."]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D 2H 2S
+Pass 2N Pass 3C
+Pass 4C Pass 4H
+Pass 4N Pass 5H
+an 2  X 6C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 8.K642.AT52.AT98 Q7.QJ98753.J96.5 AKT65.Q87.KQ762.J9432 AT.K43.J43."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D 2H 3H
+an tX Pass 3N
+Pass 4C Pass 5C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q982.K74.J4.AK54 A6.T32.Q986.QT98 J73.Q96.AT2.J732 KT54.AJ85.K753.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1N X
+Pass 2D 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q982.K74.J4.AK54 A6.T32.Q986.QT98 J73.Q96.AT2.J732 KT54.AJ85.K753.6 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1N X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ8.853.9762.Q83 KT74.Q974.K.AT54 A93.K6.QJ53.9762 652.AJT2.AT84.KJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C Pass 1H Pass
+2H Pass 2S an
+XX Pass 2N an
+4  Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ8.853.9762.Q83 KT74.Q974.K.AT54 A93.K6.QJ53.9762 652.AJT2.AT84.KJ "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N an 9- Pass
+2C Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 3.T654.AQ732.Q83 Q52.Q8.T986.J542 JT7.AJ73.K5.AK76 AK9864.K92.J4.T9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N 2S X an
+ne Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 3.T654.AQ732.Q83 Q52.Q8.T986.J542 JT7.AJ73.K5.AK76 AK9864.K92.J4.T9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N 2S X an
+TO Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 5.KQJ32.9743.843 84.A9.KJ65.JT952 QJ762.T87.AT.AQ7 AKT93.654.Q82.K6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 1N Pass
+2C Pass 2D Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 5.KQJ32.9743.843 84.A9.KJ65.JT952 QJ762.T87.AT.AQ7 AKT93.654.Q82.K6 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A962.QJT932.K6.7 KJ4.AK6.AQ853.86 53.8.T94.AQT9542 QT87.754.J72.KJ3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 2D Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A962.QJT932.K6.7 KJ4.AK6.AQ853.86 53.8.T94.AQT9542 QT87.754.J72.KJ3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 1N an we
+3C X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AK.AQ96.J76.J752 Q8754.T87.94.A96 J93.J3.AT53.KQ84 T62.K542.KQ82.T3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AK.AQ96.J76.J752 Q8754.T87.94.A96 J93.J3.AT53.KQ84 T62.K542.KQ82.T3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJT43.Q3.KQ.AK84 Q9.A2.J973.QT975 872.65.T86542.J2 K65.KJT9874.A.63 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJT43.Q3.KQ.AK84 Q9.A2.J973.QT975 872.65.T86542.J2 K65.KJT9874.A.63 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1H X Pass
+2D an 0- 2H
+2S 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Hop"]
+[North "Maas "]
+[East "de Pagter"]
+[South "Niemeijer"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T5.AJ72.K64.KQ92 KJ9.Q94.AQT52.A6 AQ762.6.J7.JT543 843.KT853.983.87 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 1D 1H
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+

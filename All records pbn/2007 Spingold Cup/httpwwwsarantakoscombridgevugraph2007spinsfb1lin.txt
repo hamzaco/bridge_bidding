@@ -1,0 +1,924 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T84.QJ754.A52.J2 AJ.K6.QJ9863.873 Q9763.A8.KT.T964 K52.T932.74.AKQ5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2D Pass 3D
+Pass Pass Pass
+[Play "S"]
+H5 HK HA H2
+HJ H6 H8 H9
+HQ C3 S9 H3
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T84.QJ754.A52.J2 AJ.K6.QJ9863.873 Q9763.A8.KT.T964 K52.T932.74.AKQ5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "N"]
+Pass 1C 1H 2H
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+H5 HK HA H3
+HJ H6 H8 H9
+HQ D3 S3 H2
+H4 D6 S6 HT
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9.Q.KQ9752.KQT98 AQJT743.AJ3.4.A5 86.KT976.AJ3.642 K52.8542.T86.J73 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "E"]
+Pass 1D 4S Pass
+Pass Pass
+[Play "N"]
+D2 D4 DA D6
+DQ S7 D3 D8
+CQ C5 C6 CJ
+HQ HA H6 H2
+S9 SQ S6 S2
+CK SJ S8 SK
+DK S4 DJ DT
+D5 S3 C2 S5
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9.Q.KQ9752.KQT98 AQJT743.AJ3.4.A5 86.KT976.AJ3.642 K52.8542.T86.J73 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "E"]
+Pass 1D X 1H
+Pass 2C 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKT7.QT63.2.AKQT 986.J84.KQT7.972 QJ53.72.964.8643 42.AK95.AJ853.J5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "S"]
+1C Pass 1D X
+1S Pass 2S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKT7.QT63.2.AKQT 986.J84.KQT7.972 QJ53.72.964.8643 42.AK95.AJ853.J5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "S"]
+1C Pass Pass 1D
+X 3D 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQT97.Q7.AT7643.KJ4 A9864.9854.Q.532 KQT3.KJ32.J9.86 J752.AT6.K852."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 2C Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQT97.Q7.AT7643.KJ4 A9864.9854.Q.532 KQT3.KJ32.J9.86 J752.AT6.K852."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 2D Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T.QJT3.Q852.K932 AJ732.A84.AKJ.QJ 94.K975.973.T864 KQ865.62.T64.A75 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "N"]
+Pass Pass Pass 2N
+Pass 3H an tX
+Pass 3N Pass 4C
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T.QJT3.Q852.K932 AJ732.A84.AKJ.QJ 94.K975.973.T864 KQ865.62.T64.A75 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1S Pass 2D
+Pass 3C Pass 3S
+Pass 3N Pass 4D
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ864.AT8.42.T96 5.Q95432.6.AQ753 KJ73.K6.KQT98.K8 T92.J7.AJ753.J42 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "E"]
+Pass Pass 1C 1D
+Pass 1S Pass 3S
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ864.AT8.42.T96 5.Q95432.6.AQ753 KJ73.K6.KQT98.K8 T92.J7.AJ753.J42 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "E"]
+Pass Pass 2H X
+2S 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J75.AKJ54.A863.K A643.Q862.54.AJ4 KQ82.T9.KQJ.Q986 T9.73.T972.T7532 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "S"]
+1H Pass 2C Pass
+2D Pass 2N Pass
+4N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J75.AKJ54.A863.K A643.Q862.54.AJ4 KQ82.T9.KQJ.Q986 T9.73.T972.T7532 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "S"]
+1H Pass 1S Pass
+2S Pass 2N Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKT765.QT53.K5.4 Q432.A8.Q82.A653 8.K964.AJT64.K72 J9.J72.973.QJT98 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "W"]
+1N Pass 3C 3S
+Pass 3N Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKT765.QT53.K5.4 Q432.A8.Q82.A653 8.K964.AJT64.K72 J9.J72.973.QJT98 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "W"]
+1C 1D Pass 1S
+Pass 1N Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ32.K7.T9432.Q6 K87.AQ83.Q65.T84 654.J65.A87.J973 JT9.T942.KJ.AK52 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 2H X XX
+2S Pass Pass 2N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ32.K7.T9432.Q6 K87.AQ83.Q65.T84 654.J65.A87.J973 JT9.T942.KJ.AK52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "N"]
+Pass 1C 1S X
+2S Pass Pass X
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A432.73.A7.JT984 JT.QJ9854.432.AK Q985.KT6.KT86.Q2 K76.A2.QJ95.7653 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "E"]
+Pass Pass 1H Pass
+1N Pass 2H Pass
+3H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A432.73.A7.JT984 JT.QJ9854.432.AK Q985.KT6.KT86.Q2 K76.A2.QJ95.7653 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "E"]
+Pass Pass 1H Pass
+1N Pass 2H X
+XX 2S Pass Pass
+3H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9754.K986.T95.K8 QJ2.AK872.76542.A82 A54.QJ43.AT9. KQJT63.T73.6.QJ3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "S"]
+Pass 1D 1N 2C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9754.K986.T95.K8 QJ2.AK872.76542.A82 A54.QJ43.AT9. KQJT63.T73.6.QJ3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "S"]
+Pass Pass 1N 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A83.A7532.2.KJ62 KQ.KT98.QJ9853.A J72.Q4.AT764.743 T9654.J6.K.QT985 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "W"]
+1D Pass 1S X
+2D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A83.A7532.2.KJ62 KQ.KT98.QJ9853.A J72.Q4.AT764.743 T9654.J6.K.QT985 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "W"]
+1D Pass 1S X
+2D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A5432.KT95.AQ8.A QJ7.AQJ643.J97.K K86.82.K62.98763 T9.7.T543.QJT542 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "N"]
+Pass Pass 1C 2H
+Pass Pass 2S Pass
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A5432.KT95.AQ8.A QJ7.AQJ643.J97.K K86.82.K62.98763 T9.7.T543.QJT542 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S Pass 2N Pass
+3C X 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 7.KJ.AKT74.T9752 AK6.T73.862.8643 JT9542.986.93.AK Q83.AQ542.QJ5.QJ "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "E"]
+1H 2D 2H 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 7.KJ.AKT74.T9752 AK6.T73.862.8643 JT9542.986.93.AK Q83.AQ542.QJ5.QJ "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "E"]
+1H 2N Pass 3C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T.T8.AQJT62.AKQ7 AK.743.K74.T9643 98743.AJ952.5.85 QJ652.KQ6.983.J2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "S"]
+1C Pass 1D 1S
+2D 2S 3H Pass
+3S X 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T.T8.AQJT62.AKQ7 AK.743.K74.T9643 98743.AJ952.5.85 QJ652.KQ6.983.J2 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "S"]
+1D Pass 1H 1S
+2D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Ao"]
+[North "Dubinin"]
+[East "Wang"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJT83.62.A83.874 5.JT975.KJ96.A52 AK7.A83.QT542.96 9642.KQ4.7.KQJT3 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ao"]
+[Auction "W"]
+Pass 1N X 2H
+X 2S 3C Pass
+3S Pass 4C Pass
+5C Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+

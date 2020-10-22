@@ -1,0 +1,336 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bäckström"]
+[North "J.Fagerlun"]
+[East "Mäkikangas"]
+[South "V.Fagerlun"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J864.AKJ.KQ84.A3 Q9532.Q652.J.J54 K.T984.AT753.986 AT7.73.962.KQT72 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+HJ H5 HT H3
+DK DJ D3 D6
+DQ C4 D5 D2
+D8 C5 DA D9
+HA H2 H4 H7
+HK H6 H8 C2
+D4 S2 DT S7
+C3 S3 D7 C7
+S4 S5 SK SA
+CA CJ C6 CK
+SJ SQ H9 ST
+S6 S9 C8 CT
+S8 HQ C9 CQ
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bäckström"]
+[North "J.Fagerlun"]
+[East "Mäkikangas"]
+[South "V.Fagerlun"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A87.A863.KT.K942 KJ6.J95.98542.JT 932.KQ74.QJ7.763 QT54.T2.A63.AQ85 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1N Pass Pass X
+Pass 2D Pass Pass
+Pass
+[Play "None"]
+H3 H5 HK H2
+CK CJ C3 C5
+C2 CT C6 C8
+DT D4 D7 DA
+C4 H9 C7 CA
+C9 HJ DJ CQ
+DK D2 DQ D3
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bäckström"]
+[North "J.Fagerlun"]
+[East "Mäkikangas"]
+[South "V.Fagerlun"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T.AK5.QJ873.Q862 K762.JT4.T962.AK 843.87632.A4.T94 AQJ95.Q9.K5.J753 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1S Pass
+4S Pass Pass Pass
+[Play "None"]
+HA H4 H8 H9
+DQ D2 DA D5
+D8 D6 D4 DK
+ST S2 S4 SA
+D7 S6 S3 SQ
+H5 SK S8 S5
+HK HJ H7 HQ
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bäckström"]
+[North "J.Fagerlun"]
+[East "Mäkikangas"]
+[South "V.Fagerlun"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q.KQJ4.7643.6543 K6.9872.K852.AKQ T8754.T6.AQJ.T87 AJ932.A53.T9.J92 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2H Pass 2S
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+C6 CA C7 C9
+SQ SK S5 S2
+C5 S6 S4 S9
+C3 D2 S7 SA
+C4 H8 S8 SJ
+D3 D5 DJ D9
+H4 H7 ST S3
+HJ H2 HT HA
+D4 D8 DQ DT
+D6 DK DA C2
+HQ H9 H6 H3
+HK CQ C8 H5
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bäckström"]
+[North "J.Fagerlun"]
+[East "Mäkikangas"]
+[South "V.Fagerlun"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT942.654.8.T765 A7653.T9765.Q42.AJT9732 AQ4.AK8..KJ8 KQ8.KJ32.J93."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1S X
+Pass 2C 2D 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bäckström"]
+[North "J.Fagerlun"]
+[East "Mäkikangas"]
+[South "V.Fagerlun"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 842.AQT92.A5.K74 AK9765.KT43.J93.QJ K7643.J986.A8.T3 J85.Q72.QT652."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1N 2D X 2H
+X 2S 3H Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bäckström"]
+[North "J.Fagerlun"]
+[East "Mäkikangas"]
+[South "V.Fagerlun"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q84.5.95.KJT8542 J652.KJ9872.J32.KT Q643.Q764.A76. A973.AT.AKT8.Q93 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1H X 2C
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bäckström"]
+[North "J.Fagerlun"]
+[East "Mäkikangas"]
+[South "V.Fagerlun"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A954.8632.AQ542.62 A72.T954.KJT9.JT87 KQ543.7.763.KQ3 JT986.AKQJ.8."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bäckström"]
+[North "J.Fagerlun"]
+[East "Mäkikangas"]
+[South "V.Fagerlun"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 952.KT863.843.74 T43.AQ9.KJ7.AJT5 QJ87.752.T9.Q962 AK6.J4.AQ652.K83 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1S Pass
+1N Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bäckström"]
+[North "J.Fagerlun"]
+[East "Mäkikangas"]
+[South "V.Fagerlun"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q8.AQT42.987.AQ7 AJ954.9.K6543.J5 7.KJ875.Q.T98643 KT632.63.AJT2.K2 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 2H 4H 4S
+Pass Pass 5H 5S
+Pass Pass Pass
+[Play "None"]
+*
+
+

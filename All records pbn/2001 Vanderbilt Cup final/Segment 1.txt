@@ -1,0 +1,913 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT842.62.643.753 7.JT983.QJ87.Q92 KJ653.K5.AKJT64."]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "N"]
+1S X 3S 4H
+4S 5H Pass Pass
+5S X Pass Pass
+XX 6H X Pass
+Pass Pass
+[Play "N"]
+C8 C3 C2 CK
+S9 S2 S7 SK
+SQ SA H3 SJ
+H2 H8 H5 HQ
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT842.62.643.753 7.JT983.QJ87.Q92 KJ653.K5.AKJT64."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "N"]
+1C 1D 1S 3C
+5D 5H Pass Pass
+5S Pass Pass Pass
+[Play "W"]
+H2 HJ HK HA
+H6 H3 H5 HQ
+D3 D7 S6 DA
+S9 SA S7 S5
+S2 H8 SK SQ
+C8 C3 C2 CA
+D2 S4 H9 S3
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9643.A72.T.AK98 A82.QT965.K65.62 KQ7.83.AQ98.T754 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2C Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9643.A72.T.AK98 A82.QT965.K65.62 KQ7.83.AQ98.T754 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2C Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K6543.76.A5.KQ52 82.QJ.KQ7642.JT3 AT97.AT54.T8.876 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "S"]
+1S Pass 2S Pass
+Pass 3D 3H Pass
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K6543.76.A5.KQ52 82.QJ.KQ7642.JT3 AT97.AT54.T8.876 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "S"]
+1S Pass 3D Pass
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 82.KJ.T7542.JT42 QT763.A9832.Q.K3 A4.QT75.J98.Q987 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "W"]
+2H Pass 2N Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 82.KJ.T7542.JT42 QT763.A9832.Q.K3 A4.QT75.J98.Q987 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "W"]
+1S Pass 3C Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQ.Q876.4.KJT932 JT843.T42.Q92.A8 952.AKJ9.K73.654 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "N"]
+Pass 1D 2C X
+XX 2D 3C 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQ.Q876.4.KJT932 JT843.T42.Q92.A8 952.AKJ9.K73.654 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J76.KQ2.AK532.T9 AT2.T85.T964.K72 85.J73.J7.QJ8543 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "E"]
+1S Pass 2S Pass
+3H Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J76.KQ2.AK532.T9 AT2.T85.T964.K72 85.J73.J7.QJ8543 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "E"]
+1S 2D 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A4.987.AKQ63.J87 T987.QJ.J8754.A6 Q63.AK4.T9.QT543 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A4.987.AKQ63.J87 T987.QJ.J8754.A6 Q63.AK4.T9.QT543 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "S"]
+1D Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J9732.AKQT6.Q96.QT 432.J8.AJT543.K64 AKQJT96.52.K."]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 2H Pass 3D
+Pass 3S Pass 4D
+Pass 4N Pass 5C
+Pass 5S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J9732.AKQT6.Q96.QT 432.J8.AJT543.K64 AKQJT96.52.K."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "W"]
+Pass 1H Pass 1S
+2C 3C Pass 3D
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 54.KT84.7643.KQ6 T987.Q732.QT2.75 K3.J96.AKJ95.A94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "N"]
+1C 1S 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 54.KT84.7643.KQ6 T987.Q732.QT2.75 K3.J96.AKJ95.A94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "N"]
+1C 1S X 1N
+Pass 2C Pass 2S
+2N 3S 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T64.KT7532.J.753 KQ973.AQJ.74.KJ4 AJ5.64.9862.AQ62 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "E"]
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T64.KT7532.J.753 KQ973.AQJ.74.KJ4 AJ5.64.9862.AQ62 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "E"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKJ864.QT.84.Q43 T2.8754.QT95.J85 95.96.AJ63.AKT62 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "S"]
+1S Pass 2C Pass
+2S Pass 3D Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKJ864.QT.84.Q43 T2.8754.QT95.J85 95.96.AJ63.AKT62 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "S"]
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A.KQ4.T9543.J975 QJT865.82.872.AQ K72.AJ63.AKJ6.T8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "W"]
+2D 2N 3H 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A.KQ4.T9543.J975 QJT865.82.872.AQ K72.AJ63.AKJ6.T8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "W"]
+2D 2N 3H 3N
+X Pass 4D X
+4S X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T654.T53.72.A943 J9.J6.QT54.KQT72 Q7.K984.AKJ983.8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "N"]
+1D 1S Pass 1N
+2D 2H Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T654.T53.72.A943 J9.J6.QT54.KQT72 Q7.K984.AKJ983.8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "N"]
+1D 1S Pass 1N
+2D X Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT8543.K84.T965.J92 Q752.J72.KJ4. K76.T6.Q8.AQ9853 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "E"]
+1D 1S X 3C
+3H Pass Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT8543.K84.T965.J92 Q752.J72.KJ4. K76.T6.Q8.AQ9853 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "E"]
+1D 1S X 1N
+2H Pass Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K4.9742.43.AQ965 Q965.AQ85.AQ92.8 J3.KJT3.KJ.K7432 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K4.9742.43.AQ965 Q965.AQ85.AQ92.8 J3.KJT3.KJ.K7432 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Jacek Pszczola"]
+[North "Aleksander Petrunin"]
+[East "Piotr Gawrys"]
+[South "Andrew Gromov"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 7.T863.AKQ97.985 8.K754.J8642.764 QT642.Q.T53.QJT3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rosenkrantz"]
+[Auction "W"]
+Pass 2S Pass 2N
+Pass 3C X Pass
+Pass Pass
+[Play "E"]
+*
+
+

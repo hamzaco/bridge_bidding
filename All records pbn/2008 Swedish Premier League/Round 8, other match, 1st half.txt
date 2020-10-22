@@ -1,0 +1,336 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K93.T6.J9876.Q62 A84.Q952.52.AT87 765.J74.K43.9543 QJT2.AK83.AQT.KJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "N"]
+Pass 2N Pass 3C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+D8 D2 DK DA
+H6 HQ H4 H3
+HT H2 H7 HK
+D7 H5 HJ HA
+SK SA S6 SQ
+S3 S4 S7 SJ
+S9 S8 S5 ST
+*
+
+
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK9432.K.T754.98 AJ63.Q932.QJ764.J65 QT8.AKJ6.T53. QT87.97542.8.AK2 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "E"]
+Pass Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ9.J7.AKT65.T2 T7542.A.J872.KJ5 86.KT98654.9.A86 J3.Q32.Q43.Q9743 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "None"]
+CT CK CA C3
+DA D2 D9 D3
+DK D7 C6 D4
+SA S2 S6 S3
+SK S4 S8 SJ
+SQ S5 C8 H2
+*
+
+
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K98753.K.95.Q543 T62.J843.T73.J72 QJ.QT965.84.K986 A4.A72.AKQJ62.AT "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "W"]
+Pass Pass 2C an
+19 Pa 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 75.KJT84.J74.A93 QJ862.9.832.JT87 T9.AQ53.AKQ9.K42 AK43.762.T65.Q65 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "N"]
+1D Pass 1H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 654.763.Q93.KQ92 KQT.T4.AK65.J873 AJ98.KJ92.T82.A4 732.AQ85.J74.T65 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "E"]
+Pass Pass 1C an
+2+ X Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ72.92.42.AKJ62 8654.T8.KT7.QT85 T93.KQ654.Q83.97 AQ.AJ73.AJ965.43 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "S"]
+1C Pass 1H 2D
+X 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ9.J8432.2.A542 864.975.AJ65.J93 AT32.Q6.K73.KT87 J75.AKT.QT984.Q6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "W"]
+Pass 1C 1D 1H
+2D Pass Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 92.9652.K4.AJ764 T3.KJT84.98732.8 AK75.73.AQJ5.952 QJ864.AQ.T6.KQT3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "N"]
+1D 1S X! Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT93.K63.85.AQ87 84.QJ75.QT93.932 AKJ75.AT8.J764.5 62.942.AK2.KJT64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "E"]
+1C Pass 1D an
+4+ 1S Pass 2C
+an in Pass 3D
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Swedish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sundelin"]
+[North "B. Jansson"]
+[East "Gustawsson"]
+[South "T. Jansson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A7632.862.K.A643 K94.AQ.T9852.KQ7 QJ85.T53.QJ63.85 T.KJ974.A74.JT92 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Lindesbergs BS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Näsby BS"]
+[Auction "S"]
+1S 1N 2S X
+Pass 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+

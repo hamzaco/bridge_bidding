@@ -1,0 +1,580 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 532.J2.AKJT9832.QT874 Q97.8764.4.K9532 KJT64.T9.5.AJ6 A8.AKQ53.Q76."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 2N 3C 3S
+Pass 4C Pass 4S
+Pass Pass Pass
+[Play "N"]
+C4 C5 C6 CJ
+C7 CK S7 S9
+DT DA D2 D6
+C2 S4 S2 SA
+ST S3 S6 C3
+D9 DK DJ D7
+C8 D8 S5 DQ
+C9 S8 SK SJ
+HJ H8 H2 HQ
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 532.J2.AKJT9832.QT874 Q97.8764.4.K9532 KJT64.T9.5.AJ6 A8.AKQ53.Q76."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 2N 4C 4S
+Pass Pass Pass
+[Play "N"]
+C4 C5 C6 C8
+HQ HK HA H3
+S4 SK SJ C2
+HJ H8 H2 H7
+H5 H9 HT S6
+DA D2 D4 DT
+DK DJ D6 D9
+C3 S7 S2 SA
+D3 C9 D7 S3
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 986.J987.K82.KT4 KQT752.AK32.A6.2 J4.T6.QJ73.QJ986 A3.Q54.T954.A753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+C4 C2 CQ CA
+S6 S5 S4 SA
+S8 SK SJ S3
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 986.J987.K82.KT4 KQT752.AK32.A6.2 J4.T6.QJ73.QJ986 A3.Q54.T954.A753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2D Pass
+2S Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ4.98632.8.A872 KJ865.AQJ.A.J965 T72.KT4.97543.QT 93.75.KQJT62.K43 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ4.98632.8.A872 KJ865.AQJ.A.J965 T72.KT4.97543.QT 93.75.KQJT62.K43 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2N Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ865.65.T95.KT8 A7432.AQ73.87.J7 9.KJT4.A642.A542 JT.982.KQJ3.Q963 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S X XX 1N
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ865.65.T95.KT8 A7432.AQ73.87.J7 9.KJT4.A642.A542 JT.982.KQJ3.Q963 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S X XX 1N
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ87.9876.K63.62 QT42.Q3.JT9852.9 A53.KJ542.Q.KJ84 96.AT.A74.AQT753 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H 2C 2H Pass
+Pass 3C 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ87.9876.K63.62 QT42.Q3.JT9852.9 A53.KJ542.Q.KJ84 96.AT.A74.AQT753 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H 2C 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 974.T654.QT5.K84 A532.QJ87.J3.T53 QJT6.AK3.K972.J9 K8.92.A864.AQ762 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1H X
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 974.T654.QT5.K84 A532.QJ87.J3.T53 QJT6.AK3.K972.J9 K8.92.A864.AQ762 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1H X
+Pass an us 1S
+Pass Pass X Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 973.A764.AK.J986 AT6.Q92.765.K732 8.853.JT842.QT54 KQJ542.KJT.Q93.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass Pass X
+Pass 1D Pass 2S
+Pass 3C Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 973.A764.AK.J986 AT6.Q92.765.K732 8.853.JT842.QT54 KQJ542.KJT.Q93.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1N Pass Pass X
+Pass Pass XX an
+1  Pass 2C Pass
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A9.86.AJ9.AKQ942 K7.QT532.KT652.7 T2.AK94.8743.J85 QJ86543.J7.Q.T63 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 3S 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A9.86.AJ9.AKQ942 K7.QT532.KT652.7 T2.AK94.8743.J85 QJ86543.J7.Q.T63 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 3S 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ74.KT54.953.J2 9.AJ62.J62.AK965 KT863.873.KQ8.Q3 A52.Q9.AT74.T874 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1C
+1S 2S X 3H
+Pass 3S Pass 5C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ74.KT54.953.J2 9.AJ62.J62.AK965 KT863.873.KQ8.Q3 A52.Q9.AT74.T874 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1C
+1S 1N 2S Pass
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "English U-28 Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bell"]
+[North "Murphy"]
+[East "Byrne"]
+[South "Cope"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T75.QJ64.J52.642 AK9842.82.73.QT3 3.T9753.QT986.AK QJ6.AK.AK4.J9875 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1S X
+XX 2H 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+

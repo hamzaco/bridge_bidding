@@ -1,0 +1,943 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J642.A98.K8.AQJ6 AQ75.K6.AT53.T92 T3.J5432.762.K87 K98.QT7.QJ94.543 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "N"]
+Pass Pass 1N 2C
+2H Pass Pass Pass
+[Play "E"]
+S2 SA S3 S8
+S4 S7 ST SK
+DK DA D2 DQ
+D8 DT D6 DJ
+H8 D3 D7 D4
+HA H6 H2 H7
+H9 HK H3 HT
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J642.A98.K8.AQJ6 AQ75.K6.AT53.T92 T3.J5432.762.K87 K98.QT7.QJ94.543 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "N"]
+Pass Pass 1N an
+14 Pass 2D Pass
+2H X! Pass 2S
+3H Pass Pass Pass
+[Play "W"]
+C6 CT CK C3
+DK DA D2 DJ
+D8 D3 D6 DQ
+H8 D5 D7 D9
+HA H6 H2 H7
+H9 HK H3 HT
+S4 SA S3 S9
+S2 S5 ST SK
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q9854.KQ932.K42.AK JT952.AJ6.AJ7.JT7 Q643.754.865.632 AK87.T8.QT93."]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "E"]
+Pass Pass 1H Pass
+3H 3S 4H Pass
+Pass Pass
+[Play "N"]
+SA SJ S2 S4
+H2 H3 HA S5
+CJ C5 C3 C2
+D2 HJ H4 H7
+H6 H8 D3 HT
+HK S8 H5 HQ
+C4 C7 C6 C9
+DA D4 D8 DQ
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q9854.KQ932.K42.AK JT952.AJ6.AJ7.JT7 Q643.754.865.632 AK87.T8.QT93."]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "E"]
+Pass 1S X Pass
+3H Pass 3S Pass
+4H Pass Pass Pass
+[Play "S"]
+DK DA D7 D8
+H2 H3 HA S4
+SJ S2 S5 SK
+D3 HJ H4 H7
+HK D2 H5 HQ
+CK CA C6 CQ
+H9 H6 H8 C2
+C4 CJ C5 C3
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K862.K.J752.QT87 A94.QT964.4.9532 73.J8532.KT863.6 QJT5.A7.AQ9.AKJ4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "S"]
+Pass Pass Pass 2D
+Pass 2S Pass 2N
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K862.K.J752.QT87 A94.QT964.4.9532 73.J8532.KT863.6 QJT5.A7.AQ9.AKJ4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "S"]
+Pass Pass Pass 2N
+Pass 3D Pass 3N
+an no Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT42.Q76.KJ763.8 9863.AT9.AQT5.K6 J75.9842.QJT942.KQ KJ85432.A753."]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "W"]
+1D Pass 1H Pass
+1S Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT42.Q76.KJ763.8 9863.AT9.AQT5.K6 J75.9842.QJT942.KQ KJ85432.A753."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "W"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2H Pass 3H Pass
+4C Pass 4D Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 842.KJ85.KT92.75 Q9.62.QJ6.AQJT43 JT5.AQ7.A874.862 AK763.T943.53.K9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2H Pass 3D
+an   Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 842.KJ85.KT92.75 Q9.62.QJ6.AQJT43 JT5.AQ7.A874.862 AK763.T943.53.K9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1S Pass 2C
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T987.QJ964.A8.J4 Q63.AKT8.KQ4.AK6 AKJ542.2.632.752 .753.JT975.QT983 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "E"]
+Pass Pass 2D 2S
+Pass 3S X Pass
+4N Pass 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T987.QJ964.A8.J4 Q63.AKT8.KQ4.AK6 AKJ542.2.632.752 .753.JT975.QT983 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "E"]
+Pass 2D an bo
+X 4S Pass Pass
+X Pass 4N Pass
+5C 5S Pass Pass
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T7.AQJ2.AJT65.53 AK32.KT6.Q8.T764 Q64.9873.2.KQJ82 J985.54.K9743.A9 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "S"]
+1D X 1H 1S
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T7.AQJ2.AJT65.53 AK32.KT6.Q8.T764 Q64.9873.2.KQJ82 J985.54.K9743.A9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "S"]
+1D X 2C an
+nf X! Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T83.KT86.A94.AKQ 765.AJ73.T7532.7 AQ94.9.K86.JT642 KJ2.Q542.QJ.9853 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 2C Pass 2H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T83.KT86.A94.AKQ 765.AJ73.T7532.7 AQ94.9.K86.JT642 KJ2.Q542.QJ.9853 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "W"]
+Pass Pass Pass 1N
+an 14 Pass 2C
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKJ.KJT975.64.Q2 8.843.QJ9732.K97 Q742.A2.K8.JT865 T9653.Q6.AT5.A43 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKJ.KJT975.64.Q2 8.843.QJ9732.K97 Q742.A2.K8.JT865 T9653.Q6.AT5.A43 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 865.AJT92.A4.Q52 AJ2.Q3.QT86.A943 K7.K865.KJ32.K87 QT943.74.975.JT6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "E"]
+Pass 1H Pass 2N
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 865.AJT92.A4.Q52 AJ2.Q3.QT86.A943 K7.K865.KJ32.K87 QT943.74.975.JT6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "E"]
+Pass 1H X 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T6.K42.KQ9.KQ853 A43.876.84.AT972 Q98752.A.A753.64 KJ.QJT953.JT62.J "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "S"]
+1C Pass 1S 2H
+Pass 3H 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T6.K42.KQ9.KQ853 A43.876.84.AT972 Q98752.A.A753.64 KJ.QJT953.JT62.J "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "S"]
+1D an Pa Pass
+1S Pass 1N an
+11 Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J8765.A8.KQ5.K87 T.KQJT64.4.AT942 AQ4.32.AJT986.Q5 K932.975.732.J63 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "W"]
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J8765.A8.KQ5.K87 T.KQJT64.4.AT942 AQ4.32.AJT986.Q5 K932.975.732.J63 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "W"]
+1H 2D Pass 2H
+3C 3D 3H 3S
+4H 4S Pass Pass
+5H X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 653.86.QT9.QT943 QT7.QJ32.K86.K75 KJ9.A95.A32.AJ82 A842.KT74.J754.6 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 653.86.QT9.QT943 QT7.QJ32.K86.K75 KJ9.A95.A32.AJ82 A842.KT74.J754.6 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "N"]
+1C an Pa Pass
+1D Pass 1N an
+17 Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q52.AK963.7.KQ76 KT874.7542.982.A AJ63.J.AKJ65.JT4 9.QT8.QT43.98532 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "E"]
+Pass 1H 1S 2D
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q52.AK963.7.KQ76 KT874.7542.982.A AJ63.J.AKJ65.JT4 9.QT8.QT43.98532 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "E"]
+Pass 1H 1S X
+Pass 2C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT84.8542.764.A5 97653.T.QJT832.8 AQ2.AQ6.K95.JT43 J.KJ973.A.KQ9762 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "S"]
+Pass 2S an  
+2N X Pass 3D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT84.8542.764.A5 97653.T.QJT832.8 AQ2.AQ6.K95.JT43 J.KJ973.A.KQ9762 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "S"]
+Pass Pass 1N an
+14 2H an !h
+X an 4! Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "STRATER"]
+[North "LASSERRE"]
+[East "KRATZ"]
+[South "POIZAT"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J52.3.T752.T8632 KT876.QJ64.J4.J7 43.KT75.KQ96.AKQ AQ9.A982.A83.954 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+

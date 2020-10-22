@@ -1,0 +1,860 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QT964.876.7.KJ63 J52.K95.AKT.8752 K3.QT432.J4.AQT9 A87.AJ.Q986532.4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+- - 1D 1S
+2S X XX Pass
+3D Pass 3H Pass
+3S Pass 3N Pass
+Pass Pass - -
+[Play "S"]
+ST S2 SK SA
+D7 DA D4 D2
+S4 DK DJ D3
+S6 DT H2 DQ
+S9 C2 CT D9
+H6 C5 C9 D8
+H8 C7 S3 D6
+C6 C8 H3 D5
+H7 H5 H4 HA
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T3.KT94.J9.87653 QJ862.86.T52.AQ2 A9754.QJ532.83.J K.A7.AKQ764.KT94 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+P P P 1D
+P 1S P 3C
+P 3D P 3H
+P 4C P 4H
+P 4N P 6D
+P P P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "48"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KT6432.5.65.A983 Q8.AT842.K9843.J AJ95.KJ93.J2.K54 7.Q76.AQT7.QT762 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+P 1C P 1S
+D 2S 3D 4S
+P P P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK86.753.AQT2.QT J3.KT92.J98543.4 Q94.Q84.K76.A932 T752.AJ6.KJ8765."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+P P 1N P
+3N P P P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K763.8753.T4.AQ5 QJ854.KQ9.KJ2.32 A2.J42.A873.K984 T9.AT6.Q965.JT76 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+P P 1S P
+1N P P P
+[Play "W"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT865.98.Q95.942 72.K53.A8.KQJ875 AK3.AQJ7.KJ3.AT6 J94.T642.T7642.3 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+P 1C D P
+1S P 2C P
+2S P 3C P
+4S P P D
+P P P
+[Play "W"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A63.863.A83.AQ75 QJT8.AQJ94.T.J93 K54.K5.J9764.864 972.T72.KQ52.KT2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1H P 2H P
+P P
+[Play "W"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT.KQT3.8.AJ763 762.J974.K943.84 A943.852.Q762.K2 K85.A6.AJT5.QT95 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+P 1N 2C P
+2H P P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT.9.QJT63.KJT75 732.832.A875.843 K84.A654.K92.A96 AJ965.KQJT7.4.Q2 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1S 2N P 5C
+P P P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ52.J97.Q94.J87 QT7.6.AK8.A96532 K863.AQ32.T72.K4 94.KT854.J653.QT "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+P 1C D 1H
+1S 2C P P
+2S P P 3C
+P P P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "56"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT53.A65.J.AQT42 K2.K97.A863.7653 J9874.J82.KQ4.K9 Q6.QT43.T9752.J8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+P P P 1C
+P 1S P 3D
+P 4S P P
+P
+[Play "W"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "57"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ98.5.KQ652.A65 A643.Q862.A3.KT3 JT.J9.J9874.9742 752.AKT743.T.QJ8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+P 2H D 4H
+P P P
+[Play "W"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "58"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q73.KQJ432.QT7.6 J84.987.K3.87532 A62.A6.92.AQJT94 KT95.T5.AJ8654.K "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1D 2H P 4H
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "59"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K63.KQ9873.732.5 AT84.A64.T8.T987 Q97.JT2.Q965.K63 J52.5.AKJ4.AQJ42 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+2H P P D
+P 2S P 3C
+P 3H D 3S
+P 4H P 4N
+P 6C P P
+P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "60"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT43.AQJ86.Q52.Q J9865.54.KT9.T83 K2.T7.J743.AK542 A7.K932.A86.J976 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+P 1C P 1H
+P 1N P 2D
+P 3C P 3N
+P P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QT964.876.7.KJ63 J52.K95.AKT.8752 K3.QT432.J4.AQT9 A87.AJ.Q986532.4 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1D 1S D R
+2D P 3D P
+P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T3.KT94.J9.87653 QJ862.86.T52.AQ2 A9754.QJ532.83.J K.A7.AKQ764.KT94 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+P P P 1C
+P 1S P 2D
+P 3D P 4H
+P 4N P 6D
+P P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "48"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KT6432.5.65.A983 Q8.AT842.K9843.J AJ95.KJ93.J2.K54 7.Q76.AQT7.QT762 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+P 1C P 1S
+1N 2S 5D 5S
+P P D P
+P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK86.753.AQT2.QT J3.KT92.J98543.4 Q94.Q84.K76.A932 T752.AJ6.KJ8765."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+P 2C D P
+2N P 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K763.8753.T4.AQ5 QJ854.KQ9.KJ2.32 A2.J42.A873.K984 T9.AT6.Q965.JT76 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+P P 1S P
+1N P P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT865.98.Q95.942 72.K53.A8.KQJ875 AK3.AQJ7.KJ3.AT6 J94.T642.T7642.3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+P 2C D P
+2S P 3C P
+3S P 3N P
+4S P P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A63.863.A83.AQ75 QJT8.AQJ94.T.J93 K54.K5.J9764.864 972.T72.KQ52.KT2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1H P 2H D
+P 3D P P
+P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT.KQT3.8.AJ763 762.J974.K943.84 A943.852.Q762.K2 K85.A6.AJT5.QT95 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+P 1D D P
+2S P P P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT.9.QJT63.KJT75 732.832.A875.843 K84.A654.K92.A96 AJ965.KQJT7.4.Q2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1S 2N P 3C
+3H P 3S 3N
+P 4C P P
+P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ52.J97.Q94.J87 QT7.6.AK8.A96532 K863.AQ32.T72.K4 94.KT854.J653.QT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+P 2C D 3C
+P P P
+[Play "W"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "56"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT53.A65.J.AQT42 K2.K97.A863.7653 J9874.J82.KQ4.K9 Q6.QT43.T9752.J8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1N P P 2H
+P 4S P P
+P
+[Play "W"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "57"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ98.5.KQ652.A65 A643.Q862.A3.KT3 JT.J9.J9874.9742 752.AKT743.T.QJ8 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+P 2H D 4H
+P P P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "58"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q73.KQJ432.QT7.6 J84.987.K3.87532 A62.A6.92.AQJT94 KT95.T5.AJ8654.K "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1D 1H P 3C
+P 3H P 4H
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "59"]
+[West "Zia"]
+[North "H.WeinsteinZia"]
+[East "Rosenberg"]
+[South "Garner"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K63.KQ9873.732.5 AT84.A64.T8.T987 Q97.JT2.Q965.K63 J52.5.AKJ4.AQJ42 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+2H P 3H D
+P 4S P P
+P
+[Play "E"]
+*
+
+

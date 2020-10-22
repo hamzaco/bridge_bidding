@@ -1,0 +1,625 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ2.A.AJ732.J754 AJ9753.K87.85.Q8 T6.T653.T96.AT92 84.QJ942.KQ4.K63 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D 1S Pass 1N
+2C 2S 3C Pass
+Pass Pass
+[Play "W"]
+S2 SA S6 S4
+SK SJ ST S8
+C4 C8 C9 CK
+HA H7 H3 HQ
+C5 CQ CA C3
+C7 S7 CT C6
+DA D5 DT DQ
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ2.A.AJ732.J754 AJ9753.K87.85.Q8 T6.T653.T96.AT92 84.QJ942.KQ4.K63 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D 2S Pass Pass
+Pass
+[Play "N"]
+DA D5 D9 DK
+HA H7 H3 H2
+C4 C8 CA C3
+S2 H8 H6 H4
+C5 CQ C2 CK
+SK SA S6 S4
+D2 D8 D6 DQ
+SQ S3 ST S8
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJ2.JT7.AT6.Q873 KT98.AK4.9832.62 Q6.Q865.J74.AJ95 7543.932.KQ5.KT4 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "W"]
+S2 ST SQ S3
+HT HK H5 H3
+C3 C2 C5 CK
+SJ SK S6 S5
+SA S9 D4 S7
+HJ HA H6 H2
+D6 S8 D7 S4
+DA D9 DJ DQ
+C7 C6 CA C4
+C8 D2 CJ CT
+CQ D3 C9 D5
+H7 H4 HQ H9
+DT D8 H8 DK
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJ2.JT7.AT6.Q873 KT98.AK4.9832.62 Q6.Q865.J74.AJ95 7543.932.KQ5.KT4 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "W"]
+S2 ST SQ S3
+HT HK H5 H3
+SJ S9 S6 S4
+C3 C2 CJ CK
+SA S8 D4 S7
+C7 C6 CA C4
+HJ HA H6 H2
+D6 SK D7 S5
+DA D8 DJ DQ
+CQ D2 C9 CT
+C8 D3 C5 D5
+H7 H4 HQ H9
+DT D9 H8 DK
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q32.T4.A73.K5432 T54.96.JT9864.A9 J976.AQJ85.5.T76 AK8.K732.KQ2.QJ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 1D
+1H 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+HT H6 HJ H2
+S3 S4 S6 SK
+D3 D4 D5 DK
+D7 D6 C6 DQ
+DA D8 H5 D2
+SQ S5 S7 S8
+H4 H9 HA H3
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q32.T4.A73.K5432 T54.96.JT9864.A9 J976.AQJ85.5.T76 AK8.K732.KQ2.QJ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 1D
+1H 1N Pass 2C
+Pass 2D Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+HT H6 H5 H2
+CK CA C7 C8
+D7 D4 D5 DK
+D3 D6 HQ DQ
+DA D8 C6 D2
+C5 C9 CT CJ
+C2 D9 H8 CQ
+S3 S4 S6 SA
+S2 S5 S7 SK
+SQ ST S9 S8
+C3 DT HJ H3
+C4 DJ HA H7
+H4 H9 SJ HK
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A962.K4.QJ85.Q75 4.JT85.AK.AKJ842 JT875.Q973.T94.9 KQ3.A62.7632.T63 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 2C Pass
+3C Pass 3H Pass
+3N Pass Pass Pass
+[Play "S"]
+S2 S4 ST SQ
+C5 CA C9 CT
+C7 CK DT C3
+CQ C2 D9 C6
+D5 DK D4 D2
+S6 CJ S7 D3
+D8 C8 H3 H2
+S9 C4 S5 S3
+DJ DA SJ D6
+H4 H5 H7 HA
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A962.K4.QJ85.Q75 4.JT85.AK.AKJ842 JT875.Q973.T94.9 KQ3.A62.7632.T63 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1S 2C 2S
+3C Pass 3S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT972.AK432.AT5.K8432 Q3.Q75.J93.AQ6 J854.T9.Q842.JT975 K6.J86.K76."]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H Pass 1N Pass
+3D an 4+  s
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT972.AK432.AT5.K8432 Q3.Q75.J93.AQ6 J854.T9.Q842.JT975 K6.J86.K76."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 1S 2S 4S
+6H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T43.52.Q8432.J42 K752.AKQ6.KJ.KQ7 AJ96.T743.T9.T63 Q8.J98.A765.A985 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -720"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C Pass 1N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T43.52.Q8432.J42 K752.AKQ6.KJ.KQ7 AJ96.T743.T9.T63 Q8.J98.A765.A985 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C Pass 1N Pass
+2D Pass 2H Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A653.KJ2.A763.65 KQT94.63.KJ5.AQ7 72.T874.42.T9842 J8.AQ95.QT98.KJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1N Pass 2C
+an Pa Pass 2N
+an 13 Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A653.KJ2.A763.65 KQT94.63.KJ5.AQ7 72.T874.42.T9842 J8.AQ95.QT98.KJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C X 1S
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K984.AQ.87.KQJ75 Q65.86532.AT532.J73 K974.KJ64.94. AT2.JT.Q9.AT8632 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K984.AQ.87.KQJ75 Q65.86532.AT532.J73 K974.KJ64.94. AT2.JT.Q9.AT8632 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQJ2.QT63.T8732.T98543 9.K9.KT75.A76 542.AQJ5.963. .AKJ87.64.AQJ842 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1D 1H
+5D Pass Pass 5H
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQJ2.QT63.T8732.T98543 9.K9.KT75.A76 542.AQJ5.963. .AKJ87.64.AQJ842 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1D 2N
+X 3C Pass 5C
+5D Pass Pass X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Maj"]
+[North "Ruminska"]
+[East "Zegilewicz"]
+[South "Krogulska"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ9.QJT74.T4.Q42 KT3.65.KQ.KJ9865 J864.AK9832.862.752 .AJ9753.AT73."]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2C Pass 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,923 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK975.QT2.K.JT85 84.AKJ63.65432.A 632.975.T87.K643 QJT.84.AQJ9.Q972 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+Pass 1D 1S 3H
+Pass 4D Pass 5D
+Pass Pass Pass
+[Play "S"]
+SA S4 S6 ST
+SK S8 S3 SJ
+C5 CA C3 C2
+DK D2 D7 DQ
+HT HA H7 H4
+S5 D4 D8 DA
+C8 D3 DT DJ
+H2 HK H5 H8
+HQ H3 H9 D9
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK975.QT2.K.JT85 84.AKJ63.65432.A 632.975.T87.K643 QJT.84.AQJ9.Q972 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+Pass 1C 1S X
+Pass 1N Pass 2H
+Pass 3D Pass 5D
+Pass Pass Pass
+[Play "S"]
+SK S4 S6 ST
+SA S8 S2 SQ
+S5 H3 S3 SJ
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J5.Q765.Q654.AJ8 AK98.T8.AKT972.3 64.A9432.8.K9764 QT732.KJ.J3.QT52 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+Pass Pass 1D 1H
+1S 3D 4S Pass
+Pass Pass
+[Play "S"]
+H5 H8 HA HJ
+H6 HT H3 HK
+S5 SA S4 S3
+SJ SK S6 S2
+D4 DA D8 D3
+D5 DK C4 DJ
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J5.Q765.Q654.AJ8 AK98.T8.AKT972.3 64.A9432.8.K9764 QT732.KJ.J3.QT52 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+Pass Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J85.T875.AJT98.3 72.Q62.K7654.AQJ QT643.A43.3.9852 AK9.KJ9.Q2.KT764 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass 1D Pass 2C
+an GF Pass 2D
+Pass 3N an ha
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J85.T875.AJT98.3 72.Q62.K7654.AQJ QT643.A43.3.9852 AK9.KJ9.Q2.KT764 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass 1D 1S X
+2S Pass Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A842.AT53.Q4.984 96.Q42.K97532.AK QT5.97.AJT6.J632 KJ73.KJ86.8.QT75 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+1D Pass 1H Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A842.AT53.Q4.984 96.Q42.K97532.AK QT5.97.AJT6.J632 KJ73.KJ86.8.QT75 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+1D Pass 1H Pass
+2H Pass 3D Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK7.Q62.KJ96.952 QJ2.K53.843.QJ63 T98643.T9.Q2.AKT 5.AJ874.AT75.874 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 1N Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK7.Q62.KJ96.952 QJ2.K53.843.QJ63 T98643.T9.Q2.AKT 5.AJ874.AT75.874 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+Pass 1H Pass 2H
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 92.65.T65.AK9842 KT.AT9742.A93.Q6 74.QJ3.KJ874.JT5 AQJ8653.K8.Q2.73 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+1S Pass 2H Pass
+2S Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 92.65.T65.AK9842 KT.AT9742.A93.Q6 74.QJ3.KJ874.JT5 AQJ8653.K8.Q2.73 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+1S 2C X XX
+2S Pass 3H Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ95.AJ532.T873.876 Q76.AJT942.4.AT432 K.76.AKQ95.K T984.KQ853.J62."]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass Pass 1S Pass
+4D Pass 4N Pass
+5C Pass 5S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ95.AJ532.T873.876 Q76.AJT942.4.AT432 K.76.AKQ95.K T984.KQ853.J62."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass Pass 1S Pass
+4D X 4N Pass
+5D Pass 6S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q74.K2.K874.QT87 K3.QJ984.AT6.A63 AJ8652.3.3.KJ942 T9.AT765.QJ952.5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+1N 2S 2N 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q74.K2.K874.QT87 K3.QJ984.AT6.A63 AJ8652.3.3.KJ942 T9.AT765.QJ952.5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+1N 2S X 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A82.QJ83.93.AKQ3 T953.52.QT762.JT KQ64.T97.KJ.7654 J7.AK64.A854.982 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+Pass 1D X 3D
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A82.QJ83.93.AKQ3 T953.52.QT762.JT KQ64.T97.KJ.7654 J7.AK64.A854.982 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+Pass 1D X 3D
+3S Pass 4S Pass
+Pass Pa
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q3.AQ92.KT63.T85 K74.J85.QJ5.K632 AT92.T3.942.AQJ7 J865.K764.A87.94 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q3.AQ92.KT63.T85 K74.J85.QJ5.K632 AT92.T3.942.AQJ7 J865.K764.A87.94 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+Pass 1C Pass 1D
+X Pass 1S 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT8.32.9654.JT73 KQ632.985.T2.AK8 J75.AKJ6.AKQ73.2 94.QT74.J8.Q9654 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass 1S 2D Pass
+3D Pass 3H Pass
+4D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT8.32.9654.JT73 KQ632.985.T2.AK8 J75.AKJ6.AKQ73.2 94.QT74.J8.Q9654 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass 1S X Pass
+2C Pass 2D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJT43.T84.AK2.86 KQ6.7532.Q3.AKQ9 98752.K96.T94.J3 .AQJ.J8765.T7542 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+1N Pass 2N Pass
+3C Pass Pass 3S
+Pass 4S X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJT43.T84.AK2.86 KQ6.7532.Q3.AKQ9 98752.K96.T94.J3 .AQJ.J8765.T7542 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+1N Pass 2N Pass
+3C Pass 3S X
+4C Pass 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ42.AJ.J3.AT964 K9.QT74.974.KJ52 T8765.983.T5.Q87 Q3.K652.AKQ862.3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+Pass 1D X XX
+1S Pass 2S Pass
+Pass 3D 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ42.AJ.J3.AT964 K9.QT74.974.KJ52 T8765.983.T5.Q87 Q3.K652.AKQ862.3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+Pass 1D X 1H
+1S 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K8.53.AJ8.QT9865 Q762.T86.K9743.K 43.AKJ942.T6.A32 AJT95.Q7.Q52.J74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+Pass 1C Pass 1H
+1S 2C 3D an
+fi 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K8.53.AJ8.QT9865 Q762.T86.K9743.K 43.AKJ942.T6.A32 AJT95.Q7.Q52.J74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+Pass Pass Pass 1H
+1S 2C 3S 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 932.A654.Q98732.Q876 JT97.K874.T.AKJ54 KQ.JT2.AJ4.T 832.AQ9653.K65."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass Pass 1S 2D
+4S 5D X Pass
+5S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 932.A654.Q98732.Q876 JT97.K874.T.AKJ54 KQ.JT2.AJ4.T 832.AQ9653.K65."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass Pass 1C 2D
+4D Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "McGeorge"]
+[North "Ferguson"]
+[East "Steel"]
+[South "MacKenzie"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: JT.643.873.98432 862.AKJ2.KQ62.K6 AQ43.T95.JT5.T75 K975.Q87.A94.AQJ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Northern Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

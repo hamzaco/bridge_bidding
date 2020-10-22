@@ -1,0 +1,330 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "German Open Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K962.AQ96.Q73.QT J8.T8743.A52.A93 AQ75.2.KJ64.K542 T43.KJ5.T98.J876 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Piekarek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ludewig"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "W"]
+D3 DA D4 DT
+DQ D5 D6 D8
+S2 S8 SA S3
+CT CA C2 C6
+D7 D2 DK D9
+HQ H4 H2 H5
+CQ C3 C4 C7
+HA H3 C5 HJ
+S6 SJ SQ S4
+*
+
+
+[Event "German Open Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT53.A982.43.863 7.754.QJ98765.QT Q82.KJ3.AKT.AJ74 AK964.QT6.2.K952 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Piekarek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ludewig"]
+[Auction "S"]
+Pass Pass 1C 1S
+Pass Pass 1N Pass
+Pass Pass
+[Play "W"]
+S3 S7 SQ SA
+C3 CQ CA C5
+ST H4 S8 S4
+H2 H5 HJ HQ
+C6 CT C4 CK
+C8 D7 C7 C2
+H8 H7 HK H6
+D3 D5 CJ C9
+HA D6 H3 HT
+H9 D8 S2 D2
+D4 DJ DA S6
+*
+
+
+[Event "German Open Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 8764.Q3.73.AT865 J752.J6542.7432.KQT53 K9.AQT.KJ9. AJ92.AT864.K98.Q "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Piekarek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ludewig"]
+[Auction "W"]
+Pass 1C 2C Pass
+2H Pass Pass X
+Pass Pass Pass
+[Play "E"]
+HA H3 H2 HK
+C9 CQ CA C4
+HQ H5 H9 H4
+D3 D2 DT DK
+D7 D4 DQ D8
+*
+
+
+[Event "German Open Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T8.KJT5.A53.JT53 A2.Q76.KT72.AQ92 KQJ74.A842.64.K4 9653.93.QJ98.876 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Piekarek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ludewig"]
+[Auction "N"]
+1S Pass 1N Pass
+2H Pass Pass Pass
+[Play "E"]
+D3 D2 D4 DQ
+DA D7 D6 D8
+HK H6 H2 H3
+HJ H7 H4 H9
+H5 HQ HA C8
+ST SA S4 S3
+D5 DK H8 D9
+S8 S2 SK S5
+*
+
+
+[Event "German Open Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A32.T432.K874.J3 QJ.J86.A953.AKT6 T97654.KQ7.J.Q98 K8.A95.QT62.7542 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Piekarek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ludewig"]
+[Auction "E"]
+Pass Pass 1D 2S
+3D 3S Pass Pass
+Pass
+[Play "E"]
+D4 DA DJ D6
+C3 CA C8 C7
+CJ CK C9 C5
+H2 H6 HK HA
+HT HJ HQ H9
+SA SJ S4 S8
+*
+
+
+[Event "German Open Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 82.QT.KQ962.9763 AQT6.6.J73.AKQT2 KJ94.K85432.84.J 753.AJ97.AT5.854 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Piekarek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ludewig"]
+[Auction "S"]
+Pass 1C 1H 1N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "German Open Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 87.AKT875.63.J73 AT2.J94.A854.AK6 KQ54.632.QJT9.Q4 J963.Q.K72.T9852 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Piekarek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ludewig"]
+[Auction "W"]
+1D Pass 1S 2H
+X 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "German Open Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A3.AK952.9864.97 T8542.QJ83.J.654 976.Q7532.AQJ83.KQJ T764.AKT.KT2."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Piekarek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ludewig"]
+[Auction "N"]
+Pass 1H Pass 2H
+2N X 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "German Open Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9654.AKT7.J62.T5 T2.J9632.KQ5.Q97 K73.Q4.A973.AK43 AQJ8.85.T84.J862 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Piekarek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ludewig"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "German Open Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K84.543.AT98742.J J42.KT762.J653.A96532 KT83.AJ9..QT7 AQ9765.Q8.KQ."]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Piekarek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ludewig"]
+[Auction "S"]
+3C Pass Pass 3H
+Pass 4H X Pass
+Pass Pass
+[Play "E"]
+*
+
+

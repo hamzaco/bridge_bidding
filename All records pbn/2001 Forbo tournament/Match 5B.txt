@@ -1,0 +1,464 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ873.AQ.J9.J652 KT9.K8643.KT2.AT 64.T7.A764.K9743 J52.J952.Q853.Q8 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+P P 1S P
+1N P 2C 2H
+P P P
+[Play "N"]
+SA ST S6 S2
+S3 S9 S4 SJ
+HA H3 H7 H2
+S8 SK HT S5
+CJ CA C3 C8
+HQ HK C4 H5
+S7 H6 C7 HJ
+D9 DK DA D3
+DJ D2 D4 D5
+C2 CT CK CQ
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ873.AQ.J9.J652 KT9.K8643.KT2.AT 64.T7.A764.K9743 J52.J952.Q853.Q8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+P P 1S D
+1N 2H 3C P
+P P
+[Play "W"]
+HQ H6 H7 H9
+D9 D2 D4 DQ
+HA H3 HT H2
+DJ DK DA D3
+SQ SK S4 S5
+C2 DT D6 D5
+C5 CT CK C8
+C6 CA D7 D8
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ7632.Q5.QJ97.K K85.A863.T632.A5 94.972.AK5.JT872 AT.KJT4.84.Q9643 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+P 2S P P
+D P 3H P
+P P
+[Play "N"]
+DQ D3 DA D4
+SJ SK S9 ST
+CK CA C2 C3
+S2 S5 S4 SA
+D7 D2 DK D8
+H5 C5 CJ CQ
+S3 S8 H7 HT
+HQ HA C7 C9
+D9 D6 D5 H4
+S6 H3 C8 C6
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ7632.Q5.QJ97.K K85.A863.T632.A5 94.972.AK5.JT872 AT.KJT4.84.Q9643 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+P 1S P 1N
+D 2D 2H P
+P P
+[Play "N"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 76543.AKJ4.52.75 AJ982.T62.K93.AT Q753.AQT764.864. KQT.98.J8.KQJ932 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+P 1S 2D 3D
+P 3S P 4S
+D P P P
+[Play "N"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 76543.AKJ4.52.75 AJ982.T62.K93.AT Q753.AQT764.864. KQT.98.J8.KQJ932 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+2D P 4H P
+P P
+[Play "E"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T84.Q85.J843.AK9 65.K4.AKT96.J764 7.AJ9762.Q5.8532 AKQJ932.T3.72.QT "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "W"]
+1D 1H 1S 2H
+P P 4S P
+P P
+[Play "S"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T84.Q85.J843.AK9 65.K4.AKT96.J764 7.AJ9762.Q5.8532 AKQJ932.T3.72.QT "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "W"]
+1D 2H 4S P
+P P
+[Play "S"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T83.AJ2.KQT75.Q4 J74.854.32.JT875 KQ96.93.J86.A632 A52.KQT76.A94.K9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+1C 1H 1N P
+P D R 2H
+P P 2N P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T83.AJ2.KQT75.Q4 J74.854.32.JT875 KQ96.93.J86.A632 A52.KQT76.A94.K9 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "3"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+P 1N P P
+P
+[Play "S"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K975.A54.63.AKT2 62.KQ732.JT2.963 T84.T986.K974.74 AQJ3.J.AQ85.QJ85 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+1D D 1H P
+1S P 2D P
+P P
+[Play "S"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K975.A54.63.AKT2 62.KQ732.JT2.963 T84.T986.K974.74 AQJ3.J.AQ85.QJ85 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+1D D 1H P
+1S P 2D P
+2N P P P
+[Play "S"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ.654.QT542.AK5 A873.T73.K986.Q4 542.AK.A7.JT9876 QT96.QJ982.J3.32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+1N P 3N P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ.654.QT542.AK5 A873.T73.K986.Q4 542.AK.A7.JT9876 QT96.QJ982.J3.32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+1D P 2C P
+2N P 3N P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Blakset"]
+[North "Mariana"]
+[East "Bruun"]
+[South "Burgay"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 4.A953.JT864.AQ6 KQJT.KJ862.9.K92 A983.QT.K732.J84 7652.74.AQ5.T753 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Burgay"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "W"]
+1H P 1S P
+2S P P D
+R 3D P P
+3S P P P
+[Play "S"]
+*
+
+

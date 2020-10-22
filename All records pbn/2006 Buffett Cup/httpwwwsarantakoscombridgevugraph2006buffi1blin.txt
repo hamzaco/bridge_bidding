@@ -1,0 +1,337 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ82.KJ4.72.KJT K73.Q82.K965.A86 654.T93.AQJ83.Q5 T9.A765.T4.97432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "N"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "W"]
+D2 D5 DJ D4
+SQ SK S4 ST
+H4 H2 HT HA
+HK H8 H3 H5
+SA S3 S5 S9
+SJ S7 S6 C4
+S8 C6 H9 C2
+S2 C8 D3 C3
+D7 D9 DQ DT
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ82.KJ4.72.KJT K73.Q82.K965.A86 654.T93.AQJ83.Q5 T9.A765.T4.97432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "N"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q6.K8.AKJ872.842 K93.QJ752.AKJT7.875 T96.Q63.Q965.AJT42 A43.T954.3."]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "E"]
+Pass 1D 2N an
+un Pass 3D an
+fo Pass 3S Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q6.K8.AKJ872.842 K93.QJ752.AKJT7.875 T96.Q63.Q965.AJT42 A43.T954.3."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "E"]
+Pass 1D 1H Pass
+1S 2D 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q83.AT87.J8.JT92 AJ62.3.T9765.AK8 9.KQ654.KQ43.763 KT754.J92.A2.Q54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "S"]
+Pass 1D 1H 1S
+2D an fo 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q83.AT87.J8.JT92 AJ62.3.T9765.AK8 9.KQ654.KQ43.763 KT754.J92.A2.Q54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "S"]
+Pass 1D 1H 1S
+2H 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A862.QT7.762.Q62 KJ94.K96542.54.9 Q753.AJ83.AQ8.43 T.KJT93.AKJT875."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "W"]
+Pass 1D 5C X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A862.QT7.762.Q62 KJ94.K96542.54.9 Q753.AJ83.AQ8.43 T.KJT93.AKJT875."]
+[Declarer "E"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "W"]
+Pass 1D 5C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ2.AK2.J73.Q653 3.QJ973.AQ985.72 T98754.84.42.A84 AQ6.T65.KT6.KJT9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1N an 12
+Pass 2H Pass Pass
+X Pass 2S 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ2.AK2.J73.Q653 3.QJ973.AQ985.72 T98754.84.42.A84 AQ6.T65.KT6.KJT9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1N Pass 2D
+2S 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Buffett Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hampson"]
+[North "Hanlon"]
+[East "J. Levin"]
+[South "von Arnim"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q93.AJT2.Q98.QT5 K72.854.AKJ64.J7 A8654.9763.T72.9 JT.KQ.53.AK86432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Europe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA"]
+[Auction "E"]
+1C Pass 1D Pass
+2C Pass 3C Pass
+3H an sh X
+an le 3S an
+sh X an le
+Pass Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,492 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "5th Forbo-Krommenie Tournament 1997"]
+[Site "Kurhaus Hotel, Scheveningen, The Netherlands, NLD"]
+[Date "1997.02.23"]
+[Hometeam "Mahmood"]
+[VisitTeam "Elinescu"]
+[Room "Open"]
+[Board "1"]
+[West "Wladow"]
+[North "Weichsel"]
+[East "Elinescu"]
+[South "Mahmood"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:JT82.AQ2.852.J76 AQ7.JT43.A76.AK2 K6.8.QJT.QT98543 9543.K9765.K943."]
+[Declarer "S"]
+[Contract "3CX"]
+[Result "8"]
+[Round "7"]
+[Score "-100"]
+[Auction "N"]
+Pass 1C 3C X
+Pass Pass Pass
+[Play "W"]
+H5 HA H3 H8
+H6 CJ CK C8
+DK D2 D6 DJ
+S4 S2 SA S6
+H7 C6 CA C3
+H9 C7 C2 C4
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Closed"]
+[Board "1"]
+[West "Lev"]
+[North "Holowski"]
+[East "Gawrys"]
+[South "Gotard"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:JT82.AQ2.852.J76 AQ7.JT43.A76.AK2 K6.8.QJT.QT98543 9543.K9765.K943."]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Round "7"]
+[Score "-50"]
+[Auction "N"]
+Pass 1C X 1H
+Pass 2NT Pass 3C
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+SJ SA S6 S5
+HQ HJ H8 H7
+D8 D6 DT DK
+H2 H3 C4 H9
+D2 DA DJ D3
+C6 CA C3 D4
+C7 CK C5 D9
+CJ C2 C8 H5
+HA H4 C9 H6
+D5 D7 DQ HK
+S2 SQ SK S3
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Open"]
+[Board "2"]
+[West "Wladow"]
+[North "Weichsel"]
+[East "Elinescu"]
+[South "Mahmood"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K932.K93.AKJ9.KT Q6.A862.QT8.A874 AJ87.Q74.432.J63 T54.JT5.765.Q952"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Round "7"]
+[Score "+140"]
+[Auction "E"]
+1C Pass 1H Pass
+1NT Pass 2C Pass
+2S Pass Pass Pass
+[Play "S"]
+H6 H4 HT HK
+SQ S7 S4 SK
+S6 SJ S5 S2
+CA C3 C2 CT
+H8 H7 HJ H9
+D8 D2 D7 DA
+H2 SA ST S3
+DQ D3 D6 DJ
+HA HQ H5 H3
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Closed"]
+[Board "2"]
+[West "Lev"]
+[North "Holowski"]
+[East "Gawrys"]
+[South "Gotard"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K932.K93.AKJ9.KT Q6.A862.QT8.A874 AJ87.Q74.432.J63 T54.JT5.765.Q952"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Round "7"]
+[Score "-50"]
+[Auction "E"]
+1NT Pass 2C Pass
+2S Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+C4 C3 C9 CT
+S6 S7 S4 SK
+SQ SA S5 S2
+H2 SJ ST S9
+H6 S8 D7 S3
+DQ D2 D5 DJ
+CA C6 C2 CK
+C7 CJ CQ H3
+HA H4 HJ HK
+C8 H7 C5 H9
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Open"]
+[Board "3"]
+[West "Wladow"]
+[North "Weichsel"]
+[East "Elinescu"]
+[South "Mahmood"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K86.AK43.94.Q876 J2.J9876.A32.KT5 AT973.2.KQ865.94 Q54.QT5.JT7.AJ32"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "10"]
+[Round "7"]
+[Score "+170"]
+[Auction "S"]
+1C 1H 1S 2H
+X Pass 3D Pass
+3S Pass Pass Pass
+[Play "E"]
+H5 HA H9 H2
+HQ HK H6 C4
+D7 D4 D3 DK
+S4 SK S2 S3
+DT D9 DA D5
+HT H3 HJ S7
+DJ S6 D2 D6
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Closed"]
+[Board "3"]
+[West "Lev"]
+[North "Holowski"]
+[East "Gawrys"]
+[South "Gotard"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K86.AK43.94.Q876 J2.J9876.A32.KT5 AT973.2.KQ865.94 Q54.QT5.JT7.AJ32"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Round "7"]
+[Score "+420"]
+[Auction "S"]
+1C Pass 1S Pass
+1NT Pass 2D Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+H5 HA H6 H2
+HT HK H7 C9
+DT D4 D2 DK
+S4 SK S2 S3
+D7 D9 DA D5
+HQ H3 H8 ST
+S5 S6 SJ SA
+DJ H4 D3 DQ
+C2 C6 C5 D8
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Open"]
+[Board "4"]
+[West "Wladow"]
+[North "Weichsel"]
+[East "Elinescu"]
+[South "Mahmood"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T753.KQ6.Q2.J874 QJ92.J32.JT43.A3 AK864.AT97..KT65 .854.AK98765.Q92"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "9"]
+[Round "7"]
+[Score "-200"]
+[Auction "W"]
+Pass Pass 2S 3D
+3S 3NT 4S Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+DA D2 DT S4
+H8 HK H2 H7
+D5 S3 S9 SK
+H4 HQ H3 HT
+D6 DQ D3 S6
+C2 CJ CA C6
+C9 C4 C3 CK
+CQ C7 - C5
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Closed"]
+[Board "4"]
+[West "Lev"]
+[North "Holowski"]
+[East "Gawrys"]
+[South "Gotard"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T753.KQ6.Q2.J874 QJ92.J32.JT43.A3 AK864.AT97..KT65 .854.AK98765.Q92"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Round "7"]
+[Score "-100"]
+[Auction "W"]
+Pass Pass 1S 3D
+3S 4D 4H Pass
+4S Pass Pass Pass
+[Play "S"]
+DA D2 D3 S4
+D6 S3 S2 SA
+H8 HK H3 H7
+C2 C4 CA C6
+D5 DQ D4 S6
+H4 H6 H2 HA
+H5 HQ HJ H9
+CQ C7 C3 CT
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Open"]
+[Board "5"]
+[West "Wladow"]
+[North "Weichsel"]
+[East "Elinescu"]
+[South "Mahmood"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A32.KQ9.2.AK7532 KQJT5.T65.AT.QT8 987.A843.KQ654.J 64.J72.J9873.964"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Round "7"]
+[Score "+620"]
+[Auction "N"]
+1C 2S X Pass
+3S Pass 4D Pass
+4H Pass Pass Pass
+[Play "E"]
+SK S7 S4 S3
+SQ S8 S6 SA
+C8 CJ C6 CA
+CT S9 C4 CK
+DT DK D9 D2
+DA D4 D3 H9
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Closed"]
+[Board "5"]
+[West "Lev"]
+[North "Holowski"]
+[East "Gawrys"]
+[South "Gotard"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A32.KQ9.2.AK7532 KQJT5.T65.AT.QT8 987.A843.KQ654.J 64.J72.J9873.964"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Round "7"]
+[Score "-200"]
+[Auction "N"]
+2C 2S X Pass
+3S X Pass Pass
+3NT Pass Pass Pass
+[Play "E"]
+SK S7 S6 S2
+SQ S8 S4 SA
+CQ CJ C4 C3
+SJ S9 C6 S3
+ST D4 D3 C2
+S5 D5 D7 C5
+DA D6 D8 D2
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Open"]
+[Board "6"]
+[West "Wladow"]
+[North "Weichsel"]
+[East "Elinescu"]
+[South "Mahmood"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AT.AKQT6.652.J86 Q9843.852.874.K2 K765.J.QJT.QT543 J2.9743.AK93.A97"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Round "7"]
+[Score "-100"]
+[Auction "E"]
+1NT Pass 2C Pass
+2H Pass 2S Pass
+3NT Pass Pass Pass
+[Play "S"]
+D8 DT DK D6
+D4 DJ DA D2
+D7 DQ D3 D5
+CK C3 C7 CJ
+S3 SK S2 ST
+C2 CQ CA C6
+- - D9 H6
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Closed"]
+[Board "6"]
+[West "Lev"]
+[North "Holowski"]
+[East "Gawrys"]
+[South "Gotard"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AT.AKQT6.652.J86 Q9843.852.874.K2 K765.J.QJT.QT543 J2.9743.AK93.A97"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Round "7"]
+[Score "+90"]
+[Auction "E"]
+1H Pass 1S Pass
+1NT Pass Pass Pass
+[Play "S"]
+S4 SK S2 ST
+H2 HJ H3 H6
+D7 DT DK D6
+S3 S5 SJ SA
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Open"]
+[Board "7"]
+[West "Wladow"]
+[North "Weichsel"]
+[East "Elinescu"]
+[South "Mahmood"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AJ2.32.J9543.987 864.K754.AT.JT32 KQ.T98.Q8762.AQ6 T9753.AQJ6.K.K54"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Round "7"]
+[Score "-100"]
+[Auction "S"]
+Pass Pass 1D X
+3D 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+SK S3 S2 S6
+CA C4 C7 C2
+SQ S5 SA S4
+D6 S7 SJ S8
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Closed"]
+[Board "7"]
+[West "Lev"]
+[North "Holowski"]
+[East "Gawrys"]
+[South "Gotard"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AJ2.32.J9543.987 864.K754.AT.JT32 KQ.T98.Q8762.AQ6 T9753.AQJ6.K.K54"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Round "7"]
+[Score "+140"]
+[Auction "S"]
+Pass Pass 1D 1S
+3D 3S Pass Pass
+Pass
+[Play "S"]
+D4 DT DQ DK
+S2 S4 SQ S9
+SA S6 SK S3
+SJ S8 D2 S5
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Open"]
+[Board "8"]
+[West "Wladow"]
+[North "Weichsel"]
+[East "Elinescu"]
+[South "Mahmood"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K632.T854.4.AKJ2 AJ75.A2.AQJ5.Q84 Q94.Q7.K9732.T93 T8.KJ963.T86.765"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Round "7"]
+[Score "+110"]
+[Auction "W"]
+1S 1NT Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+S4 S8 SK SA
+SQ ST S2 S7
+C3 C5 CK C8
+DK D6 D4 DQ
+C9 C6 CA C4
+CT C7 C2 CQ
+S9 H3 S6 S5
+H7 H6 H4 HA
+HQ HK H5 H2
+D2 HJ H8 D5
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Room "Closed"]
+[Board "8"]
+[West "Lev"]
+[North "Holowski"]
+[East "Gawrys"]
+[South "Gotard"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K632.T854.4.AKJ2 AJ75.A2.AQJ5.Q84 Q94.Q7.K9732.T93 T8.KJ963.T86.765"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Round "7"]
+[Score "+110"]
+[Auction "W"]
+1C 1D 1NT 2H
+Pass Pass Pass
+[Play "W"]
+CA C4 C3 C7
+CK C8 C9 C5
+C2 CQ CT C6
+H4 HA HQ H3
+H5 H2 H7 HK
+H8 S5 D2 HJ
+D4 D5 DK DT
+SK SA S4 S8
+HT DA D3 D6
+S2 S7 SQ ST

@@ -1,0 +1,329 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2000 ING Bank Final"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Westra"]
+[North "Romanski"]
+[East "Gawrys"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 93.85.87643.A953 742.A742.A52.JT7 QJ8.KQT9.KQT.KQ6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1C 1S
+2C X XX Pass
+Pass 2S 2N Pass
+Pass Pass
+[Play "E"]
+H5 HA HT H3
+S3 S7 SQ SK
+D3 DA DQ DJ
+S9 S4 SJ SA
+D4 S2 S8 ST
+*
+
+
+[Event "2000 ING Bank Final"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Westra"]
+[North "Romanski"]
+[East "Gawrys"]
+[South "Duboin"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T953.KJ8.T842.42 A9.AJ9653.AT986. AKQ87642.4.Q.QJ5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D 4S 5H Pass
+6H Pass Pass Pass
+[Play "None"]
+ST H9 S8 SJ
+H8 HA H4 H2
+DQ DK D2 D3
+HJ C6 S7 H7
+*
+
+
+[Event "2000 ING Bank Final"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Westra"]
+[North "Romanski"]
+[East "Gawrys"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QJ.KJ652.AT4.T87 8753.Q.972.AJ963 AK964.974.QJ53.K "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S Pass 2H Pass
+4H Pass Pass Pass
+[Play "S"]
+D4 D9 DQ D6
+HJ HQ H4 H3
+C7 CA CK C2
+DT D7 D3 D8
+C8 C6 H7 C4
+SQ S3 S4 S2
+CT C3 H9 C5
+SJ S5 S6 ST
+H5 D2 S9 H8
+DA S7 D5 DK
+H6 S8 SK HT
+*
+
+
+[Event "2000 ING Bank Final"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Westra"]
+[North "Romanski"]
+[East "Gawrys"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K73.J.JT72.AJ843 92.8763.63.Q9765 A5.AKT95.AKQ84.2 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2D Pass 2H 4D
+Pass 4S Pass 4N
+Pass 6D Pass 7D
+Pass Pass Pass
+[Play "None"]
+SK S2 S5 SQ
+HJ H3 HA H2
+D2 H6 H5 H4
+D7 D3 DA D5
+DJ H7 H9 HQ
+DT D6 DK D9
+*
+
+
+[Event "2000 ING Bank Final"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Westra"]
+[North "Romanski"]
+[East "Gawrys"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A9753.A3.K3.K932 Q62.Q8654.Q.JT86 JT4.J.AT76542.AQ "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 2D Pass
+2S Pass 3S Pass
+4C Pass 4D Pass
+4H Pass 4S Pass
+4N Pass 5H X
+5S Pass Pass Pass
+[Play "W"]
+HA H4 HJ HK
+H3 H5 S4 H7
+S3 SQ ST S8
+SA S2 SJ SK
+S9 S6 D2 H2
+DK DQ D4 D8
+*
+
+
+[Event "2000 ING Bank Final"]
+[Site "00"]
+[Date "00"]
+[Board "16,BOARD 16"]
+[West "Westra"]
+[North "Romanski"]
+[East "Gawrys"]
+[South "Duboin"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J8.A874.AT84.KJT K7.QT532.Q732.83 AQT52.96.J65.A64 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2S Pass 2N
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "None"]
+H4 H2 H6 HK
+H7 H5 H9 HJ
+CK C3 C4 C5
+SJ SK SA S3
+S8 S7 SQ S4
+D4 C8 ST S6
+H8 D2 S2 S9
+DA D3 D5 DK
+D8 DQ DJ D9
+*
+
+
+[Event "2000 ING Bank Final"]
+[Site "00"]
+[Date "00"]
+[Board "17,BOARD 17"]
+[West "Westra"]
+[North "Romanski"]
+[East "Gawrys"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q.KQJT752.K5.KJ8 K743.6.QJ832.A73 A652.A94.T64.954 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+D5 DQ D4 DA
+DK D2 D6 D9
+HK H6 H4 H3
+HT D3 HA H8
+*
+
+
+[Event "2000 ING Bank Final"]
+[Site "00"]
+[Date "00"]
+[Board "18,BOARD 18"]
+[West "Westra"]
+[North "Romanski"]
+[East "Gawrys"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 7.95.KQ972.AQ863 K432.KJT3.JT543. AJ8.AQ7642.8.K52 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2S Pass 4S 5H
+Pass Pass X Pass
+Pass Pass
+[Play "None"]
+S7 SK SA S5
+D2 D3 D8 DA
+CA H3 C5 CJ
+D7 D5 S8 D6
+H5 HJ HQ H8
+H9 HT HA S6
+*
+
+
+[Event "2000 ING Bank Final"]
+[Site "00"]
+[Date "00"]
+[Board "19,BOARD 19"]
+[West "Westra"]
+[North "Romanski"]
+[East "Gawrys"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 32.KT53.KQ752.K6 A7654.AJ76.643.2 KQJT98.984.AQ75."]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D 1S Pass 2C
+Pass 2H X 3C
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+DK D3 H9 DA
+C6 C2 CQ C8
+C3 S2 S4 SQ
+CK S5 C5 CJ
+S3 SA S9 H2
+DQ D4 H8 D8
+D2 D6 C7 D9
+C9 H3 S6 SJ
+H5 H6 CA C4
+*
+
+

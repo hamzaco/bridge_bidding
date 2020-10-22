@@ -1,0 +1,462 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q72.872.K83.AQ32 63.AKT5.65.J9876 J854.J63.J742.K4 AKT9.Q94.AQT9.T5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "N"]
+P 1N P 2C
+P 2S P 2N
+P 3N P P
+P
+[Play "S"]
+C2 C6 CK C5
+H2 H5 H3 HQ
+C3 CJ C4 CT
+CQ C7 S4 D9
+H8 HA H6 H9
+CA C8 D2 DT
+D3 D5 DJ DQ
+D8 D6 D4 DA
+H7 HK HJ H4
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q72.872.K83.AQ32 63.AKT5.65.J9876 J854.J63.J742.K4 AKT9.Q94.AQT9.T5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "N"]
+P 1N P 2C
+P 2S P 3N
+P P P
+[Play "S"]
+C2 C6 CK C5
+DK D5 D2 DT
+H8 H5 HJ HQ
+CQ C7 C4 CT
+D8 D6 DJ DQ
+D3 C8 D7 D9
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 83.KJ6.AK75.JT54 A9.T9753.QT8.KQ2 QJT62.Q4.J2.A876 K754.A82.9643.93 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "E"]
+P 1D P 1S
+P 1N P 2C
+P 2D P 2S
+P P P
+[Play "E"]
+CJ CQ CA C3
+HJ H9 H4 H8
+S3 S9 SQ SK
+H6 H5 HQ HA
+CT CK C7 C9
+C4 C2 C8 S4
+DA D8 D2 D3
+S8 SA S2 S5
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 83.KJ6.AK75.JT54 A9.T9753.QT8.KQ2 QJT62.Q4.J2.A876 K754.A82.9643.93 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "E"]
+P 1D 1H 1S
+2H P P D
+P 3C P P
+P
+[Play "W"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 98.AJ65.854.9765 QJ532.QT.KQ76.T2 A764.K94.A3.KQJ3 KT.8732.JT92.A84 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "S"]
+P P 1C P
+1D 1S 1N P
+P P
+[Play "E"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 98.AJ65.854.9765 QJ532.QT.KQ76.T2 A764.K94.A3.KQJ3 KT.8732.JT92.A84 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "S"]
+P P 1C P
+1H 1S D R
+2C P 3C P
+P P
+[Play "E"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9.QT753.Q863.J95 AQJT6.984.K4.Q64 K874.A.AJ9752.82 532.KJ62.T.AKT73 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "W"]
+1S 2D 3D 4D
+4S P P P
+[Play "N"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9.QT753.Q863.J95 AQJT6.984.K4.Q64 K874.A.AJ9752.82 532.KJ62.T.AKT73 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "W"]
+1S 2D D 3D
+P P 4S P
+P P
+[Play "N"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 2.QT53.AJT4.K962 AKT854.K6.K97.T8 3.AJ74.Q653.A543 QJ976.982.82.QJ7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "N"]
+1D P 1H 1S
+2H 4S D P
+P P
+[Play "N"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 2.QT53.AJT4.K962 AKT854.K6.K97.T8 3.AJ74.Q653.A543 QJ976.982.82.QJ7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "N"]
+P P P 1S
+D 4S D P
+P P
+[Play "N"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ865.AT9.J93.K5 K3.KJ65.AT7.A962 T94.Q72.Q52.QT87 J72.843.K864.J43 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "E"]
+P 1N P P
+P
+[Play "W"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ865.AT9.J93.K5 K3.KJ65.AT7.A962 T94.Q72.Q52.QT87 J72.843.K864.J43 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "E"]
+P 1S D 2S
+P P P
+[Play "W"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ863.972.KQ.KT9 AK94.A.A9862.A85 T72.Q53.JT743.J7 5.KJT864.5.Q6432 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "S"]
+P 1C P 1H
+1S 3N P 4H
+P P P
+[Play "S"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ863.972.KQ.KT9 AK94.A.A9862.A85 T72.Q53.JT743.J7 5.KJT864.5.Q6432 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "S"]
+P 1C P 1H
+1S 3N P 4H
+P P P
+[Play "S"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kowalski"]
+[North "Ramondt"]
+[East "Tuszynski"]
+[South "Maas"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9743.92.Q6.AQJT9 T.AKQ43.T943.K42 KQ862.J86.AJ7.75 AJ5.T75.K852.863 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Polowan"]
+[Auction "W"]
+1H 1S 2H 2N
+3H 3S P P
+P
+[Play "E"]
+*
+
+

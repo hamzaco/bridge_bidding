@@ -1,0 +1,568 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J863.KJ65.843.QT 972.AQT732.T2.AJ KT54.8.KQJ7.K543 AQ.94.A965.98762 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "S"]
+Pass 1H X XX
+1S 2H 2S 3H
+Pass 4H Pass Pass
+X Pass Pass Pass
+[Play "N"]
+D3 D2 DK D5
+D4 DT DQ DA
+D8 H2 D7 D6
+S6 S2 S5 SQ
+S3 H3 DJ D9
+S8 S7 S4 SA
+CT CA C5 C2
+SJ S9 ST H4
+H5 H7 H8 H9
+CQ CJ C3 C6
+HJ HQ C4 C7
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT98.T8543.QT65.J754 62.AJ7.QT42.62 AKQJ97.K83.K5.KQ3 .942.AJ98763."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "W"]
+Pass 1H 2C 4C
+5C Pass Pass 5H
+Pass Pass 6C X
+Pass Pass Pass
+[Play "N"]
+H3 H2 HJ C6
+H4 C2 C5 CA
+S4 S6 SK SA
+DT DJ DK D2
+D9 DQ DA D8
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT98.T8543.QT65.J754 62.AJ7.QT42.62 AKQJ97.K83.K5.KQ3 .942.AJ98763."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "W"]
+Pass 1C 2C X
+4C 4H 4S 5C
+5S 6H Pass Pass
+Pass
+[Play "S"]
+S5 S6 SK SA
+H3 H2 HA C3
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A74.KQT65.AJ5.62 T85.7.KQT42.A943 K9632.A9432.3.75 QJ.J8.9876.KQJT8 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "N"]
+Pass Pass 1H X
+4H X Pass 5D
+Pass Pass Pass
+[Play "E"]
+HK H7 HA H8
+HQ D4 H4 HJ
+D5 DQ D3 D6
+C6 C3 C7 CK
+DA D2 H3 D7
+SA S5 S2 SJ
+S7 S8 SK SQ
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A74.KQT65.AJ5.62 T85.7.KQT42.A943 K9632.A9432.3.75 QJ.J8.9876.KQJT8 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "N"]
+Pass Pass 1H Pass
+4H Pass Pass Pass
+[Play "N"]
+DA DK D3 D8
+HK H7 H2 H8
+H6 D2 HA HJ
+S4 S5 SK SQ
+S7 S8 S2 SJ
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQ987.AQ4.T93.A6 KT654.J865.Q.KT5 KT972.AK542.Q83. J32.3.J876.J9742 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "E"]
+X 2S X Pass
+Pass Pass
+[Play "W"]
+SQ SK D2 S2
+HQ H5 H2 H3
+SA S4 D4 S3
+S9 S5 H7 SJ
+C6 C5 CQ C9
+D6 D3 DQ DK
+C2 HA H6 H9
+S8 ST C3 C4
+CA CK C8 C7
+S7 S6 D5 CJ
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQ987.AQ4.T93.A6 KT654.J865.Q.KT5 KT972.AK542.Q83. J32.3.J876.J9742 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "E"]
+Pass 1C 1S 2H
+Pass 3H Pass 3S
+Pass 4C Pass 4D
+Pass 4H Pass 4S
+Pass 5H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 54.J92.T962.A543 T873.854.Q83.JT8 J962.KQ76.AJ5.Q6 AKQ.AT3.K74.K972 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "S"]
+Pass Pass 1D X
+2D Pass Pass 2N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 54.J92.T962.A543 T873.854.Q83.JT8 J962.KQ76.AJ5.Q6 AKQ.AT3.K74.K972 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "S"]
+Pass Pass 1D X
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K95.62.J82.AJT83 732.5.AQT64.Q954 AJ6.AJ983.9753.6 QT84.KQT74.K.K72 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "W"]
+Pass Pass 1H 2C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K95.62.J82.AJT83 732.5.AQT64.Q954 AJ6.AJ983.9753.6 QT84.KQT74.K.K72 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "W"]
+Pass 1H Pass 1N
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 62.A7.AT974.J974 KQ97.T9642.5.AT2 JT43.KQJ8.KJ.653 A85.53.Q8632.KQ8 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 2D Pass 2H
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 62.A7.AT974.J974 KQ97.T9642.5.AT2 JT43.KQJ8.KJ.653 A85.53.Q8632.KQ8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "N"]
+1D Pass 3C X
+Pass 3N X XX
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 5.K754.QT8.T7652 643.QT86.7432.K9 KQT972.32.J95.AQ AJ8.AJ9.AK6.J843 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "E"]
+1C Pass 1H 1S
+2N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 5.K754.QT8.T7652 643.QT86.7432.K9 KQT972.32.J95.AQ AJ8.AJ9.AK6.J843 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "E"]
+1C Pass 1H 1S
+X Pass 1N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K9.752.JT982.JT5 A763.Q.K6543.AQ6 Q542.AJ9863.A7.3 JT8.KT4.Q.K98742 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "S"]
+Pass 1D 1H 2C
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K9.752.JT982.JT5 A763.Q.K6543.AQ6 Q542.AJ9863.A7.3 JT8.KT4.Q.K98742 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "S"]
+Pass 1D 1H 1N
+Pass 2N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1st World Youth Congress"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Fay"]
+[North "Grosset"]
+[East "Chiu"]
+[South "Francesche"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A54.KT86.63.KQ96 KQ9632.J32.Q8.J8 7.AQ54.JT52.7532 JT8.97.AK974.AT4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "FRANCE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA BLUE"]
+[Auction "W"]
+Pass Pass 1D X
+1S 2H 2S Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+

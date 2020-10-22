@@ -1,0 +1,69 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Zaremba"]
+[North "Levin"]
+[East "Pepsi"]
+[South "Weinstein"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9.K93.AQJ9642.54 J6.Q762.73.AT762 KQ753.JT54.85.Q9 AT842.A8.KT.KJ83 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S 2D X
+Pass 3C 3D 4C
+Pass 5C Pass Pass
+Pass
+[Play "S"]
+DA D3 D8 DT
+DQ D7 D5 DK
+C5 CA C9 C3
+C4 C2 CQ CK
+S9 S6 S3 SA
+D2 SJ SQ S2
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Zaremba"]
+[North "Levin"]
+[East "Pepsi"]
+[South "Weinstein"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T7.AKQ.QT762.KT8 K53.763.A985.A96 AQ8.JT984.J3.Q32 J9642.52.K4.J754 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+

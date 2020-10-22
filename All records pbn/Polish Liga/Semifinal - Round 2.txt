@@ -1,0 +1,695 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKQ7.A532.AJ94.A J93.QJ6.KQ73.T62 8642.984.6.97543 T5.KT7.T852.KQJ8 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "N"]
+Pass Pass 1D Pass
+Pass Pass
+[Play "W"]
+H3 HQ H4 H7
+HA HJ H8 HK
+SA S9 S2 S5
+SK S3 S4 ST
+SQ SJ S6 D2
+H2 H6 H9 HT
+CA C6 C3 CK
+H5 C2 S8 D5
+D9 DQ D6 D8
+D4 CT C4 C8
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKQ7.A532.AJ94.A J93.QJ6.KQ73.T62 8642.984.6.97543 T5.KT7.T852.KQJ8 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 2N Pass
+Pass Pass
+[Play "W"]
+H3 HQ H4 HK
+CA C6 C3 CK
+SA S9 S2 S5
+SK S3 S4 ST
+SQ SJ S6 D2
+S7 D3 S8 D5
+D9 DQ D6 D8
+H2 C2 C4 CJ
+HA H6 H8 H7
+DA D7 C5 DT
+D4 DK H9 C8
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A83.T842.A75.K94 KJ76.Q7.KT93.QT3 2.KJ9653.62.AJ62 QT954.A.QJ84.875 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "E"]
+Pass 1C Pass 1H
+1S 2H 3H 4C
+Pass 4H Pass Pass
+4S X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A83.T842.A75.K94 KJ76.Q7.KT93.QT3 2.KJ9653.62.AJ62 QT954.A.QJ84.875 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "E"]
+Pass Pass 1C 2H
+2S 2N Pass 3C
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 752.AKT74.QJ.AJ9 QJ8.Q62.K642.T73 64.3.AT9853.KQ42 AKT93.J985.7.865 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "S"]
+1H Pass 1N Pass
+2C Pass 3D Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 752.AKT74.QJ.AJ9 QJ8.Q62.K642.T73 64.3.AT9853.KQ42 AKT93.J985.7.865 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "S"]
+1H Pass 2D Pass
+2H Pass 3D Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT63.AK.KJ984.AQ J84.T854.T6.J854 K52.Q73.A753.932 A97.J962.Q2.KT76 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT63.AK.KJ984.AQ J84.T854.T6.J854 K52.Q73.A753.932 A97.J962.Q2.KT76 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q72.AKT953.A75.J 5.Q76.JT43.A7432 K843.J842.Q.KT95 AJT96.K9862.Q86."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "N"]
+Pass 2S an !S
+3H 4C 4H 4N
+Pass an f 5D
+Pass Pass 5H Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q72.AKT953.A75.J 5.Q76.JT43.A7432 K843.J842.Q.KT95 AJT96.K9862.Q86."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "N"]
+Pass 1S 2H Pass
+4H Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J32.T52.KT32.T95 AK.AQ94.J7654.84 QT98.KJ863.8.AK7 7654.7.AQ9.QJ632 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "E"]
+Pass Pass 1D X
+XX Pass Pass 1H
+1S Pass 1N Pass
+2D Pass 2N Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J32.T52.KT32.T95 AK.AQ94.J7654.84 QT98.KJ863.8.AK7 7654.7.AQ9.QJ632 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "E"]
+Pass Pass 1D 1H
+1S Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKT964.AJ7.Q.632 J3.T984.KT87.Q87 Q875.Q.9652.KT54 2.K6532.AJ43.AJ9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "S"]
+1S Pass 2N Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKT964.AJ7.Q.632 J3.T984.KT87.Q87 Q875.Q.9652.KT54 2.K6532.AJ43.AJ9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "S"]
+1S Pass 2S X
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q986.T8.A962.A96 AKJ32.A3.J43.832 75.K765.KT7.KJ54 T4.QJ942.Q85.QT7 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "W"]
+1S Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q986.T8.A962.A96 AKJ32.A3.J43.832 75.K765.KT7.KJ54 T4.QJ942.Q85.QT7 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "W"]
+1S Pass 1N an
+  Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 2.K98753.AJT2.84 98.QJT6.K974.QT3 KQT6543.A.J9652.AJ7 42.Q8653.AK7."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "N"]
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 2.K98753.AJT2.84 98.QJT6.K974.QT3 KQT6543.A.J9652.AJ7 42.Q8653.AK7."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "N"]
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J42.Q752.A87.983 AKT8.K643.K42.Q7 976.J.Q9653.KJ42 Q53.AT98.JT.AT65 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "E"]
+Pass Pass 1N Pass
+2C Pass 2N an
+bo  w Pass 3D
+an tX Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J42.Q752.A87.983 AKT8.K643.K42.Q7 976.J.Q9653.KJ42 Q53.AT98.JT.AT65 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "E"]
+Pass Pass 1N Pass
+2C Pass 2H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T965.8.86.KJT843 AK742.97632.AQT.AK4 J9743.Q9762..QJ83 QJT5.K52.A5."]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "S"]
+Pass 1S Pass 3C
+X 3H 3N 4H
+5C 5D Pass 6H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T965.8.86.KJT843 AK742.97632.AQT.AK4 J9743.Q9762..QJ83 QJT5.K52.A5."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "S"]
+[Play "None"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Balicki"]
+[North "Krupowicz"]
+[East "Zmudzinski"]
+[South "Wyszynski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9872.AT743.64.74 J63.6.KQJT973.A2 AKQ54.K985.2.KJ5 T.QJ2.A85.QT9863 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "MEGA-TECH"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "COMPUTERLAN"]
+[Auction "W"]
+1D X 3C Pass
+3D X Pass 4C
+4D 4S Pass Pass
+5D X Pass Pass
+Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,463 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "113"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A87.K82.KJT92.J3 Q.A7643.AKQ9864.JT52 JT95.754.T7.K9643 Q.AQ863.52."]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2D X 3C
+Pass 3N Pass 6C
+Pass Pass Pass
+[Play "N"]
+DA D2 SQ D5
+H2 HA H5 HQ
+H8 H7 H9 C2
+S7 C4 S2 S3
+HK H6 HT C5
+S8 C6 S5 S4
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "114"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T.J63.QT643.J654 QJ982.9852.8.AKQ 743.KQT74.AK7.T9 AK65.A.J952.8732 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+1D Pass 1H X
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+H3 H8 HQ HA
+D3 D8 DK D2
+ST SQ S3 S6
+H6 H2 H4 S5
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "115"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 986.KJ42.KQ873.J KJ54.QT98.654.75 QT.75.JT9.AKQ642 A732.A63.A2.T983 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+3N Pass Pass Pass
+[Play "S"]
+CJ C5 C6 CT
+D3 D4 DJ DA
+S6 SK ST S3
+S8 S4 SQ SA
+H2 HT H5 HA
+S9 SJ H7 S2
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "116"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K.K43.9875.KQJT5 AJ32.AJ8.AKJ2.86 954.97652.T3.A94 QT876.QT.Q64.732 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+1C Pass 1D Pass
+1N Pass 2H Pass
+2N Pass 3C X
+3H Pass 4S Pass
+Pass Pass
+[Play "S"]
+CK C6 C4 C2
+CJ C8 CA C3
+SK SA S4 SQ
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "117"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 873.J87643.Q42.A A65.Q2.JT53.7542 KJ4.AK.AK96.Q983 QT92.T95.87.KJT6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+2N Pass 3D Pass
+3N an <3 Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "118"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ6.T73.87.QJ972 K873.95.QT542.A5 54.AKQJ86.KJ9.83 JT92.42.A63.KT64 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "119"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 6.KT6.AT8652.T62 AKQ.Q73.K3.AQ874 T95432.J8.Q7.K93 J87.A9542.J94.J5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+Pass 2N Pass 3D
+X 3H Pass 3N
+Pass 4C Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "120"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJ87.QJ9.AQ7.95 5.T82.J642.KJ763 9643.A75.KT85.AT QT2.K643.93.Q842 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 2C Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "121"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 3.AJT96.K8432.54 K9865.7.QJT.8763 AQ72.5432.A75.K2 JT4.KQ8.96.AQJT9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+1H Pass 4H Pass
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "122"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 7642.J763.A95.42 T93.Q5.K6.KJT863 AJ5.A98.T842.A95 KQ8.KT42.QJ73.Q7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "123"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K642.J62.Q98.Q62 AJ73.Q983.AKJ2.4 Q95.A5.T76.K9875 T8.KT74.543.AJT3 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "124"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 94.AQJ985.AJ3.K9 AK62.76432.Q98.4 QJ753.KT7.AT763.T8 KT.6542.QJ852."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+Pass Pass 2C 2H
+Pass 2S Pass 2N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "125"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QJ854.Q4.AQ63.98 T6.KT763.J42.K75 K3.A92.K9875.Q32 A972.J85.T.AJT64 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+1D Pass 1S Pass
+1N Pass 2C Pass
+2D an mi Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "126"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q43.QJT6.864.T87 AT7.97.AKJ5.Q632 J962.AK42.QT9.AJ K85.853.732.K954 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+Pass Pass 1D X
+Pass 1H Pass Pass
+1N 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "127"]
+[West "Jansma"]
+[North "Townsend"]
+[East "Verhees"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQJ94.A86.J965.8 KT73.Q5.T842.K42 5.J972.AKQ7.JT93 862.KT43.3.AQ765 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+1S Pass 2C Pass
+2D Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+

@@ -1,0 +1,207 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "H.Eide"]
+[North "Lingjerde"]
+[East "Eide"]
+[South "Nybakken"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ.Q82.AQ9.AT853 QT865.A63.KJ.K64 32.4.T8765432.97 A974.KJT975.QJ2."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Ulvene"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heis"]
+[Auction "S"]
+1N 2S Pass 4S
+Pass Pass 5D 5S
+Pass Pass Pass
+[Play "N"]
+HQ HA H4 HJ
+SJ S5 S2 SA
+SK S6 S3 S4
+CA C4 C7 C2
+*
+
+
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "H.Eide"]
+[North "Lingjerde"]
+[East "Eide"]
+[South "Nybakken"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K93.KJ.J8762.K86 AJ6.Q8.AK943.A32 T8542.A632.Q.Q94 Q7.T9754.T5.JT75 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Ulvene"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heis"]
+[Auction "W"]
+1D 1S Pass 1N
+X Pass 2H 2S
+Pass Pass Pass
+[Play "S"]
+D2 DK DQ DT
+HK HQ H2 HT
+HJ H8 H3 H4
+D6 D3 S2 D5
+C6 S6 HA H5
+D7 D4 S4 S7
+C8 CA C4 C7
+D8 D9 H6 SQ
+CK C2 C9 C5
+*
+
+
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "H.Eide"]
+[North "Lingjerde"]
+[East "Eide"]
+[South "Nybakken"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K62.K.AJ87.QJT43 Q93.9743.Q5.AK62 A85.T2.T9632.985 JT74.AQJ865.K4.7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Ulvene"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heis"]
+[Auction "N"]
+Pass 1H 2C 2N
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+CQ CA C5 C7
+HK H3 H2 HA
+C3 H4 HT HQ
+D7 DQ D2 D4
+C4 CK C8 DK
+*
+
+
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "H.Eide"]
+[North "Lingjerde"]
+[East "Eide"]
+[South "Nybakken"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJT83.AKJ6.AQ4.A AQ52.T9.962.JT63 76.Q843.JT.K9872 94.752.K8753.Q54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Ulvene"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heis"]
+[Auction "E"]
+Pass 2C Pass 2D
+Pass 2S Pass 3C
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "S"]
+D4 D9 DJ D3
+SJ SQ S6 S4
+CA C6 C2 C4
+H6 HT HQ H2
+DQ D2 DT D5
+SK S2 S7 S9
+ST SA H3 H7
+*
+
+
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "H.Eide"]
+[North "Lingjerde"]
+[East "Eide"]
+[South "Nybakken"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ9632.A8.95.Q54 AT.QT965.AQ.AKJ9 J75.J3.JT863.762 84.K742.K742.T83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Ulvene"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heis"]
+[Auction "S"]
+1S X 2S 3H
+Pass 3S Pass 4D
+Pass 4N Pass 5C
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "H.Eide"]
+[North "Lingjerde"]
+[East "Eide"]
+[South "Nybakken"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9.KJ76.KQ2.AQJ62 QJ2.T932.9.KT875 T76.A854.AJ85.94 AK8543.Q.T7643.3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ulvene"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heis"]
+[Auction "W"]
+Pass Pass 1S X
+2H X 2S 3C
+Pass 3H Pass 4H
+Pass Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+

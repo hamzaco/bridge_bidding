@@ -1,0 +1,477 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T63.K53.J532.QJT AQ82.AT8.976.K87 K95.Q972.AKT.A62 J74.J64.Q84.9543 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "S"]
+CT CK CA C5
+D2 D6 DA D4
+D3 D7 DK D8
+D5 D9 DT DQ
+HK HA H2 HJ
+S3 S2 S5 SJ
+S6 SA S9 S7
+ST SQ SK S4
+CJ C7 C6 C3
+CQ C8 C2 C4
+DJ S8 H7 C9
+H3 H8 H9 H4
+H5 HT HQ H6
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9654.K74.A4.A854 AT3.J85.JT3.J963 72.A9632.Q986.KQ KQJ8.QT.K752.T72 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "E"]
+1D Pass 1N Pass
+Pass Pass
+[Play "E"]
+HK H5 H3 HT
+H7 H8 H2 HQ
+DA D3 D6 D2
+H4 HJ HA C2
+C5 C3 CK C7
+D4 S3 H9 CT
+S4 ST H6 D5
+C8 C6 CQ D7
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 62.654.A74.AKQT7 A8.AJT83.32.J865 KJ43.KQ9.QJ9865. QT975.72.KT.9432 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "S"]
+1C 1H X Pass
+2C Pass 3N Pass
+Pass Pass
+[Play "E"]
+H4 HT HK H7
+D4 D3 DJ DK
+H5 HA H9 H2
+H6 H8 HQ S7
+DA D2 D8 DT
+CA C5 S4 C3
+CK C6 S3 C2
+CQ C8 SJ C4
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K.J76.Q9765.J632 A83.AQT932.AJ8.8 J976.K54.KT4.K94 QT542.8.32.AQT75 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "W"]
+1H Pass 1N Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+C6 C8 C4 CA
+H6 HA H4 H8
+H7 H3 H5 S2
+C2 S3 C9 C7
+HJ HT HK S4
+CJ S8 CK C5
+SK H9 D4 D2
+D5 DA DT D3
+D6 D8 DK S5
+C3 SA S6 CT
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQT92.83.Q432.J9 AJ5.A64.AJ965.T2 64.J72.K87.AK653 873.KQT95.T.Q874 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "N"]
+1C 1H 1S 2S
+Pass 3H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT5.A6.652.AKJ7 A987.KT2.KJ97.43 Q43.QJ3.43.QT852 62.98754.AQT8.96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "E"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J653.T63.Q94.KQ9 AK97.Q985.T6.J76 842.42.AKJ8.A432 QT.AKJ7.7532.T85 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QT85.K83.T84.AJ5 AK4.J6.Q952.KQ83 962.T972.63.T764 J73.AQ54.AKJ7.92 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "W"]
+1N Pass 2C Pass
+2D Pass 3D Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T3.J9853.865.A64 K9862.K4.T43.Q52 54.T.AKQJ7.KJT87 AQJ7.AQ762.92.93 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "N"]
+1D 1H Pass 1S
+2C 2S 3D Pass
+Pass 3S Pass Pass
+4D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 8.KQ863.A65.QT53 J765.T542.Q2.AJ9 Q4.97.KJ87.K8642 AKT932.AJ.T943.7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "E"]
+1S 2H 2S Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ742.KQT6.5.K72 AJ9865.J.4.J6543 3.54.AKT98763.AQ T.A98732.QJ2.T98 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "S"]
+1S Pass 2D 2H
+X Pass 3H Pass
+3N Pass 4H Pass
+4S X 5D X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJ92.K643.AJ4.Q4 K875.A2.Q95.7532 43.JT9.KT876.KT9 QT6.Q875.32.AJ86 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A965.Q975.76.Q95 JT8.K8.AJT3.AK62 K.J643.Q9852.873 Q7432.AT2.K4.JT4 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2H Pass 2S
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ76.JT72.5.KJ96 Q942.843.AK94.52 853.KQ.8763.Q874 AT.A965.QJT2.AT3 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "E"]
+1N Pass 2C Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Mexican Northern Regional Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bernardo"]
+[North "P. Pinto"]
+[East "ARPinto"]
+[South "misogu"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J.JT.K87543.AKT2 K943.932.QT9.J73 AT852.A8765.A6.6 Q76.KQ4.J2.Q9854 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Miguel S. Guedes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "José C. Henriques"]
+[Auction "S"]
+1D Pass 1S Pass
+2D Pass 3H Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,679 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J93.A954.KQ643.4 8642.J.AT9872.T9 AKT75.Q82.Q8732.Q KT763.J5.AKJ65."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S 2S an !H
+3H Pass 3S Pass
+Pass Pass
+[Play "E"]
+C4 C9 C2 CA
+H4 HJ HQ H3
+S3 CT CQ CK
+DK DA S5 D5
+C5 SJ D2 C3
+S9 S2 SA SQ
+CJ D3 D7 C8
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J93.A954.KQ643.4 8642.J.AT9872.T9 AKT75.Q82.Q8732.Q KT763.J5.AKJ65."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S 2N 3H Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T642.J9843.J.A52 J3.KQ65.5.JT9873 AK9875.A2.AT987. Q.T7.KQ6432.KQ64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1H 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T642.J9843.J.A52 J3.KQ65.5.JT9873 AK9875.A2.AT987. Q.T7.KQ6432.KQ64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1H 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK98432.AT2.K54.6 864.AQJ743.T97.QT KQJ5.K952.Q86.J75 973.T86.AJ32."]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 2C Pass
+2S Pass 3N an
+13 Pass 4D X
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK98432.AT2.K54.6 864.AQJ743.T97.QT KQJ5.K952.Q86.J75 973.T86.AJ32."]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S 2D X 3D
+4D Pass 4H Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T.A98.QJT942.Q94 KQ985.QJ72.8.JT2 AJ72.K3.A63.7653 643.T654.K75.AK8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 1D
+an 0- 1S Pass
+2S 2N an XX
+Pass 3C Pass 3D
+an 4- Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T.A98.QJT942.Q94 KQ985.QJ72.8.JT2 AJ72.K3.A63.7653 643.T654.K75.AK8 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 1D
+1N an 5+ Pass
+2H 2N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 652.A9853.K64.J9 J.K2.QT92.KQT865 AKQT9.76.875.743 8743.QJT4.AJ3.A2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 2C
+2S Pass Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 652.A9853.K64.J9 J.K2.QT92.KQT865 AKQT9.76.875.743 8743.QJT4.AJ3.A2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C an 12
+Pass 1D an 0-
+1S Pass Pass 3C
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKJ.QJ54.84.Q532 QT8532.AK92.976.96 T86.K7532.J84.74 73.AQJT96.AKT."]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D X 1S Pass
+2D Pass 2S Pass
+3C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKJ.QJ54.84.Q532 QT8532.AK92.976.96 T86.K7532.J84.74 73.AQJT96.AKT."]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D X 1S Pass
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQJ2.A742.QT.T85 A9653.J.J5.AKJ74 4.T8.A986432.932 T87.KQ9653.K7.Q6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C 1S 3D 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQJ2.A742.QT.T85 A9653.J.J5.AKJ74 4.T8.A986432.932 T87.KQ9653.K7.Q6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C 1S 3D 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 3.75.AKT963.AT97 KJ94.T942.Q.J854 QT752.86.84.K632 A86.AKQJ3.J752.Q "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1H 2D
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 3.75.AKT963.AT97 KJ94.T942.Q.J854 QT752.86.84.K632 A86.AKQJ3.J752.Q "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2C an we Pass
+2D an XX 3D
+Pass Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQJ5.962.74.7643 964.AT.J9853.KQ8 T8.KQJ75.KQ2.AT2 K732.843.AT6.J95 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQJ5.962.74.7643 964.AT.J9853.KQ8 T8.KQJ75.KQ2.AT2 K732.843.AT6.J95 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J74.AKT2.A8.J863 T6.Q987.Q53.T954 A92.543.K97.AKQ2 KQ853.J6.JT642.7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2S an 5- X
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J74.AKT2.A8.J863 T6.Q987.Q53.T954 A92.543.K97.AKQ2 KQ853.J6.JT642.7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2S an 5!  4
+X Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J9732.J72.QJ7.K4 K8.AQT9863.AT6.Q 65.K4.K853.AT762 AQT4.5.942.J9853 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J9732.J72.QJ7.K4 K8.AQT9863.AT6.Q 65.K4.K853.AT762 AQT4.5.942.J9853 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Vriend"]
+[North "Ramondt"]
+[East "Arnolds"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A8653.8542.K8.Q4 KT92.J6.Q73.8532 J7.AKT3.AT65.AK9 Q4.Q97.J942.JT76 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 2N Pass 3D
+an tX Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+

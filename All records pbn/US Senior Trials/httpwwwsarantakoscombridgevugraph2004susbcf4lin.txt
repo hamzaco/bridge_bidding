@@ -1,0 +1,862 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQT.Q852.Q87.J3 J96.K94.T6543.K7 7432.T3.K.T86542 85.AJ76.AJ92.AQ9 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+SQ S6 S2 S8
+SA S9 S3 S5
+SK SJ S4 H6
+ST D3 S7 H7
+CJ CK C2 C9
+D7 D4 DK DA
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQT.Q852.Q87.J3 J96.K94.T6543.K7 7432.T3.K.T86542 85.AJ76.AJ92.AQ9 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+SQ S6 S7 S5
+SK S9 S2 S8
+SA SJ S3 H6
+ST D3 S4 H7
+H8 H9 HT HJ
+H2 H4 H3 HA
+C3 CK C2 C9
+H5 HK C4 D9
+D7 D4 DK DA
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q63.K4.AT942.KQT AKJ4.5.K763.A975 T52.AQ96.J85.J86 987.JT8732.Q.432 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+1N X Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q63.K4.AT942.KQT AKJ4.5.K763.A975 T52.AQ96.J85.J86 987.JT8732.Q.432 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+1D 1S X 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "48"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J9.K85.95432.AK8 T3.JT932.KJ.Q762 AKQ762.A7.AQT6.T 854.Q64.87.J9543 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2S Pass 2N
+Pass 3D Pass 4D
+Pass 4S Pass 5C
+Pass 5H Pass 6C
+X 6D Pass 6H
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "48"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J9.K85.95432.AK8 T3.JT932.KJ.Q762 AKQ762.A7.AQT6.T 854.Q64.87.J9543 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+Pass 2S an a
+Pass 2N Pass 3D
+Pass 4D Pass 4N
+Pass 5C Pass 6D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT74.AJ.AQ93.KT7 KQ2.642.642.Q954 963.Q975.875.A62 A85.KT83.KJT.J83 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+Pass 1C 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT74.AJ.AQ93.KT7 KQ2.642.642.Q954 963.Q975.875.A62 A85.KT83.KJT.J83 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+Pass 1D 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q9.85.KJT92.T873 AJ6543.AK4.A.965 KT7.T6.875.KQJ42 82.QJ9732.Q643.A "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+2H Pass 2N Pass
+3H Pass 3S Pass
+4C Pass 4D Pass
+4H Pass 6H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q9.85.KJT92.T873 AJ6543.AK4.A.965 KT7.T6.875.KQJ42 82.QJ9732.Q643.A "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+2D Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T.9732.T82.Q9543 KJ9752.AJ8.J.K86 843.KQ54.A973.A7 AQ6.T6.KQ654.JT2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T.9732.T82.Q9543 KJ9752.AJ8.J.K86 843.KQ54.A973.A7 AQ6.T6.KQ654.JT2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9542.K862.7.J543 KQ.43.AKJ96.K962 AT86.5.QT853.AT7 J73.AQJT97.42.Q8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+1N Pass 4D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9542.K862.7.J543 KQ.43.AKJ96.K962 AT86.5.QT853.AT7 J73.AQJT97.42.Q8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+1N Pass 4D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T9874.54.T752.KQ Q532.J9762.J3.92 AK.AKQ83.K94.T83 J6.T.AQ86.AJ7654 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+1H 2C Pass Pass
+X Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T9874.54.T752.KQ Q532.J9762.J3.92 AK.AKQ83.K94.T83 J6.T.AQ86.AJ7654 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+2N Pass 3H Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ7.Q7.KJT.8653 T63.AKJ62.5.AK92 J94.T953.A9643.T 852.84.Q872.QJ74 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+Pass 1N X 2C
+X 2S Pass Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ7.Q7.KJT.8653 T63.AKJ62.5.AK92 J94.T953.A9643.T 852.84.Q872.QJ74 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+Pass 1C 1H Pass
+Pass X Pass 2D
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ987.7.KJ752.AJ A2.QT8653.63.T84 T64.A9.AQT9.K653 Q53.KJ42.84.Q972 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+1S Pass 2N Pass
+3D Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ987.7.KJ752.AJ A2.QT8653.63.T84 T64.A9.AQT9.K653 Q53.KJ42.84.Q972 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+1S Pass 2C Pass
+2D Pass 2S Pass
+3C Pass 3D Pass
+3H Pass 4H Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "56"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J832.43.J64.J832 974.K.AQ95.KT964 AK5.AQT7.82.AQ75 QT6.J98652.KT73."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+1D X 1H Pass
+2C Pass 2D Pass
+Pass X Pass 2S
+Pass Pass 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "56"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J832.43.J64.J832 974.K.AQ95.KT964 AK5.AQT7.82.AQ75 QT6.J98652.KT73."]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+1D X 1H Pass
+2C an a Pass
+2D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "57"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 86.KJ52.A94.8652 AT32.T74.QT82.J4 KQ954.AQ3.73.QT7 J7.986.KJ65.AK93 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+1S Pass 1N Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "57"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 86.KJ52.A94.8652 AT32.T74.QT82.J4 KQ954.AQ3.73.QT7 J7.986.KJ65.AK93 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+1S Pass 1N Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "58"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T86.T984.J86.AQ3 Q52.J76.AQ9.KT76 K74.AQ32.KT74.82 AJ93.K5.532.J954 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+Pass Pass 1C X
+1S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "58"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T86.T984.J86.AQ3 Q52.J76.AQ9.KT76 K74.AQ32.KT74.82 AJ93.K5.532.J954 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+Pass Pass 1D Pass
+1S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "59"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8652.Q54.85.T87 KJ93.AJ3.J.A6432 A74.KT6.Q7642.J9 Q.9872.AKT93.KQ5 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +70"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass 1C 1D Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "59"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8652.Q54.85.T87 KJ93.AJ3.J.A6432 A74.KT6.Q7642.J9 Q.9872.AKT93.KQ5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 2D
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "60"]
+[West "robison"]
+[North "stansby"]
+[East "onstott"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: JT65.KT8.AQJ2.84 A.AJ7.K987.KT765 Q9432.4.T63.QJ32 K87.Q96532.54.A9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "METZLER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+1C Pass 1H Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+

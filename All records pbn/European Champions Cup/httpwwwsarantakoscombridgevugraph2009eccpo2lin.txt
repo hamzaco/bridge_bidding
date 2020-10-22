@@ -1,0 +1,694 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT.Q8632.64.Q842 QJ43.K4.J3.AJ653 92.AT7.AKT97.KT7 K8765.J95.Q852.9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "N"]
+1D Pass 1H X
+2H 2S 3H Pass
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+D6 D3 DK D5
+SA S3 S2 S8
+H2 HK HA H5
+D4 DJ DA D2
+HQ H4 H7 HJ
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT.Q8632.64.Q842 QJ43.K4.J3.AJ653 92.AT7.AKT97.KT7 K8765.J95.Q852.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "N"]
+1N Pass 2D Pass
+2H Pass Pass X
+Pass 2S X Pass
+3D Pass Pass Pass
+[Play "W"]
+ST SQ S2 S5
+SA S3 S9 SK
+H3 H4 HA H5
+H2 HK HT HJ
+D4 SJ C7 S7
+D6 D3 DA D2
+C2 DJ DK D5
+C4 C3 DT DQ
+C8 CA CT C9
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T942.T42.7.AQ872 KJ8.QJ875.K982.3 AQ7653.3.AQ4.964 .AK96.JT653.KJT5 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "E"]
+1D Pass 1H 1S
+3H 3S 4H 4S
+Pass Pass 5H Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T942.T42.7.AQ872 KJ8.QJ875.K982.3 AQ7653.3.AQ4.964 .AK96.JT653.KJT5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "E"]
+1D Pass 1H 1S
+3H 3S 4H 4S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 862.JT32.K932.75 KJ95.Q9.AJ.A9643 T743.K754.6.QJ82 AQ.A86.QT8754.KT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2S Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 862.JT32.K932.75 KJ95.Q9.AJ.A9643 T743.K754.6.QJ82 AQ.A86.QT8754.KT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1S Pass 2H
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J743.863.52.QJ65 Q85.KJT3.AT9872.A962 KQ942.A987..KT AJT75.Q64.K43."]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "W"]
+1C 1H Pass Pass
+2C X XX 2H
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J743.863.52.QJ65 Q85.KJT3.AT9872.A962 KQ942.A987..KT AJT75.Q64.K43."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "W"]
+1C 1H 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9765.Q9762.T3.Q4 T3.A4.KJ9542.A63 AKQ4.JT85.AQ6.97 J82.K3.87.KJT852 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "N"]
+1C Pass 1H 2D
+3H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9765.Q9762.T3.Q4 T3.A4.KJ9542.A63 AKQ4.JT85.AQ6.97 J82.K3.87.KJT852 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "N"]
+1N Pass 2C 2D
+2N Pass 3D Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT97.K62.QJ62.95 Q64.AQT985.543.Q A2.74.T98.AJT832 K853.J3.AK7.K764 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "E"]
+1N Pass 2D 3C
+Pass Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT97.K62.QJ62.95 Q64.AQT985.543.Q A2.74.T98.AJT832 K853.J3.AK7.K764 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "E"]
+1N Pass 4C X
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ7.AT54.J643.52 J6.K762.97.AKJ96 43.J98.A82.Q8743 KT9852.Q3.KQT5.T "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ7.AT54.J643.52 J6.K762.97.AKJ96 43.J98.A82.Q8743 KT9852.Q3.KQT5.T "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "S"]
+Pass 1C Pass 1S
+X 2C Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J8.QJ76.QJT765.4 T7.K5.A93.AQT732 AQ2.T842.K42.986 K96543.A93.8.KJ5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "W"]
+1C Pass 1H Pass
+2C Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J8.QJ76.QJT765.4 T7.K5.A93.AQT732 AQ2.T842.K42.986 K96543.A93.8.KJ5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "W"]
+1N Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J95.K9.952.Q7654 AQ7.T8743.A743.A K3.QJ652.QT86.J8 T8642.A.KJ.KT932 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "N"]
+2H 2S Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J95.K9.952.Q7654 AQ7.T8743.A743.A K3.QJ652.QT86.J8 T8642.A.KJ.KT932 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "N"]
+Pass 1C Pass 1D
+1H 1S Pass 2H
+Pass 2S Pass 3S
+Pass 3N Pass 4C
+Pass 4D Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T4.KT62.AQJ94.A9 AK.A85.T7653.J84 987.QJ74.K2.K752 QJ6532.93.8.QT63 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "E"]
+2D 3D 3H X
+3S 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T4.KT62.AQJ94.A9 AK.A85.T7653.J84 987.QJ74.K2.K752 QJ6532.93.8.QT63 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "E"]
+2D X 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJ62.JT54.Q98.T9 AT754.872.JT2.Q2 98.Q96.K754.AK85 Q3.AK3.A63.J7643 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJ62.JT54.Q98.T9 AT754.872.JT2.Q2 98.Q96.K754.AK85 Q3.AK3.A63.J7643 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass Pass 1N
+Pass Pass 2H Pass
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Nystrom"]
+[North "Zeeberg"]
+[East "Wrang"]
+[South "RÃ¸n"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T9754.KJ5.J93.Q7 K.T742.KQT6.9632 Q862.98.A42.AKT8 AJ3.AQ63.875.J54 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "NC DENMARK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK S.T ERIK"]
+[Auction "W"]
+Pass 1N Pass 2H
+Pass 2N Pass 3H
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,381 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q3.AK6.AKJ53.J52 AJ984.7.Q872.K43 T75.T98542.T976.K62 QJ3.T964.AQ8."]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N X XX
+2H Pass Pass 2S
+Pass Pass Pass
+[Play "N"]
+HK H7 HT HQ
+DK D7 C7 D4
+DA D2 C6 D6
+D5 D8 S5 D9
+HA S4 H9 HJ
+S3 S8 S7 SK
+SQ SA ST S2
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQJT62.J86.KT84.954 K3.KJT642.J2.3 QT5.A987.AQ973.K87 A9742.Q53.65."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2S Pass 3N
+Pass 4C an RK
+Pass 4S an 2K
+Pass 5C Pass Pass
+Pass
+[Play "None"]
+DK DA D3 H6
+C4 D2 D7 D5
+SA S5 S3 S8
+S2 S4 C3 S7
+C5 C8 C2 CA
+CK CJ C7 C6
+S6 S9 CQ SK
+D8 DQ CT D4
+SQ D6 D9 H2
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K.KJ98543.K7.A75 J962.A76.A963.93 QT743.Q.542.KQ62 A85.T2.QJT8.JT84 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H Pass 1S Pass
+2H Pass Pass Pass
+[Play "E"]
+C5 C9 CK C4
+SK S2 S3 SA
+DK DA D2 DQ
+D7 D3 D4 DT
+H8 D6 D5 DJ
+H3 H6 HQ H2
+H4 S6 S4 S5
+HK HA S7 HT
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K.8642.JT7542.K2 QJ742.A7.AK9.A94 A98.KQT.Q86.T653 T653.J953.3.QJ87 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "None"]
+H6 HA HK H3
+SK S4 S8 ST
+H2 H7 HQ H5
+H4 C4 HT HJ
+D4 SJ SA S3
+CK CA C6 CQ
+D2 SQ S9 S5
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K96.AQ94.K964.K2 A52.J87.52.Q9763 T874.K65.Q8.AJ85 QJ3.T32.AJT73.T4 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "W"]
+CK C6 C5 CT
+D4 D2 DQ DA
+S6 SA S4 S3
+SK S5 S7 SJ
+S9 S2 S8 SQ
+DK D5 D8 DJ
+HA H7 H5 H2
+H4 H8 HK H3
+D6 C9 ST D3
+HQ HJ H6 HT
+H9 C3 C8 D7
+C2 C7 CA C4
+D9 CQ CJ DT
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK974.Q853.JT5.5 T82.972.Q8.AJT72 6.KJ64.K642.K643 QJ53.AT.A973.Q98 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N 2C an ma
+ a Pass 4H Pass
+Pass Pass
+[Play "None"]
+C5 CA C3 C8
+D5 DQ DK DA
+DT D8 D2 D7
+H3 H7 HJ HA
+DJ H9 D4 D3
+S4 CJ CK C9
+H5 C2 C4 CQ
+HQ H2 H4 HT
+SA S2 S6 S3
+SK S8 C6 S5
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J53.T96.A432.KQ3 74.752.KQT76.AJ9 AK.AKQ83.J8.T765 QT9862.J4.95.842 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1N Pass
+2C Pass 3H an
+5H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 8.KQ73.AQ3.AJT65 AT64.T2.T986.KQ9 J97532.J85.K4.87 KQ.A964.J752.432 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1S X 2H
+Pass 2S Pass 2N
+Pass 3S Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJT952.K942.A8.6 Q3.75.J7654.AT95 K8764.A3.QT9.K42 .QJT86.K32.QJ873 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S 2S an mi
+4C an al X
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AT5.K5.AQ43.AT32 Q983.T94.JT75.Q7 KJ7.A87.K62.K954 642.QJ632.98.J86 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Thompson"]
+[North "Kaplan"]
+[East "Hoffman"]
+[South "Schroor"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KT7.AQJ.Q972.932 A942.KT.AJ84.J84 853.97543.KT.Q75 QJ6.862.653.AKT6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1H Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,508 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A652.AQ63.853.A9 T9.2.AKJ9642.K85 KQJ84.J85.Q.T764 73.KT974.T7.QJ32 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "S"]
+1C 1D 1H Pass
+2S 3D Pass Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "W"]
+D5 DA DQ D7
+HQ H2 H5 H7
+S2 S9 SK S3
+C9 CK C4 C2
+CA C5 CT CJ
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A652.AQ63.853.A9 T9.2.AKJ9642.K85 KQJ84.J85.Q.T764 73.KT974.T7.QJ32 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "S"]
+1D Pass 1S Pass
+2S 3D 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+D3 DK DQ DT
+D5 D9 S8 D7
+S2 S9 SK S3
+HA H2 HJ HK
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT92.J.AQ63.AJ43 73.A962.KJ752.K7 KJ65.KQ54.4.QT86 Q84.T873.T98.952 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "W"]
+1D X Pass 2D
+Pass 2S Pass 3D
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT92.J.AQ63.AJ43 73.A962.KJ752.K7 KJ65.KQ54.4.QT86 Q84.T873.T98.952 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "W"]
+1D X Pass 2D
+Pass 2H Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 82.K2.AJ953.AKJ7 AKJT73.7.K2.Q652 94.QJ65.QT4.T983 Q65.AT9843.876.4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "N"]
+Pass 2H 2N X
+XX Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 82.K2.AJ953.AKJ7 AKJT73.7.K2.Q652 94.QJ65.QT4.T983 Q65.AT9843.876.4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "N"]
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQJ9.QT853.4.K74 T.AJ64.QJ652.AQ3 876.K72.A87.9652 K5432.9.KT93.JT8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "E"]
+Pass 1H Pass 2H
+Pass Pass 3D Pass
+Pass 3H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQJ9.QT853.4.K74 T.AJ64.QJ652.AQ3 876.K72.A87.9652 K5432.9.KT93.JT8 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "E"]
+5D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T8542.54.KT9.972 AJ973.AQT7.A.AK5 Q.K3.QJ742.QJ864 K6.J9862.8653.T3 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "S"]
+Pass 1S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T8542.54.KT9.972 AJ973.AQT7.A.AK5 Q.K3.QJ742.QJ864 K6.J9862.8653.T3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "S"]
+Pass 2C Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A943.K.K7543.QJ5 J5.T6432.AJ86.97 KT876.87.Q2.A832 Q2.AQJ95.T9.KT64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "W"]
+Pass Pass 1H X
+4H 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A943.K.K7543.QJ5 J5.T6432.AJ86.97 KT876.87.Q2.A832 Q2.AQJ95.T9.KT64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "W"]
+Pass Pass 1H X
+4H 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q762.KQ52.Q94.92 J4.AK7653.QJ843.A853 AJ986.AK75.KT9.T743 JT82.T6."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "N"]
+1H Pass 2N 3N
+4C 5D Pass Pass
+6H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q762.KQ52.Q94.92 J4.AK7653.QJ843.A853 AJ986.AK75.KT9.T743 JT82.T6."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "N"]
+1H Pass 2H 3D
+3S 4D Pass Pass
+4H Pass Pass 5C
+X 5D Pass Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQJT74.T.J96.765 A2.QJ2.75.AKT942 65.987543.AT43.3 983.AK6.KQ82.QJ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "E"]
+1N 2D 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQJT74.T.J96.765 A2.QJ2.75.AKT942 65.987543.AT43.3 983.AK6.KQ82.QJ8 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "E"]
+1N 2D 2N Pass
+3C Pass 4N Pass
+5C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "BILDE"]
+[North "CRONIER"]
+[East "RON"]
+[South "ZALESKI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J8753.T7.8754.A5 K2.Q8543.JT96.86 AQT.K96.A.KQJ743 964.AJ2.KQ32.T92 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "ZALESKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BK LAVEC SMILE"]
+[Auction "S"]
+Pass Pass 2C Pass
+2D Pass 2N Pass
+3H Pass 3S Pass
+4S Pass Pass Pass
+[Play "None"]
+*
+
+

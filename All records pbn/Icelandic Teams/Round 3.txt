@@ -1,0 +1,935 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ2.762.KQ85.75 3.AKJT83.T743.T6 754.Q94.AJ62.Q94 KT986.5.9.AKJ832 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "N"]
+Pass 1C X 1H
+1N 2S Pass 4H
+X Pass Pass Pass
+[Play "N"]
+D8 D4 DA D9
+SJ S3 S7 S8
+H7 HJ HQ H5
+DQ D3 D2 C2
+DK D7 D6 C3
+SA H3 S4 S6
+H2 HA H4 C8
+H6 HK H9 S9
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ2.762.KQ85.75 3.AKJT83.T743.T6 754.Q94.AJ62.Q94 KT986.5.9.AKJ832 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "N"]
+Pass 2C Pass 2H
+Pass 2S Pass 3H
+Pass Pass Pass
+[Play "N"]
+SA S3 S4 SK
+H2 HJ HQ H5
+DQ D3 D2 D9
+D5 D7 DJ C2
+D8 D4 DA C3
+DK DT D6 S6
+SQ H3 S5 S8
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T8754.KJT6.Q9.T7 AKQ.93.7632.J643 J962.Q742.AKJ5.5 3.A85.T84.AKQ982 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "E"]
+1C Pass 2C Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T8754.KJT6.Q9.T7 AKQ.93.7632.J643 J962.Q742.AKJ5.5 3.A85.T84.AKQ982 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "E"]
+2C Pass 3C an
+. X XX 3H
+Pass Pass 4C 4S
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q974.84.643.9874 KJ.KQT753.AK.KJT T863.J92.87.Q653 A52.A6.QJT952.A2 "]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2220"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "S"]
+Pass 1H Pass 2D
+Pass 2H Pass 3H
+Pass 4N Pass 5C
+Pass 7N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q974.84.643.9874 KJ.KQT753.AK.KJT T863.J92.87.Q653 A52.A6.QJT952.A2 "]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2220"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1S Pass 2H
+Pass 2S Pass 3H
+Pass 3S Pass 4S
+Pass 4N Pass 5C
+Pass 5D Pass 6D
+Pass 7N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T6.6532.QT93.QJ3 K.AT94.K8.AK9642 AQ42.QJ7.J54.875 J98753.K8.A762.T "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "W"]
+1C Pass 1S Pass
+2H Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T6.6532.QT93.QJ3 K.AT94.K8.AK9642 AQ42.QJ7.J54.875 J98753.K8.A762.T "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "W"]
+1C Pass 1N Pass
+2C Pass 2D Pass
+2H Pass 2N Pass
+3C Pass 3N Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ854.9875.2.KQ3 T6.KQT6.K4.AJ762 K72.42.QJT985.85 J93.AJ3.A763.T94 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "N"]
+Pass Pass 1S X
+2C Pass 2D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ854.9875.2.KQ3 T6.KQT6.K4.AJ762 K72.42.QJT985.85 J93.AJ3.A763.T94 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "N"]
+Pass 1D 1S X
+2S Pass Pass X
+Pass 3D Pass 3S
+X Pass Pass 4C
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T942.KQ82.AK.T86 AK76.A.J42.K9754 QJ3.T975.QT9.A32 85.J643.87653.QJ "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "E"]
+Pass 1N X Pass
+Pass XX 2C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T942.KQ82.AK.T86 AK76.A.J42.K9754 QJ3.T975.QT9.A32 85.J643.87653.QJ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "E"]
+Pass 1C an .
+Pass 1D an tX
+Pass 2H X Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T4.94.AT52.QJ732 J98732.Q63.AKT9.KQ65 A2.KJ9843.4.A KJT875.Q76.865."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "S"]
+Pass 1S 2D 2H
+2S 4H 5D X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T4.94.AT52.QJ732 J98732.Q63.AKT9.KQ65 A2.KJ9843.4.A KJT875.Q76.865."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "S"]
+Pass 1S 2D 2H
+4C an fi 4H
+5D X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 83.KT865.63.KJ93 JT942.Q.AQ52.T64 AQ65.J3.KJT94.85 K7.A9742.87.AQ72 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "W"]
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 83.KT865.63.KJ93 JT942.Q.AQ52.T64 AQ65.J3.KJT94.85 K7.A9742.87.AQ72 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "W"]
+Pass 1D 1H Pass
+1S Pass 2C Pass
+2N Pass 3N X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q963.AK4.J92.K83 JT976.AQ75.T962.AKT754 52.K863.5. J82.Q83.T4.AQJ74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+2N Pass 3C Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q963.AK4.J92.K83 JT976.AQ75.T962.AKT754 52.K863.5. J82.Q83.T4.AQJ74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "N"]
+1S Pass 2N Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK8652.6.AT5.AQ7 3.JT5432.J97.963 QT.AK987.Q642.JT J974.Q.K83.K8542 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 1N Pass 2H
+Pass 2S Pass 3D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK8652.6.AT5.AQ7 3.JT5432.J97.963 QT.AK987.Q642.JT J974.Q.K83.K8542 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T98532.T96.A32.T KQ76.AJ42.T74.A4 J.K873.Q96.KQ986 A4.Q5.KJ85.J7532 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "S"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T98532.T96.A32.T KQ76.AJ42.T74.A4 J.K873.Q96.KQ986 A4.Q5.KJ85.J7532 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "S"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT64.72.8653.AK7 KQ3.JT985.2.QT96 J75.43.KQJ4.J854 982.AKQ6.AT97.32 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "W"]
+Pass Pass 1N Pass
+2D Pass 2S Pass
+2N Pass 3C Pass
+3D Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT64.72.8653.AK7 KQ3.JT985.2.QT96 J75.43.KQJ4.J854 982.AKQ6.AT97.32 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "W"]
+Pass Pass 1N Pass
+2D Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK9732.Q32.J.J74 Q.J865.T9653.A95 J654.A94.AQ84.Q2 T8.KT7.K72.KT863 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "N"]
+1D Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK9732.Q32.J.J74 Q.J865.T9653.A95 J654.A94.AQ84.Q2 T8.KT7.K72.KT863 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "N"]
+1C Pass 1H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A.854.JT63.AT843 QJ75.9762.Q87.J2 KT98432.J.K542.9 6.AKQT3.A9.KQ765 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "E"]
+1H Pass 2H 3S
+4C Pass 4H Pass
+4S Pass 5H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A.854.JT63.AT843 QJ75.9762.Q87.J2 KT98432.J.K542.9 6.AKQT3.A9.KQ765 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "E"]
+1C 1H X 4D
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q54.KQ653.8742.4 AJ9863.7.Q65.Q98 KT7.J8.K93.KT632 2.AT942.AJT.AJ75 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "S"]
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q54.KQ653.8742.4 AJ9863.7.Q65.Q98 KT7.J8.K93.KT632 2.AT942.AJT.AJ75 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "S"]
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Anton"]
+[North "Sverrir"]
+[East "Sævar"]
+[South "Aðalsteinn"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AT3.4.AKQ4.Q8753 KQ82.KQJ83.63.J9 J76.A95.JT2.AK62 954.T762.9875.T4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Eykt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "3 Frakkar"]
+[Auction "W"]
+1H X Pass 2H
+Pass 2N 3H Pass
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

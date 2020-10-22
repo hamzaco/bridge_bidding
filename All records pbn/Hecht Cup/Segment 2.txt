@@ -1,0 +1,270 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Batov"]
+[North "Bjarnarson"]
+[East "Popova"]
+[South "Askgaard"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A73.KQ762.5.A763 JT94.A53.KJ3.T82 K85.J98.T9762.J5 Q62.T4.AQ84.KQ94 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D 1H X
+Pass 1N Pass Pass
+Pass
+[Play "None"]
+H6 H3 HJ H4
+HQ H5 H9 HT
+H2 HA H8 S2
+CA C2 C5 CK
+HK S4 DT S6
+H7 CT D7 C4
+SA S9 S5 SQ
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Batov"]
+[North "Bjarnarson"]
+[East "Popova"]
+[South "Askgaard"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 4.64.JT87.AK8743 A8752.KT85.9.QJ6 QJT93.AJ93.A43.9 K6.Q72.KQ652.T52 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 3C Pass Pass
+3D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Batov"]
+[North "Bjarnarson"]
+[East "Popova"]
+[South "Askgaard"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ632.87643.T85.8 AK832.QT.AKJ93.KQ9 QT976.AJ95.Q.T754 J54.K2.7642."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C 1H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Batov"]
+[North "Bjarnarson"]
+[East "Popova"]
+[South "Askgaard"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ63.3.J754.AK82 J.AKQ86.KQT6.975 T9542.JT54.A8.43 A87.972.932.QJT6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 1N an
+fo X 2D 2S
+Pass Pass 3C 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Batov"]
+[North "Bjarnarson"]
+[East "Popova"]
+[South "Askgaard"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKT973.A4.952.72 J54.KQJ95.76.KJ6 Q6.873.AQ843.T95 82.T62.KJT.AQ843 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1S Pass
+Pass 1N an al
+Pass 2H Pass Pass
+2S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Batov"]
+[North "Bjarnarson"]
+[East "Popova"]
+[South "Askgaard"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K5.J53.AQ5432.85 JT6.KT8764.K7.K9 AQ87.A92.86.AQJ6 9432.Q.JT9.T7432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D 1H X
+Pass 2D Pass 2H
+Pass 3D Pass 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Batov"]
+[North "Bjarnarson"]
+[East "Popova"]
+[South "Askgaard"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ542.T4.T83.KJ3 76.KQ985.A96.942 A.AJ732.Q52.AT75 JT983.6.KJ74.Q86 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1H 1S
+1N Pass 2C Pass
+2H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Batov"]
+[North "Bjarnarson"]
+[East "Popova"]
+[South "Askgaard"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ7532.J.KT9542.Q954 KT94.K7.QJ8.KT762 A9842.A63.AJ83.J86 QT653.7."]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D 1S 1N 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Batov"]
+[North "Bjarnarson"]
+[East "Popova"]
+[South "Askgaard"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QJ6.AK9642.AQ97.Q632 A97.JT85.T6.KJT K4.Q73.K8542.A98754 T8532.J3."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 4S
+Pass Pass Pass
+[Play "None"]
+*
+
+

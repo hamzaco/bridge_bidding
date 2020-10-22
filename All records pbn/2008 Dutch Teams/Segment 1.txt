@@ -1,0 +1,880 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T52.K64.73.AQJ98 KQ.AJ8.AKT8.K732 A3.Q9732.Q962.T6 J98764.T5.J54.54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "N"]
+Pass Pass 1C X
+1H 1S Pass 2C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+H4 H8 HQ H5
+CA C2 CT C5
+CQ CK C6 C4
+S5 SK SA S4
+S2 SQ S3 S6
+D7 DA D2 D4
+D3 DK D6 D5
+C8 C3 H9 S7
+ST D8 D9 SJ
+CJ DT DQ S9
+H6 C7 H2 S8
+HK HJ H3 HT
+C9 HA H7 DJ
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q4.KQJ.JT7.AQJ64 KJT93.973.983.92 865.65.642.T8753 A72.AT842.AKQ5.K "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "E"]
+1C 1N 2S Pass
+4S Pass Pass Pass
+[Play "S"]
+HK H9 H6 HA
+HQ H7 H5 H2
+DJ D3 D6 DA
+S4 SJ S6 S2
+SQ S3 S5 SA
+HJ H3 D4 H4
+CA C2 C3 CK
+DT D9 D2 DK
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ.AQ2.AJT5.752 J9.K9864.Q62.J94 T865432.5.3.KT63 7.JT73.K9874.AQ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "S"]
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ.AQ2.AJT5.752 J9.K9864.Q62.J94 T865432.5.3.KT63 7.JT73.K9874.AQ8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "S"]
+2N Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J754.87.654.K942 T86.K9543.AT.AJ8 Q932.A6.KQ987.Q6 AK.QJT2.J32.T753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "W"]
+1H X 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J754.87.654.K942 T86.K9543.AT.AJ8 Q932.A6.KQ987.Q6 AK.QJT2.J32.T753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "W"]
+1H X 2N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J74.JT5.93.AKJT3 T2.AK9742.AKJT4.KQ53 Q63.2.Q9752. A986.8.Q8765.864 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "N"]
+Pass Pass 1C 1H
+X Pass 1S 4D
+Pass 4S Pass 4N
+Pass 5C X XX
+Pass 5H Pass 7D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J74.JT5.93.AKJT3 T2.AK9742.AKJT4.KQ53 Q63.2.Q9752. A986.8.Q8765.864 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "N"]
+Pass Pass 1C X
+1H an tX 2D
+Pa 2S an al
+ n 3C 3S Pass
+5C an ex Pass
+5D Pass 6D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 82.AKQT.A75.AKJ7 QJ765.8.KT82.T92 T3.9643.963.8654 AK94.J752.QJ4.Q3 "]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "E"]
+1C X 1H an
+sP Pass 2S an
+4   1 X Pass
+3H Pass Pass 3S
+Pass Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 82.AKQT.A75.AKJ7 QJ765.8.KT82.T92 T3.9643.963.8654 AK94.J752.QJ4.Q3 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1390"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "E"]
+1D X 1S Pass
+2S X 4S Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQJ6.9.JT9.AQ962 T972.QJT52.7.KJ7 K.AK8743.A53.854 8543.6.KQ8642.T3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "S"]
+1C 1H Pass Pass
+X Pass Pass 2D
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQJ6.9.JT9.AQ962 T972.QJT52.7.KJ7 K.AK8743.A53.854 8543.6.KQ8642.T3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "S"]
+1C 1H Pass Pass
+X Pass Pass 2D
+Pass Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T.8732.QJ97432.8 Q987643.Q.K8.T96 J.KJ9654.T5.A754 AK52.AT.A6.KQJ32 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "W"]
+2D Pass 2N Pass
+3D an mi  s
+Pass 3H an XX
+Pass 4H an sh
+ n X 4N Pass
+5D an ze Pass
+5S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T.8732.QJ97432.8 Q987643.Q.K8.T96 J.KJ9654.T5.A754 AK52.AT.A6.KQJ32 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "W"]
+3S Pass 4N 5D
+X! an 0  Pass
+5S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 42.K54.KQJ8.KQJT AT86.962.9642.72 KJ3.AQJT83.5.643 Q975.7.AT73.A985 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "N"]
+1H Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 42.K54.KQJ8.KQJT AT86.962.9642.72 KJ3.AQJT83.5.643 Q975.7.AT73.A985 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "N"]
+1H Pass 2C an
+na Pass 2D an
+an Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ76.T85.974.J65 JT932.62.A85.A42 A4.974.K63.KQ987 85.AKQJ3.QJT2.T3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "E"]
+1H Pass 1S Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ76.T85.974.J65 JT932.62.A85.A42 A4.974.K63.KQ987 85.AKQJ3.QJT2.T3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "E"]
+1H Pass 1S Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ9.K86532.8642.AT652 KQ8.QJT.Q7.843 AJT32.A4.AJ9.J7 97654.97.KT53."]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "S"]
+2C 2S 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ9.K86532.8642.AT652 KQ8.QJT.Q7.843 AJT32.A4.AJ9.J7 97654.97.KT53."]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "S"]
+Pass 1S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ6.4.T753.J9864 53.KQ832.AJ82.AT KT942.JT.K9.KQ73 J87.A9765.Q64.52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "W"]
+1H 1S 2N an
+in 3S 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ6.4.T753.J9864 53.KQ832.AJ82.AT KT942.JT.K9.KQ73 J87.A9765.Q64.52 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "W"]
+1H 1S 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T96.AKQ.654.Q943 A85.65.AQJT9.AT7 QJ732.JT72.73.65 K4.9843.K82.KJ82 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2C Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T96.AKQ.654.Q943 A85.65.AQJT9.AT7 QJ732.JT72.73.65 K4.9843.K82.KJ82 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2C Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 8763.QT7.842.K98 AKQ42.AK54.T6.75 J9.6.KQJ95.AJ643 T5.J9832.A73.QT2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "E"]
+Pass 3C X! Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 8763.QT7.842.K98 AKQ42.AK54.T6.75 J9.6.KQJ95.AJ643 T5.J9832.A73.QT2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "E"]
+Pass Pass 1S 2D
+X Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J.AT864.AQT2.975 QT9.KQ92.J86.QT6 8652.53.9754.AK2 AK743.J7.K3.J843 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J.AT864.AQT2.975 QT9.KQ92.J86.QT6 8652.53.9754.AK2 AK743.J7.K3.J843 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Jansma"]
+[North "Gosschalk"]
+[East "Verhees"]
+[South "vd Haar"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQT96.KQT2.Q4.K4 87.54.T985.Q9762 K2.J87.KJ62.AT83 J543.A963.A73.J5 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star 1"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 1N Pass 2C
+Pass 2D an Xe
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+

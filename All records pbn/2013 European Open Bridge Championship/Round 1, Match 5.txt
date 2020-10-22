@@ -1,0 +1,561 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 7652.2.KT832.752 K.Q8743.Q76.AJT9 Q43.AKJ5.J4.8643 AJT98.T96.A95.KQ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+H2 H3 HA H6
+DK D7 DJ D5
+C7 C9 C3 CQ
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 7652.2.KT832.752 K.Q8743.Q76.AJT9 Q43.AKJ5.J4.8643 AJT98.T96.A95.KQ "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "N"]
+Pass 1S Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 5.KQ62.AKT94.KQ8 KJ2.AT854.72.974 A98743.Q63.AJ32.QT6 J973.J85.T65."]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "E"]
+Pass 1D 1H X
+2H X Pass 4H
+Pass 5D Pass 6C
+Pass 7C Pass 7S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 5.KQ62.AKT94.KQ8 KJ2.AT854.72.974 A98743.Q63.AJ32.QT6 J973.J85.T65."]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1390"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "E"]
+Pass 1D 1H 1S
+3H 3N Pass 4H
+Pass 5D Pass 6D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K.AJ9754.A94.AQJ Q92.T62.KJT8.T86 JT753.8.Q52.9732 A864.KQ3.763.K54 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "S"]
+1H Pass Pass 1N
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K.AJ9754.A94.AQJ Q92.T62.KJT8.T86 JT753.8.Q52.9732 A864.KQ3.763.K54 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "S"]
+1H Pass 1S Pass
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT62.AT832.K2.AJ A73.QJ64.Q4.9632 J954.K97.T875.87 Q8.5.AJ963.KQT54 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "W"]
+Pass Pass 1D 1H
+1N Pass 2C Pass
+Pass 2H 3C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT62.AT832.K2.AJ A73.QJ64.Q4.9632 J954.K97.T875.87 Q8.5.AJ963.KQT54 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "W"]
+Pass Pass 1D X
+1H Pass 2C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 3.J872.AT643.KT2 K.AQT6.KQ85.J974 JT874.K93.2.AQ65 AQ9652.54.J97.83 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "N"]
+Pass 2D Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 3.J872.AT643.KT2 K.AQT6.KQ85.J974 JT874.K93.2.AQ65 AQ9652.54.J97.83 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "N"]
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKT4.72.T9764.J7 J9873.AT6.3.AK83 Q652.K85.AJ5.Q92 .QJ943.KQ82.T654 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKT4.72.T9764.J7 J9873.AT6.3.AK83 Q652.K85.AJ5.Q92 .QJ943.KQ82.T654 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J2.A5.AK.Q987543 KQ9854.J93.9642.A763 K8764.QJT5.. T.QT2.873.AKJT62 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "S"]
+1C 2S X Pass
+2N Pass 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J2.A5.AK.Q987543 KQ9854.J93.9642.A763 K8764.QJT5.. T.QT2.873.AKJT62 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "S"]
+1C 2S 3H Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K6.62.AQ942.T987 QJ972.JT.KT7.A43 A543.AQ87.6.J652 T8.K9543.J853.KQ "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "W"]
+Pass Pass 1H Pass
+1S Pass 2D Pass
+2N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K6.62.AQ942.T987 QJ972.JT.KT7.A43 A543.AQ87.6.J652 T8.K9543.J853.KQ "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "W"]
+Pass 1C 1H 2C
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 98.J764.Q954.QJ8 Q.K9852.K32.T965 KT76532.AQ3.J6.2 AJ4.T.AT87.AK743 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "N"]
+1S 1N Pass 2D
+2S Pass Pass X
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 98.J764.Q954.QJ8 Q.K9852.K32.T965 KT76532.AQ3.J6.2 AJ4.T.AT87.AK743 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "N"]
+1S 2C Pass 3C
+Pass 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "PADON"]
+[North "FRIEDLANDE"]
+[East "BIRMAN"]
+[South "LIRAN"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T62.QT2.T952.K64 KQ4.J9543.K64.T7 A953.A76.Q.AQJ83 J87.K8.AJ873.952 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "ISRAEL EIDI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRMANY"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1D Pass 1S
+Pass Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+

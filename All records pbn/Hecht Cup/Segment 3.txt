@@ -1,0 +1,860 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT87.965.AK93.64 AJ632.J.J.AK9875 AKQT432.8765.JT. K954.87.QT42.Q32 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+4C Pass 4H 4S
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+H7 H9 HJ HA
+H8 H5 S3 HK
+S7 S2 H3 SK
+SJ H2 S4 S8
+C4 C9 CT CQ
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ8.98653.874.T2 T53.Q4.93.AK8763 K9762.AT72.QJ65. Q4.KJ.AKT2.QJ954 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K862.KJ.A843.K53 Q3.AT95.QT75.QJ8 J4.Q7432.KJ9.764 AT975.86.62.AT92 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1H 1S
+Pass 1N 2D Pass
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT96.76.AQ973.75 7532.KQ.T65.AT84 8.AJT98.K84.Q632 AKJ4.5432.J2.KJ9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1C 1D
+1S 2H 2S Pass
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 84.QT9.A763.KQ97 QJ97.AK3.T8.A643 6.J654.KJ52.T852 AKT532.872.Q94.J "]
+[Declarer "W"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 2D Pass 2N
+Pass 3H Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AJ52.K97.KQ63.Q5 QT862.A984.9876.QT843 J54.JT.T43. K976.A3.752.AKJ2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N X 2H 2S
+Pass Pass 2N Pass
+3C 3S X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJT6.Q9762.T.J87 KQ75.KJ83.9.AK42 92.AT4.KJ532.653 843.5.AQ8764.QT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 2D
+an we 2H Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQT.J74.Q64.T765 98643.AT95.J9.42 752.K63.A8.AKQJ9 AJ.Q82.KT7532.83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C 1D 1N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ95.A87.96.KQJ9 A6.JT65.AKQT.532 72.94.J75432.A84 QT843.KQ32.8.T76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1C 1D
+Pass Pass X Pass
+2C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 8632.J9.842.KJ76 7.A.Q9763.Q98542 KJ954.K7432.KT.T AQT.QT865.AJ5.A3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1H Pass 1N 2S
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ8.7.AJ2.QJT982 Q542.QT96.97.653 K76.K542.K843.AK T93.AJ83.QT65.74 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1D Pass
+2C Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJT63.AJ73.7.T32 5.KT862.AKJ.KQ84 AQ94.5.T862.AJ97 872.Q94.Q9543.65 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H X 2H an
+we 4S X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 3.T853.AK7532.K6 KT82.KQ97.QT6.T3 Q75.AJ42.J84.J52 AJ964.6.9.AQ9874 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C 1D X
+an 4+ 2D 2S
+3D 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 98.AQJ8742.Q9.54 AQ7652.6.J3.8632 KT4.K.AK8642.AJ9 J3.T953.T75.KQT7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K94.AK98.KQT7.KT 3.QT742.J952.432 A7652.863.AQJ87.QJT8 J653.A4.965."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1S Pass
+2N Pass 3C Pass
+3S Pass 4C Pass
+4D Pass 4N Pass
+5N Pass 6C Pass
+6N Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T964.AQ.KJ74.AJT AQ872.54.A65.Q94 KJ5.T7.QT92.8732 3.KJ98632.83.K65 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S Pass 1N Pass
+2C Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T62.A842.J764.T8 QJ7.Q97.KQ85.KJ9 A93.JT65.T3.AQ74 K854.K3.A92.6532 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1D
+X XX 1H Pass
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 852.AJT73.KQ2.65 K3.KQ.AJ9863.A43 AQT64.8642.7.T72 J97.95.T54.KQJ98 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 2H 2N Pass
+3C an al Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 92.AQJ92.865.A32 J7.KT5.32.KQT976 AK85.83.QT974.54 QT643.764.AKJ.J8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H Pass 1S Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 3.AQJ7.T842.QJ86 9862.85.KJ976.92 AQT7.K43.53.AK54 KJ54.T962.AQ.T73 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1S Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ73.AQJ8.95.962 KT97652.86.K854.Q98652 3.AKT3.T3. AT4.4.QJ742.AQJ7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D 1H Pass
+1S X 2S 3C
+4S 5C X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J8.Q85.AQ64.A875 63.9643.T98.Q632 AK9752.KJ2.2.JT4 QT4.AT7.KJ753.K9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N Pass Pass 2S
+Pass 2N Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ8.AT76.Q7.Q862 JT6.82.AKJT86.54 K732.KJ5.9432.J7 954.Q943.5.AKT93 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1N Pass 2C X
+2H 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q4.KQ3.AJ93.KT54 T83.AT94.75.9873 97652.852.862.AJ AKJ.J76.KQT4.Q62 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 96.AKJ8.KJ98652.K853 952.843.T74.AT4 QT73.J752.Q3.QJ72 64.AKQT96.A."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C an al
+Pass 1D an al
+Pass 2D 3C 3D
+Pass 3S 4H Pass
+Pass 5D Pass Pass
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT6.8.Q853.AJ862 AQ92.QJ32.972.94 J753.T974.J.KQ73 84.AK65.AKT64.T5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1N an
+ei Pass 2H Pass
+3H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT.63.JT83.AK532 54.AKJ5.KQ764.JT AQ976.942.2.Q964 K832.QT87.A95.87 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1D 1S X
+1N an tX 2H
+3C 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A932.KT953.52.K6 K76.AKQ64.AJ874.QJ8 AQ8742.JT8.5.T54 J6.973.QT932."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C 1H Pass 4H
+4N Pass 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hecht Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "von Arnim"]
+[North "Zia"]
+[East "Auken"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K3.QT76532.Q9.A7 AJ4.AT652.QT832.T65 9.J8743.KJ94. AQJ98742.K8.K.65 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C 2H 3D
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+

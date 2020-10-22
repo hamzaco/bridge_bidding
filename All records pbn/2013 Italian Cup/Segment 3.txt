@@ -1,0 +1,685 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q8.A2.KQ3.QJT987 K542.JT853.52.53 JT763.KQ.A874.AK A9.9764.JT96.642 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+1C Pass 1S Pass
+2S Pass 3C Pass
+3D Pass 4C Pass
+5C Pass 6C Pass
+Pass Pass
+[Play "E"]
+C7 C3 CA C2
+C8 C5 CK C4
+HA H3 HK H4
+CQ H5 S3 C6
+CJ S5 S6 H6
+CT H8 S7 H7
+H2 HT HQ H9
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q8.A2.KQ3.QJT987 K542.JT853.52.53 JT763.KQ.A874.AK A9.9764.JT96.642 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 3C Pass
+3H Pass 3S Pass
+4C Pass 4D Pass
+4H Pass 5C Pass
+6C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A85.QJ8652.J3.62 T942.93.T985.AQ4 KQ763.7.Q642.J95 J.AKT4.AK7.KT873 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+1C 1H Pass 1S
+X Pass 2S Pass
+3H X Pass Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A85.QJ8652.J3.62 T942.93.T985.AQ4 KQ763.7.Q642.J95 J.AKT4.AK7.KT873 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+1C 1H X Pass
+2C Pass 3C Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T9.865.K4.QJT742 AQ4.432.A63.AK65 KJ8653.T97.Q85.3 72.AKQJ.JT972.98 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+3C 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T9.865.K4.QJT742 AQ4.432.A63.AK65 KJ8653.T97.Q85.3 72.AKQJ.JT972.98 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+Pass 1C 1S X
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK876.9765.J5.J4 J93.K42.K7643.AK QT.AJ8.Q82.QT982 542.QT3.AT9.7653 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+1D Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK876.9765.J5.J4 J93.K42.K7643.AK QT.AJ8.Q82.QT982 542.QT3.AT9.7653 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J96.T842.542.KT2 Q8532.KJ5.3.J654 KT7.Q93.AKQT76.9 A4.A76.J98.AQ873 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+1D 2C Pass 2S
+Pass 3D Pass 5C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J96.T842.542.KT2 Q8532.KJ5.3.J654 KT7.Q93.AKQT76.9 A4.A76.J98.AQ873 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+1D 2C Pass 2S
+3D X Pass 4C
+Pass 5C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK96.J54.K2.KJT4 742.AQT6.976.963 J853.K97.A85.A75 QT.832.QJT43.Q82 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK96.J54.K2.KJT4 742.AQT6.976.963 J853.K97.A85.A75 QT.832.QJT43.Q82 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ63.52.AK4.K953 75.A986.Q62.AJ64 KT82.KQT73.3.QT8 J94.J4.JT9875.72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+1D Pass 1H Pass
+1N Pass 2H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ63.52.AK4.K953 75.A986.Q62.AJ64 KT82.KQT73.3.QT8 J94.J4.JT9875.72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+1N Pass 2D Pass
+2H Pass 3H Pass
+4C Pass 4D Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A.AJ82.A9763.K72 J862.KQ95.T.9653 T95.T743.8.QJT84 KQ743.6.KQJ542.A "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+Pass Pass 1D 1H
+Pass 3H 3S 4H
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A.AJ82.A9763.K72 J862.KQ95.T.9653 T95.T743.8.QJT84 KQ743.6.KQJ542.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+Pass Pass 1S X
+2N Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J983.AJ62.AQ65.4 T76.Q874.K843.J2 42.3.T972.AK9853 AKQ5.KT95.J.QT76 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+3C 3N X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J983.AJ62.AQ65.4 T76.Q874.K843.J2 42.3.T972.AK9853 AKQ5.KT95.J.QT76 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+Pass 1C X XX
+Pass Pass 1D X
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T742.JT53.KJ.Q92 KQJ9.762.3.AJ743 A8653.A.QT9764.K .KQ984.A852.T865 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+Pass Pass 1C 1S
+2H 3S Pass 4S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T742.JT53.KJ.Q92 KQJ9.762.3.AJ743 A8653.A.QT9764.K .KQ984.A852.T865 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T96.AJ5.K8764.K8 KQ.92.A932.QJT74 8754.Q743.QJ.962 AJ32.KT86.T5.A53 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+1N Pass Pass X
+2D X Pass 2H
+Pass 3C Pass 3D
+Pass 4D Pass 4H
+Pass 4S Pass 5C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T96.AJ5.K8764.K8 KQ.92.A932.QJT74 8754.Q743.QJ.962 AJ32.KT86.T5.A53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "VERSACE"]
+[North "HUGONY"]
+[East "LAURIA"]
+[South "VINCI"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K54.K2.54.KT9632 A8762.T86.KQT7.8 JT.Q754.AJ986.J4 Q93.AJ93.32.AQ75 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "VINCI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 1N Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+

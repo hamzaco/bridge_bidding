@@ -1,0 +1,454 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ543.96.J85.Q63 AK8.KT.QT76.AT85 T762.AJ5.93.J742 9.Q87432.AK42.K9 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "N"]
+Pass 1H Pass 2D
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "S"]
+CQ CA C4 C9
+H6 HK HA H2
+C3 C5 C2 CK
+D8 D6 D3 DA
+D5 D7 D9 DK
+DJ DQ S2 D2
+C6 CT CJ H3
+H9 HT H5 HQ
+S5 DT C7 D4
+S3 SA S6 S9
+S4 C8 HJ H4
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J4.T763.KJT5.KQ6 T83.AKJ5.9743.J5 AK95.9.82.T98432 Q762.Q842.AQ6.A7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "E"]
+1N Pass Pass 2D
+an sP Pass 2H
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ7632.K6.KQ.Q8 JT8.4.962.JT9762 954.Q85.AJ75.AK3 .AJT9732.T843.54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "S"]
+3H 3S Pass 4S
+Pass 4N Pass 5H
+Pass 6N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q975432.73.875.8 T8.T862.K4.AK762 A94.J963.QJT943. AKJ6.KQJ5.AQT2.5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "W"]
+Pass Pass 1C 2S
+X an t/ Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQJT6.QT.K954.52 A875.K943.A8.AQ7 4.AJ8765.762.J63 932.2.QJT3.KT984 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "N"]
+Pass Pass 1S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A6543.KQ8.Q4.A42 KT92.J54.AK.9653 7.A96.T973.KQJT7 QJ8.T732.J8652.8 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1020"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass 2N
+Pass 3C Pass 3S
+an sh Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQJ75.2.A984.KT4 T63.AJ9873.J.Q76 A982.Q654.K75.83 4.KT.QT632.AJ952 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "S"]
+1S Pass 3C an
+4  X 4S 5C
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKQJT7.J87.8.KJ7 86.KT6.QT54.AT96 43.5432.KJ63.Q85 952.AQ9.A972.432 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass Pass X XX
+2C X Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ64.74.54.KQ732 9872.T852.AJ9.64 AJT5.Q63.87.AJT5 3.AKJ9.KQT632.98 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "N"]
+1C 1D 1H an
+4  2D 2S 3D
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T.Q76.642.AKQ762 Q9763.AKJ54.K.85 A8542.T9.QT97.T9 KJ.832.AJ853.J43 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "E"]
+Pass 2C 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJ843.T43.973.94 7652.AQJ85.2.A83 K.9.KQJT64.KQJT5 AT9.K762.A85.762 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "S"]
+Pass 1H 2N 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A87643.92.KJ8.74 QT2.T75.974.AQ63 J5.KQ6.AQ53.JT98 K9.AJ843.T62.K52 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "W"]
+Pass 1C 1H X
+1N Pass Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ843.Q.KQ87.AK8 52.KT63.AJ62.T42 KT96.J84.T54.J63 Q7.A9752.93.Q975 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J2.K.AK9876.9542 AK9753.73.J3.Q87 Q6.JT9854.Q52.A6 T84.AQ62.T4.KJT3 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "E"]
+Pass 1D 1S X
+an t/ 2S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Stockholm Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 6.A9542.K94.A743 97.KQ87.Q82.QJ82 J842.3.J7653.K65 AKQT53.JT6.AT.T9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Weiler"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Berik"]
+[Auction "S"]
+1H Pass 1S Pass
+2C Pass Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+

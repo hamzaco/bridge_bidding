@@ -1,0 +1,587 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 96.T987.AKJ4.QT7 AT432.32.983.A95 KJ.KQ64.652.J643 Q875.AJ5.QT7.K82 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+H9 H2 HK H5
+DJ D3 D2 D7
+DA D8 D5 DT
+DK D9 D6 DQ
+C7 CA C4 C2
+H7 H3 H4 HJ
+H8 C5 H6 HA
+S6 SA SJ S5
+S9 S2 SK S7
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 96.T987.AKJ4.QT7 AT432.32.983.A95 KJ.KQ64.652.J643 Q875.AJ5.QT7.K82 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+DA D3 D2 D7
+HT H2 HQ HA
+S9 SA SJ S8
+S6 S2 SK S7
+DJ D8 D6 DT
+DK D9 D5 DQ
+D4 H3 H4 C2
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9.T6.AQJT7642.Q KQJ.AK873.K.AT87 A5.QJ954.98.9532 876432.2.53.KJ64 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "E"]
+Pass 4D X Pass
+4S Pass Pass Pass
+[Play "S"]
+CQ C7 C2 CK
+H6 HA H4 H2
+HT HK H5 D3
+S9 SJ SA S2
+ST C8 C3 C4
+DA DK D8 D5
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9.T6.AQJT7642.Q KQJ.AK873.K.AT87 A5.QJ954.98.9532 876432.2.53.KJ64 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "E"]
+Pass 3D X Pass
+3S Pass Pass Pass
+[Play "S"]
+CQ CA C2 C4
+H6 HA H4 H2
+HT HK H5 D3
+S9 SJ SA S2
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJT93.9.QT6.K974 Q4.A762.K98.J652 8762.KJ83.J42.A8 A5.QT54.A753.QT3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "S"]
+Pass Pass Pass 1D
+1S X 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJT93.9.QT6.K974 Q4.A762.K98.J652 8762.KJ83.J42.A8 A5.QT54.A753.QT3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "S"]
+Pass Pass Pass 1C
+1S X 2S Pass
+Pass X 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T42.2.AJ9652.AK6 AQJ5.AKQJ76.J42.986 T83.KQ83.985.K73 954.T74.QT73."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "W"]
+1H Pass 1N 2D
+2S 3D 4H Pass
+4S Pass 5H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T42.2.AJ9652.AK6 AQJ5.AKQJ76.J42.986 T83.KQ83.985.K73 954.T74.QT73."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "W"]
+2C Pass 2D 3D
+3H 4D 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKJ542.AKJ74.Q.J Q9.T962.A52.6543 T76.Q85.863.KT87 83.3.KJT974.AQ92 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "N"]
+Pass 2H Pass 3D
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKJ542.AKJ74.Q.J Q9.T962.A52.6543 T76.Q85.863.KT87 83.3.KJT974.AQ92 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "N"]
+Pass Pass 2C Pass
+2D 3D 3S Pass
+4S 5D 5H Pass
+5S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K.AKQT32.AT9763.T975 J64.AT76.85.A32 987.Q983.QJ4.QJ864 5.KJ542.K2."]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "E"]
+Pass 1H Pass 2H
+2S 4C Pass 4S
+Pass 6H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K.AKQT32.AT9763.T975 J64.AT76.85.A32 987.Q983.QJ4.QJ864 5.KJ542.K2."]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "E"]
+Pass 1H Pass 2H
+2S 3C Pass 4H
+Pass 5C Pass 5H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK532.K52.Q7.762 Q74.QT8.98542.J9 T98.74.KT.AT8543 J6.AJ963.AJ63.KQ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "S"]
+1S Pass 2S X
+Pass 2N Pass 3C
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK532.K52.Q7.762 Q74.QT8.98542.J9 T98.74.KT.AT8543 J6.AJ963.AJ63.KQ "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "S"]
+1S Pass 2S 3H
+Pass Pass 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q83.4.AKT876.Q92 AJ6.95.J3.A76543 K72.KQJT832.2.J8 T954.A76.Q954.KT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "W"]
+Pass 1H Pass 2D
+Pass 2H Pass 2N
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q83.4.AKT876.Q92 AJ6.95.J3.A76543 K72.KQJT832.2.J8 T954.A76.Q954.KT "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "W"]
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K9732.AJ73.53.T6 AQJ.5.QJ8764.Q54 T.KT96.AKT.AK983 8654.Q842.92.J72 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "N"]
+1C Pass 1S 2D
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K9732.AJ73.53.T6 AQJ.5.QJ8764.Q54 T.KT96.AKT.AK983 8654.Q842.92.J72 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "N"]
+1C Pass 1S 2D
+2H Pass 3H Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Girollet"]
+[North "Chemla"]
+[East "Fleury"]
+[South "Cronier"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKJ532.K84.AK3.J 4.QJ53.JT54.A854 T7.AT96.Q2.KQT72 Q986.72.9876.963 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Koumetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Carcy"]
+[Auction "E"]
+Pass 2D Pass 2H
+Pass 2S Pass 3C
+Pass 3S Pass 4H
+Pass 5D Pass 5S
+Pass Pass Pass
+[Play "W"]
+*
+
+

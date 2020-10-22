@@ -1,0 +1,473 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J8764.Q82.K4.KJ4 AKQT.AT63.A762.5 52.KJ5.QJT95.832 93.974.83.AQT976 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "N"]
+Pass 3C Pass 5C
+Pass Pass Pass
+[Play "S"]
+S4 ST S2 S3
+CJ C5 C2 CT
+DK DA D5 D3
+S6 SQ S5 S9
+S7 SK C8 C9
+C4 D2 C3 CA
+H2 HA H5 H4
+S8 SA D9 D8
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J8764.Q82.K4.KJ4 AKQT.AT63.A762.5 52.KJ5.QJT95.832 93.974.83.AQT976 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "N"]
+Pass Pass 1S 1N
+Pass Pass Pass
+[Play "N"]
+DK D2 DQ D3
+D4 D6 D9 D8
+S4 DA DJ C6
+S6 SK S2 S3
+H2 H3 HJ H4
+C4 D7 DT C7
+H8 H6 D5 C9
+CJ C5 C8 CA
+S7 ST S5 S9
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q9743.T532.Q75.4 T.A4.T8632.KQ962 J2.9876.AKJ94.T5 AK865.KQJ.AJ873."]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "E"]
+1S Pass 1N Pass
+3C Pass 5C Pass
+6C Pass Pass Pass
+[Play "S"]
+H5 HA H6 HJ
+C4 CK C5 C3
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q9743.T532.Q75.4 T.A4.T8632.KQ962 J2.9876.AKJ94.T5 AK865.KQJ.AJ873."]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "E"]
+1C Pass 2H an
+AL Pass an AL
+2N Pass 3D Pass
+6C Pass Pass Pass
+[Play "S"]
+S3 ST SJ SA
+C4 C2 C5 CA
+S4 CK CT CJ
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ9.J8754.T7.AT8 QT5.K63.9654.Q74 K873.T.KQ32.K963 642.AQ92.AJ8.J52 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+1N Pass Pass Pass
+[Play "W"]
+CA C4 C3 CJ
+D7 D5 DK D8
+C8 CQ C6 C2
+S9 S5 S3 S6
+CT C7 CK C5
+H4 H3 C9 S4
+SA ST S7 S2
+SJ SQ SK H2
+DT D4 S8 DJ
+H5 HK HT H9
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ9.J8754.T7.AT8 QT5.K63.9654.Q74 K873.T.KQ32.K963 642.AQ92.AJ8.J52 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "S"]
+Pass Pass Pass 1C
+1H Pass 1S Pass
+Pass 1N Pass Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT.9742.J8765.75 J4.T63.K93.QJT84 A876.AJ.AQT42.AK K9532.KQ85.9632."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "W"]
+Pass 2D an GF
+Pass 2H an we
+Pass 2N Pass 3C
+X 3S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT.9742.J8765.75 J4.T63.K93.QJT84 A876.AJ.AQT42.AK K9532.KQ85.9632."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A32.AJ5.J964.J75 K9.Q874.A.AQ9642 Q64.K9.QT853.KT3 JT875.T632.K72.8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "N"]
+Pass 2D an mu
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A32.AJ5.J964.J75 K9.Q874.A.AQ9642 Q64.K9.QT853.KT3 JT875.T632.K72.8 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "N"]
+Pass Pass 1D 2C
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 52.AJ64.T654.JT7 K864.QT.9732.Q32 AQ93.7.AKQJ.A985 JT7.K98532.8.K64 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "E"]
+Pass Pass Pass 1D
+1H 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 52.AJ64.T654.JT7 K864.QT.9732.Q32 AQ93.7.AKQJ.A985 JT7.K98532.8.K64 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1H Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJT987.KQT.A8.Q3 KQ62.J763.972.JT 543.52.J643.A984 .A984.KQT5.K7652 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "S"]
+1S Pass 1N X
+3S Pass 4S Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJT987.KQT.A8.Q3 KQ62.J763.972.JT 543.52.J643.A984 .A984.KQT5.K7652 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "S"]
+1S Pass Pass X
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Solli Hans"]
+[North "Lasseri"]
+[East "Brekka"]
+[South "Dolla"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQT4.AKT53.KQ43.7 864.AT83.A8652.9862 J97.KJ964.J.AJ53 Q2.Q752.T97."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "DOLLA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VIEGO"]
+[Auction "W"]
+Pass Pass Pass 1H
+1N 2D an !h
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+

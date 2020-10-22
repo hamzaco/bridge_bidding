@@ -1,0 +1,958 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ754.A9762.T43.AQ9542 9.QT43.K2.J873 KJ8.J85.A87.KT6 T632.K.QJ965."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "N"]
+Pass Pass 1H 1S
+2H 3H Pass 4S
+Pass Pass Pass
+[Play "N"]
+HA H9 H8 H2
+H7 S2 HJ H3
+C5 C3 CK C7
+SA S3 S6 H5
+C2 CA C6 C4
+H6 H4 S4 HK
+S5 S7 ST D2
+CQ CT D3 C8
+S9 S8 SK D7
+SJ CJ D6 D4
+DK DA DT D5
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ754.A9762.T43.AQ9542 9.QT43.K2.J873 KJ8.J85.A87.KT6 T632.K.QJ965."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "N"]
+Pass Pass 1H 1S
+2C 2S 3C Pass
+Pass 3S Pass Pass
+Pass
+[Play "N"]
+CK C7 C5 C3
+SA S3 S6 H5
+C2 CA C6 C4
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J872.9.AQ76543.T QT6.4.KJT98.8742 AK9.K7652.AKQ96.543 AQJT83.2.J53."]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "E"]
+3H Pass Pass X
+Pass 5D Pass 6C
+Pass Pass Pass
+[Play "E"]
+H9 H4 H5 HA
+C2 C6 C3 CT
+S2 S6 SK S3
+C5 D3 C4 CA
+CJ D4 C7 CK
+S4 D5 C8 CQ
+S7 ST SA S5
+D6 D8 HK H3
+D2 D7 D9 C9
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J872.9.AQ76543.T QT6.4.KJT98.8742 AK9.K7652.AKQ96.543 AQJT83.2.J53."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "E"]
+2D an ! 3D
+Pass 3H Pass 3S
+Pass 4C Pass 4D
+X 5C X Pass
+Pass Pass
+[Play "E"]
+C2 C6 C3 CT
+S2 S6 SA S3
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 53.KJ9865.K93.T2 K92.432.J86.AK85 AQJ874.A7.2.7643 T6.QT.AQT754.QJ9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "S"]
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+CT CA C3 CQ
+C2 CK C4 C9
+S5 S9 SQ S6
+H5 H4 HA HT
+HK H3 H7 HQ
+HJ H2 C6 D4
+H9 D6 C7 D5
+S3 S2 SJ ST
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 53.KJ9865.K93.T2 K92.432.J86.AK85 AQJ874.A7.2.7643 T6.QT.AQT754.QJ9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "S"]
+2H Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+C2 C8 C4 CQ
+CT CK C3 CJ
+S3 S2 SQ S6
+S5 C5 C6 C9
+H5 H2 HA HT
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJT4.6.A4.AQT852 9732.Q9742.982.K Q5.AJT53.KT7.J43 A86.K8.QJ653.976 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2N Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+D4 D9 DT D5
+C2 CK CJ C7
+H6 HQ HA H8
+S4 S2 SQ SA
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJT4.6.A4.AQT852 9732.Q9742.982.K Q5.AJT53.KT7.J43 A86.K8.QJ653.976 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "W"]
+Pass 1D an !
+Pass 1H Pass 1N
+Pass 2C an !
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "E"]
+D4 D8 DT D5
+CQ CK C3 C7
+DA D9 D7 D3
+S4 S7 SQ S6
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 62.KQJ64.T864.Q8 T84.T.A92.AKJ654 QJ7.95.QJ75.T973 AK953.A8732.K3.2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2H Pass 3S
+Pass 3N Pass 4C
+Pass 4D Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 62.KQJ64.T864.Q8 T84.T.A92.AKJ654 QJ7.95.QJ75.T973 AK953.A8732.K3.2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2H Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ975.64.K.QJ765 T6.AQJ7.T975.K82 KJ.T93.AQJ842.T9 8432.K852.63.A43 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ975.64.K.QJ765 T6.AQJ7.T975.K82 KJ.T93.AQJ842.T9 8432.K852.63.A43 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "E"]
+Pass 1H an !
+Pass 1S an !
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q875.J865.3.Q643 KJ932.K7.A7.K875 T.AT42.KT86542.2 A64.Q93.QJ9.AJT9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "S"]
+Pass 1S 3D 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q875.J865.3.Q643 KJ932.K7.A7.K875 T.AT42.KT86542.2 A64.Q93.QJ9.AJT9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "S"]
+Pass 1S 2D X
+Pass 3C Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J97.63.K8764.AT8 84.T97.J953.J632 AKT52.K85.2.KQ95 Q63.AQJ42.AQT.74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "W"]
+Pass 1S 2H 2S
+Pass 3H Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J97.63.K8764.AT8 84.T97.J953.J632 AKT52.K85.2.KQ95 Q63.AQJ42.AQT.74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "W"]
+Pass 1C an !
+1H X an !
+Pass 1S Pass 2H
+Pass 2N Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q2.54.KQT753.K62 J753.Q6.A864.Q87 T964.KJ983.T943.AK8 AT72.J92.AJ5."]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "N"]
+Pass 1C 2D X
+Pass 3D Pass 3S
+Pass 4D Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q2.54.KQT753.K62 J753.Q6.A864.Q87 T964.KJ983.T943.AK8 AT72.J92.AJ5."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "N"]
+Pass 1C 1D 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ5.J64.KQ52.652 JT9.T72.9643.AQ4 832.AKQ98.J7.KJT A764.53.AT8.9873 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass 2C Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ5.J64.KQ52.652 JT9.T72.9643.AQ4 832.AKQ98.J7.KJT A764.53.AT8.9873 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "E"]
+Pass Pass Pass 1N
+an ! Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T643.K93.AK2.J83 J82.74.JT873.T94 AKQ95.QJ82.4.KQ5 7.AT65.Q965.A762 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "S"]
+Pass Pass 1S Pass
+2D Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T643.K93.AK2.J83 J82.74.JT873.T94 AKQ95.QJ82.4.KQ5 7.AT65.Q965.A762 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "S"]
+1N an ! Pass
+2C an ! Pass
+2S an ! Pass
+3S Pass 3N Pass
+4D Pass 4H Pass
+4N Pass 5D Pass
+5S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: JT84.Q987.532.A5 Q96.K4.9.KJ97642 A73.A53.QJ764.Q3 K52.JT62.AKT8.T8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "W"]
+1C 1D 1H X
+2C Pass 2N Pass
+3C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: JT84.Q987.532.A5 Q96.K4.9.KJ97642 A73.A53.QJ764.Q3 K52.JT62.AKT8.T8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "W"]
+3C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A8.KQ75.T9642.J3 Q542.T6432.Q5.84 76.AJ98.8.A97652 KJT93.AKJ73.KQT."]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "N"]
+1C 1S X 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A8.KQ75.T9642.J3 Q542.T6432.Q5.84 76.AJ98.8.A97652 KJT93.AKJ73.KQT."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "N"]
+1D an ! 1H
+4H Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J96.AK4.93.AK932 K874.J7.Q82.JT76 532.82.AKT7.Q854 AQT.QT9653.J654."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "E"]
+1H 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J96.AK4.93.AK932 K874.J7.Q82.JT76 532.82.AKT7.Q854 AQT.QT9653.J654."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "E"]
+1H 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K643.AT.A76.JT84 87.J863.T8.A9653 AQJT5.KQ5.KQJ.K2 92.9742.95432.Q7 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "S"]
+1C Pass 1S Pass
+2S Pass 4N Pass
+5C Pass 6S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K643.AT.A76.JT84 87.J863.T8.A9653 AQJT5.KQ5.KQJ.K2 92.9742.95432.Q7 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "S"]
+1N Pass 6N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hans"]
+[North "Brogeland"]
+[East "Nunn"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AJ.765.A9642.J62 T986532.QJ.Q873.Q74 984.KJ53.K95.K AKT32.QT87.AT4."]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Oz-One"]
+[Auction "W"]
+Pass Pass 1H Pass
+1S Pass 2D Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+

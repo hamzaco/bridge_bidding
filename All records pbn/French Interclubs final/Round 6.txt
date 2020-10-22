@@ -1,0 +1,804 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 963.32.AK9742.J9 Q2.AKQ7.3.K76543 KJT.964.JT85.QT8 A8754.JT85.Q6.A2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2S Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+DK D3 DJ DQ
+DA S2 DT D6
+S3 SQ SK SA
+C9 C6 C8 CA
+CJ CK CT C2
+D2 C5 CQ HJ
+H2 HQ H4 H5
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 963.32.AK9742.J9 Q2.AKQ7.3.K76543 KJT.964.JT85.QT8 A8754.JT85.Q6.A2 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "N"]
+Pass Pass 3D 4C
+Pass 5C Pass Pass
+Pass
+[Play "N"]
+DK D3 DJ D6
+DA C3 D5 DQ
+C9 C4 C8 CA
+CJ CK CT C2
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q42.T54.AQT.AJT9 JT8753.A976.32.7 K96.J8.7.KQ65432 A.KQ32.KJ98654.8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "E"]
+1D Pass 1S 2C
+2D 3N Pass Pass
+Pass
+[Play "W"]
+DA D3 D7 DK
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q42.T54.AQT.AJT9 JT8753.A976.32.7 K96.J8.7.KQ65432 A.KQ32.KJ98654.8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "E"]
+1D Pass 1S 2C
+2D 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ9862.J9.KJ7.42 QT762.T5.AKJT95.AQT K43.AQ62.763. 7543.A85.9843.Q8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "S"]
+2S 4C 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ9862.J9.KJ7.42 QT762.T5.AKJT95.AQT K43.AQ62.763. 7543.A85.9843.Q8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "S"]
+2S 3S 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T8.Q94.AJ8.QJ872 AKQ76.KT62.T.964 J94.A5.KQ972.AKT 532.J873.6543.53 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "W"]
+1S Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T8.Q94.AJ8.QJ872 AKQ76.KT62.T.964 J94.A5.KQ972.AKT 532.J873.6543.53 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "W"]
+1S 2D Pass 3D
+Pass 3S Pass 4D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT8.A5.KQ874.T93 Q32.QT963.T96.KQ J7654.842.32.642 K9.KJ7.AJ5.AJ875 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "N"]
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT8.A5.KQ874.T93 Q32.QT963.T96.KQ J7654.842.32.642 K9.KJ7.AJ5.AJ875 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "N"]
+Pass 1N Pass 2D
+Pass 2H Pass 2N
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ.J96.974.KQJ93 T65.532.JT82.T74 Q72.AK4.AKQ653.2 A9843.QT87.A865."]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "E"]
+1S Pass Pass X
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ.J96.974.KQJ93 T65.532.JT82.T74 Q72.AK4.AKQ653.2 A9843.QT87.A865."]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "E"]
+1S Pass Pass X
+Pass 2N Pass 3S
+Pass 3N Pass 4D
+Pass 5D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K64.QJ.JT73.JT93 QJ.KT96.Q65.A765 A97.8743.AK94.K8 T8532.A52.82.Q42 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "S"]
+Pass 1C X Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K64.QJ.JT73.JT93 QJ.KT96.Q65.A765 A97.8743.AK94.K8 T8532.A52.82.Q42 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "S"]
+Pass 1C X 1S
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T74.AT984.J.KQ75 QJ2.K965.T96432.86 J632.AQ8432.A.AK953 KQ75.T7.J8."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "W"]
+Pass 1D 1S X
+2S 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T74.AT984.J.KQ75 QJ2.K965.T96432.86 J632.AQ8432.A.AK953 KQ75.T7.J8."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "W"]
+Pass 1D 1S X
+2S 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKJ6.JT8.953.KT6 QT754.43.KQJ87.5 9.KQ52.T6.J98743 832.A976.A42.AQ2 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1N Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKJ6.JT8.953.KT6 QT754.43.KQJ87.5 9.KQ52.T6.J98743 832.A976.A42.AQ2 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "N"]
+Pass 1C 1S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T73.T52.T3.QJT52 A984.J64.KJ4.964 K65.AKQ3.AQ97.A8 QJ2.987.8652.K73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "E"]
+Pass Pass Pass 2C
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T73.T52.T3.QJT52 A984.J64.KJ4.964 K65.AKQ3.AQ97.A8 QJ2.987.8652.K73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "E"]
+Pass Pass Pass 2C
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ965.QJ6.Q6.J93 T7.K942.J.AQT542 K83.A75.K97542.6 J42.T83.AT83.K87 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "S"]
+1S 2C 2D 3C
+Pass Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ965.QJ6.Q6.J93 T7.K942.J.AQT542 K83.A75.K97542.6 J42.T83.AT83.K87 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "S"]
+1S 2C 2D 3C
+Pass Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJ.93.JT985432.A 62.AJ74.KQ6.Q532 KT7543.K2.KT984.Q98 QT865.A7.J76."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "W"]
+1C 1S X XX
+2H 2S 3H 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJ.93.JT985432.A 62.AJ74.KQ6.Q532 KT7543.K2.KT984.Q98 QT865.A7.J76."]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "W"]
+1C 1S X 2D
+2H Pass Pass 3D
+Pass Pass 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K876542.Q3.A8.AJ 9.K965.JT643.Q85 JT3.AJ82.752.742 AQ.T74.KQ9.KT963 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "N"]
+Pass 1N 2S X
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K876542.Q3.A8.AJ 9.K965.JT643.Q85 JT3.AJ82.752.742 AQ.T74.KQ9.KT963 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "N"]
+Pass 1C 1S Pass
+Pass 2C 2S 3C
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "hizer"]
+[North "quantin"]
+[East "palau"]
+[South "laffineur"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 3.A987.QT832.J53 A.JT6543.AKJ7.KQ KJT95.4.T987642.Q87642 KQ2.965.A."]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Friedland BC"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Colonial BC"]
+[Auction "E"]
+1S Pass 2H Pass
+2S Pass 3D Pass
+4H Pass 4N Pass
+5S Pass 6H Pass
+Pass Pass
+[Play "N"]
+*
+
+

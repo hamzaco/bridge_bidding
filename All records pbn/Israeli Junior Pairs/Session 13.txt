@@ -1,0 +1,459 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9.AQ964.J75.Q642 AQJ7632.AQ6.KJ3.KT5 J732.93.AT97.84 KT85.KT842.85."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1H X
+3C an 4  Pass
+3H 4S Pass Pass
+Pass
+[Play "N"]
+D7 D6 D9 DT
+S9 SQ SK S4
+DA D3 D2 D5
+H4 SA S5 S8
+H6 SJ ST H5
+H2 DK DJ DQ
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9.AQ964.J75.Q642 AQJ7632.AQ6.KJ3.KT5 J732.93.AT97.84 KT85.KT842.85."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 2H X
+3H Pass Pass 3S
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "N"]
+DJ DQ D9 D2
+S9 SA S5 S4
+H9 SJ SK S8
+HQ S2 H3 H5
+H4 SQ ST C5
+D4 D5 DA D3
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT.A98.Q2.AK9542 K752.53.AKJ85.T7 98.QJ64.743.QJ63 QJ643.KT72.T96.8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 1D 1H
+1S X! an 3 
+2S Pass Pass X
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT.A98.Q2.AK9542 K752.53.AKJ85.T7 98.QJ64.743.QJ63 QJ643.KT72.T96.8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 1D 1H
+1S X an 3!
+2S Pass Pass 3C
+an   3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ3.T6.AKJ964.A2 42.A97.Q87.T9865 KQT87.K543.52.73 965.QJ82.T3.KQJ4 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1S Pass
+3D Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ3.T6.AKJ964.A2 42.A97.Q87.T9865 KQT87.K543.52.73 965.QJ82.T3.KQJ4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 2H Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J.JT84.AT74.AJT3 AQ9876.32.Q92.42 KT.A9765.KJ853.K 5432.KQ.6.Q98765 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2S an we Pass
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J.JT84.AT74.AJT3 AQ9876.32.Q92.42 KT.A9765.KJ853.K 5432.KQ.6.Q98765 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2D an MU 2H
+Pass 3S Pass 4H
+4S X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ32.KQT94.95.JT KT9.A8653.AKJ3.A A7654.2.Q4.K6532 8.J7.T8762.Q9874 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1H X
+1S Pass Pass 1N
+2C X 2S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ32.KQT94.95.JT KT9.A8653.AKJ3.A A7654.2.Q4.K6532 8.J7.T8762.Q9874 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass Pass 1N
+2C 2D 2S 3N
+Pass 4D Pass Pass
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ.9762.J86.J76 854.T4.A9.AKT985 J973.AK3.Q5432.Q T62.QJ85.KT7.432 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 2C X
+Pass 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ.9762.J86.J76 854.T4.A9.AKT985 J973.AK3.Q5432.Q T62.QJ85.KT7.432 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C X
+1H X 2C Pass
+Pass X Pass 2D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T95.QT9.T64.AJ73 QJ872.A72.AJ9.QT AK43.J543.Q8.985 6.K86.K7532.K642 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T95.QT9.T64.AJ73 QJ872.A72.AJ9.QT AK43.J543.Q8.985 6.K86.K7532.K642 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2D Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Junior Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Asulin Adi"]
+[North "Tal Dana"]
+[East "Levi Hila"]
+[South "Segev Ron"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 4.JT53.AK74.Q852 KQJT3.AQ87.JT9.K A7.K9642.Q853.A7 98652.62.JT9643."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S 2H 4S 5H
+X Pass Pass Pass
+[Play "E"]
+*
+
+

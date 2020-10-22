@@ -1,0 +1,689 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT97.Q652.KQ93.32 K4.QJT9764.T6.Q54 J83.K32.A872.A86 AT97.A85.J54."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "N"]
+Pass 1C 1S Pass
+1N Pass 2H 3D
+Pass Pass Pass
+[Play "N"]
+S2 S4 SA ST
+H3 H7 H2 HK
+DQ D2 D5 S7
+D3 D8 S9 D4
+D6 DK DA C9
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT97.Q652.KQ93.32 K4.QJT9764.T6.Q54 J83.K32.A872.A86 AT97.A85.J54."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "N"]
+Pass 1C 1S 4D
+4S Pass Pass Pass
+[Play "W"]
+CA C4 C3 CT
+S2 S4 S6 SJ
+SK S3 S5 SA
+C2 C5 C9 C6
+S7 D4 SQ S8
+HQ HK H3 H7
+DQ DK DA S9
+D6 C7 CJ CK
+H9 CQ D7 C8
+H2 H4 H8 HT
+H5 D9 HJ HA
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 32.KQ85432.986.A KQ98.6.KT73.KJ53 AJT54.AT9.A.Q642 76.J7.QJ542.T987 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "E"]
+Pass 1H X XX
+2D 4H Pass 4N
+Pass 5S Pass 5N
+Pass 6H Pass Pass
+Pass
+[Play "W"]
+S2 SK SA S7
+HK H6 H9 H7
+HQ D3 HT HJ
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 32.KQ85432.986.A KQ98.6.KT73.KJ53 AJT54.AT9.A.Q642 76.J7.QJ542.T987 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "E"]
+Pass 3H X 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T6.9652.T4.AT952 KJ97.KJT8.3.J863 Q832.AQ3.AQ95.Q7 A54.74.KJ8762.K4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "S"]
+Pass Pass 1N 2D
+2N Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T6.9652.T4.AT952 KJ97.KJT8.3.J863 Q832.AQ3.AQ95.Q7 A54.74.KJ8762.K4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "S"]
+Pass Pass 1N X
+Pass 2C Pass 2D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T86.AQJ2.Q7543.5 AKQ3.73.98.AJT43 5.KT65.KJ62.8762 J9742.984.AT.KQ9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "W"]
+1C Pass 1S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T86.AQJ2.Q7543.5 AKQ3.73.98.AJT43 5.KT65.KJ62.8762 J9742.984.AT.KQ9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "W"]
+1C Pass 1S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ83.65.K4.JT983 4.AKQ92.AJ82.A76 KQT965.843.T73.K 72.JT7.Q965.Q542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "N"]
+Pass Pass Pass 1H
+1S 2H 3C 4H
+Pass Pass 4S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ83.65.K4.JT983 4.AKQ92.AJ82.A76 KQT965.843.T73.K 72.JT7.Q965.Q542 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "N"]
+2S Pass 3S 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T2.97632.A3.T764 KQ4.QJT5.KQ96.Q5 J986.A4.J72.AJ92 A753.K8.T854.K83 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "E"]
+Pass Pass 1D Pass
+1S Pass 1N Pass
+2C Pass 3C Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T2.97632.A3.T764 KQ4.QJT5.KQ96.Q5 J986.A4.J72.AJ92 A753.K8.T854.K83 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "E"]
+Pass Pass 1N an
+15 Pass 2C Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK86.A8.AJ85.J87 QT97.QT4.7632.K6 43.963.K94.Q9542 J52.KJ752.QT.AT3 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK86.A8.AJ85.J87 QT97.QT4.7632.K6 43.963.K94.Q9542 J52.KJ752.QT.AT3 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "S"]
+1N Pass Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK75.T9.AT75.Q94 Q9832.653.KQ4.86 T6.AQ2.J862.AJT2 J4.KJ874.93.K753 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "W"]
+Pass 1C 1H X
+2H Pass Pass X
+Pass 3D Pass 5D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK75.T9.AT75.Q94 Q9832.653.KQ4.86 T6.AQ2.J862.AJT2 J4.KJ874.93.K753 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "W"]
+Pass 1D 1H X
+1N 2C 2H 2S
+Pass Pass X Pass
+3H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K62.A853.JT97.Q6 J8.Q42.K543.AJT8 AQT5.J6.62.K9532 9743.KT97.AQ8.74 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "N"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K62.A853.JT97.Q6 J8.Q42.K543.AJT8 AQT5.J6.62.K9532 9743.KT97.AQ8.74 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "N"]
+Pass Pass Pass 1C
+1S X 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AT6.AQJ85.K72.J4 9873.T92.QT8.T83 J52.K763.A3.Q765 KQ4.4.J9654.AK92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "E"]
+1D 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AT6.AQJ85.K72.J4 9873.T92.QT8.T83 J52.K763.A3.Q765 KQ4.4.J9654.AK92 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "E"]
+1D 1H Pass 3D
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J9.KJ.AT7432.JT4 Q532.Q7643.K862.AT74 AT9.KQJ85.9.K86 852.96.AQ753."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "S"]
+Pass Pass 1D Pass
+2D Pass 2S Pass
+3H Pass 4D Pass
+4H Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J9.KJ.AT7432.JT4 Q532.Q7643.K862.AT74 AT9.KQJ85.9.K86 852.96.AQ753."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "S"]
+Pass Pass 1D Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "South American Junior Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "B Barbosa"]
+[North "B Robles"]
+[East "P David"]
+[South "J Pacareu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT2.AJ2.A8743.84 K86.T943.KT5.A63 Q9.K865.92.KQ752 J7543.Q7.QJ6.JT9 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brasil I"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1H Pass Pass
+Pass
+[Play "E"]
+*
+
+

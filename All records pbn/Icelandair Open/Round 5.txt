@@ -1,0 +1,279 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hellnes"]
+[North "Brogeland"]
+[East "Hauge"]
+[South "Saelensmin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ75.K765.J5.JT3 A63.AJ.K9764.A94 9842.T32.AT8.K86 QT.Q984.Q32.Q752 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ingvar Erga"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "N"]
+SJ S3 S9 ST
+SK S6 S2 SQ
+S5 SA S4 H4
+D5 D7 D8 DQ
+DJ D4 DT D2
+CJ CA C6 C2
+H7 DK DA D3
+S7 C4 S8 H8
+C3 C9 CK C5
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hellnes"]
+[North "Brogeland"]
+[East "Hauge"]
+[South "Saelensmin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ4.8.J9862.Q863 T82.AJ7532.Q73.A K976.T94.K4.KT95 J53.KQ6.AT5.J742 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ingvar Erga"]
+[Auction "E"]
+Pass Pass 1H Pass
+2D Pass 4H Pass
+Pass Pass
+[Play "N"]
+H8 HJ H4 H6
+C3 CA C5 C2
+D6 H2 H9 HQ
+C6 HA C9 C4
+D8 H3 HT HK
+D2 DQ DK D5
+DJ D3 D4 DT
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hellnes"]
+[North "Brogeland"]
+[East "Hauge"]
+[South "Saelensmin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K962.KQ3.Q8.A632 A7543.J64.J94.KJ JT8.T872.AT52.T5 Q.A95.K763.Q9874 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ingvar Erga"]
+[Auction "S"]
+1C Pass 1H Pass
+1S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hellnes"]
+[North "Brogeland"]
+[East "Hauge"]
+[South "Saelensmin"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T62.K973.J62.K96 J843.5.Q754.8753 A5.J8.AKT983.AQ4 KQ97.AQT642.JT2."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ingvar Erga"]
+[Auction "W"]
+Pass 2N 3H 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hellnes"]
+[North "Brogeland"]
+[East "Hauge"]
+[South "Saelensmin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q53.T9.843.KJ943 A87.2.AQJ65.AQ62 KJ6.AKJ874.T7.85 T942.Q653.K92.T7 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Team Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ingvar Erga"]
+[Auction "N"]
+1H Pass 1N X
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hellnes"]
+[North "Brogeland"]
+[East "Hauge"]
+[South "Saelensmin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K732.AK754.3.QJ5 JT5.JT63.AJ95.T7 98.Q9.KQT87.6432 AQ64.82.642.AK98 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Team Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ingvar Erga"]
+[Auction "E"]
+1C 1H 1N Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hellnes"]
+[North "Brogeland"]
+[East "Hauge"]
+[South "Saelensmin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A754.54.953.9732 QJ.AKQJ83.T874.A KT8.T972.KJ2.T65 9632.6.AQ6.KQJ84 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ingvar Erga"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hellnes"]
+[North "Brogeland"]
+[East "Hauge"]
+[South "Saelensmin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K8.T87642.73.943 J764.J.842.AQ862 A93.53.AKQJT95.7 QT52.AKQ9.6.KJT5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ingvar Erga"]
+[Auction "W"]
+Pass 1D X Pass
+2C 3D Pass Pass
+3S Pass 4S Pass
+Pass 5D X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hellnes"]
+[North "Brogeland"]
+[East "Hauge"]
+[South "Saelensmin"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T965.K98.K63.K92 QJ74.T32.74.Q654 A8.AJ76.AQJ.AJT3 K32.Q54.T9852.87 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ingvar Erga"]
+[Auction "N"]
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+

@@ -1,0 +1,935 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A42.AQ8432.5.A42 Q6.T7.AT964.8753 T87.95.KQJ873.Q6 KJ953.KJ6.2.KJT9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "N"]
+2C 2S Pass Pass
+Pass
+[Play "S"]
+D5 DA D7 D2
+HQ HT H9 H6
+HA H7 H5 HJ
+H4 SQ C6 HK
+CA C3 CQ CK
+C4 C5 S7 CJ
+H3 D4 DJ S9
+SA S6 S8 SK
+C2 C7 ST C9
+H2 D6 DQ S5
+S2 D9 D3 SJ
+S4 C8 D8 CT
+H8 DT DK S3
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A42.AQ8432.5.A42 Q6.T7.AT964.8753 T87.95.KQJ873.Q6 KJ953.KJ6.2.KJT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "N"]
+3D X 3H Pass
+Pass Pass
+[Play "W"]
+C4 C5 CQ CK
+D5 DA D3 D2
+CA C3 C6 C9
+C2 C7 H5 CJ
+H8 DT DK H6
+SA S6 S7 S3
+S4 SQ S8 SK
+S2 C8 ST SJ
+H3 HT D7 S9
+H2 D4 DQ S5
+H4 H7 H9 HJ
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K9.AJ654.875.J94 64.9873.KT4.A752 AJT753.T2.A63.T8 Q82.KQ.QJ92.KQ63 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "E"]
+1N Pass Pass 2S
+Pass Pass X! Pass
+2N Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K9.AJ654.875.J94 64.9873.KT4.A752 AJT753.T2.A63.T8 Q82.KQ.QJ92.KQ63 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "E"]
+1N Pass Pass 2D
+an un Pass 2S
+X Pass 2N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 762.Q854.T743.Q6 AJ4.KQJ95.AKT93.K93 AKJ7632.852.QT85.T9 A862.J74."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "S"]
+Pass 1D 4H Pass
+Pass 5C Pass 5D
+5H X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 762.Q854.T743.Q6 AJ4.KQJ95.AKT93.K93 AKJ7632.852.QT85.T9 A862.J74."]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "S"]
+Pass 1D 4H an
+! Pass Pass X
+Pass 4S 5H 6C
+Pass 6D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T965.Q652.KQJ86.KJ62 Q832.87.543.AQT98 AJ7.K943.9.7543 K4.AJT.AT72."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 2D Pass 3D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T965.Q652.KQJ86.KJ62 Q832.87.543.AQT98 AJ7.K943.9.7543 K4.AJT.AT72."]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 2D an !
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT98.K2.98742.95 QJ76.T97653.QJT.A542 Q.KT653.A73.3 AJ84.AQJ.K8642."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "N"]
+1D Pass 1S Pass
+2S X 3S 4H
+4S X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT98.K2.98742.95 QJ76.T97653.QJT.A542 Q.KT653.A73.3 AJ84.AQJ.K8642."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "N"]
+1D Pass 1S Pass
+2S X 3S 4H
+4S X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T.KQ8.AT6532.T82 AK932.Q9874.A94.QJ765 AT965.K.J6.84 J7432.J.KQ753."]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N 2D X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T.KQ8.AT6532.T82 AK932.Q9874.A94.QJ765 AT965.K.J6.84 J7432.J.KQ753."]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2D 2H
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q842.JT53.QJ92.4 AK5.K842.43.T965 J76.A76.KT6.AJ87 T93.Q9.A875.KQ32 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q842.JT53.QJ92.4 AK5.K842.43.T965 J76.A76.KT6.AJ87 T93.Q9.A875.KQ32 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ43.KQ.KQT96.T4 JT9872.T95.4.K98 A6.J432.A8753.62 5.A876.J2.AQJ753 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "W"]
+Pass Pass 1C 1D
+1S 2S 3C 3S
+4C 5D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ43.KQ.KQT96.T4 JT9872.T95.4.K98 A6.J432.A8753.62 5.A876.J2.AQJ753 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "W"]
+Pass Pass 1C an
+2+ 1D 1S X
+an ! 2C X!
+2S 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT9.KT86.Q64.T32 K3.932.J8753.K64 AJ865.A.2.AQJ987 742.QJ754.AKT9.5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "N"]
+1C 1H 1N Pass
+2S Pass 2N Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT9.KT86.Q64.T32 K3.932.J8753.K64 AJ865.A.2.AQJ987 742.QJ754.AKT9.5 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "N"]
+1C 1H 1N 2H
+2S Pass 3C Pass
+3S Pass 4S Pass
+4N Pass 5D Pass
+5S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J843.873.QT74.K2 Q72.9652.K2.JT63 T95.KQJ4.A6.Q985 AK6.AT.J9853.A74 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J843.873.QT74.K2 Q72.9652.K2.JT63 T95.KQJ4.A6.Q985 AK6.AT.J9853.A74 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ.K4.AKT9.AT952 T76.AQT7.Q862.63 K8542.J96.J753.Q Q93.8532.4.KJ874 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "S"]
+2N Pass 3H Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ.K4.AKT9.AT952 T76.AQT7.Q862.63 K8542.J96.J753.Q Q93.8532.4.KJ874 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "S"]
+1C Pass 1S Pass
+2D Pass 3D Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q94.KJ742.T5.KJ4 J7.985.QJ4.AQ763 KT65.T.A763.9852 A832.AQ63.K982.T "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "W"]
+Pass Pass 1D Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q94.KJ742.T5.KJ4 J7.985.QJ4.AQ763 KT65.T.A763.9852 A832.AQ63.K982.T "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "W"]
+Pass Pass 1D Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q9653.A.AKJ6.J75 AKT8.92.T9842.A4 J42.KQ54.753.Q86 7.JT8763.Q.KT932 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q9653.A.AKJ6.J75 AKT8.92.T9842.A4 J42.KQ54.753.Q86 7.JT8763.Q.KT932 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S an ! 3H
+4S X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQJ962.5.AT5.QJ4 3.AK84.Q732.A985 AT8.JT7.J86.K732 754.Q9632.K94.T6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "E"]
+Pass 1S X XX
+2H 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQJ962.5.AT5.QJ4 3.AK84.Q732.A985 AT8.JT7.J86.K732 754.Q9632.K94.T6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "E"]
+Pass 1S X 2H
+3H 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K2.KQ984.8654.76 AT83.753.KJ.Q942 QJ9.J62.AQ72.T85 7654.AT.T93.AKJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "S"]
+Pass Pass Pass 1C
+1H X! 2H 2S
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K2.KQ984.8654.76 AT83.753.KJ.Q942 QJ9.J62.AQ72.T85 7654.AT.T93.AKJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "S"]
+2H an mu Pass
+Pass X Pass 2N
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Polet"]
+[North "Dehaye"]
+[East "Kaplan"]
+[South "Coenraets"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 5.9.986432.AQ963 JT.K6432.AT.J875 AQ9832.AQ7.K5.42 K764.JT85.QJ7.KT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "BCOB1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UCCLE"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,555 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9765.7.K32.K9864 AJ.K8654.AJT8.A5 KT.AJT3.Q9764.J3 Q8432.Q92.5.QT72 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+1D P 1S 2H
+P P 3D P
+P 3H P 4H
+X P P P
+[Play "N"]
+DK DA D4 D5
+H7 H5 HT HQ
+S7 SJ SK S2
+S5 SA ST S3
+D3 DJ DQ H2
+C4 CA C3 C2
+D2 DT D6 S4
+C8 D8 D9 H9
+S6 C5 H3 SQ
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9765.7.K32.K9864 AJ.K8654.AJT8.A5 KT.AJT3.Q9764.J3 Q8432.Q92.5.QT72 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+P P P 3H
+P P P
+[Play "N"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T97.T95.K43.T965 AQJ64.QJ8.JT9.K2 K2.K643.AQ85.Q74 853.A72.762.AJ83 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+P P 1N P
+2N P P P
+[Play "N"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T97.T95.K43.T965 AQJ64.QJ8.JT9.K2 K2.K643.AQ85.Q74 853.A72.762.AJ83 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+P P 2S P
+P P
+[Play "N"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K43.3.982.JT8532 Q652.AJ82.AQ76.K AT98.KQ9765.4.Q9 J7.T4.KJT53.A764 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+P 1D 1H 3C
+P 3N P P
+P
+[Play "N"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K43.3.982.JT8532 Q652.AJ82.AQ76.K AT98.KQ9765.4.Q9 J7.T4.KJT53.A764 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+P P 4H P
+P P
+[Play "E"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 43.8754.75.T9872 K52.Q3.KQ3.AQJ53 AQT96.92.642.K64 J87.AKJT6.AJT98."]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+1N P 2D P
+2H P 3D P
+3N P 4D P
+4S X P P
+5D P P P
+[Play "S"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 43.8754.75.T9872 K52.Q3.KQ3.AQJ53 AQT96.92.642.K64 J87.AKJT6.AJT98."]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+6N P P P
+[Play "N"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K653.K872.K2.K63 J42.653.AT976.QJ A9.Q9.854.AT8542 QT87.AJT4.QJ3.97 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+P P 1C P
+2S P 3C P
+P P
+[Play "W"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K653.K872.K2.K63 J42.653.AT976.QJ A9.Q9.854.AT8542 QT87.AJT4.QJ3.97 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+P P 3C P
+P P
+[Play "W"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK3.KQ54.5432.82 865.AT96.A6.QJT3 JT92.832.K98.K74 Q74.J7.QJT7.A965 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "4"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+P 1C P 1S
+P 1N P P
+P
+[Play "W"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK3.KQ54.5432.82 865.AT96.A6.QJT3 JT92.832.K98.K74 Q74.J7.QJT7.A965 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "4"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+P 1N P P
+P
+[Play "W"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K7.T9432.KJ96.A8 QJT98.6.AQ32.T92 A643.AQ.T84.KJ74 52.KJ875.75.Q653 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+P 2S P P
+X P 3C P
+P P
+[Play "E"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K7.T9432.KJ96.A8 QJT98.6.AQ32.T92 A643.AQ.T84.KJ74 52.KJ875.75.Q653 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+3N P P P
+[Play "W"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 843.J6.QT9864.83 T75.KT4.J7.AJT64 KQ96.A985.K3.KQ9 AJ2.Q732.A52.752 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+P 1N P 2N
+P 3C P 3D
+P P P
+[Play "W"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 843.J6.QT9864.83 T75.KT4.J7.AJT64 KQ96.A985.K3.KQ9 AJ2.Q732.A52.752 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+P 3D P P
+P
+[Play "E"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT842.74.Q.QT762 A7.AJT2.A86.A854 J93.95.T5432.KJ9 K65.KQ863.KJ97.3 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+P 1H 1S X
+2S 3D P 3S
+P 3N P 4C
+P 4D P 6H
+P P P
+[Play "S"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT842.74.Q.QT762 A7.AJT2.A86.A854 J93.95.T5432.KJ9 K65.KQ863.KJ97.3 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+P 6H P P
+P
+[Play "S"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "GIERULSKI"]
+[North "SLEMR"]
+[East "SKRZYPCZAK"]
+[South "MARTYNEK"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T432.873.A85.T98 Q98.AQ.JT962.K52 A.KT94.KQ43.A743 KJ765.J652.7.QJ6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Czech Republic"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+P P 1D 1N
+2S P P P
+[Play "S"]
+*
+
+

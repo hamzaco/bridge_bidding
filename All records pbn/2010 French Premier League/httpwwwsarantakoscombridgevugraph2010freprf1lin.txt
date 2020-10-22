@@ -1,0 +1,940 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 8753.T762.KJ.873 4.953.QT98.AJT65 AJ2.AQ8.6532.Q42 KQT96.KJ4.A74.K9 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+1C 1S Pass Pass
+Pass
+[Play "S"]
+C3 CJ CQ CK
+S5 S4 SA SK
+C7 CA C4 C9
+C8 CT C2 H4
+H7 H3 HA HJ
+DK D8 D3 D7
+DJ D9 D2 DA
+S3 H5 S2 SQ
+S7 H9 SJ ST
+S8 DT D5 D4
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 8753.T762.KJ.873 4.953.QT98.AJT65 AJ2.AQ8.6532.Q42 KQT96.KJ4.A74.K9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+1C X Pass 1D
+Pass 1S Pass 3N
+Pass Pass Pass
+[Play "N"]
+H7 H3 HQ HK
+DK D8 D2 D4
+H2 H5 HA H4
+H6 H9 H8 HJ
+C3 C5 CQ C9
+DJ DT D3 DA
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT732.KT96.AT2.7 864.Q432.KJ.K632 QJ.AJ8.Q98654.T9 K95.75.73.AQJ854 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 2H Pass 3C
+X 3D Pass 5D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT732.KT96.AT2.7 864.Q432.KJ.K632 QJ.AJ8.Q98654.T9 K95.75.73.AQJ854 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass 1S Pass 1N
+2C 2H 3C X
+Pass 3D Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J43.AKJT.A.AQ642 T9752.Q98653.9.7 Q86.2.JT864.KJT9 AK.74.KQ7532.853 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+1C Pass 2C 2D
+2H Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J43.AKJT.A.AQ642 T9752.Q98653.9.7 Q86.2.JT864.KJT9 AK.74.KQ7532.853 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+1C Pass 1D 2D
+2H Pass 5C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 4.Q4.AKQ865.J763 Q8752.A6.JT.KT52 AK96.T2.97432.Q9 JT3.KJ98753.A84."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+Pass Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 4.Q4.AKQ865.J763 Q8752.A6.JT.KT52 AK96.T2.97432.Q9 JT3.KJ98753.A84."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+Pass Pass 1H 2D
+X 3S 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K2.A.AJ972.J9542 QJ9873.KJ4.K64.T T65.T87652.83.A7 A4.Q93.QT5.KQ863 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+Pass 1C 1D 1S
+Pass 1N Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K2.A.AJ972.J9542 QJ9873.KJ4.K64.T T65.T87652.83.A7 A4.Q93.QT5.KQ863 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+Pass 1C 1D 1S
+Pass 1N Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT63.T5.A8642.KJ AK7.AKJ642.K7.T8 Q2.Q73.JT9.AQ652 9854.98.Q53.9743 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass Pass 2C X
+Pass Pass 2H Pass
+Pass X Pass 2N
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT63.T5.A8642.KJ AK7.AKJ642.K7.T8 Q2.Q73.JT9.AQ652 9854.98.Q53.9743 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass Pass 2C X
+Pass 3C 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ65.AK82.AT543.743 Q84.T754.Q97.T98 JT7.Q63.J862.KQ2 AK96532.J9.K."]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+1C Pass Pass X
+1D Pass 2C 2H
+2S Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ65.AK82.AT543.743 Q84.T754.Q97.T98 JT7.Q63.J862.KQ2 AK96532.J9.K."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+1C Pass 1D 1H
+4H Pass 5C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 53.T9874.J54.AT9 AKT82.KQ62.AK2.6 764.A53.973.J854 QJ9.J.QT86.KQ732 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+1S Pass 2C Pass
+2H Pass 4S Pass
+4N Pass 5C Pass
+5S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 53.T9874.J54.AT9 AKT82.KQ62.AK2.6 764.A53.973.J854 QJ9.J.QT86.KQ732 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+1S Pass 2C Pass
+2H Pass 4S Pass
+4N Pass 5C Pass
+5S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 3.AT64.QJ7.QT843 KT4.9.T5.KJ97652 J5.KQJ532.A9832. AQ98762.87.K64.A "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+1H 1S 3S 4C
+4D Pass 4H 4S
+5H 5S Pass Pass
+6C Pass 6H Pass
+Pass 6S X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 3.AT64.QJ7.QT843 KT4.9.T5.KJ97652 J5.KQJ532.A9832. AQ98762.87.K64.A "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+1H 1S 4H 4S
+5D 5S Pass Pass
+6H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ8643.A92.KT.AQ 2.KT8743.874.JT4 KQT97.6.A65.K753 5.QJ5.QJ932.9862 "]
+[Declarer "S"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2S Pass 3S
+Pass 3N Pass 4D
+Pass 4N Pass 5S
+Pass 5N Pass 6C
+Pass 7S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ8643.A92.KT.AQ 2.KT8743.874.JT4 KQT97.6.A65.K753 5.QJ5.QJ932.9862 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass 1S Pass 4H
+Pass 4N Pass 5S
+Pass 5N Pass 6C
+Pass 6S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QT.JT98.63.Q8432 A96543.AK5.KQ4.K KJ72.6.975.AT975 8.Q7432.AJT82.J6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2N an  
+Pass 3D an  
+Pass 3H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QT.JT98.63.Q8432 A96543.AK5.KQ4.K KJ72.6.975.AT975 8.Q7432.AJT82.J6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 3D Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ75.AQT9654.2.5 9642.872.965.KJ2 T83.3.KQJ43.Q763 KJ.KJ.AT87.AT984 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+Pass Pass 1N 2C
+Pass 2S Pass 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ75.AQT9654.2.5 9642.872.965.KJ2 T83.3.KQJ43.Q763 KJ.KJ.AT87.AT984 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+Pass Pass 1N 2C
+Pass 2S 2N 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q43.J95.62.J9853 AK5.K2.AJ983.KT6 T6.QT743.K54.Q42 J9872.A86.QT7.A7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1S Pass 2N
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q43.J95.62.J9853 AK5.K2.AJ983.KT6 T6.QT743.K54.Q42 J9872.A86.QT7.A7 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1S Pass 2N
+Pass 3H Pass 4S
+Pass 4N Pass 5C
+Pass 6S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T9853.T42.AK.AQ6 Q2.Q973.JT8642.4 KJ76.AKJ8.Q5.985 A4.65.973.KJT732 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T9853.T42.AK.AQ6 Q2.Q973.JT8642.4 KJ76.AKJ8.Q5.985 A4.65.973.KJT732 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass 1S Pass 2N
+3C 3N Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 84.KJT9532.KQ63.QT2 KQ62.AQ7.AJT.98643 AJ953.985.AKJ75.T7 864.742."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+4D X Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 84.KJT9532.KQ63.QT2 KQ62.AQ7.AJT.98643 AJ953.985.AKJ75.T7 864.742."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+4D X Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Guillaumin"]
+[North "Bessis Th"]
+[East "Palau"]
+[South "Bessis M"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 43.AT852.JT54.QJ QT8.QJ6.A6.A8542 AK976.K973.8.KT3 J52.4.KQ9732.976 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "LAFFINEUR"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+1C 1S Pass 1N
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+

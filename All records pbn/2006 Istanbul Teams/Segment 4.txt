@@ -1,0 +1,811 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "43"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K7.AJT4.AKQ8.J65 42.KQ962.JT43.T8 T985.87.752.K932 AQJ63.53.96.AQ74 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "S"]
+1D 1H Pass 1S
+1N Pass Pass 2C
+Pass Pass X Pass
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+DA D3 D2 D6
+H4 HK H8 H5
+C5 CT C3 CQ
+C6 C8 C2 CA
+CJ S2 C9 C4
+DQ D4 D5 D9
+HA H2 H7 H3
+SK S4 S5 SA
+S7 H6 S8 SQ
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "43"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K7.AJT4.AKQ8.J65 42.KQ962.JT43.T8 T985.87.752.K932 AQJ63.53.96.AQ74 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "S"]
+2C an 18 Pass
+2H an TR Pass
+2N Pass Pass Pass
+[Play "W"]
+S7 S4 S8 SA
+SK S2 S5 S3
+C6 C8 CK CA
+H4 H2 S9 SJ
+HT H6 ST SQ
+HJ HK D2 S6
+HA HQ H7 H5
+DA D3 D5 D6
+DK D4 D7 D9
+DQ DT C2 C4
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "44"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQJ97.32.Q64.QJ5 T84.A8.JT53.A872 K.QJ97654.K.T964 6532.KT.A9872.K3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "W"]
+Pass 2H Pass Pass
+X Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "44"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQJ97.32.Q64.QJ5 T84.A8.JT53.A872 K.QJ97654.K.T964 6532.KT.A9872.K3 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "45"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ9654.54.AQJ.J9 J7.AKJ983.854.T2 A832.6.K9732.A83 T.QT72.T6.KQ7654 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "N"]
+1D Pass 1S Pass
+2S 3C 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "45"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ9654.54.AQJ.J9 J7.AKJ983.854.T2 A832.6.K9732.A83 T.QT72.T6.KQ7654 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "N"]
+1D Pass 1S 2H
+2S 4C 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 863.A.J65.AKQ982 KQT9.T7643.KT93.A742 985.872.T64. J5.KQJ2.AQ4.J753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "E"]
+1C Pass 1H Pass
+2H 3C 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 863.A.J65.AKQ982 KQT9.T7643.KT93.A742 985.872.T64. J5.KQJ2.AQ4.J753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "E"]
+1C Pass 1H Pass
+2H 3C 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T86.AK42.QJ5.AJ8 KQJ4.J965.AT.K93 A953.873.K84.T54 72.QT.97632.Q762 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T86.AK42.QJ5.AJ8 KQJ4.J965.AT.K93 A953.873.K84.T54 72.QT.97632.Q762 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "48"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 865.KT8653.A.962 AQ93.94.J75.KQT7 K4.A72.KQT8642.5 JT72.QJ.93.AJ843 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "W"]
+1C 1D 1S 2H
+2S 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "48"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 865.KT8653.A.962 AQ93.94.J75.KQT7 K4.A72.KQT8642.5 JT72.QJ.93.AJ843 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "W"]
+1C 1D 1S Pass
+2S 3D 3H X
+4S 5D X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ7.JT62.A85.Q54 T953.AK53.K4.962 A864.Q974.J732.A K2.8.QT96.KJT873 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "N"]
+1D 2C X 3C
+3H 4C 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ7.JT62.A85.Q54 T953.AK53.K4.962 A864.Q974.J732.A K2.8.QT96.KJT873 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "N"]
+1D 2C X XX
+2H Pass Pass 2N
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ652.AQJ7.J6.76 AJT987.8.T873.K5 43.KT9532.AK2.Q4 .64.Q954.AJT9832 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "E"]
+3C Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ652.AQJ7.J6.76 AJT987.8.T873.K5 43.KT9532.AK2.Q4 .64.Q954.AJT9832 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "6"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "E"]
+4C Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 4.A98.AJ984.AQ54 QJ732.7.Q6.KT832 T965.KQ432.52.76 AK8.JT65.KT73.J9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "S"]
+1D 1S X 2H
+Pass 2S Pass Pass
+X Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 4.A98.AJ984.AQ54 QJ732.7.Q6.KT832 T965.KQ432.52.76 AK8.JT65.KT73.J9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "S"]
+1D 1S X 2D
+3C Pass 3D Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K642.QJ.64.AKQ65 AJT.A98.J98732.9 Q95.K2.AT5.JT872 873.T76543.KQ.43 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "W"]
+Pass Pass Pass 1C
+1D 2D X 2S
+3D 3S Pass 4S
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K642.QJ.64.AKQ65 AJT.A98.J98732.9 Q95.K2.AT5.JT872 873.T76543.KQ.43 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKQ3.83.87.AJT73 97.QJ9.K3.KQ9842 T82.A72.AQ9542.5 J654.KT654.JT6.6 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "N"]
+1D Pass 2C Pass
+2D Pass 2S Pass
+3D Pass 3H Pass
+3N Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKQ3.83.87.AJT73 97.QJ9.K3.KQ9842 T82.A72.AQ9542.5 J654.KT654.JT6.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "N"]
+1D Pass 2C Pass
+2D Pass 2S 3C
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q93.A98.64.KT763 KJT8764.4.QT97.9 KQJ632.52.QJ542. A52.T75.AKJ83.A8 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "E"]
+1N Pass 2H X
+3S 4H 4S 5H
+X Pass 5S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q93.A98.64.KT763 KJT8764.4.QT97.9 KQJ632.52.QJ542. A52.T75.AKJ83.A8 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "E"]
+1N Pass 4S 4N
+Pass 5C 5S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK96.Q3.T765.AK3 Q.JT42.AJ43.QT75 T82.AK975.Q8.J94 J7543.86.K92.862 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "S"]
+1N Pass 2D Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK96.Q3.T765.AK3 Q.JT42.AJ43.QT75 T82.AK975.Q8.J94 J7543.86.K92.862 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "S"]
+1N Pass 2D Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Istanbul Teams"]
+[Site "00"]
+[Date "00"]
+[Board "56"]
+[West "TOKAY"]
+[North "KOLATA"]
+[East "ZORLU"]
+[South "KANDEMIR"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K3.9542.T753.A72 JT64.K63.Q64.Q93 72.AJT87.AJ9.K65 AQ985.Q.K82.JT84 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "KOLANKAYA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUBAC"]
+[Auction "W"]
+Pass 1H 1S 2H
+2S Pass Pass 3H
+Pass Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+

@@ -1,0 +1,854 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K532.A8.A954.T43 AT76.5.QJT83.762 J9.KT632.K76.AJ5 Q84.QJ974.2.KQ98 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+1H Pass 1S Pass
+1N Pass 2N Pass
+Pass Pass
+[Play "E"]
+C3 C2 C5 CQ
+C4 C6 CJ C8
+HA H5 H2 H4
+H8 S7 H3 H9
+CT C7 CA CK
+DA D3 D6 D2
+D4 DT DK H7
+S2 S6 HK HJ
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 93.Q3.AJ87.QJ853 K64.A98.T654.942 AT852.K74.3.AT76 QJ7.JT652.KQ92.K "]
+[Declarer "N"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+1H Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 765.94.KJ9432.72 KT3.J7.AT76.KQT3 AJ9.KQ83.Q85.AJ9 Q842.AT652.8654."]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+Pass 1D X 1H
+Pass 1N Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 765.94.KJ9432.72 KT3.J7.AT76.KQT3 AJ9.KQ83.Q85.AJ9 Q842.AT652.8654."]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+Pass 1D 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J76.J53.AT954.T4 K5.8762.3.AQJ765 AQT982.A4.KJ.K83 43.KQT9.Q8762.92 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+1C X 1H Pass
+2H 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J76.J53.AT954.T4 K5.8762.3.AQJ765 AQT982.A4.KJ.K83 43.KQT9.Q8762.92 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+1C 1S X 2S
+3H 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T.K98542.74.Q862 Q762.6.AQJ8.KT73 AJ9843.AJ73.2.94 K5.QT.KT9653.AJ5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+1S 2D Pass 2S
+Pass 2N Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T.K98542.74.Q862 Q762.6.AQJ8.KT73 AJ9843.AJ73.2.94 K5.QT.KT9653.AJ5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+1S 2D Pass 5D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK7.K653.K75.Q75 T642.AT874.J.J94 Q93.J92.962.T632 J85.Q.AQT843.AK8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+1D X 1H Pass
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK7.K653.K75.Q75 T642.AT874.J.J94 Q93.J92.962.T632 J85.Q.AQT843.AK8 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+1D X 1H Pass
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T6.Q75.QT952.842 Q7.A986.KJ86.KJ3 AK953.K43.7.AQT9 J842.JT2.A43.765 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+Pass 1D 1S Pass
+Pass X XX 2D
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T6.Q75.QT952.842 Q7.A986.KJ86.KJ3 AK953.K43.7.AQT9 J842.JT2.A43.765 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+Pass 1D 1S Pass
+Pass X 2C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A73.A4.KT3.AKT54 Q954.QT85.986.93 K6.KJ9632.AJ75.J JT82.7.Q42.Q8762 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2D Pass 2S
+Pass 3H Pass 3S
+Pass 3N Pass 4D
+Pass 4S Pass 4N
+Pass 5D Pass 6H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A73.A4.KT3.AKT54 Q954.QT85.986.93 K6.KJ9632.AJ75.J JT82.7.Q42.Q8762 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2H Pass 3D
+Pass 3H Pass 3S
+Pass 3N Pass 5H
+Pass 6D Pass 6H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K92.AT3.64.98732 J8753.QJ96.K95.4 AQT6.754.A2.KT65 4.K82.QJT873.AQJ "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+1C 1D 1S X
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K92.AT3.64.98732 J8753.QJ96.K95.4 AQT6.754.A2.KT65 4.K82.QJT873.AQJ "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+1C 1D 3C X
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A875.964.K6.AKQ3 QT643.T53.A9.987 K2.Q7.T5432.J542 J9.AKJ82.QJ87.T6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+1H X 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A875.964.K6.AKQ3 QT643.T53.A9.987 K2.Q7.T5432.J542 J9.AKJ82.QJ87.T6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q96.J743.KQ32.AT AKJ8532.Q9.T8.63 T7.AK6.AJ5.KJ874 4.T852.9764.Q952 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+1D 3S X Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q96.J743.KQ32.AT AKJ8532.Q9.T8.63 T7.AK6.AJ5.KJ874 4.T852.9764.Q952 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+1D 3S X Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ4.T72.872.Q873 J87.K964.QJ3.T54 962.Q83.A964.KJ9 KT53.AJ5.KT5.A62 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ4.T72.872.Q873 J87.K964.QJ3.T54 962.Q83.A964.KJ9 KT53.AJ5.KT5.A62 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT954.AT92.J6.K7 AQJ3.6.A2.AJ8643 72.Q53.Q9843.T92 86.KJ874.KT75.Q5 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+Pass Pass 1S 2C
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT954.AT92.J6.K7 AQJ3.6.A2.AJ8643 72.Q53.Q9843.T92 86.KJ874.KT75.Q5 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+Pass Pass 1S 2C
+Pass 2H Pass 2N
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q2.AQT72.43.A873 AKT43.J953.6.652 J85.84.KQJT9.QJ4 976.K6.A8752.KT9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+Pass 1H 1S X
+2S Pass Pass 3D
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q2.AQT72.43.A873 AKT43.J953.6.652 J85.84.KQJT9.QJ4 976.K6.A8752.KT9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+Pass 1H 1S X
+2S Pass Pass 3D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 6532.984.9652.T8 T9.AQJ62.A4.AQ92 KQJ874.3.T3.K653 A.KT75.KQJ87.J74 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+Pass 1H 1S 2D
+Pass 3C Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 6532.984.9652.T8 T9.AQJ62.A4.AQ92 KQJ874.3.T3.K653 A.KT75.KQJ87.J74 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+Pass 1H 2S 3S
+Pass 4C Pass 4N
+Pass 5C an 0-
+Pass 5D an as
+Pass 5S Pass 7H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "De Tessier"]
+[North "Quantin"]
+[East "Volcker"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: JT53.AKJ8.J7.A62 7.962.AT543.K974 AKQ98.753.82.T53 642.QT4.KQ96.QJ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "BOMPIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1S Pass 2S
+Pass 2N Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+

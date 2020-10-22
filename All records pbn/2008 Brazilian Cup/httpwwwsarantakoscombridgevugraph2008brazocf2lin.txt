@@ -1,0 +1,922 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT62.Q2.T43.T765 A85.AK83.J865.K8 943.JT974.K72.J3 KJ7.65.AQ9.AQ942 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2D Pass 2S
+an !h Pass 3C
+Pass 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+S2 S5 S9 SJ
+C5 CK C3 C4
+C6 C8 CJ CA
+C7 H3 HJ CQ
+CT D5 H4 C2
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT62.Q2.T43.T765 A85.AK83.J865.K8 943.JT974.K72.J3 KJ7.65.AQ9.AQ942 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2D Pass 3D
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K9.AT5432.73.654 T852.KQ.QJ965.K2 A3.J9876.AKT2.QT QJ764.84.AJ9873."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "E"]
+1S Pass 3H Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K9.AT5432.73.654 T852.KQ.QJ965.K2 A3.J9876.AKT2.QT QJ764.84.AJ9873."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "E"]
+Pass 2D Pass 2N
+3C Pass Pass 3S
+4S Pass Pass 5H
+Pass Pass 5S X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT5.J74.QT73.J82 J86.AKQ8.AK8.T73 Q72.T963.94.AK64 K943.52.J652.Q95 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT5.J74.QT73.J82 J86.AKQ8.AK8.T73 Q72.T963.94.AK64 K943.52.J652.Q95 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ7.A73.A72.AK97 T865.Q62.QT95.T6 AJ9432.KT54.84.2 .J98.KJ63.QJ8543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "W"]
+Pass Pass 3C 3N
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ7.A73.A72.AK97 T865.Q62.QT95.T6 AJ9432.KT54.84.2 .J98.KJ63.QJ8543 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "W"]
+Pass 2D Pass 2N
+Pass 3C Pass 3D
+Pass 3S Pass 4C
+Pass 4H Pass 4N
+Pass 5D Pass 6S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 953.952.T94.J532 Q72.AT64.32.KT84 J86.J8.AKJ87.976 AKT4.KQ73.Q65.AQ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "N"]
+Pass 2N Pass 3C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 953.952.T94.J532 Q72.AT64.32.KT84 J86.J8.AKJ87.976 AKT4.KQ73.Q65.AQ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "N"]
+Pass 2N Pass 3C
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q5.Q984.Q4.A6542 AKJ3.AJ7.K83.J98 984.K652.AJT5.QT T762.T3.9762.K73 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "E"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q5.Q984.Q4.A6542 AKJ3.AJ7.K83.J98 984.K652.AJT5.QT T762.T3.9762.K73 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "E"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A86.KT9.KQ97.Q97 KT32.AQJ32.J.AKT QJ7.7.AT82.86532 954.8654.6543.J4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "S"]
+1D 2D 3D Pass
+Pass X Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A86.KT9.KQ97.Q97 KT32.AQJ32.J.AKT QJ7.7.AT82.86532 954.8654.6543.J4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "S"]
+1D X 2D Pass
+Pass 2H 3D 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJ43.AQ.AQ76.32 5.JT84.82.AQJT87 T96.K9752.T95.64 Q872.63.KJ43.K95 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "W"]
+3C Pass Pass X
+Pass 3H Pass 3S
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJ43.AQ.AQ76.32 5.JT84.82.AQJT87 T96.K9752.T95.64 Q872.63.KJ43.K95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "W"]
+Pass Pass Pass 1S
+2C Pass 3C X
+Pass 3H Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJT6532.J6.T9.53 K84.975.A653.Q82 97.K83.Q42.AJ976 Q.AQT42.KJ87.KT4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "N"]
+Pass 1H 3S Pass
+Pass X Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJT6532.J6.T9.53 K84.975.A653.Q82 97.K83.Q42.AJ976 Q.AQT42.KJ87.KT4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "N"]
+Pass 1H 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K864.T95.53.AQJ3 AQJ72.A2.KQ876.T 93.K87643.J.K987 T5.QJ.AT942.6542 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2C Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K864.T95.53.AQJ3 AQJ72.A2.KQ876.T 93.K87643.J.K987 T5.QJ.AT942.6542 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2D Pass
+3D Pass 3H X
+5D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A.Q872.AJT86.653 T54.94.KQ7542.J7 Q632.JT653.9.984 KJ987.AK.3.AKQT2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "S"]
+1D Pass 1H X
+2H Pass Pass X
+Pass 3D Pass 3S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A.Q872.AJT86.653 T54.94.KQ7542.J7 Q632.JT653.9.984 KJ987.AK.3.AKQT2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "S"]
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 932.Q3.AK86.T874 J874.8654.AJ932.AT5 JT7.J732.K65.KQ6 AK92.QT954.Q."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 932.Q3.AK86.T874 J874.8654.AJ932.AT5 JT7.J732.K65.KQ6 AK92.QT954.Q."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "W"]
+Pass Pass 1N Pass
+2C Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT4.86.K5.KJ9863 QJ.AQJ2.J876.754 876.53.Q9432.AQ2 K9532.KT974.AT.T "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D 1S 2C 2H
+3C 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT4.86.K5.KJ9863 QJ.AQJ2.J876.754 876.53.Q9432.AQ2 K9532.KT974.AT.T "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "N"]
+Pass 1S 2C X
+3C 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T.AJ6.A96.J97632 K9653.54.J87.A84 AJ874.QT72.Q32.K Q2.K983.KT54.QT5 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 1N Pass 2H
+Pass 2N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T.AJ6.A96.J97632 K9653.54.J87.A84 AJ874.QT72.Q32.K Q2.K983.KT54.QT5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K72.QJ6.532.AK63 QJT96.K53.K9.JT9 A85.9872.JT4.742 43.AT4.AQ876.Q85 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "S"]
+1C 1S Pass 2D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K72.QJ6.532.AK63 QJT96.K53.K9.JT9 A85.9872.JT4.742 43.AT4.AQ876.Q85 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "S"]
+1C 1S Pass 2D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Brazilian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Barbosa.B"]
+[North "VillasBoas"]
+[East "Brum. P"]
+[South "Chagas.G"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K4.A92.Q987.9865 73.7.AT654.KQT43 QT652.QJ3.K32.J7 AJ98.KT8654.J.A2 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brum"]
+[Auction "W"]
+Pass Pass 1H Pass
+1S Pass 1N Pass
+2S Pass 3S Pass
+3N Pass 4S Pass
+5C Pass 5D X
+Pass Pass 5S Pass
+Pass X Pass Pass
+5N Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+

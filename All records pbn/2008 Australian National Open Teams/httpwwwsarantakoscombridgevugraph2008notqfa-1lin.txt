@@ -1,0 +1,707 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J762.Q8.987.T643 53.JT9653.4.AQ85 QT84.AK.KQT32.97 AK9.742.AJ65.KJ2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "N"]
+1D 1N Pass 4H
+Pass Pass Pass
+[Play "N"]
+D9 D4 D2 DA
+H8 HJ HK H2
+HQ H3 HA H4
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J762.Q8.987.T643 53.JT9653.4.AQ85 QT84.AK.KQT32.97 AK9.742.AJ65.KJ2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "N"]
+1D 1N Pass 2D
+an tX Pass 2H
+an ! Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+D8 D4 DQ DA
+HQ H3 HK H2
+S2 S3 S4 SA
+H8 HJ HA H4
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q93.A97.J9765.J4 J864.J3.KT82.852 T.QT865.AQ3.T763 AK752.K42.4.AKQ9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "E"]
+1S Pass 3S an
+al Pass 4S Pass
+Pass Pass
+[Play "S"]
+D5 D8 DQ D4
+C4 C2 C6 CA
+S3 S4 ST SA
+S9 S6 H8 SK
+CJ C5 C3 CK
+SQ C8 C7 CQ
+D6 DT DA S5
+D7 S8 CT C9
+D9 DK D3 H2
+HA HJ HQ HK
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q93.A97.J9765.J4 J864.J3.KT82.852 T.QT865.AQ3.T763 AK752.K42.4.AKQ9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "E"]
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+D6 D2 DQ D4
+C4 C2 C7 CA
+S3 S4 ST SA
+S9 S6 H8 SK
+CJ C5 C3 CQ
+H7 C8 C6 CK
+SQ S8 H5 S2
+D5 DT DA S5
+D7 SJ CT C9
+D9 DK D3 H2
+HA H3 HT HK
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q872.952.AJ86.A2 4.T4.Q732.KQT875 AT63.AJ63.KT54.6 KJ95.KQ87.9.J943 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "S"]
+Pass 3C X Pass
+4C Pass 4H Pass
+4S Pass Pass Pass
+[Play "W"]
+CA CK C6 C9
+C2 C5 S3 C3
+S2 S4 SA S5
+SQ C7 ST SJ
+D6 D2 DK D9
+DA D3 DT H7
+DJ DQ D4 C4
+D8 D7 D5 S9
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q872.952.AJ86.A2 4.T4.Q732.KQT875 AT63.AJ63.KT54.6 KJ95.KQ87.9.J943 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "S"]
+1N Pass 2C Pass
+2S an ! Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J.A94.JT6432.T62 T8763.J753.8.KJ8 K42.K6.K75.A9753 AQ95.QT82.AQ9.Q4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "W"]
+Pass 1N Pass 2N
+Pass 3C an tX
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J.A94.JT6432.T62 T8763.J753.8.KJ8 K42.K6.K75.A9753 AQ95.QT82.AQ9.Q4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "W"]
+Pass 1N X 2D
+X Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A7.JT75.972.AKJ4 Q52.Q62.K843.832 KJT83.K8.AQT.Q95 964.A943.J65.T76 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "N"]
+1S Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A7.JT75.972.AKJ4 Q52.Q62.K843.832 KJT83.K8.AQT.Q95 964.A943.J65.T76 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "N"]
+1S Pass 2C Pass
+2N Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 7.KJ83.K85.JT853 KQT93.AQT64.92.6 A64.72.QT743.AK2 J852.95.AJ6.Q974 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "E"]
+Pass Pass 1S Pass
+3D an al Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 7.KJ83.K85.JT853 KQT93.AQT64.92.6 A64.72.QT743.AK2 J852.95.AJ6.Q974 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "E"]
+Pass Pass 1S Pass
+3C an Be Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQJ.J432.J74.T86 62.KQ76.32.KQ543 T98543.A9.AQ.J92 A7.T85.KT9865.A7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "S"]
+Pass Pass 1S 2D
+2S X Pass 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQJ.J432.J74.T86 62.KQ76.32.KQ543 T98543.A9.AQ.J92 A7.T85.KT9865.A7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "S"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ975.AT97.K7.A5 KQT2.J862.QT3.74 4.43.AJ854.KT986 863.KQ5.962.QJ32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "W"]
+2H Pass Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ975.AT97.K7.A5 KQT2.J862.QT3.74 4.43.AJ854.KT986 863.KQ5.962.QJ32 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 1N Pass 2H
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ4.T52.T976.AT5 KQ876.43.K42.976 T952.KJ.QJ53.K84 3.AQ9876.A8.QJ32 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "N"]
+2D an al 2H
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ4.T52.T976.AT5 KQ876.43.K42.976 T952.KJ.QJ53.K84 3.AQ9876.A8.QJ32 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2C Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT52.Q74.KT3.752 J3.AT83.QJ8542.A AK.9652.A96.KJT9 98764.KJ.7.Q8643 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "E"]
+Pass Pass 1D Pass
+1S Pass 2D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT52.Q74.KT3.752 J3.AT83.QJ8542.A AK.9652.A96.KJT9 98764.KJ.7.Q8643 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "E"]
+Pass Pass 1D 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJ984.865.K7.Q42 T732.JT9.J95.KJ9 A.K74.8632.A8753 K65.AQ32.AQT4.T6 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "S"]
+Pass Pass 1C X
+1H an al 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJ984.865.K7.Q42 T732.JT9.J95.KJ9 A.K74.8632.A8753 K65.AQ32.AQT4.T6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "S"]
+2S Pass Pass 2N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Thomson"]
+[North "Porter"]
+[East "Brightling"]
+[South "Barnes"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A972.KJ874.T.432 JT43.62.9872.KJ9 Q865.AQ5.KQ5.A75 K.T93.AJ643.QT86 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hung"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Robinson"]
+[Auction "W"]
+Pass 1C an al
+Pass 1D an al
+Pass 1H Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+

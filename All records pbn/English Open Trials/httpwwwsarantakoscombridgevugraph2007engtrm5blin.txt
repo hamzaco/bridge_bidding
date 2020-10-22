@@ -1,0 +1,804 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 5.753.T52.AK7643 AK43.KT2.A98.982 QJT82.QJ4.K43.QJ 976.A986.QJ76.T5 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+S5 SA SQ S6
+D2 D8 D3 DQ
+D5 DA D4 D6
+DT D9 DK D7
+C3 C2 CQ C5
+CK C8 CJ CT
+CA C9 S2 H6
+C7 S4 S8 S7
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 5.753.T52.AK7643 AK43.KT2.A98.982 QJT82.QJ4.K43.QJ 976.A986.QJ76.T5 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "S"]
+Pass 1C 1S X
+Pass 1N Pass Pass
+2C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJ4.J95.K8632.J2 82.T43.AT975.AK5 A97653.AQ7.T973.KT K862.QJ4.Q864."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "W"]
+1D 1S X 2S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJ4.J95.K8632.J2 82.T43.AT975.AK5 A97653.AQ7.T973.KT K862.QJ4.Q864."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "W"]
+1D 1S X 2S
+Pass 3C 3D Pass
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T64.632.J876.Q86 AQ95.974.T93.KJT KJ732.AKQJ5.K.92 8.T8.AQ542.A7543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "N"]
+1S 2N Pass 4C
+4H Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T64.632.J876.Q86 AQ95.974.T93.KJT KJ732.AKQJ5.K.92 8.T8.AQ542.A7543 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "N"]
+1S 2N Pass 3C
+3H Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K82.KT75.KT7.QJ3 AJT3.A9.Q9653.K9 9765.Q8.A4.AT872 Q4.J6432.J82.654 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "E"]
+Pass 1C an 11
+17 1D 1H an
+!S Pass 1S Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K82.KT75.KT7.QJ3 AJT3.A9.Q9653.K9 9765.Q8.A4.AT872 Q4.J6432.J82.654 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "E"]
+Pass Pass 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK75.J6.QJ63.742 J84.AQ82.K9.AJT6 Q32.9753.A742.K3 T96.KT4.T85.Q985 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "S"]
+1C an 11 17
+1N X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK75.J6.QJ63.742 J84.AQ82.K9.AJT6 Q32.9753.A742.K3 T96.KT4.T85.Q985 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "S"]
+1S Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q8.AJ7543.J75.62 AK964.K98.QT43.J T52.62.A9.QT8743 J73.QT.K862.AK95 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "W"]
+1S Pass 2D Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q8.AJ7543.J75.62 AK964.K98.QT43.J T52.62.A9.QT8743 J73.QT.K862.AK95 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "W"]
+1S Pass 2C Pass
+2D Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQT985.KJ.72.865 74.63.KQ8654.JT9 J62.QT82.A9.A742 A3.A9754.JT3.KQ3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "N"]
+1C an 11 17
+1H 2H 3D 3S
+4D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQT985.KJ.72.865 74.63.KQ8654.JT9 J62.QT82.A9.A742 A3.A9754.JT3.KQ3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "N"]
+1H Pass 1S Pass
+1N Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ92.Q.KQJ2.Q642 T64.6.A98764.987 K73.AKJ853.T3.J5 J85.T9742.5.AKT3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 2H
+Pass 3C Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ92.Q.KQJ2.Q642 T64.6.A98764.987 K73.AKJ853.T3.J5 J85.T9742.5.AKT3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A76.KQT.K53.QT54 982.63.AT2.AKJ97 Q54.AJ974.QJ9.86 KJT3.852.8764.32 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "S"]
+1N an 14 Pass
+2C an 4+ Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A76.KQT.K53.QT54 982.63.AT2.AKJ97 Q54.AJ974.QJ9.86 KJT3.852.8764.32 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "S"]
+1N Pass 2D Pass
+2H Pass 3N Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 964.84.J9864.JT3 82.KQJ763.3.K765 53.A95.AQT52.A84 AKQJT7.T2.K7.Q92 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "W"]
+Pass 1N an 14
+X 2D 4H Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 964.84.J9864.JT3 82.KQJ763.3.K765 53.A95.AQT52.A84 AKQJT7.T2.K7.Q92 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "W"]
+1H Pass 1S Pass
+2H Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ9.AK.QT.AT9542 75.93.J76432.KQ3 QT62.T754.AK.J87 K843.QJ862.985.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "N"]
+Pass Pass 1C an
+11 18 Pass 1D
+an !H Pass 1N
+an 18  m Pass
+2H Pass 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ9.AK.QT.AT9542 75.93.J76432.KQ3 QT62.T754.AK.J87 K843.QJ862.985.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "N"]
+Pass Pass 2N Pass
+3C Pass 3D Pass
+3S an TF Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ652.Q954.A632.AT4 AKT.QT832.84.973 J32.AKJ76.KQ.J8 876.954.JT975."]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2N Pass 3D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ652.Q954.A632.AT4 AKT.QT832.84.973 J32.AKJ76.KQ.J8 876.954.JT975."]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 2H Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9743.AJ4.A76.Q53 T.K965.9842.T742 KJ862.T8.Q.AKJ96 AQ5.Q732.KJT53.8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "S"]
+1C an 11  1
+Pass 1H an !S
+2D 2S 4D 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9743.AJ4.A76.Q53 T.K965.9842.T742 KJ862.T8.Q.AKJ96 AQ5.Q732.KJT53.8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "S"]
+Pass Pass 1S 2D
+3D Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "English Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Malinowski"]
+[North "Crouch"]
+[East "Sandqvist"]
+[South "Liggins"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K943.A9.Q92.T832 AT.2.AKJ765.9654 QJ8.Q763.T843.KJ 7652.KJT854.AQ7."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sandqvist"]
+[Auction "W"]
+1D Pass 1H Pass
+2C Pass 2H Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+

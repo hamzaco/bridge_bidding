@@ -1,0 +1,513 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A4.654.K863.J972 63.Q2.9754.AKQT5 KJ982.JT97.AQ.64 QT75.AK83.JT2.83 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "S"]
+Pass 1C 1S X
+2S Pass Pass Pass
+[Play "E"]
+H4 H2 H7 HA
+D3 D5 DQ DJ
+D6 D4 DA D2
+SA S3 S2 S5
+DK D7 C6 DT
+S4 S6 SJ SQ
+C2 CT C4 C8
+H5 HQ H9 H3
+D8 D9 S8 ST
+C7 CQ S9 C3
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A4.654.K863.J972 63.Q2.9754.AKQT5 KJ982.JT97.AQ.64 QT75.AK83.JT2.83 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "S"]
+Pass 1D 1S X
+XX 2C Pass 2N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q9.32.K8654.KQ76 K86542.J4.QJ93.9 JT7.QT965.T.J853 A3.AK87.A72.AT42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "W"]
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q9.32.K8654.KQ76 K86542.J4.QJ93.9 JT7.QT965.T.J853 A3.AK87.A72.AT42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "W"]
+Pass Pass 1C an
+st Pass 1S an
+gf Pass 1N Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT42.T63.K32.AK8 AK7.AJ985.76.T96 965.KQ2.QJ85.532 J83.74.AT94.QJ74 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "N"]
+Pass Pass 1C 1H
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT42.T63.K32.AK8 AK7.AJ985.76.T96 965.KQ2.QJ85.532 J83.74.AT94.QJ74 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "N"]
+Pass Pass 1C 1H
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K43.QJ76.9432.A2 J52.542.K85.KQ87 Q87.T9.AQT76.T95 AT96.AK83.J.J643 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "E"]
+1C Pass 1N Pass
+Pass X 2C 2D
+3C Pass Pass 3D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K43.QJ76.9432.A2 J52.542.K85.KQ87 Q87.T9.AQT76.T95 AT96.AK83.J.J643 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "E"]
+2D an si Pass
+3C an to Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 63.AQ3.A53.KJ763 QT54.K4.T9.AQ952 KJ82.JT65.742.T8 A97.9872.KQJ86.4 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "S"]
+1N Pass Pass X!
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 63.AQ3.A53.KJ763 QT54.K4.T9.AQ952 KJ82.JT65.742.T8 A97.9872.KQJ86.4 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "S"]
+1C Pass 1H 2D
+X! an 3  XX
+Pass Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 5.J7.AT62.KJ7543 AQ2.985.KJ974.T8 974.Q6432.85.962 KJT863.AKT.Q3.AQ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "W"]
+Pass Pass 1S 2C
+X an al Pass
+3C Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 5.J7.AT62.KJ7543 AQ2.985.KJ974.T8 974.Q6432.85.962 KJT863.AKT.Q3.AQ "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "W"]
+Pass Pass 1C an
+st 2C 2D Pass
+2S Pass 3S Pass
+4C Pass 4D Pass
+4N Pass 5D Pass
+5H an As Pass
+6D an I  Pass
+6S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K43.T9653.KJ6.76 AJT2.K2.T742.AQ5 975.8.AQ953.KJT8 Q86.AQJ74.8.9432 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1H Pass 1S
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K43.T9653.KJ6.76 AJT2.K2.T742.AQ5 975.8.AQ953.KJT8 Q86.AQJ74.8.9432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2D an tX
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q5.J6.A9754.AK75 J98.AK9753.KJ.QJ AT3.QT832.T9632.K7642 QT842.6.84."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "E"]
+Pass 1N 2H 2N
+4H Pass Pass 4N
+Pass 5C X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q5.J6.A9754.AK75 J98.AK9753.KJ.QJ AT3.QT832.T9632.K7642 QT842.6.84."]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "E"]
+Pass 1D 1H 3D
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Zimmerman"]
+[North "Moss"]
+[East "Multon"]
+[South "Gitelman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J8543.KQ84.J5.Q9 A.T52.AKT86.A754 K972.J93.Q943.T8 QT6.A76.72.KJ632 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Narasimhan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmerman"]
+[Auction "S"]
+Pass 1D Pass 2N
+Pass 3C Pass 4C
+Pass 4S Pass 6C
+Pass Pass Pass
+[Play "N"]
+*
+
+

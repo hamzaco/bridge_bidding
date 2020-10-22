@@ -1,0 +1,930 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKJT86.KQT.KQ5.2 Q.42.AT643.J9876 97543.A863.AQ53.2 J975.J9872.KT4."]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "N"]
+Pass Pass 1C 2N
+X 5D X Pass
+5N Pass 6S Pass
+Pass Pass
+[Play "W"]
+D5 DA S3 D2
+SA SQ S4 S2
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKJT86.KQT.KQ5.2 Q.42.AT643.J9876 97543.A863.AQ53.2 J975.J9872.KT4."]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "N"]
+1S Pass 4N Pass
+6D Pass 7S Pass
+Pass Pass
+[Play "E"]
+DK DA S3 D7
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ932.AKJ2.KJ7.4 74.65.62.QJ98732 KJT6.Q983.Q85.K5 85.T74.AT943.AT6 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "E"]
+Pass 1C 4C X
+5C X Pass Pass
+Pass
+[Play "N"]
+SA S4 S6 S5
+HK H5 H3 H4
+HA H6 H8 H7
+HJ C2 H9 HT
+C4 CQ CK CA
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ932.AKJ2.KJ7.4 74.65.62.QJ98732 KJT6.Q983.Q85.K5 85.T74.AT943.AT6 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "E"]
+Pass 1C 3C X
+5C Pass Pass X
+Pass Pass Pass
+[Play "N"]
+SA S4 S6 S5
+HK H5 H8 H4
+S2 S7 ST S8
+HJ H6 H3 H7
+H2 C7 H9 HT
+C4 CQ C5 C6
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 87.AQT982.KJT5.6 Q32.J3.A72.QJ952 KJ65.76.863.KT73 AT94.K54.Q94.A84 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 87.AQT982.KJT5.6 Q32.J3.A72.QJ952 KJ65.76.863.KT73 AT94.K54.Q94.A84 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "S"]
+1H Pass 1S Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 92.J9842.AK842.K T74.AK7.JT53.932 AKJ653.Q3.9.J864 Q8.T65.Q76.AQT75 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 2S Pass 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 92.J9842.AK842.K T74.AK7.JT53.932 AKJ653.Q3.9.J864 Q8.T65.Q76.AQT75 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "W"]
+Pass 1S Pass 1N
+an no Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT92.84.A96.QT83 J4.AJ93.Q872.K65 7653.T752.JT54.A AQ8.KQ6.K3.J9742 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT92.84.A96.QT83 J4.AJ93.Q872.K65 7653.T752.JT54.A AQ8.KQ6.K3.J9742 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "N"]
+Pass 1C Pass 1N
+an 10 Pass 2C
+an ba Pass 2H
+an 10 Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT62.Q542.82.A95 3.J9863.T7643.K2 K97.AK7.AKQJ.J76 AJ854.T.95.QT843 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "E"]
+2S Pass Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT62.Q542.82.A95 3.J9863.T7643.K2 K97.AK7.AKQJ.J76 AJ854.T.95.QT843 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "E"]
+Pass Pass Pass 2D
+an we Pass 2H
+Pass 2N Pass 3C
+Pass 3S an no
+ 3 Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQT94.5.Q854.AQ9 K32.AK863.K.KJT6 J75.942.AJ72.542 86.QJT7.T963.873 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "S"]
+1S X 2S Pass
+3D 3H 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQT94.5.Q854.AQ9 K32.AK863.K.KJT6 J75.942.AJ72.542 86.QJT7.T963.873 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "S"]
+1S 2H 2S 3H
+3S 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A762.Q8743.97.62 KQ3.T2.AQ82.AJ97 T54.AKJ65.K54.T4 J98.9.JT63.KQ853 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "W"]
+1C 1H 2C 4H
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A762.Q8743.97.62 KQ3.T2.AQ82.AJ97 T54.AKJ65.K54.T4 J98.9.JT63.KQ853 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "W"]
+1C an ba 1H
+1S an ta 4H
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ6543.A.762.K43 KQT642.T94.Q765.QT J97.AKQJ83.J2. K9872.853.5.AT98 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "N"]
+2D Pass 2S Pass
+3D Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ6543.A.762.K43 KQT642.T94.Q765.QT J97.AKQJ83.J2. K9872.853.5.AT98 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "N"]
+1D 1S Pass Pass
+2D Pass 2S X
+an no 3S X
+an no 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ2.A.QJT843.K98 A8765.QJT84.A.AQ 94.5.97652.T6543 JT3.K97632.K.J72 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "E"]
+2D 3D 4D 5D
+Pass Pass 5H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ2.A.QJT843.K98 A8765.QJT84.A.AQ 94.5.97652.T6543 JT3.K97632.K.J72 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "E"]
+Pass 1D 2D 4D
+4H 5D X Pass
+5H Pass 6H Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT7.J52.T7.AK943 AK5432.QT4.KQ83.Q986 73.62.QJT85. .AK986.AJ954.762 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 2S Pass 3D
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT7.J52.T7.AK943 AK5432.QT4.KQ83.Q986 73.62.QJT85. .AK986.AJ954.762 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "S"]
+Pass 1S Pass 3D
+an 5! Pass 3H
+Pass 3S Pass 4C
+Pass 4D Pass 4S
+Pass 5D Pass 7D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q874.J73.Q76.QJT KJ92.A98.T8.K986 AT3.KQT6.J52.A32 65.542.AK943.754 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "W"]
+1N X 2D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q874.J73.Q76.QJT KJ92.A98.T8.K986 AT3.KQT6.J52.A32 65.542.AK943.754 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "W"]
+1N an 12 Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ2.QJ42.AQ9.A73 KQ874.96.KT86.J8 65.AT8.J743.Q962 T93.K753.52.KT54 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "N"]
+Pass Pass 1C 1S
+Pass 2S Pass Pass
+X Pass 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ2.QJ42.AQ9.A73 KQ874.96.KT86.J8 65.AT8.J743.Q962 T93.K753.52.KT54 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "N"]
+Pass Pass 2N Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 632.AQ87.A973.A9 94.T3.QJ542.KT52 AKJT87.542.K8.J3 Q5.KJ96.T6.Q8764 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "E"]
+Pass 1N Pass 2H
+X 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 632.AQ87.A973.A9 94.T3.QJ542.KT52 AKJT87.542.K8.J3 Q5.KJ96.T6.Q8764 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "E"]
+Pass 1N Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A.A3.AK432.QJ987 K986.QT976.86.54 QJ7542.K2.T.T632 T3.J854.QJ975.AK "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "S"]
+1C 1H 2S 4H
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A.A3.AK432.QJ987 K986.QT976.86.54 QJ7542.K2.T.T632 T3.J854.QJ975.AK "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "S"]
+1C 1D Pass 3D
+4C Pass 5C X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "GADDI"]
+[North "VERSACE"]
+[East "FORNACIARI"]
+[South "ANGELINI"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AJ754.952.7.KJ87 K.KJ73.QT8.QT963 QT92.QT6.A432.42 863.A84.KJ965.A5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "T.C. PARIOLI - BOVE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RE - FORNACIARI"]
+[Auction "W"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+2N Pass Pass Pass
+[Play "S"]
+*
+
+

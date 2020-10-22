@@ -1,0 +1,403 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK.T9.AT643.KT54 JT854.J43.K87.Q9 976.AKQ85.AJ873.Q32 762.QJ952.62."]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H Pass 2D an
+Fo Pass 2H Pass
+3C Pass 4C Pass
+5C Pass 6C Pass
+Pass Pass
+[Play "W"]
+SK SJ S6 S3
+CK C9 C3 C2
+C4 CQ CA C6
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK.T9.AT643.KT54 JT854.J43.K87.Q9 976.AKQ85.AJ873.Q32 762.QJ952.62."]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1390"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+[Play "E"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T8.95.JT96.AJ653 AKQ.82.K43.KQT94 J764.QT764.Q7.82 9532.AKJ3.A852.7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+DJ D3 D7 DA
+C6 CK C2 C7
+H5 H2 H7 HJ
+S8 SA S4 S2
+H9 H8 H4 HA
+ST SQ S6 S5
+C3 SK S7 S3
+D6 DK DQ D2
+D9 D4 H6 D8
+DT C4 C8 D5
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T8.95.JT96.AJ653 AKQ.82.K43.KQT94 J764.QT764.Q7.82 9532.AKJ3.A852.7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+[Play "N"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 73.J2.AKT3.AT532 AT62.QT964.92.Q9 K8.AK7.8765.J764 QJ954.853.QJ4.K8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D 1H X Pass
+2C Pass 2H Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 73.J2.AKT3.AT532 AT62.QT964.92.Q9 K8.AK7.8765.J764 QJ954.853.QJ4.K8 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+[Play "E"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT8.Q.KJ8754.542 94.AKT93.Q9.Q873 K732.642.AT6.AKJ AQ65.J875.32.T96 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H X 2H 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT8.Q.KJ8754.542 94.AKT93.Q9.Q873 K732.642.AT6.AKJ AQ65.J875.32.T96 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+[Play "W"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J7.AT97.AJ.KT964 AK953.KJ853.876.T82 642.Q952.Q73. Q64.Q.KT43.AJ852 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1C 1S
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J7.AT97.AJ.KT964 AK953.KJ853.876.T82 642.Q952.Q73. Q64.Q.KT43.AJ852 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+[Play "S"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT9.T9876.Q8.964 82.J54.JT97.AJT8 A64.KQ3.A632.K32 KQ753.A2.K54.Q75 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT9.T9876.Q8.964 82.J54.JT97.AJT8 A64.KQ3.A632.K32 KQ753.A2.K54.Q75 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+[Play "W"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A7.J5.JT9754.J76 Q9853.K.Q86.KQ52 K62.Q86432.32.T3 JT4.AT97.AK.A984 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 3C Pass 3H
+Pass 5C Pass 5S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Estoril Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Beyer"]
+[North "Passaro"]
+[East "Wigman"]
+[South "Panadero"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A7.J5.JT9754.J76 Q9853.K.Q86.KQ52 K62.Q86432.32.T3 JT4.AT97.AK.A984 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Passaro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+[Play "N"]
+*
+
+

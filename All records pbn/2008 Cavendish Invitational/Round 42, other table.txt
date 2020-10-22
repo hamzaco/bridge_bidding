@@ -1,0 +1,77 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Helgemo"]
+[North "Chambers"]
+[East "Helness"]
+[South "Schermer"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AKT2.AT94.KJ975.83 Q8653.T8.KQ54.765 KJ7.32.JT932. QJ94.2.AQ64.A876 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "chambers/schermer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "helgemo/helness"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+1N Pass Pass X
+Pass 2C X 2D
+Pass Pass Pass
+[Play "W"]
+D5 C5 CJ CA
+H4 H3 HJ H2
+DJ D8 D2 D4
+H9 H5 H7 D6
+C2 C6 S2 CQ
+HK DQ HT H6
+D7 DT D3 DA
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Helgemo"]
+[North "Chambers"]
+[East "Helness"]
+[South "Schermer"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 4.AKT84.7542.J92 Q83.95.963.Q7653 AT962.72.KT.AK84 KJ75.QJ63.AQJ8.T "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "chambers/schermer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "helgemo/helness"]
+[Auction "N"]
+1S 1N an af
+X Pass Pass 2C
+an sh Pass 3C
+X XX an al
+Pass 3D an co
+Pass Pass X Pass
+Pass Pass
+[Play "None"]
+HT H5 H7 H3
+S4 S8 SA S5
+D2 S3 S2 S7
+*
+
+

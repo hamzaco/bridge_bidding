@@ -1,0 +1,579 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQT7.KT864.K.K95 62.J953.Q983.AQ8 A853.A7.AT7.J763 J94.Q2.J6542.T42 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C Pass 1H Pass
+1N Pass 2D Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+H4 H3 HA HQ
+HK H5 H7 H2
+H6 H9 S8 S9
+CK CA C6 CT
+H8 HJ SA C4
+SK S2 S3 S4
+DK D8 DA D2
+SQ S6 S5 SJ
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J9643.986.K83.A9 7.JT432.AQT9.Q32 AK.KQ7.7642.8764 QT852.A5.J5.KJT5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 1N Pass
+2C Pass 2N Pass
+Pass Pass
+[Play "None"]
+C9 C3 C8 CT
+DK DA D4 DJ
+CA CQ C4 C5
+H9 HT HQ HA
+S3 C2 C7 CK
+S4 H2 C6 CJ
+D3 DQ D6 D5
+D8 DT D2 H5
+S6 D9 D7 S2
+S9 S7 SK S5
+SJ H3 SA S8
+H6 H4 HK ST
+H8 HJ H7 SQ
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A83.AJ7.Q9754.86 954.K5432.J.KJT3 K72.QT6.AK63.972 QJT6.98.T82.AQ54 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 2N Pass
+Pass Pass
+[Play "N"]
+SA S4 S7 SQ
+D4 DJ DA D2
+D5 H5 DK D8
+DQ S5 D6 DT
+D9 H3 D3 C5
+D7 H4 C2 H8
+S3 S9 SK ST
+HA H2 HT H9
+H7 HK H6 C4
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9643.KJ93.T94.Q3 AKT5.AQT852.KJ2.872 74.J8653.T85.QJ 6.AKQ72.A9764."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2D Pass
+2S Pass 3C Pass
+3H Pass 4N Pass
+5S Pass 6H Pass
+Pass Pass
+[Play "None"]
+CA C3 C2 C5
+D4 CJ D3 DA
+D5 DK D9 CK
+HQ H4 H6 H3
+H9 HA H7 C4
+HJ H8 C8 C6
+HK H2 S2 C7
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 64.K753.A9.QJT76 Q753.Q8.743.K842 KJ98.JT9.J652.95 AT2.A642.KQT8.A3 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+CQ C2 C5 CA
+S4 SQ SK S2
+C7 C4 C9 C3
+D9 D3 D5 DT
+DA D4 D6 DK
+CT CK HJ H4
+H3 D7 D2 D8
+H5 S3 DJ DQ
+H7 H8 H9 HA
+S6 S5 S8 SA
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQJ.KT.QJ9.A9842 86.A5432.AK5.J65 5432.J6.T8743.Q3 KT97.Q987.62.KT7 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1N Pass Pass
+Pass
+[Play "None"]
+HK H3 H6 HQ
+C4 C5 CQ CK
+HT HA HJ H7
+DJ H2 S2 H8
+C2 H4 S3 H9
+DQ DK D3 D6
+D9 DA D4 D2
+SQ H5 S4 S7
+SJ S8 S5 S9
+CA C6 C3 C7
+C8 CJ D7 CT
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 6542.AKT752.J53.AKJT7 J98.QT982.9863.AJ7 Q6.AK74.Q542.KQT983 43.6."]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 1H
+2D 2S 3D 4S
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+DK D8 DQ D3
+D9 D6 D4 DA
+S7 H7 H3 H6
+DJ S6 C6 D2
+S2 DT ST S3
+CT C4 S4 C3
+HJ H8 H2 SK
+C7 S5 C5 C2
+HA H9 H4 SJ
+SQ CJ C8 CA
+HK H5 C9 S8
+CK HT D5 CQ
+SA S9 HQ D7
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT654.AJ982.543.AKJT 72.K654.AJ7.Q875432 AKQ3.KQ.96.98 QT73.T9862."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N 4S Pass Pass
+X Pass Pass Pass
+[Play "None"]
+S3 D7 D8 DK
+S9 C3 ST S8
+HA H9 H4 H7
+S5 S6 D2 SJ
+H8 C4 SK S2
+H2 HQ C2 H5
+S4 C6 C5 SA
+CA CQ C8 D9
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K32.AJ8643.5.432 6.972.AJT82.J987 AQ85.KQ.KQ63.AKT JT974.T5.974.Q65 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2C an st Pass
+2H an na Pass
+2N Pass 3H an
+6  Pass 4N Pass
+5D Pass 6N Pass
+Pass Pass
+[Play "S"]
+S2 S6 SQ SJ
+H3 H2 HK H5
+H4 H7 HQ HT
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T8.QJ7.AJ875.T63 J764.53.K642.AJ5 95.AT962.QT3.987 AKQ32.K84.9.KQ42 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 3C Pass
+4S Pass Pass Pass
+[Play "None"]
+S8 S4 S9 SQ
+ST S6 S5 SA
+C3 CA C7 C2
+C6 CJ C9 C4
+CT C5 C8 CK
+D5 H3 H6 CQ
+DA D2 D3 D9
+HQ H5 HA H4
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 2.J8.AJ763.AJ852 Q943.62.T2.KQT76 AJT75.QT75.K95.9 K86.AK943.Q84.43 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 2N Pass
+3C Pass 3D Pass
+Pass Pass
+[Play "W"]
+H8 H6 H5 HK
+HJ H2 H7 HA
+C2 D2 HT H9
+S2 S4 SA S8
+D3 DT DK D4
+CA C7 C9 C3
+C5 CQ D5 C4
+C8 S3 HQ H3
+D6 S9 S5 S6
+CJ CK D9 DQ
+DJ SQ S7 H4
+DA C6 ST D8
+D7 CT SJ SK
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A964.987.AT543.3 873.Q42.7.KJ9864 QJ2.AT63.KJ8.AQ7 KT5.KJ5.Q962.T52 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1N Pass 2C
+X 2H Pass 4H
+Pass Pass Pass
+[Play "None"]
+C3 CJ CQ C2
+H7 HQ H3 H5
+SA S7 SJ SK
+H8 H2 H6 HJ
+H9 H4 HA HK
+DA D7 DJ DQ
+D3 C9 DK D2
+S4 S3 SQ S5
+S6 S8 S2 ST
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT975.AJ7.J65.A2 KJ42.842.QT73.Q8 86.KQT965.AK4.T5 A3.3.982.KJ97643 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H 2C X Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "N"]
+DJ DQ DK D2
+S7 SJ S6 S3
+D5 D3 DA D8
+S5 S2 S8 SA
+D6 DT D4 D9
+CA CQ C5 C7
+S9 S4 HT C3
+H7 H2 HK H3
+HJ H4 H5 C4
+ST SK H6 C6
+HA H8 H9 C9
+SQ C8 CT CJ
+C2 D7 HQ CK
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK92.J82.Q52.Q94 T4.A964.T.AKJT87 QJ8765.75.A643.5 3.KQT3.KJ987.632 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 2C 2S
+3C 3S 4C 4S
+Pass Pass Pass
+[Play "None"]
+C4 CJ C5 C2
+D2 DT DA D8
+SA S4 S8 S3
+S2 ST SQ D7
+D5 CT D4 DK
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Rui Pinto"]
+[North "CLuiz"]
+[East "Barbosa"]
+[South "Nuno Paz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q62.J75.T954.J75 KT84.AT32.AKQ6.A AJ.Q8.J832.KT632 9753.K964.7.Q984 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 2N Pass 3C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+D9 DA D3 D7
+D4 D6 D2 H4
+S2 SK SA S3
+D5 DK D8 S5
+DT DQ DJ S7
+H5 H2 H8 HK
+SQ S4 SJ S9
+H7 HA HQ H6
+*
+
+

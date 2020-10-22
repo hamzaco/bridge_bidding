@@ -1,0 +1,293 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "KALITA"]
+[North "BURAS"]
+[East "KOTOROWICZ"]
+[South "NARKIEWICZ"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT6.A87.J972.765 AJ543.KQ9.A6.AJ4 K9.JT53.Q854.T92 872.642.KT3.KQ83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BURAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KALITA"]
+[Auction "E"]
+Pass Pass 1C Pass
+1N Pass 2D Pass
+2N an 43 Pass
+4S Pass Pass Pass
+[Play "N"]
+C6 C4 C9 CK
+S6 SJ SK S7
+HA H9 H3 H2
+H8 HK H5 H4
+SQ SA S9 S2
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "KALITA"]
+[North "BURAS"]
+[East "KOTOROWICZ"]
+[South "NARKIEWICZ"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT6.A87.J972.765 AJ543.KQ9.A6.AJ4 K9.JT53.Q854.T92 872.642.KT3.KQ83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BURAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KALITA"]
+[Auction "E"]
+Pass Pass 1S Pass
+2S Pass 2N Pass
+3C Pass 4S Pass
+Pass Pass
+[Play "N"]
+HA H9 HJ H2
+H8 HK H3 H4
+S6 SA S9 S2
+D2 D6 D4 DK
+ST SJ SK S7
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "KALITA"]
+[North "BURAS"]
+[East "KOTOROWICZ"]
+[South "NARKIEWICZ"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q84.62.AT9765.92 52.Q984.832.AJ65 AT73.A7.KJ.KQ743 KJ96.KJT53.Q4.T8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BURAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KALITA"]
+[Auction "S"]
+Pass Pass 1C 1H
+2C 2H X Pass
+3D 3H Pass Pass
+4D Pass Pass Pass
+[Play "W"]
+S8 S2 S3 SK
+H6 H9 HA H5
+D5 D2 DK D4
+DA D3 DJ DQ
+DT D8 C3 HJ
+SQ S5 S7 S6
+S4 H4 SA S9
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "KALITA"]
+[North "BURAS"]
+[East "KOTOROWICZ"]
+[South "NARKIEWICZ"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q84.62.AT9765.92 52.Q984.832.AJ65 AT73.A7.KJ.KQ743 KJ96.KJT53.Q4.T8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BURAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KALITA"]
+[Auction "S"]
+Pass Pass 1N X
+an   Pass 2H
+Pass Pass 3D 3H
+Pass Pass Pass
+[Play "N"]
+D5 D3 DK D4
+DA D8 DJ DQ
+C2 C6 CQ C8
+S4 S5 SA S6
+S8 S2 S3 SK
+SQ H4 S7 S9
+H2 H8 HA H3
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "KALITA"]
+[North "BURAS"]
+[East "KOTOROWICZ"]
+[South "NARKIEWICZ"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T543.J954.85.Q97 QJ72.62.72.T6532 K986.AQT8.AJ6.A4 A.K73.KQT943.KJ8 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "BURAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KALITA"]
+[Auction "W"]
+Pass 1C 1D Pass
+Pass 1N 2D X!
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "KALITA"]
+[North "BURAS"]
+[East "KOTOROWICZ"]
+[South "NARKIEWICZ"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T543.J954.85.Q97 QJ72.62.72.T6532 K986.AQT8.AJ6.A4 A.K73.KQT943.KJ8 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "BURAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KALITA"]
+[Auction "W"]
+Pass 1C 1D Pass
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "KALITA"]
+[North "BURAS"]
+[East "KOTOROWICZ"]
+[South "NARKIEWICZ"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A74.AKJ8.8643.J7 963.T6532.Q9843.Q Q9.AQJT9.AKT62.KJT852 74.K752.5."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "BURAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KALITA"]
+[Auction "N"]
+1D 2S X 3S
+4N Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "KALITA"]
+[North "BURAS"]
+[East "KOTOROWICZ"]
+[South "NARKIEWICZ"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A74.AKJ8.8643.J7 963.T6532.Q9843.Q Q9.AQJT9.AKT62.KJT852 74.K752.5."]
+[Declarer "S"]
+[Contract "7"]
+[Result "11"]
+[HomeTeam "BURAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KALITA"]
+[Auction "N"]
+2N Pass 5D Pass
+6D Pass 7D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "KALITA"]
+[North "BURAS"]
+[East "KOTOROWICZ"]
+[South "NARKIEWICZ"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KT764.K8.QJ864.9 Q832.A53.KT75.32 95.QJ64.A9.KJ875 AJ.T972.32.AQT64 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "BURAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KALITA"]
+[Auction "E"]
+2C Pass 2D Pass
+2H 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+

@@ -1,0 +1,531 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K872.7.T43.AJT43 AJ65.JT6.A9.7652 Q9.AKQ52.8765.K8 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "N"]
+1H Pass 1S Pass
+1N Pass Pass Pass
+[Play "E"]
+D3 DA D6 DK
+D4 D9 D8 DJ
+S2 SJ SQ S3
+DT C2 D5 DQ
+SK SA S9 ST
+H7 HJ HA H4
+C3 S6 D7 D2
+C4 H6 HK H3
+CT HT HQ H8
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K872.7.T43.AJT43 AJ65.JT6.A9.7652 Q9.AKQ52.8765.K8 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "N"]
+1H Pass 1S Pass
+2H Pass Pass Pass
+[Play "E"]
+D4 DA D7 DJ
+H7 H6 HA H3
+C3 HT HK H4
+S2 HJ HQ H9
+D3 D9 D6 DQ
+S7 C2 H2 H8
+S8 SA S9 S3
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ6.T.QT97432.T9 42.KQ432.A5.8732 K8753.86.J8.J654 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "E"]
+1H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ6.T.QT97432.T9 42.KQ432.A5.8732 K8753.86.J8.J654 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "E"]
+1H Pass 4H Pass
+Pass Pass
+[Play "S"]
+CT C2 C6 DT
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9.KJ43.932.QT965 AK6.T982.J864.K3 Q8743.Q5.QT5.AJ4 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H Pass Pass
+Pass
+[Play "N"]
+S9 S6 S4 ST
+D2 D4 D5 DA
+D3 D8 DT DK
+D9 DJ DQ D7
+CQ CK C4 C2
+H3 SA S3 S2
+C6 C3 CJ C7
+H4 SK SQ S5
+CT HT CA C8
+HJ D6 S8 H6
+C5 H2 S7 SJ
+HK H8 H5 HA
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9.KJ43.932.QT965 AK6.T982.J864.K3 Q8743.Q5.QT5.AJ4 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "S"]
+Pass Pass 1S Pass
+1N Pass Pass Pass
+[Play "W"]
+H4 HT HQ HA
+HJ H2 H5 H7
+CT CK CA C2
+C6 C3 CJ C7
+CQ S6 C4 C8
+C9 H8 S3 S5
+C5 D4 S4 D7
+HK H9 S7 H6
+S9 SK S8 S2
+H3 SA SQ SJ
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9853.AJ97.Q9.J76 AQ7.32.AT754.T98 KT62.T5.J3.AKQ52 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9853.AJ97.Q9.J76 AQ7.32.AT754.T98 KT62.T5.J3.AKQ52 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "W"]
+Pass 1C 1H 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J2.AKQ54.AT3.T92 A94.JT93.J94.Q87 Q8763.87.Q762.64 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J2.AKQ54.AT3.T92 A94.JT93.J94.Q87 Q8763.87.Q762.64 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2D Pass 2N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 53.QJ96.J854.QJ8 AJ62.52.AQT62.AT KT.AT874.K97.653 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "E"]
+Pass Pass 1N Pass
+2H Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 53.QJ96.J854.QJ8 AJ62.52.AQT62.AT KT.AT874.K97.653 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "E"]
+Pass Pass 1N Pass
+2S Pass 2N Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 3.AK62.J3.J87652 K98765.T87.A5.43 .Q943.KQT8762.A9 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "S"]
+Pass Pass 1D 1S
+X 4S 5H 5S
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 3.AK62.J3.J87652 K98765.T87.A5.43 .Q943.KQT8762.A9 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "S"]
+Pass Pass 1D 1S
+X 4S 5D 5S
+6D X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T5.AK743.T9873.A K874.T5.A2.KJ862 AQ63.2.QJ.QT9743 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T5.AK743.T9873.A K874.T5.A2.KJ862 AQ63.2.QJ.QT9743 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "W"]
+1C Pass 1H Pass
+1S 2C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Bobby Wolff"]
+[North "Paul Soloway"]
+[East "Gaylor Kasle"]
+[South "Seymon Deutsch"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K983.Q8762.Q8.Q3 T4.AKT43.JT.J985 A62.J95.642.T764 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Deutsch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kasle"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1S Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+

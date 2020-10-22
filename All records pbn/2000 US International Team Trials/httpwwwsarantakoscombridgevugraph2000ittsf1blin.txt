@@ -1,0 +1,890 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 654.A843.9873.J4 KJT.Q92.AKJT65.Q AQ97.KT.2.A87653 832.J765.Q4.KT92 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+- 2C Pass Pass
+X Pass 2H Pass
+3D Pass 3N Pass
+Pass Pass - -
+[Play "S"]
+CJ CQ CA C2
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K9832.Q6.74.A843 T764.AKT42.3.QJT Q.J875.QJT5.K972 AJ5.93.AK9862.65 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1D P 1H P
+2D P P P
+[Play "N"]
+S2 S4 SQ SA
+D4 D3 D5 DA
+D7 H2 DJ DK
+C8 H4 DT D8
+CA CT C7 C5
+SK S6 C2 S5
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKT4.7432.AT87.Q J52.6.K42.AKT643 8763.K985.J9.982 Q9.AQJT.Q653.J75 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1D 2C P 2D
+P 3C P P
+P
+[Play "S"]
+D8 DK DJ D3
+CQ CA C8 C5
+H3 H6 H8 HA
+H2 D2 HK HT
+DT D4 D9 D5
+SK S2 S6 S9
+SA S5 S3 SQ
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT542.AT9.J752.K A3.J86.Q6.AQJ974 J96.Q754.AKT8.65 Q87.K32.943.T832 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1C P 1D 1S
+2C 2D 3C P
+P P
+[Play "N"]
+SK S3 S6 SQ
+D5 DQ DK D3
+S2 SA S9 S7
+D2 D6 DT D4
+S4 C4 SJ S8
+CK CA C5 C2
+S5 C7 C6 C8
+D7 CQ D8 D9
+HA H6 H5 HK
+HT HJ HQ H2
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQ9732.4.965.AQ7 4.T83.J873.KT432 JT8.AK62.42.J986 A65.QJ975.AKQT.5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+P 1H 1S P
+2H P 2S P
+P 3D 3S P
+P P
+[Play "N"]
+H4 H3 HA H7
+S2 S4 S8 S5
+S7 D8 ST SA
+CA C2 C6 C5
+S3 H8 SJ S6
+D5 HT HK H5
+CQ C3 C8 H9
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T985.Q9.8654.QT4 Q63.T72.A9732.95 AK742.A8.QJT.K62 J.KJ6543.K.AJ873 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1H P 2H 2S
+3C P 3H P
+4H P P P
+[Play "S"]
+ST S3 SK SJ
+D6 D2 DQ DK
+C4 C5 C2 CA
+CT C9 C6 C3
+S9 SQ SA H3
+CQ H7 CK C7
+H9 H2 H8 HK
+HQ HT HA H4
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT87.Q9.A752.J92 5.AJT54.KQ3.KT54 Q92.K863.94.AQ63 AJ643.72.JT86.87 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+P 1H P 1S
+P 1N P P
+P
+[Play "N"]
+CJ CK C3 C7
+D2 DQ D9 D6
+D5 DK D4 D8
+DA D3 H6 DT
+C9 CT CQ C8
+S8 S5 SQ SA
+D7 H4 H8 DJ
+H9 HA H3 H2
+HQ H5 HK H7
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q.Q54.AJ762.QT32 AJ.AKT973.K3.AJ7 T9875.J82.Q85.K5 K6432.6.T94.9864 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1H P 1S P
+3N P P P
+[Play "W"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 97.QJ865.Q3.KT84 QJT62.A72.K72.76 AK4.K43.J85.AJ95 853.T9.AT964.Q32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1N P 2D P
+2H P 2S D
+4H P P P
+[Play "W"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT.Q987653.9542.A95432 K.AK85.Q6.8 T2.J976.AKJT83.QJ76 AJ4.QT432.7."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+P 3H 3S 4H
+4S P P P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KT6.A84.32.K8754 A7.Q.AKQ64.AT963 QJ9852.965.J5.J2 43.KJT732.T987.Q "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+P 1D P 1H
+P 3C P 3D
+P 3S P 5D
+P 6D P P
+P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A2.A876.8743.AT3 QJT986.K54.T.J84 7543.2.K952.Q972 K.QJT93.AQJ6.K65 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+2S P 2D P
+3S P 3N P
+P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT4.T6.9542.T865 A75.AKJ53.T63.97 2.842.AK87.AKQJ4 KQ9863.Q97.QJ.32 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1C 2S P 3C
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJT4.J2.2.K98632 Q763.5.QJT9.AQ74 A9.AK763.AK74.JT 852.QT984.8653.5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+P P 1D D
+3D 4D P 4H
+P 4S P 5H
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK.A96432.J.AKQ6 863.KJ.KT632.T83 QJT92.875.84.J74 754.QT.AQ975.952 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1C P 1D P
+2H P 3C P
+4C P 4H P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 654.A843.9873.J4 KJT.Q92.AKJT65.Q AQ97.KT.2.A87653 832.J765.Q4.KT92 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1C P 1H 2D
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K9832.Q6.74.A843 T764.AKT42.3.QJT Q.J875.QJT5.K972 AJ5.93.AK9862.65 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1D P 1H P
+2D P 2N P
+P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKT4.7432.AT87.Q J52.6.K42.AKT643 8763.K985.J9.982 Q9.AQJT.Q653.J75 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1D 2C P 2D
+P 3C P 3N
+P P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT542.AT9.J752.K A3.J86.Q6.AQJ974 J96.Q754.AKT8.65 Q87.K32.943.T832 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1C P P 1S
+P 2D P 2S
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQ9732.4.965.AQ7 4.T83.J873.KT432 JT8.AK62.42.J986 A65.QJ975.AKQT.5 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+P 1H 1S 2H
+2S 4H P P
+P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T985.Q9.8654.QT4 Q63.T72.A9732.95 AK742.A8.QJT.K62 J.KJ6543.K.AJ873 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+P P P 3S
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT87.Q9.A752.J92 5.AJT54.KQ3.KT54 Q92.K863.94.AQ63 AJ643.72.JT86.87 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+P 1H P 1S
+P 2C P 2H
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q.Q54.AJ762.QT32 AJ.AKT973.K3.AJ7 T9875.J82.Q85.K5 K6432.6.T94.9864 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1H P 1S P
+3C P P P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 97.QJ865.Q3.KT84 QJT62.A72.K72.76 AK4.K43.J85.AJ95 853.T9.AT964.Q32 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1N P 2D P
+2H P P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT.Q987653.9542.A95432 K.AK85.Q6.8 T2.J976.AKJT83.QJ76 AJ4.QT432.7."]
+[Declarer "W"]
+[Contract "3"]
+[Result "4"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +250"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+P 2H 2S 3C
+4S 5C D P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KT6.A84.32.K8754 A7.Q.AKQ64.AT963 QJ9852.965.J5.J2 43.KJT732.T987.Q "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+P 1D 1S 3H
+3S 4C P 4D
+P P P
+[Play "S"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A2.A876.8743.AT3 QJT986.K54.T.J84 7543.2.K952.Q972 K.QJT93.AQJ6.K65 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+2S P P D
+P 3C P P
+P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT4.T6.9542.T865 A75.AKJ53.T63.97 2.842.AK87.AKQJ4 KQ9863.Q97.QJ.32 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1C 1S P 2C
+2D 2S 3C 3S
+P P P
+[Play "E"]
+*
+
+
+[Event "2000 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Casen"]
+[North "Sontag"]
+[East "Schwartz"]
+[South "Weichsel"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJT4.J2.2.K98632 Q763.5.QJT9.AQ74 A9.AK763.AK74.JT 852.QT984.8653.5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+P P 1D D
+2D 3S P 4H
+P P P
+[Play "W"]
+*
+
+

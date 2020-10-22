@@ -1,0 +1,672 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q8654.97.A73.A87 A3.KQ82.T6.Q6542 JT72.J4.Q98.KJT9 K9.AT653.KJ542.3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 1D Pass 1H
+1S 2H 3C 3D
+Pass 3H 3S 4H
+Pass Pass Pass
+[Play "E"]
+C7 C2 C9 C3
+S6 S3 SJ SK
+H7 HK H4 H3
+H9 H2 HJ HA
+S4 SA S2 S9
+DA DT D8 D2
+C8 C4 CT H5
+D3 D6 D9 DK
+D7 H8 DQ D4
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K7.K84.AKJ6432.2 JT92.AQT975.9.Q9 865.J63.QT5.KJ83 AQ43.2.87.AT7654 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1H Pass 1S 2D
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+DK D9 DT D8
+DA S2 D5 D7
+SK SJ S5 S3
+C2 C9 CJ CA
+S7 CQ C3 C4
+D2 H5 DQ SA
+H4 HQ H3 H2
+H8 HA H6 C5
+HK H7 HJ SQ
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K.T92.AK987.T982 963.AQ7654.432.3 AJ5.KJ.QJ65.AQJ5 QT8742.83.T.K764 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1C 2S 2N 3S
+X! Pass 4S Pass
+4N Pass 5D Pass
+6D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K.T92.AK987.T982 963.AQ7654.432.3 AJ5.KJ.QJ65.AQJ5 QT8742.83.T.K764 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1C an 16 2H
+an !H Pass 3S
+Pass Pass 3N Pass
+4C Pass 5C Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK94.85.AK96.Q72 QJ65.AQ963.Q.AJ5 87.K2.T8752.T964 T32.JT74.J43.K83 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass 1N 2D Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK94.85.AK96.Q72 QJ65.AQ963.Q.AJ5 87.K2.T8752.T964 T32.JT74.J43.K83 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J862.K2.A8542.A9 A4.QJT7.T73.7643 KQ9.A9543.K6.KJ2 T753.86.QJ9.QT85 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1D Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J862.K2.A8542.A9 A4.QJT7.T73.7643 KQ9.A9543.K6.KJ2 T753.86.QJ9.QT85 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ75.J9.JT753.A7 T64.K8753.2.J543 K9832.984.KT986.Q AQT642.AKQ6.Q2."]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+2H Pass 2S Pass
+3C Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ75.J9.JT753.A7 T64.K8753.2.J543 K9832.984.KT986.Q AQT642.AKQ6.Q2."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+Pass Pass 1H Pass
+3H 3S 4D 4S
+X Pass 5H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T8.AK8.T9853.AK8 AQ53.J954.K72.T7 J7.QT63.AJ6.J943 K9642.72.Q4.Q652 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T8.AK8.T9853.AK8 AQ53.J954.K72.T7 J7.QT63.AJ6.J943 K9642.72.Q4.Q652 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass Pass 1N an
+14 Pass 2C Pass
+2D Pass 2N an
+ga Pass 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 4.AK76.A93.AJT62 JT532.9832.864.7 A76.J4.JT75.KQ83 KQ98.QT5.KQ2.954 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1D 2C Pass 2D
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 4.AK76.A93.AJT62 JT532.9832.864.7 A76.J4.JT75.KQ83 KQ98.QT5.KQ2.954 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1C 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A432.T4.KQJ.Q872 J65.QJ.T95.KJ543 KT87.K92.A8762.6 Q9.A87653.43.AT9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1C Pass 1H 2H
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A432.T4.KQJ.Q872 J65.QJ.T95.KJ543 KT87.K92.A8762.6 Q9.A87653.43.AT9 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1D 2C an we
+X! Pass 2S Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 94.KQ7.Q86.AJ532 K52.AT863.932.T8 A.J54.AJT75.KQ74 QJT8763.92.K4.96 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+2H 3D 4S 5D
+5S Pa Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 94.KQ7.Q86.AJ532 K52.AT863.932.T8 A.J54.AJT75.KQ74 QJT8763.92.K4.96 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+Pass 2D 3S X
+an al 4S X
+an al Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K84.543.97.AT976 AT6532.AQ.KQJ.84 J.JT9872.T6.KJ52 Q97.K6.A85432.Q3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+2H Pass 3H 4S
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K84.543.97.AT976 AT6532.AQ.KQJ.84 J.JT9872.T6.KJ52 Q97.K6.A85432.Q3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass 1D Pass 2C
+Pass 2D Pass 2H
+Pass 2N Pass 3C
+Pass 3S an 6!
+Pass 4C Pass 4D
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T5.KQ.QT95.QJT87 K72.J986.7432.96 AJ943.T532.8.A52 Q86.A74.AKJ6.K43 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1N an 14 Pass
+Pass 2C Pass 2D
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bjornlund"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T9654.QJ9.K5.K98 K32.87653.Q.AQT6 J7.T.AJT9643.743 AQ8.AK42.872.J52 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1H 2D 2H
+an 4! Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+

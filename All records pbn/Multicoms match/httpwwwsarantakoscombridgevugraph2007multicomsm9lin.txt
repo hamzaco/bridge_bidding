@@ -1,0 +1,471 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT7.KJ97.3.JT974 KJ2.A42.QJ96.AQ5 9.Q853.K74.K8632 Q86543.T6.AT852."]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2H X XX
+4H 4S Pass Pass
+Pass
+[Play "S"]
+D3 DQ D4 D2
+SA SK S9 S3
+CJ CA C2 H6
+S7 SJ H3 S4
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 865.T953.AQJ.AJ9 KQ9.Q62.742.6542 A7432.A.KT86.KQ3 JT.KJ874.953.T87 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 1N Pass 2C
+an XX 2H 2S
+Pass 3H an cu
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "None"]
+DA D2 D6 D3
+S5 S9 SA ST
+S6 SQ S2 SJ
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 93.K532.KQJ4.A63 AQJT.A4.972.KT72 K5.JT96.A86.QJ85 87642.Q87.T53.94 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "S"]
+1D Pass 1H Pass
+2H X 2N an
+en Pass 3C Pass
+3D Pass 3H Pass
+Pass Pass
+[Play "E"]
+C3 CK C8 C9
+CA CT C5 C4
+S3 SA S5 S2
+C6 C2 CQ H7
+D4 D2 DA D3
+H2 HA HJ H8
+S9 SQ SK S4
+HK H4 H9 HQ
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K975.KQ432.7.AT6 T6.T.AJT9653.K85 J843.J95.Q2.QJ32 AQ2.A876.K84.974 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "W"]
+3D Pass 3N Pass
+Pass Pass
+[Play "None"]
+HQ HT HJ HA
+D7 D3 D2 DK
+C6 DA DQ D4
+S5 DJ C3 D8
+S7 DT S4 H6
+H2 D9 H5 H7
+H3 D6 S3 C4
+CT D5 H9 C7
+S9 S6 S8 SA
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQT75.74.T4.J962 A86.QJ3.QJ7.T873 J932.AKT92.A98.A 4.865.K6532.KQ54 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "N"]
+1H Pass 1S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+D4 DQ D8 D2
+DT D7 DA D3
+H4 H3 HA H5
+S5 DJ D9 DK
+H7 HJ HK H6
+ST HQ H2 H8
+SQ S6 S2 S4
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T985.5.J975.8762 A64.9872.KQT8.QJ KJ7.QJ4.6432.AT4 Q32.AKT63.A.K953 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "E"]
+1H Pass 3N Pass
+4H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q73.AKT8.K75.J95 K8654.9.J94.KQ82 JT92.743.Q8632.6 A.QJ652.AT.AT743 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -520"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "S"]
+1C Pass 1S 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A6542.KJ5.964.JT Q9.AT643.KT85.63 J73.Q92.QJ7.A972 KT8.87.A32.KQ854 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "W"]
+Pass Pass 1C 1S
+X 2S Pass Pass
+X Pass 3C Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K52.K8542.2.KQ92 AQ874.J3.T87.T63 63.7.AJ9643.A875 JT9.AQT96.KQ5.J4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "N"]
+Pass 1H Pass 1S
+2D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9653.QJ83.6.T653 KQ7.A.AQJ98754.J T842.T972.K3.AQ8 AJ.K654.T2.K9742 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "E"]
+Pass Pass 2D an
+fm Pass 3C Pass
+3D Pass 3N Pass
+6D Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A7.QT8754.K32.84 A932.T87.QJ7532.JT9654 J6.Q5.AK6. KQ832.K.AJ964.T9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "S"]
+Pass Pass 1S Pass
+1N 2C 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQT3.Q98.QJ9.AJ8 J9.A4.A86543.KQT K4.JT6532.K.9653 87652.K7.T72.742 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "W"]
+1D Pass 1S 1N
+Pass 4H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T3.T.QJ32.QJT832 987.KQJ632.K4.76 AQJ52.75.765.AK9 K64.A984.AT98.54 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "N"]
+1S Pass 1N 2H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ5.A42.T83.AJ63 A983.KQJ.K765.K5 QT7642.T876.872. 953.AQJ942.QT94."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "E"]
+5D Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Multicoms match"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gaviard J"]
+[North "Toffier"]
+[East "Chemla"]
+[South "Sussel"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 5.AKJ.AKQJ92.K72 AKQ82.Q82.43.T84 973.6.876.AQJ963 JT64.T97543.T5.5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Toffier"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chemla"]
+[Auction "S"]
+2D an fo 2S
+3C 5S X Pass
+Pass Pass
+[Play "S"]
+*
+
+

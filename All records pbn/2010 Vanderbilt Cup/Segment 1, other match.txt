@@ -1,0 +1,937 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK64.J8.AKT96.K2 Q73.AT6.873.QJ76 T95.KQ752.Q52.T9 J82.943.J4.A8543 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 1N Pass
+2D Pass 2H Pass
+3N Pass Pass Pass
+[Play "W"]
+C2 C6 C9 CA
+CK C7 CT C4
+SA S3 S5 S2
+H8 H6 HK H3
+DA D3 D2 D4
+D6 D8 DQ DJ
+DK D7 D5 S8
+DT HT S9 H9
+D9 CQ ST SJ
+SK S7 H2 H4
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK64.J8.AKT96.K2 Q73.AT6.873.QJ76 T95.KQ752.Q52.T9 J82.943.J4.A8543 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+CK C6 C9 C4
+DA D3 D2 D4
+D6 D7 DQ DJ
+DK D8 D5 S8
+DT H6 H5 S2
+D9 HT H7 H9
+SA S7 S9 SJ
+SK S3 S5 H4
+HJ HA H2 H3
+S4 SQ ST C3
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ4.QT.KT654.A64 963.J742.J.KQ975 K72.K95.Q97.JT32 AT85.A863.A832.8 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "E"]
+1D Pass 1H Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ4.QT.KT654.A64 963.J742.J.KQ975 K72.K95.Q97.JT32 AT85.A863.A832.8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "E"]
+1C 1D X 2D
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J3.Q8654.J987.64 642.K3.54.KQJ987 987.AJT97.AK62.3 AKQT5.2.QT3.AT52 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "S"]
+Pass Pass 1H 1S
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J3.Q8654.J987.64 642.K3.54.KQJ987 987.AJT97.AK62.3 AKQT5.2.QT3.AT52 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "S"]
+Pass Pass 1H 1S
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ86.KQ92.QJ85.8 54.86.KT7643.964 AQT9.T4.A92.KQJ3 732.AJ753.AT752."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "W"]
+Pass 1N an 14
+Pass 3D an 4-
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ86.KQ92.QJ85.8 54.86.KT7643.964 AQT9.T4.A92.KQJ3 732.AJ753.AT752."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT54.KQ98.KQ985.A QJ9853.A762.J6.QJ92 AK2.53.T743.8763 T764.JT4.A2."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "N"]
+Pass Pass 1D an
+0+ 1H X 2H
+4S 5H X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT54.KQ98.KQ985.A QJ9853.A762.J6.QJ92 AK2.53.T743.8763 T764.JT4.A2."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "N"]
+Pass Pass 1C 1H
+X 3H 4S Pass
+Pass 5H Pass Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 6.KJ9642.87.QJ75 AQ832.AQT753.4.K T95.AKT952.AT42.KJ74 8.QJ63.9863."]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "E"]
+Pass 2H an we
+Pa Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 6.KJ9642.87.QJ75 AQ832.AQT753.4.K T95.AKT952.AT42.KJ74 8.QJ63.9863."]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "E"]
+Pass 2D an mu
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ97.KJ7.K9.AJ83 AT643.6.AQ652.52 K8.Q542.T83.9764 52.AT983.J74.KQT "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "S"]
+1N an 14 Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ97.KJ7.K9.AJ83 AT643.6.AQ652.52 K8.Q542.T83.9764 52.AT983.J74.KQT "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "S"]
+1N 2D an 1 
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ42.53.Q4.KQJ42 A53.AJ764.K6.T86 Q987.KQ982.JT.93 T6.T.A987532.A75 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "W"]
+1H Pass 2D Pass
+2H Pass 3D an
+No Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ42.53.Q4.KQJ42 A53.AJ764.K6.T86 Q987.KQ982.JT.93 T6.T.A987532.A75 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "W"]
+1H Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ9.KT54.762.AK5 KQ.AQ86.KT4.7642 87652.J9.AQ.QT98 T43.732.J9853.J3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "N"]
+Pass Pass 1N an
+14 Pass 2C Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ9.KT54.762.AK5 KQ.AQ86.KT4.7642 87652.J9.AQ.QT98 T43.732.J9853.J3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "N"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT9.T94.Q7.Q9653 K2.Q8532.AK42.AK AQ875.KJ6.T863.2 643.A7.J95.JT874 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "E"]
+Pass Pass 1H 1S
+Pass Pass 1N Pass
+2C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT9.T94.Q7.Q9653 K2.Q8532.AK42.AK AQ875.KJ6.T863.2 643.A7.J95.JT874 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "E"]
+Pass Pass 1H 1S
+Pass Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT6.K3.AQ74.9763 9875.Q85.T932.T5 A432.JT764.KJ6.Q KQ.A92.85.AKJ842 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "S"]
+Pass Pass 1H 2C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT6.K3.AQ74.9763 9875.Q85.T932.T5 A432.JT764.KJ6.Q KQ.A92.85.AKJ842 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "S"]
+Pass Pass 1H X
+XX 1S Pass 2C
+Pass Pass 2D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ8653.AQ2.874.J K94.753.JT53.AKQ A7.K986.AK9.9654 T2.JT4.Q62.T8732 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "W"]
+1C Pass 1D 1S
+1N X 2C 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ8653.AQ2.874.J K94.753.JT53.AKQ A7.K986.AK9.9654 T2.JT4.Q62.T8732 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "W"]
+1C an ca Pass
+Pass 1S Pass 2C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT73.4.KJ7.AQT43 AJ54.KQJ93.KJ95.K9862 T5.Q92.872. A8762.AT86543.6."]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 4C an sP
+Pass 4N Pass 5N
+an 2  Pass 6C
+Pass 6H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT73.4.KJ7.AQT43 AJ54.KQJ93.KJ95.K9862 T5.Q92.872. A8762.AT86543.6."]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "N"]
+Pass Pass 1C 1H
+1S 6H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A743.AQ98.AQ85.6 KQT.T6.JT972.T52 J852.742.3.Q9843 96.KJ53.K64.AKJ7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "E"]
+2D 2S 3D 4S
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A743.AQ98.AQ85.6 KQT.T6.JT972.T52 J852.742.3.Q9843 96.KJ53.K64.AKJ7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "E"]
+1N an 14 X
+an ! Pass 2S
+Pass 3D X 4S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 953.T72.KJ9.8764 QT4.QJ4.72.AQT95 J86.K95.Q8543.32 AK72.A863.AT6.KJ "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1N Pass 4N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 953.T72.KJ9.8764 QT4.QJ4.72.AQT95 J86.K95.Q8543.32 AK72.A863.AT6.KJ "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "S"]
+Pass 1C Pass 1N
+an AR  F Pass
+2C Pass 1N Pass
+2C Pass 2S an
+as Pass 2N Pass
+3C Pass 3N an
+5-  b Pass 4C
+Pass 4H an cl
+Pass 6N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "PILON"]
+[North "NYSTROM"]
+[East "ZALESKI"]
+[South "BERTHEAU"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AKT9.A6.K632.976 J.Q952.AJ75.JT32 7652.KJ4.Q98.Q85 Q843.T873.T4.AK4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Di Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski"]
+[Auction "W"]
+Pass Pass Pass 1D
+an 0+ Pass 1S
+Pass 2H an 4 
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+

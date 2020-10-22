@@ -1,0 +1,914 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ3.KQ983.Q.A82 T952.A5.A9743.73 K876.J6.J6.KQJ64 4.T742.KT852.T95 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 3N Pass
+Pass Pass
+[Play "E"]
+DQ D4 D6 DK
+H3 DA DJ D5
+H8 D3 H6 DT
+H9 D9 S6 D2
+HQ HA HJ H2
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ3.KQ983.Q.A82 T952.A5.A9743.73 K876.J6.J6.KQJ64 4.T742.KT852.T95 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "N"]
+1C Pass 2H Pass
+2S Pass 3S Pass
+4S Pass 4N Pass
+5D Pass 5S Pass
+Pass Pass
+[Play "E"]
+DQ DA D6 D5
+S3 D4 DJ DK
+SA S2 S6 S4
+SQ S5 S7 D2
+H3 HA H6 H2
+SJ D3 C4 D8
+H9 H5 HJ H4
+CA C3 CJ C5
+HK S9 SK H7
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ86.Q7.98.J9876 T974.4.JT6.KT432 AJ52.AT93.A74.Q5 3.KJ8652.KQ532.A "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "E"]
+1H Pass Pass 1N
+3D Pass Pass Pass
+[Play "S"]
+SQ S4 SA S3
+D8 D6 DA D2
+D9 DT D4 D3
+H7 H4 H3 HK
+HQ DJ H9 H2
+C6 C2 C5 CA
+C7 C3 D7 DK
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ86.Q7.98.J9876 T974.4.JT6.KT432 AJ52.AT93.A74.Q5 3.KJ8652.KQ532.A "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "E"]
+1H Pass 1S Pass
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 765.9874.83.AK75 J93.AJT.9764.QJ4 AQ8.62.AKQJ.T632 KT42.KQ53.T52.98 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 765.9874.83.AK75 J93.AJT.9764.QJ4 AQ8.62.AKQJ.T632 KT42.KQ53.T52.98 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ87.QT6.T875.97 Q92.K5.K3.AK8642 4.AJ874.AJ64.QJT KT653.932.Q92.53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "W"]
+2C 2H Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ87.QT6.T875.97 Q92.K5.K3.AK8642 4.AJ874.AJ64.QJT KT653.932.Q92.53 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "W"]
+1N Pass 2H Pass
+2S X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 652.J3.KQ95.KQ54 J873.KT9.T73.872 KT9.A874.842.T63 AQ4.Q652.AJ6.AJ9 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -70"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 652.J3.KQ95.KQ54 J873.KT9.T73.872 KT9.A874.842.T63 AQ4.Q652.AJ6.AJ9 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -70"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "N"]
+Pass 1C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A652.QJ53.KQJ8.7 Q73.T42.943.T965 JT984.87.T65.AJ4 K.AK96.A72.KQ832 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass Pa 1S
+Pass Pass 2H Pass
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A652.QJ53.KQJ8.7 Q73.T42.943.T965 JT984.87.T65.AJ4 K.AK96.A72.KQ832 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "E"]
+1C X Pass 1S
+X! Pass 2C 2S
+3C 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T4.AJ93.873.K764 76.T65.QT94.9532 K53.KQ42.J65.QJ8 AQJ982.87.AK2.AT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "S"]
+Pass Pass 1C X
+1D Pass 2H 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T4.AJ93.873.K764 76.T65.QT94.9532 K53.KQ42.J65.QJ8 AQJ982.87.AK2.AT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "S"]
+Pass Pass 1H X
+3H Pass Pass 3S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q8.AJ752.T75.953 K43.T9.AK2.A8742 A9752.KQ64.Q8.JT JT6.83.J9643.KQ6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "W"]
+1N X Pass 2H
+Pass Pass X! Pass
+3C 3H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q8.AJ752.T75.953 K43.T9.AK2.A8742 A9752.KQ64.Q8.JT JT6.83.J9643.KQ6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "W"]
+1N 2C 2D 2H
+3C 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K.Q864.QT743.QJ9 A42.K532.J652.63 J9865.9.K98.A872 QT73.AJT7.A.KT54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "N"]
+1S Pass 1N Pass
+2C Pass 2H Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K.Q864.QT743.QJ9 A42.K532.J652.63 J9865.9.K98.A872 QT73.AJT7.A.KT54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "N"]
+Pass 1C 1D 1H
+1S 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9653.QJ.AJT43.KT 8.T75432.982.753 AJ42.K.KQ.AQ9862 KQT7.A986.765.J4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "E"]
+[Play "W"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9653.QJ.AJT43.KT 8.T75432.982.753 AJ42.K.KQ.AQ9862 KQT7.A986.765.J4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "E"]
+Pass Pass Pass 1C
+X XX 2H 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ7542.QT85.T3.9 KQ9.KJ2.K2.AKQ53 T.A63.Q87654.J62 863.974.AJ9.T874 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "S"]
+Pass 2D Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ7542.QT85.T3.9 KQ9.KJ2.K2.AKQ53 T.A63.Q87654.J62 863.974.AJ9.T874 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "S"]
+2D X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q74.T84.A.AQT764 T653.K62.Q76.J95 AK82.AJ73.52.K83 J9.Q95.KJT9843.2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "W"]
+Pass 1N 3D 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q74.T84.A.AQT764 T653.K62.Q76.J95 AK82.AJ73.52.K83 J9.Q95.KJT9843.2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "W"]
+Pass 1H 3D X!
+4D Pass Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKJ43.Q875.6.873 965.T3.JT542.AJ9 Q8.AKJ9.KQ73.642 T72.642.A98.KQT5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "N"]
+1N Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKJ43.Q875.6.873 965.T3.JT542.AJ9 Q8.AKJ9.KQ73.642 T72.642.A98.KQT5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "N"]
+1H Pass 1S Pass
+1N Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 3.A.KQJ64.KQJ632 AQJT765.J84.2.T5 K82.KQT7652.975. 94.93.AT83.A9874 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "E"]
+Pass 1C 3S 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 3.A.KQJ64.KQJ632 AQJT765.J84.2.T5 K82.KQT7652.975. 94.93.AT83.A9874 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "E"]
+Pass 1C 3S 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT864.AKQ842.T3.K95 A975.7.KJ942.AT8642 K.JT95.76.QJ73 J32.63.AQ85."]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "S"]
+1D X 2S X!
+3C Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT864.AKQ842.T3.K95 A975.7.KJ942.AT8642 K.JT95.76.QJ73 J32.63.AQ85."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "S"]
+1D X 2S X
+3D Pass 4D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Camrose Trophy (1st weekend)"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Anderson"]
+[North "Townsend"]
+[East "Greenwood"]
+[South "Gold"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q852.KT653.Q742.KJ6 J.K53.AK6432.AT743 A872.JT9.T. 9.Q94.A86.QJ9875 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "N Ireland"]
+[Auction "W"]
+[Play "N"]
+*
+
+

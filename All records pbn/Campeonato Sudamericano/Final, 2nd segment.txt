@@ -1,0 +1,454 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K64.AJ97.KJT6.Q2 QJ5.K3.AQ3.AKT97 A873.T852.542.54 T92.Q64.987.J863 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2H X
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+H7 HK H8 H4
+C2 CA C4 C3
+CQ CK C5 C6
+D6 CT D2 CJ
+S4 SJ SA S2
+HA H3 H2 HQ
+H9 D3 HT H6
+HJ S5 H5 D7
+SK SQ S7 S9
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J62.AQJT94.7.K92 A853.52.9654.AQ7 T.63.KQT32.JT854 KQ974.K87.AJ8.63 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "E"]
+1S 2H 3H Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT3.742.Q97.JT65 6.J85.KJ853.K742 AKJ8.AT642.Q983.97542 AKQT963.A."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "S"]
+Pass Pass 1D 4H
+Pass Pass X Pass
+4N X 5C X
+5D X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J32.7532.J875.76 95.KQ64.T2.AKJ93 7.AJ8.KQ943.QT84 AKQT864.T9.A6.52 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "W"]
+1C 1D 1H Pass
+2C Pass 2D Pass
+2H Pass 2S Pass
+3S Pass 4D Pass
+4H Pass 4N Pass
+5C Pass 6S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K96.AKJ74.876.74 T432.T9632.AJ2.K AJ8.Q.T943.J8652 Q75.85.KQ5.AQT93 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "N"]
+Pass 1C 1H X
+Pass 2C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K74.J43.K853.QJT 62.98.JT942.AK72 QT953.AT62.76.94 AJ8.KQ75.AQ.8653 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ7652.4.76.J964 K4.KT87.J98.Q852 A9.A62.KQ432.A73 T83.QJ953.AT5.KT "]
+[Declarer "E"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "S"]
+Pass Pass 1D 1H
+1S 2N Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QT8763.K.JT6.T98 2.Q974.832.AQ643 K9.AJ863.AK754.5 AJ54.T52.Q9.KJ72 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "W"]
+Pass 1H Pass 1N
+Pass 2D Pass 2S
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT86.AT.A7543.J9 KJ752.Q3.QT6.AK3 Q94.KJ986.K9.Q82 3.7542.J82.T7654 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "N"]
+1H Pass 2D Pass
+2H Pass 2S Pass
+2N Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ752.42.85.A432 T.AKQT97.AJ96.85 K83.J86.KQ742.KT Q964.53.T3.QJ976 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "E"]
+Pass Pass 1H Pass
+1S Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J73.KT93.J732.93 KT4.AQJ85.K96.Q2 A92.42.AT8.AKJ54 Q865.76.Q54.T876 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KT2.65.J5.AJ8632 9863.Q842.872.95 J4.AK3.AKQT643.Q AQ75.JT97.9.KT74 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "W"]
+Pass 1D X Pass
+1H 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A642.QJT.632.QJT KQT753.A82.AJT5.98 764.K74.K6543. J.K953.Q98.A9872 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 1N Pass 2D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQJ82.Q.KQT2.983 4.AKT76.J8.JT762 KT963.953.75.Q54 75.J842.A9643.AK "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "E"]
+1D 1S 2H 3S
+4H 4S X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "B. Robles"]
+[North "M.Villasbo"]
+[East "J. Pacareu"]
+[South "G. Chagas"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 93.KQ94.KT83.T92 642.T86.AJ54.KJ5 KT85.532.Q92.A63 AQJ7.AJ7.76.Q874 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chile"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+

@@ -1,0 +1,448 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 974.AJ53.6.KQT73 A832.86.K9742.J9 J65.KQT.AT85.A65 KQT.9742.QJ3.842 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "N"]
+1N Pass 2C Pass
+2D Pass 3C Pass
+3H an al Pass
+3N Pass Pass Pass
+[Play "E"]
+S4 S2 S5 SQ
+S7 S3 S6 SK
+S9 SA SJ ST
+C3 S8 D5 C8
+D6 D9 DA D3
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT73.Q642.KT.K75 J8.AKT.98742.QT4 A942.J9875.3.J63 K65.3.AQJ65.A982 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "E"]
+1D Pass 2D Pass
+Pass X XX 2H
+3D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 6.QJ76.92.A97632 KQ8.AT93.AKQ43.Q J97543.4.65.JT84 AT2.K852.JT87.K5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 3C an al
+Pass 4H Pass 4N
+Pass 5H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 3.AQT73.32.KQT95 QJ9852.J8.AQT.A4 T7.K9654.765.762 AK64.2.KJ984.J83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "W"]
+1S Pass 4H X
+Pass an al Pass
+4N Pass 6S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 5.K62.QT963.A875 AQ7.A97543.K7.J2 T843.Q8.A85.T963 KJ962.JT.J42.KQ4 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 2H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A2.T986.AKQ9753.KQ8653 KQJ92.J.T.97 AT873.KQ42.J6.JT4 654.A753.842."]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "E"]
+Pass 1C 1S 2H
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKQT.KJ6.A954.64 AT4.KJ862.QJ752.7542 Q9732.Q.AT3. J9863.85.T73.K98 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "S"]
+1N 2C an al
+X 2D an al
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 852.T2.QJ9832.J7 76.AK9763.K5.986 43.QJ4.T74.AKQ32 AKQJT9.85.A6.T54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "W"]
+2D an al Pass
+2N an al Pass
+3C an al X
+3S Pass 4D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K6.Q2.AK42.A9862 AQ97.AKT94.J5.KJ J82.J76.Q973.Q43 T543.853.T86.T75 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "N"]
+Pass Pass 1C 1H
+Pass Pass X Pass
+1S Pass 2C 2H
+3C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QJ75432.83.54.AT AT96.7.Q973.KQ65 8.KQJT9.AK6.J872 K.A6542.JT82.943 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "E"]
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKJ9.4.A7653.543 T5.K97.KJT8.KQ87 8.AQT632.Q42.J96 Q76432.J85.9.AT2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ2.Q9.K642.A862 K94.AKJ8.A.QJT73 AT8753.742.J85.K 6.T653.QT973.954 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "W"]
+1C 1S Pass 2C
+2H 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 85.Q64.9743.QT73 AT7.AT953.T.K984 KQ43.J72.AJ86.A6 J962.K8.KQ52.J52 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 987.QJ2.A64.QJ43 4.AK985.KQ853.82 KT65.T74.JT.KT95 AQJ32.63.972.A76 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "E"]
+1S Pass 2H Pass
+2S Pass 3D Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Ewart"]
+[North "Gold"]
+[East "Howe"]
+[South "Sarten"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K9.QJ6.JT53.A984 A65.A983.92.T765 QT87.KT.8764.QJ3 J432.7542.AKQ.K2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+

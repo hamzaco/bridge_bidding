@@ -1,0 +1,442 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT7.QJT8.K7.JT54 J986542.K42.A98.A3 A63.8432.Q732.K 975.AQJT965.K6."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "N"]
+CK C5 C8 C2
+D2 DA D7 H4
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT7.QJT8.K7.JT54 J986542.K42.A98.A3 A63.8432.Q732.K 975.AQJT965.K6."]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "N"]
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 95.KQ5.653.KJT85 K8642.832.Q9.732 AJT7.J94.T4.AQ94 Q3.AT76.AKJ872.6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "E"]
+1D Pass 1S Pass
+2D Pass Pass X
+Pass 3C Pass Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 95.KQ5.653.KJT85 K8642.832.Q9.732 AJT7.J94.T4.AQ94 Q3.AT76.AKJ872.6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "E"]
+1D Pass 1S Pass
+2D Pass Pass X
+XX 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K76.J74.Q6.AK763 QT852.T85.J875.Q 9.Q93.A943.T9842 AJ43.AK62.KT2.J5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "S"]
+1C Pass 1D 1N
+2C 2S 3C 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K76.J74.Q6.AK763 QT852.T85.J875.Q 9.Q93.A943.T9842 AJ43.AK62.KT2.J5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "S"]
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 75.AT5.KJ984.T85 Q432.Q82.T6.AJ43 T86.J743.753.K72 AKJ9.K96.AQ2.Q96 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "W"]
+Pass Pass 1C an
+st Pass 1S Pass
+2N an 18 Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 75.AT5.KJ984.T85 Q432.Q82.T6.AJ43 T86.J743.753.K72 AKJ9.K96.AQ2.Q96 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "W"]
+Pass Pass 2N Pass
+3C Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKQ72.Q9.QT7.975 JT83.AJ854.AKJ.T 95.KT62.86.QJ643 64.73.95432.AK82 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "N"]
+Pass Pass 1S 2H
+Pass Pass X Pass
+2S 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKQ72.Q9.QT7.975 JT83.AJ854.AKJ.T 95.KT62.86.QJ643 64.73.95432.AK82 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "N"]
+Pass Pass 1S 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT3.KQ2.AJ732.AK AK5.A9874.98.Q92 8642.T65.T5.JT85 J97.J3.KQ64.7643 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "E"]
+Pass 1D 1H Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT3.KQ2.AJ732.AK AK5.A9874.98.Q92 8642.T65.T5.JT85 J97.J3.KQ64.7643 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "E"]
+Pass 2N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK6.T42.QT53.KT3 J873.AKQ.AKJ.QJ9 QT9542.7.42.A752 .J98653.9876.864 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "S"]
+1D X 1S Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK6.T42.QT53.KT3 J873.AKQ.AKJ.QJ9 QT9542.7.42.A752 .J98653.9876.864 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "S"]
+1C X 1H an
+as Pass 1S an
+3  X 3S 4H
+Pass Pass 4S Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Greek Islands Festival"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Arlovich"]
+[North "Weingold"]
+[East "Vainikonis"]
+[South "Antoniou"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9.KT74.QJ9763.Q6 AT854.J8.A54.975 J72.A32.K2.AJ832 KQ63.Q965.T8.KT4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Antoniou"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vainikonis"]
+[Auction "W"]
+Pass 1C X 1D
+2S Pass Pass 3D
+Pass Pass 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+

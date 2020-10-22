@@ -1,0 +1,596 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 854.KT2.Q5.QJ953 AJT62.J864.AJ.A6 Q93.AQ93.K32.T72 K7.75.T98764.K84 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2D Pass Pass
+Pass
+[Play "N"]
+DQ DA D2 D4
+C3 CA C2 C4
+C5 C6 C7 CK
+C9 DJ CT C8
+S4 SJ S3 SK
+S8 SA S9 S7
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 854.KT2.Q5.QJ953 AJT62.J864.AJ.A6 Q93.AQ93.K32.T72 K7.75.T98764.K84 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "12"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "N"]
+S8 SJ S3 S7
+S4 S2 S9 SK
+D5 DJ DK D4
+CJ CA C2 C4
+S5 SA SQ C8
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q74.AQ9.A972.J63 932.62.JT63.KQT5 AJ86.KJ7.KQ854.4 KT5.T8543.A9872."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "W"]
+Pass 1D 1H 3N
+Pass Pass Pass
+[Play "W"]
+C3 CK C4 C7
+H9 H6 H7 H8
+DA D3 D4 H3
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q74.AQ9.A972.J63 932.62.JT63.KQT5 AJ86.KJ7.KQ854.4 KT5.T8543.A9872."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "W"]
+Pass 1D 1H 3N
+Pass Pass 4C Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+C3 C5 C4 C2
+HQ H2 H7 HT
+S4 S2 SA S5
+S7 S3 S6 SK
+H9 H6 HJ H8
+SQ S9 S8 ST
+DA D3 D4 C7
+HA CT HK H3
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T54.KT98.A2.J942 K76.Q.J7643.AT76 AQJ9.AJ.Q95.K853 832.765432.KT8.Q "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "N"]
+1N Pass 2C Pass
+2S Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+D2 DJ DQ D8
+H8 HQ HA H2
+S5 SK SJ S3
+DA D3 D5 DK
+ST S6 S9 S2
+S4 S7 SQ S8
+C2 D4 SA H3
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T54.KT98.A2.J942 K76.Q.J7643.AT76 AQJ9.AJ.Q95.K853 832.765432.KT8.Q "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "N"]
+1C Pass 1D Pass
+2N Pass 3C Pass
+3D Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+D2 D7 DQ DT
+H8 HQ HA H2
+HK S6 HJ H4
+ST SK SA S3
+S4 S7 SQ S2
+C2 CA CK CQ
+DA D3 D5 D8
+HT C6 C3 H3
+H9 C7 C5 H5
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ.K6.AQJ732.A86 A87432.QT83.65.7 65.A972.9.KJT953 JT9.J54.KT84.Q42 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "E"]
+Pass 1C 2S 3C
+Pass 3D Pass 3H
+Pass 4C Pass 4H
+Pass 4S Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ.K6.AQJ732.A86 A87432.QT83.65.7 65.A972.9.KJT953 JT9.J54.KT84.Q42 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "E"]
+Pass 1C 2S X!
+3S 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T53.J53.9.AK9642 9742.AT98.K72.85 K6.742.AJ8543.T7 AQJ8.KQ6.QT6.QJ3 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T53.J53.9.AK9642 9742.AT98.K72.85 K6.742.AJ8543.T7 AQJ8.KQ6.QT6.QJ3 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQ532.A7.A2.KT82 K874.Q9532.T4.J7 J6.J.J9763.Q9654 T9.KT864.KQ85.A3 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "W"]
+Pass Pass 1H X!
+4H 4N Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQ532.A7.A2.KT82 K874.Q9532.T4.J7 J6.J.J9763.Q9654 T9.KT864.KQ85.A3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "W"]
+Pass Pass 1H X
+3H Pass Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ975.2.KT.AJ874 432.KT763.85.Q96 J6.AQJ984.962.T2 AT8.5.AQJ743.K53 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "N"]
+1H 2D 2S Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ975.2.KT.AJ874 432.KT763.85.Q96 J6.AQJ984.962.T2 AT8.5.AQJ743.K53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "N"]
+2H 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJT.92.652.T8532 K92.K843.AQ.KJ74 A75.AQT76.T73.Q6 8643.J5.KJ984.A9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "E"]
+Pass Pass 1N Pass
+2C Pass 2H Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJT.92.652.T8532 K92.K843.AQ.KJ74 A75.AQT76.T73.Q6 8643.J5.KJ984.A9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "E"]
+Pass Pass 1N Pass
+2C Pass 2H Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT73.T864.6.QJ73 9842.K952.KQT.K9 AJ5.AJ52.AT8654.K6 AQJ73.98743.2."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "S"]
+Pass Pass 2C 2H
+5C X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT73.T864.6.QJ73 9842.K952.KQT.K9 AJ5.AJ52.AT8654.K6 AQJ73.98743.2."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "S"]
+Pass 1S 2C 2H
+3C 3H 3S 4C
+5C Pass Pass 5H
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "D DE ROOS"]
+[North "IVANOV"]
+[East "VERMEIREN"]
+[South "BARANTIEV"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T7653.KT94.J6.63 A.A8.AKT4.AKQ842 KJ984.75.9873.J7 Q2.QJ632.Q52.T95 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Chateau Rossenovo"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -520"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BARRACUDA"]
+[Auction "W"]
+2D Pass 2S Pass
+3C Pass 3H Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+

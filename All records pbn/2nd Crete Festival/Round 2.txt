@@ -1,0 +1,471 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.AQ543.J73.AKQJ K85432.K.A95.852 QJT9.986.Q862.43 A6.JT72.KT4.T976 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "N"]
+Pass Pass 1H 1S
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+CQ C5 C3 C9
+HA HK H6 H2
+CK C8 C4 C6
+CA C2 D2 C7
+CJ S2 D6 CT
+D3 DA D8 D4
+D7 D9 DQ DK
+HQ S3 H8 HJ
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.AQ543.J73.AKQJ K85432.K.A95.852 QJT9.986.Q862.43 A6.JT72.KT4.T976 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "N"]
+Pass Pass 1H 1S
+Pass 1N 2C 2S
+Pass Pass Pass
+[Play "N"]
+HA HK H8 H2
+CA C5 C3 C6
+CK C8 C4 C7
+CQ C2 H6 C9
+CJ S2 S9 CT
+S7 S3 SQ SA
+HQ S4 H9 HJ
+H4 SK ST S6
+D3 D5 D6 DK
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKT752.7.987642.64 A2.AJT3.KT762.J8 854.Q5.AJ9854. Q93.KQJT963.K.Q3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "E"]
+1H 1S X Pass
+2H 4D 4H Pass
+Pass Pass
+[Play "S"]
+SA S4 SJ S3
+D9 DT DQ DK
+D2 CK CA C3
+C4 CQ H7 C2
+D8 D3 D5 H3
+S5 H2 H4 HK
+SK S6 S8 SQ
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKT752.7.987642.64 A2.AJT3.KT762.J8 854.Q5.AJ9854. Q93.KQJT963.K.Q3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "E"]
+1H 2S X Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKT98.A82.K8.Q53 54.K97543.J65.K4 QJ2.QT972.AJT87.763 QJT6.A43.962."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "S"]
+1S Pass 2C Pass
+2N Pass 3S Pass
+4C Pass 4H Pass
+4N Pass 5D Pass
+5H X 6C Pass
+6S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKT98.A82.K8.Q53 54.K97543.J65.K4 QJ2.QT972.AJT87.763 QJT6.A43.962."]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "S"]
+1N Pass 2S Pass
+2N Pass 3H X
+XX Pass 4D Pass
+4S Pass 5C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 5.AT742.QT8.A972 T3.Q863.K74.KJ63 AKQ9764.J5.A63.5 J82.K9.J952.QT84 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 2C Pass 2D
+Pass 3S Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 5.AT742.QT8.A972 T3.Q863.K74.KJ63 AKQ9764.J5.A63.5 J82.K9.J952.QT84 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "W"]
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQT74.85.J3.AKJ8 9532.T3.AT7542.4 86.KQJ6.K96.QT62 AJ.A9742.Q8.9753 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "N"]
+1C 1H 1S Pass
+1N Pass 2H Pass
+2N Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQT74.85.J3.AKJ8 9532.T3.AT7542.4 86.KQJ6.K96.QT62 AJ.A9742.Q8.9753 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "N"]
+Pass 1H 1S Pass
+1N Pass 2C 2D
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT987.J4.9763.84 K654.K9763.T42.6 2.A85.8.AQJT9732 QJ3.QT2.AKQJ5.K5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "E"]
+1D 1S X 2C
+2N Pass 3D 4C
+4D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT987.J4.9763.84 K654.K9763.T42.6 2.A85.8.AQJT9732 QJ3.QT2.AKQJ5.K5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "E"]
+1D Pass 1H 4C
+X Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKT5.3.T.AKQT873 97643.KJ764.J76.82 A852.K9854.J5. QJ.QT9.AQ32.9642 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "S"]
+1C Pass 1H Pass
+2S Pass 2N Pass
+4C Pass 4S Pass
+5C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKT5.3.T.AKQT873 97643.KJ764.J76.82 A852.K9854.J5. QJ.QT9.AQ32.9642 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "S"]
+1C 2D X 3H
+3S Pass 3N Pass
+4H X XX Pass
+6C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2nd Crete Festival"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "LAGOURANIS"]
+[North "DARA"]
+[East "PANOPULUS"]
+[South "CUPER"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJ543.AKT62.754.K72 QJ7.Q9.T8764.T6 843.K863.QJ92. A98.95.AJT2.AK53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CUPER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PANOPULOS"]
+[Auction "W"]
+Pass Pass 1N 2C
+an !h 2N 3H
+Pass Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+

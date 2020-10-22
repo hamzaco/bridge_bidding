@@ -1,0 +1,463 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT95.A4.A74.Q863 A3.KJ9.Q986.KT74 J86.T832.JT5.J52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+P 1C P 2C
+P 2N P 3N
+P P P
+[Play "S"]
+ST S3 S6 S2
+S5 SA S8 S4
+HA HK H3 H5
+S9 C4 SJ SK
+D4 DQ D5 D3
+H4 HJ H2 H6
+C3 H9 HT HQ
+SQ D6 C2 S7
+C6 C7 C5 CA
+C8 CK CJ C9
+CQ CT H8 H7
+DA D8 DT D2
+D7 D9 DJ DK
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT95.A4.A74.Q863 A3.KJ9.Q986.KT74 J86.T832.JT5.J52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+P 1H D R
+1S P P 2S
+D 2N P 3H
+P 3N P P
+P
+[Play "S"]
+ST S3 S6 S2
+S5 SA S8 S4
+DA D9 DT DK
+SQ C4 SJ SK
+H4 HK H2 H5
+HA HJ H3 H6
+S9 C7 C5 S7
+D4 D8 DJ D2
+C3 H9 HT HQ
+D7 DQ D5 D3
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ65.J6.Q752.J94 T73.87.T864.KT62 AK9.AQT95.A93.83 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+1C P 1D 1H
+P P D R
+2C P P D
+P 2D P P
+P
+[Play "W"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ65.J6.Q752.J94 T73.87.T864.KT62 AK9.AQT95.A93.83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+1C P P D
+P 1D 2C 2H
+P 3C D 3H
+P P P
+[Play "E"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 653.87.AK43.AQ83 Q94.Q64.J62.KJT2 JT8.AKT3.Q85.965 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+1C P 1H P
+1N P P P
+[Play "W"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 653.87.AK43.AQ83 Q94.Q64.J62.KJT2 JT8.AKT3.Q85.965 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+1N P 2C P
+2D P 2N P
+P P
+[Play "W"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT832.T62.75.985 764.AJ53.KT3.J73 KJ9.KQ9.QJ9862.2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "W"]
+P 1D D P
+1N P 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT832.T62.75.985 764.AJ53.KT3.J73 KJ9.KQ9.QJ9862.2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "W"]
+P 1D 3N P
+P P
+[Play "S"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ964.J.J.QJ8743 T3.732.T8654.T62 KQ5.T964.AQ973.A "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+1D 1H 1S P
+2S P 4S P
+P P
+[Play "W"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ964.J.J.QJ8743 T3.732.T8654.T62 KQ5.T964.AQ973.A "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "N"]
+1D 1H 1S P
+3S P 4S P
+P P
+[Play "W"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ843.KT.9643.87 JT52.A96.T8.AJ62 6.J752.KQ5.KT954 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+1C 1S 1N P
+P 2D P P
+P
+[Play "W"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ843.KT.9643.87 JT52.A96.T8.AJ62 6.J752.KQ5.KT954 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "E"]
+1D 1S 1N P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 6.A87543.J98642.8542 K2.AQJ93.75.QJ973 J9.864.AT3."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+3H P P 3N
+P P P
+[Play "S"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 6.A87543.J98642.8542 K2.AQJ93.75.QJ973 J9.864.AT3."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "S"]
+2H P 2N D
+3C 4S D P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kolomeev"]
+[North "Leufkens"]
+[East "Zlotov"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A974.KT75.742.62 KJT5.Q.KQ9.KJ954 832.J862.JT5.AQT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Russia"]
+[Auction "W"]
+2C P 2D P
+2S P 3C P
+3D P 3H P
+3N P P P
+[Play "N"]
+*
+
+

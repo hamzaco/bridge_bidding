@@ -1,0 +1,916 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT32.J8.Q9876.72 AQ74.943.AJT2.AJ 85.T752.K54.K543 K96.AKQ6.3.QT986 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2C Pass 3N
+Pass Pass Pass
+[Play "N"]
+DQ DA D4 D3
+C2 CA C3 C6
+C7 CJ C4 CQ
+S2 D2 CK C8
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT32.J8.Q9876.72 AQ74.943.AJT2.AJ 85.T752.K54.K543 K96.AKQ6.3.QT986 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass 2C Pass 2D
+Pass 2H Pass 2S
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K5.KJT9832.975.4 AJT32.A5.A83.985 Q9864.KQT4.KQ76.7 Q764.J62.AJT32."]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass 3H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K5.KJT9832.975.4 AJT32.A5.A83.985 Q9864.KQT4.KQ76.7 Q764.J62.AJT32."]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass 3H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 92.Q842.K642.QJ9 T843.KJ765.T75.K AJ65.T9.QJ8.T532 KQ7.A3.A93.A8764 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D Pass 1N
+Pass 2C Pass 2D
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 92.Q842.K642.QJ9 T843.KJ765.T75.K AJ65.T9.QJ8.T532 KQ7.A3.A93.A8764 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 2C an st
+Pass 2D Pass 2H
+an 4! Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q54.A42.AQ97.J82 KJT83.KT976.JT8.62 QJ.6543.AQ953. A97.853.K2.KT764 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+Pass Pass Pass 1D
+2H 3D 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q54.A42.AQ97.J82 KJT83.KT976.JT8.62 QJ.6543.AQ953. A97.853.K2.KT764 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+Pass Pass Pass 1D
+an al 2D an
+5  Pass 2S Pass
+Pass X Pass 3D
+Pass Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K43.K74.QJ432.Q8 2.QT93.98765.K63 AJT7.J862.AJ954.Q9865 A5.AKT.T72."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1C 1S 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K43.K74.QJ432.Q8 2.QT93.98765.K63 AJT7.J862.AJ954.Q9865 A5.AKT.T72."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+2C an al 2S
+X an al Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K2.AQ86.A86.QJT2 QT6.K542.74.K973 J4.T93.KJT32.864 A98753.J7.Q95.A5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1S X 2S Pass
+Pass X Pass 3D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K2.AQ86.A86.QJT2 QT6.K542.74.K973 J4.T93.KJT32.864 A98753.J7.Q95.A5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1S X 2H an
+go 3D an al
+3S 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K9.T8643.82.Q872 AJ84.KQ.AJ974.43 T7532.A9.KQT6.K5 Q6.J752.53.AJT96 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 1D 1S X
+Pass 2N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K9.T8643.82.Q872 AJ84.KQ.AJ974.43 T7532.A9.KQT6.K5 Q6.J752.53.AJT96 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 1D 1S X!
+XX an 2! 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ3.A874.8.87543 A5.KQ532.AJ76.T2 J742.T9.K42.AQ96 T986.J6.QT953.KJ "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ3.A874.8.87543 A5.KQ532.AJ76.T2 J742.T9.K42.AQ96 T986.J6.QT953.KJ "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A85.87.J8643.T72 QJ32.KJT5.52.J63 KT6.432.AT7.AQ94 974.AQ96.KQ9.K85 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1C X Pass 1S
+Pass Pass 2C 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A85.87.J8643.T72 QJ32.KJT5.52.J63 KT6.432.AT7.AQ94 974.AQ96.KQ9.K85 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1D X Pass 1S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 95.54.K842.AT865 AKQJ72.J8.QJ97.J 863.AKT96.A63.Q9 T4.Q732.T5.K7432 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass Pass 1S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 95.54.K842.AT865 AKQJ72.J8.QJ97.J 863.AKT96.A63.Q9 T4.Q732.T5.K7432 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass Pass 1S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT94.AK.T842.AJ3 K865.QT7643.J.Q2 2.985.AKQ3.KT754 QJ73.J2.9765.986 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1N 2H 3S Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT94.AK.T842.AJ3 K865.QT7643.J.Q2 2.985.AKQ3.KT754 QJ73.J2.9765.986 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1C an Pa 2H
+an we 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJ9.T843.K.KQJ85 T86.QJ52.J6.T732 AQ743.6.AQ32.964 52.AK97.T98754.A "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2D Pass 2S
+Pass 3C Pass 3S
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJ9.T843.K.KQJ85 T86.QJ52.J6.T732 AQ743.6.AQ32.964 52.AK97.T98754.A "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+Pass 1S 2D 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q65.T543.QT852.2 J3.AQ6.76.KQT763 AKT972.K87.AK4.8 84.J92.J93.AJ954 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1S Pass 2S 3C
+4C Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q65.T543.QT852.2 J3.AQ6.76.KQT763 AKT972.K87.AK4.8 84.J92.J93.AJ954 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1C an Pa Pass
+1D 2C X! 3C
+3D Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 6.A4.QT9852.7654 AKJ53.JT76.AKQ8.T98742 K5.J4.T92.Q Q9832.AK763.J3."]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1H 3D 5D Pass
+5H Pass 5N Pass
+6D Pass 6H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 6.A4.QT9852.7654 AKJ53.JT76.AKQ8.T98742 K5.J4.T92.Q Q9832.AK763.J3."]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1H 3D an we
+5D an ex Pass
+5S Pass 6H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQ843.84.J432.75 QJ73.KQT9.K9843.JT7 KT96.765.Q62. A9652.A52.A8.AJT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2C Pass 2D
+Pass 2N Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQ843.84.J432.75 QJ73.KQT9.K9843.JT7 KT96.765.Q62. A9652.A52.A8.AJT "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 2C Pass 2D
+Pass 2H Pass 2S
+Pass 2N an 5!
+Pass 3C Pass 3D
+an 0- Pass 6C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Bjornlund"]
+[North "Ramondt"]
+[East "Ahlesved"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AJ3.843.QJT543.A 62.KJ9752.A.KJT6 KQT874.QT.976.72 95.A6.K82.Q98543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1H 2S X 4S
+X Pass Pass Pass
+[Play "E"]
+*
+
+

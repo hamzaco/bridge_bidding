@@ -1,0 +1,928 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ752.J3.T52.Q43 986.8752.Q83.986 AT3.A9.AJ964.AK7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "N"]
+1C 1H Pass Pass
+1N Pass 2C 2H
+3N Pass Pass Pass
+[Play "E"]
+H3 H7 HA HQ
+HJ H5 H9 HK
+C3 H2 D4 HT
+D2 H8 D6 H4
+CQ C9 C7 C5
+S2 S6 ST SK
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ752.J3.T52.Q43 986.8752.Q83.986 AT3.A9.AJ964.AK7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "N"]
+1C 1H Pass Pass
+2D Pass 2S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J.942.AKQ62.AKJT T752.A76.J94.532 K963.KT.T73.Q876 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1S Pass 1N
+Pass 2C Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J.942.AKQ62.AKJT T752.A76.J94.532 K963.KT.T73.Q876 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ862.743.J.AJ5 JT9.Q.T8742.K762 7.KT8652.AQ3.T93 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "S"]
+1S Pass 2D Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ862.743.J.AJ5 JT9.Q.T8742.K762 7.KT8652.AQ3.T93 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "S"]
+1S Pass 2H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 7.KJT43.A2.AKQT8 JT85.62.KT8.7432 KQ92.A875.QJ753."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "W"]
+Pass 1D Pass 1N
+Pass 2D Pass 2H
+Pass 2S Pass 2N
+Pass 3D Pass 3S
+Pass 3N Pass 4C
+Pass 4H Pass 6H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 7.KJT43.A2.AKQT8 JT85.62.KT8.7432 KQ92.A875.QJ753."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 2H Pass 4N
+Pass 5C Pass 5D
+Pass 5H Pass 6H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9632.9.AQT42.KJ9 KJT5.A873.86.A65 A7.KT42.KJ3.T732 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "N"]
+1C Pass 1H Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9632.9.AQT42.KJ9 KJT5.A873.86.A65 A7.KT42.KJ3.T732 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "N"]
+Pass Pass 1D X
+XX 1H Pass Pass
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ876.32.KJT952.J3 AKQJT75.A76.Q.K942 6.T9843.A63."]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "E"]
+Pass Pass 4C Pass
+4H 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ876.32.KJT952.J3 AKQJT75.A76.Q.K942 6.T9843.A63."]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "E"]
+Pass 2C 4H Pass
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJT863.A764.K64.A9 AK8542.KQ9.A5.752 J976.T.Q9832."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "S"]
+1S X 2H Pass
+2S 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJT863.A764.K64.A9 AK8542.KQ9.A5.752 J976.T.Q9832."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "S"]
+1S X 2S Pass
+4S X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ92.T9.T6.AK752 K54.KJ73.AQ.9864 QT6.A8642.82.JT3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 2D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ92.T9.T6.AK752 K54.KJ73.AQ.9864 QT6.A8642.82.JT3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "W"]
+1C Pass 2D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K98.2.AK865.KJ72 J75.7643.QJ.QT43 AQT643.KQJ85.72."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "N"]
+1S Pass 2C Pass
+2N Pass 3C Pass
+4D Pass 4N Pass
+5D Pass 6S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K98.2.AK865.KJ72 J75.7643.QJ.QT43 AQT643.KQJ85.72."]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "N"]
+1S Pass 2D Pass
+2H Pass 3S Pass
+5C Pass 5S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK98.T4.94.KJ984 2.J97.KJ876.Q532 T64.AKQ862.AQ5.6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "E"]
+Pass 2C Pass 2D
+Pass 2H Pass 2S
+Pass 3C Pass 3D
+Pass 3H Pass 4D
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK98.T4.94.KJ984 2.J97.KJ876.Q532 T64.AKQ862.AQ5.6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "E"]
+Pass 2C Pass 2D
+Pass 2S Pass 2N
+Pass 3N Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 53.KT962.62.AKJ4 AK84.873.KT43.62 T962.QJ54.Q95.93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "S"]
+1H Pass 3H X
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 53.KT962.62.AKJ4 AK84.873.KT43.62 T962.QJ54.Q95.93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "S"]
+1H Pass 2H X
+3H 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A93.8.AKJ87.A753 KJT.AQT9653.Q2.9 Q864.KJ4.T9654.Q "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "W"]
+4H Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A93.8.AKJ87.A753 KJT.AQT9653.Q2.9 Q864.KJ4.T9654.Q "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "W"]
+1H Pass Pass X
+2H 2S Pass 3D
+Pass 3H Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT.K743.97.J9872 J982.AQJT82.QJ.A K763.AT642.KQT4."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 1N 2H
+2N 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT.K743.97.J9872 J982.AQJT82.QJ.A K763.AT642.KQT4."]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "N"]
+1D Pass 1H 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQ42.9.JT6.KT42 AJ8542.AQ83.Q75. J875.T3.9542.J93 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "E"]
+1C 1S 2H 3S
+4H 4S 6H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQ42.9.JT6.KT42 AJ8542.AQ83.Q75. J875.T3.9542.J93 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "E"]
+1C 1S 2D 3S
+4H 4S 5D Pass
+6H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J9743.QT5.86432.Q6 AK9763.AKT7.K. K82.J2.J5.AJ9743 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "S"]
+Pass 1H Pass 1N
+Pass 3D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J9743.QT5.86432.Q6 AK9763.AKT7.K. K82.J2.J5.AJ9743 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "S"]
+Pass 1C Pass 2C
+Pass 2H Pass 3C
+Pass 3D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2001 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16,BOARD 16"]
+[West "Sam Lev"]
+[North "B. Fallenius"]
+[East "John Mohan"]
+[South "M. Lindkvist"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 9754.Q72.T75.873 QJT2.J94.A9863.K 863.865.Q2.A9542 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "e-bridge"]
+[Auction "W"]
+Pass Pass 2N Pass
+3C Pass 3D Pass
+3H Pass 3N Pass
+4D Pass 4H Pass
+4N Pass 5D Pass
+6D Pass Pass Pass
+[Play "S"]
+*
+
+

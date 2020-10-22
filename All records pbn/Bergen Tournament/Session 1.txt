@@ -1,0 +1,758 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J95.AT94.AQT6.92 AKQ8.Q862.9.Q876 7.KJ.KJ75432.AK5 T6432.753.8.JT43 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D Pass 1H X
+2D 3S 4D 4S
+5D Pass Pass Pass
+[Play "None"]
+C2 C6 CA CJ
+DA D9 D2 D8
+H4 H2 HK H3
+HA H6 HJ H5
+HT H8 S7 H7
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT7.A84.Q9853.86 Q863.JT5.64.AK97 AK9.Q9732.JT2.52 542.K6.AK7.QJT43 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1S Pass
+1N Pass Pass X
+Pass 2D 3C Pass
+Pass Pass
+[Play "N"]
+C8 CA C5 C3
+HA H5 H2 HK
+C6 C7 C2 C4
+D3 D4 D2 DA
+D5 D6 DT DK
+D8 CK DJ D7
+H8 HT HQ H6
+S7 S3 SK S2
+ST S6 SA S4
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A5.3.AQJ965.A963 J94.KJ92.T843.KJ K32.T876.K7.8752 QT876.AQ54.2.QT4 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1H 1S
+2D Pass Pass Pass
+[Play "None"]
+SA S4 S2 S6
+D5 D3 DK D2
+DA D8 D7 S7
+DQ D4 H6 H4
+DJ DT H7 H5
+CA CJ C2 C4
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQJ64.KJ8742.J2.A85 63.Q964.9862.T32 Q95.875.Q543. 97.AT.AKT3.AKJT7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+3C Pass 3N 4H
+Pass Pass 5C Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+SK SA S2 S7
+C5 C7 H7 C9
+H2 C2 C3 CT
+CA H4 C6 C4
+S6 C8 CQ CK
+H8 H3 H5 HA
+DQ D5 D3 D2
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ9875.8763.A6.2 43.K542.2.KJ9876 AQT.JT.KQJ4.QT53 62.AQ9.T98753.A4 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass 4D Pass
+4S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A75.74.86.AKT642 AK93.AKT42.J953.KQT42 QT5.Q953.8. J9863.J862.J7.Q7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 1D 1S
+Pass 2S X XX
+3H Pass Pass 3S
+Pass Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 94.AQT8654.3.Q64 T876.3.Q8652.A82 KQ.KJ72.AKJT7.K3 AJ532.9.94.JT975 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+3H Pass 4H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A9.Q653.K953.985 T54.A97.J64.KJ63 K862.84.Q872.QT2 QJ73.KJT2.AT.A74 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1N Pass
+2N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 5.AK754.Q2.Q9853 AKJ92.Q2.KT953.4 T8764.986.A76.JT Q3.JT3.J84.AK762 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C 1H 1S
+2H Pass 3H X
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT872.KT7.96.972 AQ63.AQ8.A3.KT84 5.J5.QJT875.AQ63 K94.96432.K42.J5 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C 1D
+1H Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ.KQT954.KQ5.62 76532.2.A86.JT43 AT.AJ83.432.AQ85 Q984.76.JT97.K97 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H Pass 2N Pass
+3D Pass 3H Pass
+3N Pass 4C Pass
+4D Pass 4S Pass
+4N Pass 5C Pass
+6H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 975.QT97.AT3.T94 AJT.K32.Q8.AJ852 K8632.AJ4.9652.7 Q4.865.KJ74.KQ63 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N 2S 3N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 987.J54.A842.J75 J4.K632.KT6.T964 AKT2.Q987.Q95.Q8 Q653.AT.J73.AK32 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D Pass 1N Pass
+Pass X 2D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 863.AT32.A73.763 QJ2.J95.82.JT984 T.KQ8764.KJ94.KQ AK9754.QT65.A52."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 2S 3H
+4S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A87.Q7.KT76.T943 KQT4.A53.AJ84.A5 J632.T2.Q95.KJ82 95.KJ9864.32.Q76 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2N Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 93.QJ5.AKQ.A8763 85.KT743.T965.K2 AKQT.986.83.QJ94 J7642.A2.J742.T5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 1N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J632.K4.J95.Q642 94.J98.KT43.KT93 Q87.AT7653.72.AJ AKT5.Q2.AQ86.875 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H X 1S Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J8.QT6.KT973.J72 A73.K942.85.KT53 KQT962.A87.AQ62. 54.J53.J4.AQ9864 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 1N Pass 2S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ652.7.J982.K74 8.K964.AT63.J832 A97.QJT5.KQ5.AQ9 KT43.A832.74.T65 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1C an
+2+ Pass 1S Pass
+2N Pass 3S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ8.T8.Q854.AKJ7 3.KQJ732.K9.9432 AJT954.6.JT762.5 762.A954.A3.QT86 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2H Pass 4H Pass
+Pass 4S Pass Pass
+5H Pass Pass X
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q975.AKT.T43.Q76 QJ854.K9865.K42.AJT832 962.J853..K64 73.AQJ72.AT9."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2S 2N Pass 3D
+Pass 3H 3S 4D
+Pass 5D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 7654.Q874.QT54.J K2.A65.A96.AK864 AJT.KJ.K872.Q752 Q983.T932.J3.T93 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 2N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 7.AJT82.QJ74.T97 Q85.KQ76.982.KQ6 KJT3.53.AT3.J842 A9642.94.K65.A53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 1S
+X XX 1N 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJT6.953.K.KQ953 A5.KT84.J8642.J7 832.AJ76.Q7.8642 Q974.Q2.AT953.AT "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1D X
+XX 1H 1S Pass
+1N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Engebretse"]
+[North "Lerbrekk"]
+[East "Hartvigsen"]
+[South "Ueland"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A53.865432.JT54.JT9742 AJ.AQ9.K4.KQ6 T97.873.QT82. 8.KQ.K62.AJ97653 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,71 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Moss"]
+[North "Drijver"]
+[East "Gitelman"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQT98.T2.Q43.987 J43.Q7.J85.AKT54 K72.A865.KT96.J2 65.KJ943.A72.Q63 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Brink Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gitelman moss"]
+[Auction "S"]
+Pass Pass 1C Pass
+1S Pass Pass X
+2S Pass Pass Pass
+[Play "W"]
+H2 HQ HA H3
+C9 CT C2 C6
+HT H7 H8 HK
+ST SJ H5 H9
+S8 S3 S2 S6
+C8 CK CJ C3
+S9 S4 S7 S5
+C7 C4 SK CQ
+DQ D5 D6 D7
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Moss"]
+[North "Drijver"]
+[East "Gitelman"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T8.8.KJT42.AQT94 AQJ9543.KQ542.J.62 AJ96.A83.K753.K7 T73.Q9765.862."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Brink Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gitelman moss"]
+[Auction "W"]
+1S X Pass 2S
+4S X Pass 4N
+Pass 5C Pass Pass
+Pass
+[Play "None"]
+*
+
+

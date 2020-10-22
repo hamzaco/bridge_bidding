@@ -1,0 +1,755 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K6.954.J932.8752 Q432.3.KT84.KJT6 A9.AQ872.A765.Q4 JT875.KJT6.Q.A93 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "S"]
+Pass Pass 1H 1S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+H4 H3 HA H6
+S6 S2 SA S5
+SK S3 S9 S7
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J98.QT94.932.732 QT432.A2.AT7.QJ5 765.65.QJ4.AKT94 AK.KJ873.K865.86 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "W"]
+1S Pass 2H Pass
+2N Pass 3D Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J98.QT94.932.732 QT432.A2.AT7.QJ5 765.65.QJ4.AKT94 AK.KJ873.K865.86 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "W"]
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT76.A9532.8.A43 Q.T84.KQT2.KJT85 K532.KQJ7.743.Q7 J984.6.AJ965.962 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "N"]
+Pass Pass 1H 2C
+3C 3D 4H 5D
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT76.A9532.8.A43 Q.T84.KQT2.KJT85 K532.KQJ7.743.Q7 J984.6.AJ965.962 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "N"]
+Pass Pass 1H 2C
+3C 3D 4H 5D
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 762.QT.KQ9.KJ985 K95.9862.8753.43 AQ843.KJ43.T6.76 JT.A75.AJ42.AQT2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "E"]
+1N Pass Pass 2D
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 762.QT.KQ9.KJ985 K95.9862.8753.43 AQ843.KJ43.T6.76 JT.A75.AJ42.AQT2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "E"]
+1N Pass Pass X!
+Pass 2C Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ753.T5.A65.J92 T9.A863.KJ732.KT A84.J974.4.A7653 K62.KQ2.QT98.Q84 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "S"]
+Pass 1D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ753.T5.A65.J92 T9.A863.KJ732.KT A84.J974.4.A7653 K62.KQ2.QT98.Q84 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "S"]
+Pass 1D X XX
+2S Pass Pass 2N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 954.QT.K8.Q98532 AJ87.64.T92.AKJ4 K6.AK93.QJ754.T7 QT32.J8752.A63.6 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "W"]
+1C 1D 1H Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 954.QT.K8.Q98532 AJ87.64.T92.AKJ4 K6.AK93.QJ754.T7 QT32.J8752.A63.6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "W"]
+1C 1D 1H Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9842.K5.T97.AQ52 K763.AJT976.Q.K3 Q.Q32.AK43.JT874 AJT5.84.J8652.96 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "N"]
+1D Pass 1S 2H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9842.K5.T97.AQ52 K763.AJT976.Q.K3 Q.Q32.AK43.JT874 AJT5.84.J8652.96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "N"]
+1C Pass 1S 2H
+Pa Pass 3C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJT.AQJ8743.86.4 Q6.K5.QJT93.T932 942.T9.K742.A876 A8753.62.A5.KQJ5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "E"]
+1S 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJT.AQJ8743.86.4 Q6.K5.QJT93.T932 942.T9.K742.A876 A8753.62.A5.KQJ5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "E"]
+1S 2H X Pass
+3C 3H Pass Pass
+4C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T94.KJ843.J43.A2 AQ86.62.KQT62.K3 KJ32.AQT7.7.9765 75.95.A985.QJT84 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "S"]
+1H X 2N 3C
+Pass Pass 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T94.KJ843.J43.A2 AQ86.62.KQT62.K3 KJ32.AQT7.7.9765 75.95.A985.QJT84 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "S"]
+Pass 1D X 3D
+3H 4D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ6.T53.AK982.J2 A943.J874.T3.A76 T875.Q.QJ6.QT543 J2.AK962.754.K98 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "W"]
+Pass Pass 1H Pass
+2C Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ6.T53.AK982.J2 A943.J874.T3.A76 T875.Q.QJ6.QT543 J2.AK962.754.K98 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "W"]
+Pass Pass 2H Pass
+2N Pass 3C Pass
+3H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q5.KJ4.AKJ96.A65 KJ763.AQT2.75.84 AT94.9753.Q4.QT7 82.86.T832.KJ932 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q5.KJ4.AKJ96.A65 KJ763.AQT2.75.84 AT94.9753.Q4.QT7 82.86.T832.KJ932 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "N"]
+Pass Pass 1D 1S
+X Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 63.T83.QT842.J65 KT97.92.A6.A9432 AQJ2.QJ5.K95.KT7 854.AK764.J73.Q8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "E"]
+Pass Pass 1C 1N
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 63.T83.QT842.J65 KT97.92.A6.A9432 AQJ2.QJ5.K95.KT7 854.AK764.J73.Q8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "E"]
+Pass 2C 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT8632.J3.K9.AK4 7.AT986.A65.7652 Q4.7542.QJT87.QJ AJ95.KQ.432.T983 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "S"]
+1S Pass 1N Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT8632.J3.K9.AK4 7.AT986.A65.7652 Q4.7542.QJT87.QJ AJ95.KQ.432.T983 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "S"]
+1S Pass 1N Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Sadek"]
+[North "Landen"]
+[East "Elahmady"]
+[South "Pratap"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q84.KQ63.QT82.75 T752.J75.K43.AJ6 AJ3.AT42.AJ.Q432 K96.98.9765.KT98 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lynch (npc)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schneider"]
+[Auction "W"]
+Pass 1N an 14
+Pass 2C Pass 2H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+

@@ -1,0 +1,457 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT32.K.KJ85.9432 A654.QJ83.64.T85 Q7.T942.QT973.AQ J98.A765.A2.KJ76 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+HK H3 H2 H5
+S2 S6 SQ S8
+ST SA S7 S9
+SK S4 D3 SJ
+D5 D4 D7 DA
+D8 HQ H4 H6
+C2 C8 CA C6
+DK D6 D9 D2
+S3 S5 H9 HA
+C3 HJ HT H7
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT32.K.KJ85.9432 A654.QJ83.64.T85 Q7.T942.QT973.AQ J98.A765.A2.KJ76 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1H Pass 2H
+Pass Pass X Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J974.T52.K2.JT62 T832.AQ3.J986.Q5 AK.KJ4.AT543.A87 Q65.9876.Q7.K943 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1D Pass 1N
+Pass 2C Pass 2D
+Pass 2N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J974.T52.K2.JT62 T832.AQ3.J986.Q5 AK.KJ4.AT543.A87 Q65.9876.Q7.K943 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "E"]
+Pass Pass Pass 2D
+Pass 2S Pass 2N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ854.K.A87.QT83 QT93.A8.T2.K7542 62.J96.KQJ643.AJ K7.QT75432.95.96 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "S"]
+2C Pass 2D Pass
+2S Pass 2N Pass
+3D Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ854.K.A87.QT83 QT93.A8.T2.K7542 62.J96.KQJ643.AJ K7.QT75432.95.96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "S"]
+1S Pass 2D Pass
+2S Pass 3D Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ74.AQJ84.T3.T5 T86.97.K74.97432 3.KT.AJ8652.AKQ6 AK952.6532.Q9.J8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "W"]
+Pass 1C 1S X
+Pass 2C Pass 2H
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ74.AQJ84.T3.T5 T86.97.K74.97432 3.KT.AJ8652.AKQ6 AK952.6532.Q9.J8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "W"]
+Pass 1D 1S X
+Pass 2S Pass 3H
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 53.8432.Q94.KQJ5 QJ97642.AT.AT.AT 8.KJ765.KJ862.43 AKT.Q9.753.98762 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "N"]
+2H Pass Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 53.8432.Q94.KQJ5 QJ97642.AT.AT.AT 8.KJ765.KJ862.43 AKT.Q9.753.98762 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "N"]
+Pass Pass Pass 1S
+2H X 2S 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J9765.T7.953.T76 Q2.QJ965.K84.A32 T84.K4.QJT72.985 AK3.A832.A6.KQJ4 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1470"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "E"]
+2N Pass 3D Pass
+3S Pass 4C Pass
+4D Pass 4N Pass
+5C Pass 6D Pass
+6S Pass 6N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J9765.T7.953.T76 Q2.QJ965.K84.A32 T84.K4.QJT72.985 AK3.A832.A6.KQJ4 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "E"]
+2N Pass 3D Pass
+4C Pass 4D Pass
+4S Pass 5C Pass
+5D Pass 6H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q976.Q.AT94.KQJ3 J854.A74.KJ83.82 A3.JT986.Q7.7654 KT2.K532.652.AT9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "S"]
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q976.Q.AT94.KQJ3 J854.A74.KJ83.82 A3.JT986.Q7.7654 KT2.K532.652.AT9 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "S"]
+1C Pass 1H Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Giubilo"]
+[North "Giove"]
+[East "Versace"]
+[South "Sbarigia"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A62.K76.954.AK42 Q73.AQT52.AJT7.6 954.9843.K83.J73 KJT8.J.Q62.QT985 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "SBARIGIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TEAM BLU"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass Pass Pass
+[Play "N"]
+*
+
+

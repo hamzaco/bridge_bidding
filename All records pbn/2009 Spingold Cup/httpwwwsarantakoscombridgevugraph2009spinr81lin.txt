@@ -1,0 +1,911 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.AKQJ7.AJ5.Q976 AT7.T32.KQ73.K42 KQ982.654.T8642. 6543.98.9.AJT853 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass Pass 1H Pass
+1N an 4+ Pass
+2C an 17 Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+HQ H3 H4 H8
+SJ S7 S2 S3
+C7 C4 H5 C3
+DJ DQ D2 D9
+HK H2 H6 H9
+HA HT S8 C5
+DA D3 D4 S4
+D5 DK D6 S5
+H7 SA S9 S6
+C6 C2 D8 C8
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.AKQJ7.AJ5.Q976 AT7.T32.KQ73.K42 KQ982.654.T8642. 6543.98.9.AJT853 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D 2C 2H 3C
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J65.85.AQ62.KQJ9 Q9.KQ93.KJT9.A87 8432.J7.854.T432 AKT7.AT642.73.65 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+1H X 2N an
+!h  F  u Pass
+3C an so Pass
+3D an as Pass
+3H an mi Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J65.85.AQ62.KQJ9 Q9.KQ93.KJT9.A87 8432.J7.854.T432 AKT7.AT642.73.65 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+1H X 2N Pass
+3C Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT93.65.AT842.72 654.AJ72.K65.T95 KJ7.Q984.Q7.AQ83 Q82.KT3.J93.KJ64 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+Pass Pass 1C an
+mu Pass 1H an
+4+ Pass 1S an
+mi  3 Pass 2D
+an 5+ Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT93.65.AT842.72 654.AJ72.K65.T95 KJ7.Q984.Q7.AQ83 Q82.KT3.J93.KJ64 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q5.98.K743.AK862 AKT72.KT4.95.Q97 J9643.Q53.QJ6.T4 8.AJ762.AT82.J53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+1S Pass 1N an
+se Pass 2C an
+3+ Pass 2N an
+IN Pass 3H an
+3  Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q5.98.K743.AK862 AKT72.KT4.95.Q97 J9643.Q53.QJ6.T4 8.AJ762.AT82.J53 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+1S Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J985.AQ8.AKQ.A43 AK4.JT954.83.K82 Q32.K62.7.QJT976 T76.73.JT96542.5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass 3H Pass 3S
+an I  Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J985.AQ8.AKQ.A43 AK4.JT954.83.K82 Q32.K62.7.QJT976 T76.73.JT96542.5 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass Pass 2N Pass
+4S Pass 5C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 75.Q3.AKJ872.K83 A.KJT8762.Q54.A5 KQT63.A95.63.QJT J9842.4.T9.97642 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+Pass 1N an 14
+X an ma XX
+an st Pass 2D
+an 5+ 3H 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 75.Q3.AKJ872.K83 A.KJT8762.Q54.A5 KQT63.A95.63.QJT J9842.4.T9.97642 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+Pass 1N 2H 3D
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K97.K96.AK4.J943 654.JT42.T5.QT72 AQJ32.Q.J7632.A6 T8.A8753.Q98.K85 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+1N an 14 Pass
+2H an tX  4
+Pass 2S Pass 3S
+an 5  Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K97.K96.AK4.J943 654.JT42.T5.QT72 AQJ32.Q.J7632.A6 T8.A8753.Q98.K85 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+1N Pass 2H Pass
+2S Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A54.AT4.T95.J952 J96.J9752.32.AT6 3.Q863.QJ8764.83 KQT872.K.AK.KQ74 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+Pass an 0- Pass
+1C an ST  A
+ F Pass 1D X
+an !X 1S Pass
+2D Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A54.AT4.T95.J952 J96.J9752.32.AT6 3.Q863.QJ8764.83 KQT872.K.AK.KQ74 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+Pass Pass 1C Pass
+1D 2D X Pass
+3H Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQJT9762.T62.98.KJ754 KQ75.AT65.K853.AQT98 83.J3..4 632.AJ94.KQ742."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+1H Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T874.A873.9.K875 J63.K.AKQJT2.Q32 K5.954.754.AT964 AQ92.QJT62.863.J "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+Pass Pass 1C an
+ST  A  F Pass
+1N an 5+  F
+Pass 2D an 5+
+Pass 2S an 4 
+Pass 2N Pass 3D
+Pass 5D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T874.A873.9.K875 J63.K.AKQJT2.Q32 K5.954.754.AT964 AQ92.QJT62.863.J "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+1H Pass 2C Pass
+2D Pass 2H Pass
+3H Pass 3S Pass
+3N Pass 4C Pass
+4H Pass 5D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 873.3.AT54.A9542 QT9652.K93.KQ63.AJ KJ942.Q62.T87.K4 AQT8765.J87.J."]
+[Declarer "E"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 2S Pass 3H
+Pass 3N Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 873.3.AT54.A9542 QT9652.K93.KQ63.AJ KJ942.Q62.T87.K4 AQT8765.J87.J."]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J975.A9842.K83.9 8.KQJT75.92.T852 AT632.A76.K7643.KQ4 63.QJT54.AQJ."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+3H X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J975.A9842.K83.9 8.KQJT75.92.T852 AT632.A76.K7643.KQ4 63.QJT54.AQJ."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+2H X Pass 2N
+Pass 3C Pass 3S
+Pass 4S X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A72.KQT73.T42.A2 A96.KJ65.T98543.QJT83 J2.A87.Q76. K9654.854.Q93.KJ "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+1D an ca Pass
+1H an FG  m
+ m Pass 1N an
+11  n  c Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A72.KQT73.T42.A2 A96.KJ65.T98543.QJT83 J2.A87.Q76. K9654.854.Q93.KJ "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass Pass 2C
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ9642.QT3.Q.865 KQ.765.T8642.A92 T3.AKJ2.KJ973.T7 875.984.A5.KQJ43 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+Pass Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ9642.QT3.Q.865 KQ.765.T8642.A92 T3.AKJ2.KJ973.T7 875.984.A5.KQJ43 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+Pass 2S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K.Q7.AQ9743.AK74 JT986543.AJT4.T.A7 K9865.K86.J85.Q2 32.JT52.Q9632."]
+[Declarer "S"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+1C 4S X Pass
+5D Pass 6D Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K.Q7.AQ9743.AK74 JT986543.AJT4.T.A7 K9865.K86.J85.Q2 32.JT52.Q9632."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+1C 4S X! Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hampson"]
+[North "Wrang"]
+[East "Greco"]
+[South "de Knijff"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q83.KJ.AJ64.Q982 76.A9732.8532.75 AK42.KQ97.KJT64.JT95 QT8654.T.A3."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "de Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+Pass 1C an mu
+1H 2C 3H an
+we 4H an sh
+Pass 5N Pass 7D
+X Pass Pass Pass
+[Play "N"]
+*
+
+

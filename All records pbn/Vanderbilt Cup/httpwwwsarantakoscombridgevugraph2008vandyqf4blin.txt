@@ -1,0 +1,834 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK653.AK5.QJT.K5 T8.QJT8.73.T9643 74.9742.962.QJ82 QJ92.63.AK854.A7 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "N"]
+Pass 1D X Pass
+1H Pass 1N Pass
+Pass Pass
+[Play "W"]
+DJ D7 D2 DK
+DQ D3 D6 D4
+S6 S8 S4 S9
+DT C6 D9 DA
+S5 ST C2 D8
+H5 C4 S7 D5
+HA HQ H2 H6
+CK C3 C8 C7
+HK H8 H4 H3
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK653.AK5.QJT.K5 T8.QJT8.73.T9643 74.9742.962.QJ82 QJ92.63.AK854.A7 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "N"]
+Pass 1D X Pass
+1H Pass 1S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A43.K3.T653.AJ83 KQJT5.J4.A972.Q2 72.AT976.Q4.K754 986.Q852.KJ8.T96 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "E"]
+Pass 1C 1S 2H
+2S Pass Pass 3C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A43.K3.T653.AJ83 KQJT5.J4.A972.Q2 72.AT976.Q4.K754 986.Q852.KJ8.T96 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "E"]
+Pass 1C an Po
+2S X 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 964.82.J9732.JT5 K32.654.QT5.KQ93 J7.AKT.K84.A8742 AQT85.QJ973.A6.6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "S"]
+Pass 2D an Bi
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 964.82.J9732.JT5 K32.654.QT5.KQ93 J7.AKT.K84.A8742 AQT85.QJ973.A6.6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "S"]
+Pass 2D an as
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 8764.976.AJ972.7 3.T54.K854.A6542 KT9.AK832.Q6.KQ8 AQJ52.QJ.T3.JT93 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "W"]
+Pass 1H 1S 2H
+Pass 2N an al
+Pass 3D Pass 3H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 8764.976.AJ972.7 3.T54.K854.A6542 KT9.AK832.Q6.KQ8 AQJ52.QJ.T3.JT93 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "W"]
+Pass 1H 1S 2H
+Pass 2N an fo
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A74.972.8754.AT8 K96.AJT.KJT.QJ63 Q52.KQ63.Q63.974 JT83.854.A92.K52 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A74.972.8754.AT8 K96.AJT.KJT.QJ63 Q52.KQ63.Q63.974 JT83.854.A92.K52 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1S Pass 1N
+an st Pass 2N
+an Pa Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT75.QT985.QT5.A Q2.AK32.72.J9872 3.74.AJ9843.KQT4 KJ9864.J6.K6.653 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "E"]
+2S Pass Pass 3D
+Pass 3S Pass 4C
+Pass 4S Pass 5D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT75.QT985.QT5.A Q2.AK32.72.J9872 3.74.AJ9843.KQT4 KJ9864.J6.K6.653 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "E"]
+2D an Mu Pass
+3S an Pa Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT9.AT43.Q42.J42 A74.J9876.T9.975 J865.K2.KJ65.T86 Q32.Q5.A873.AKQ3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 2D an tX
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT9.AT43.Q42.J42 A74.J9876.T9.975 J865.K2.KJ65.T86 Q32.Q5.A873.AKQ3 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H Pass 1N
+an st Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A9.QT42.T86.QJ42 74.K9653.K732.K9 KT863.A87.95.865 QJ52.J.AQJ4.AT73 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H 1S Pa an
+co Pass 2D Pass
+Pass 2S 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A9.QT42.T86.QJ42 74.K9653.K732.K9 KT863.A87.95.865 QJ52.J.AQJ4.AT73 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 1S an
+un Pass 3D Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT82.QJT9.T93.A4 K543.K.742.QJ862 A6.863.KJ865.953 J97.A7542.AQ.KT7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "N"]
+Pass 1H Pass 1S
+2D X 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT82.QJT9.T93.A4 K543.K.742.QJ862 A6.863.KJ865.953 J97.A7542.AQ.KT7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K986.J632.A86.K8 AJT3.KQ.KT75.743 Q52.T8754.Q4.AJ5 74.A9.J932.QT962 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "E"]
+Pass 1S an no
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K986.J632.A86.K8 AJT3.KQ.KT75.743 Q52.T8754.Q4.AJ5 74.A9.J932.QT962 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T9532.T2.A5.K764 KJ74.853.J.Q8532 Q6.KJ.KQT962.AT9 A8.AQ9764.8743.J "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "S"]
+Pass Pass 1N 2D
+an On 2H an
+tX 3H Pass Pass
+X Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T9532.T2.A5.K764 KJ74.853.J.Q8532 Q6.KJ.KQT962.AT9 A8.AQ9764.8743.J "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "S"]
+Pass Pass 1N 2H
+2S 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT875.864.J32.62 J43.KQJ.AQ84.975 Q6.AT73.KT76.KQ8 K92.952.95.AJT43 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "W"]
+Pass 1S an no
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT875.864.J32.62 J43.KQJ.AQ84.975 Q6.AT73.KT76.KQ8 K92.952.95.AJT43 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "W"]
+1N an we Pass
+Pa an no Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ96.Q763.4.QJ83 T732.A9542.T.A96 8.KJ.AKJ8652.KT4 AJ54.T8.Q973.752 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "N"]
+1D Pass 1H Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ96.Q763.4.QJ83 T732.A9542.T.A96 8.KJ.AKJ8652.KT4 AJ54.T8.Q973.752 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "N"]
+1D Pass 1H Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A.A53.QJ6.AJT762 842.KQJ86.432.98 J7653.T942.A8.K3 KQT9.7.KT975.Q54 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "E"]
+Pass 1C 1H 1S
+Pass 2C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Jansma"]
+[North "Levin"]
+[East "Verhees"]
+[South "Weinstein"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A.A53.QJ6.AJT762 842.KQJ86.432.98 J7653.T942.A8.K3 KQT9.7.KT975.Q54 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rubin"]
+[Auction "E"]
+Pass 1C 2H X
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+

@@ -1,0 +1,920 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ753.KQ9842.Q.K84 AT73.T53.T92.2 J6.AQ42.AJ7543."]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass Pass Pass 2N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ753.KQ9842.Q.K84 AT73.T53.T92.2 J6.AQ42.AJ7543."]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T62.KQT.J9.Q9762 KJ97.A76532.74.8 AQ3.J8.AT3.AKJ53 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass Pass 2H X
+Pass 3C Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+S6 SJ SQ S4
+HQ H2 HJ H4
+HK HA H8 H9
+S2 SK SA S5
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T62.KQT.J9.Q9762 KJ97.A76532.74.8 AQ3.J8.AT3.AKJ53 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass Pass 2H X
+3D X Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+D9 D7 D3 DQ
+HT HA H8 H9
+DJ D4 DA D6
+C7 C8 CA C4
+C6 H2 CK CT
+CQ S9 CJ S4
+HK H5 HJ H4
+HQ H6 S3 S5
+C9 S7 C3 D2
+C2 H7 C5 D5
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 964.72.QT92.QJ92 72.8.AJ6543.8654 QJ3.AKQT963.K.K7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass Pass 1C 1S
+Pass 2D 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 964.72.QT92.QJ92 72.8.AJ6543.8654 QJ3.AKQT963.K.K7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKJ53.T.KT964.T6 Q842.98753.7532.6 QJ42.Q72.AJ984."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+Pass Pass 1N 2C
+2H Pass Pass 2S
+Pass 2N X 3D
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKJ53.T.KT964.T6 Q842.98753.7532.6 QJ42.Q72.AJ984."]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+Pass Pass 1N 2D
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T97642.KJT2.A.J2 KQ8.983.T86.A765 A.AQ74.Q7432.K94 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T97642.KJT2.A.J2 KQ8.983.T86.A765 A.AQ74.Q7432.K94 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1D Pass 1S Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A62.AQ64.8.QT753 Q85.KJ73.A7543.9 KJ7.T98.QT92.AJ8 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2D Pass 2N
+Pass 3C Pass 3H
+Pass 3S Pass 3N
+Pass 4C Pass 4H
+Pass 5C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A62.AQ64.8.QT753 Q85.KJ73.A7543.9 KJ7.T98.QT92.AJ8 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1C X XX
+1S Pass Pass 2N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT985.AQ94.A976.AK93 J63.JT2.Q43.JT6542 7.653.J85."]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT985.AQ94.A976.AK93 J63.JT2.Q43.JT6542 7.653.J85."]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1H Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "56"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKT2.AT654.KJ3.J 5.83.Q865.AKQ872 J8643.K72.T4.643 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1C Pass 1D X
+2D 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "56"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKT2.AT654.KJ3.J 5.83.Q865.AKQ872 J8643.K72.T4.643 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+2C Pass 2D X
+3C Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "57"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q985.KT874.J6.82 AK.QJ.A74.AKT943 T62.A53.KT932.QJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass Pass 2H 3H
+X Pass Pass 3N
+Pass 4C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "57"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q985.KT874.J6.82 AK.QJ.A74.AKT943 T62.A53.KT932.QJ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "58"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A9.QJT9864.Q8.K9 KT63.K3.T632.AT8 Q8.72.K9754.Q752 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1H Pass 1N
+Pass 2H Pass Pass
+2S 3H 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "58"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A9.QJT9864.Q8.K9 KT63.K3.T632.AT8 Q8.72.K9754.Q752 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1S 2H 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "59"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T74.65.A63.AKQT2 KQ9.83.QJ5.J9743 AJ832.AKQ7.T742."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1N Pass 2C Pass
+2D Pass 3H Pass
+3S Pass 6D Pass
+6S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "59"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T74.65.A63.AKQT2 KQ9.83.QJ5.J9743 AJ832.AKQ7.T742."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1C Pass 1S Pass
+2S Pass 2N Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "60"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K2.43.KJ954.AT97 Q6543.AQ82.2.K53 AT97.KJ5.AT83.82 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "60"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K2.43.KJ954.AT97 Q6543.AQ82.2.K53 AT97.KJ5.AT83.82 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1S Pass 1N Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "61"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT843.QJ4.KQ965.Q7 AQ953.AKT52.8.952 KJ7642.976.J."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass Pass 1S 2S
+Pass 3C X 3D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "61"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT843.QJ4.KQ965.Q7 AQ953.AKT52.8.952 KJ7642.976.J."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass Pass 1S 2S
+Pass 3C Pass 3D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "62"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT52.JT.A9874.A4 K63.543.KJ3.KQ86 J4.KQ9872.T62.T3 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "62"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT52.JT.A9874.A4 K63.543.KJ3.KQ86 J4.KQ9872.T62.T3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1D Pass 1H
+X Pass 2C 2H
+Pass Pass 3C 3H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "63"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T3.864.864.A7632 J54.J93.KJ5.KJT8 AQ76.AKQT2.92.Q5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass Pass 1C 1D
+Pass 1N 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "63"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T3.864.864.A7632 J54.J93.KJ5.KJT8 AQ76.AKQT2.92.Q5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass 1N X 2D
+2H 2S Pass 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2000 Vanderbilt Cup final"]
+[Site "00"]
+[Date "00"]
+[Board "64"]
+[West "Zia"]
+[North "Soloway"]
+[East "Rosenberg"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJ765.AKJT432.A.T832 87.Q9742.82.A9 65.J63.KQ9654."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+Pass 2C Pass 2N
+Pass 3C Pass 3H
+Pass 3S Pass 5D
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "E"]
+*
+
+

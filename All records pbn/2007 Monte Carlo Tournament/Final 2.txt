@@ -1,0 +1,592 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQJ.7.AKJ732.952 K752.AJ6.95.AQ76 T986.KT952.Q8.J3 43.Q843.T64.KT84 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "S"]
+1D X 1H Pass
+2D Pass Pass Pass
+[Play "W"]
+SJ S2 S6 S4
+H7 HA H2 H3
+D2 D5 DQ D4
+C2 H6 HK H4
+SA S5 S8 S3
+DA D9 D8 D6
+DK C6 H5 DT
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT852.76.65.A873 J93.JT3.AKJT98.4 AK74.AK52.4.KJT9 6.Q984.Q732.Q652 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "W"]
+1D X 1H 1S
+X an 3! XX
+Pass 4S Pass 4N
+Pass 5D X 6S
+Pass Pass 7D X
+Pass Pass Pass
+[Play "W"]
+H7 HJ HA H4
+D5 D8 D4 D2
+D6 DA S7 D3
+H6 H3 HK H8
+C3 C4 CK C2
+S2 S3 SA S6
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT852.76.65.A873 J93.JT3.AKJT98.4 AK74.AK52.4.KJT9 6.Q984.Q732.Q652 "]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "W"]
+Pass 1C Pass 1D
+3D X 5D X
+Pass Pass Pass
+[Play "N"]
+H7 H3 HK H4
+S2 S3 SK S6
+D5 D8 D4 D2
+D6 DA CJ D3
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q6.A975.Q87.T954 T42.KT86.6432.J3 5.43.AK95.AQ8762 AKJ9873.QJ2.JT.K "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "N"]
+1C 3S Pass Pass
+3N Pass Pass Pass
+[Play "N"]
+S6 S4 S5 SA
+SQ ST H3 SK
+H5 S2 D5 SJ
+H7 D2 C2 S9
+C4 D4 C6 S8
+C5 H6 C7 S7
+C9 D3 H4 S3
+D7 D6 DK DJ
+DQ C3 D9 DT
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q6.A975.Q87.T954 T42.KT86.6432.J3 5.43.AK95.AQ8762 AKJ9873.QJ2.JT.K "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "N"]
+2C 2S 4C Pass
+Pass Pass
+[Play "E"]
+S6 S2 S5 SA
+SQ ST C2 SK
+HA H6 H4 H2
+C4 C3 CQ CK
+D7 D2 DA DJ
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q6.T84.K54.QJ762 AK9743.KJ.9832.3 T8.Q7632.JT76.85 J52.A95.AQ.AKT94 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "E"]
+1C an st Pass
+1S Pass 1N Pass
+2S Pass 3S Pass
+4C Pass 4D Pass
+4H Pass 4N Pass
+5H Pass 6S Pass
+Pass Pass
+[Play "E"]
+DK D2 D7 DQ
+D5 D3 D6 DA
+S6 SA S8 S2
+SQ SK ST S5
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q6.T84.K54.QJ762 AK9743.KJ.9832.3 T8.Q7632.JT76.85 J52.A95.AQ.AKT94 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "E"]
+1C Pass 1S Pass
+2S Pass 3S Pass
+4C X 4H Pass
+4S Pass Pass Pass
+[Play "N"]
+C2 C3 C8 CA
+S6 SA S8 S2
+DK D3 D6 DQ
+D4 D2 D7 DA
+SQ SK ST S5
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q3.T5.KT8762.Q94 A62.AQ86.Q953.65 J74.KJ742.A.KJ87 KT985.93.J4.AT32 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "S"]
+Pass 1D 1H 1S
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+HT HA H2 H3
+CQ C5 C7 CT
+H5 H6 HJ H9
+D7 D3 DA D4
+S3 H8 H7 DJ
+C9 C6 CK CA
+C4 S2 C8 C3
+D2 D5 H4 S5
+SQ SA S4 ST
+D6 D9 CJ S8
+D8 S6 S7 C2
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q3.T5.KT8762.Q94 A62.AQ86.Q953.65 J74.KJ742.A.KJ87 KT985.93.J4.AT32 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "S"]
+Pass 1N 2H 2S
+Pass Pass Pass
+[Play "S"]
+HT HA H2 H3
+C9 C5 C8 C3
+H5 H6 HJ H9
+D2 D3 DA D4
+S3 H8 H4 DJ
+SQ SA S4 S5
+D6 D5 H7 S8
+C4 C6 C7 CA
+CQ S2 CJ C2
+D7 D9 CK S9
+D8 S6 S7 CT
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT6432.KT97.J42.A987 K9873.A.KQ5.J5 AQ.J6532.A863.K JT6542.Q84.T97."]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "W"]
+1H Pass 4H 4S
+4N Pass 5D Pass
+5H X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT6432.KT97.J42.A987 K9873.A.KQ5.J5 AQ.J6532.A863.K JT6542.Q84.T97."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "W"]
+1H Pass 2N Pass
+3C Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T95.KT82.865.542 AJ6.Q764.AK.Q963 K872.95.T4.AJT87 Q43.AJ3.QJ9732.K "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "N"]
+Pass 1D Pass 1H
+X XX Pass Pass
+2C 2D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T95.KT82.865.542 AJ6.Q764.AK.Q963 K872.95.T4.AJT87 Q43.AJ3.QJ9732.K "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "N"]
+Pass 1D Pass 1H
+1N an   2D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ2.76.KQ83.Q543 J63.AJT95.T72.97 T98.KQ4.J64.AKT6 K754.832.A95.J82 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "E"]
+Pass 1D 1H 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ2.76.KQ83.Q543 J63.AJT95.T72.97 T98.KQ4.J64.AKT6 K754.832.A95.J82 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "E"]
+Pass 1D 1H 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 95.AT62.T.AKQT75 AT864.K943.K65.2 KQ.QJ75.A973.986 J732.8.QJ842.J43 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "S"]
+1C 1S X 2S
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 95.AT62.T.AKQT75 AT864.K943.K65.2 KQ.QJ75.A973.986 J732.8.QJ842.J43 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "S"]
+2C Pass 2D Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Stamatov"]
+[North "Guilmet"]
+[East "Hristoiv"]
+[South "Lanteri"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9543.KQJ43.A654.A6 T975.KT954.J3.QJ8 82.AQ732.KT7.KT72 A6.J86.Q982."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "VIENNOIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BULGARIA"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1N Pass 2C
+Pass 2D Pass 3C
+Pass Pass Pass
+[Play "W"]
+*
+
+

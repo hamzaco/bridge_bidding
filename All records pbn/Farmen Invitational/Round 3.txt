@@ -1,0 +1,844 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ8.A9.QJ53.T965 A632.764.KT942.3 Q954.JT5.A87.AJ4 T7.KQ832.6.KQ872 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "N"]
+1C Pass 1D Pass
+1S Pass 3C Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+H9 H4 HT H2
+SJ SA S4 S7
+HA H6 H5 H3
+DQ D2 D7 D6
+SK S2 S5 ST
+S8 S3 S9 C2
+C5 S6 SQ C7
+C6 C3 CA C8
+C9 D4 CJ CQ
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ8.A9.QJ53.T965 A632.764.KT942.3 Q954.JT5.A87.AJ4 T7.KQ832.6.KQ872 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "N"]
+1D 1H 2C 2H
+3C Pass Pass Pass
+[Play "W"]
+HA H4 H5 HQ
+C6 C3 CJ CQ
+H9 H6 HT HK
+D5 H7 HJ H3
+SJ SA S4 S7
+SK S2 S5 ST
+DQ DK DA D6
+C5 D4 CA C2
+S8 S3 SQ C7
+C9 D2 C4 CK
+CT D9 S9 H8
+D3 DT D7 C8
+DJ S6 D8 H2
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K62.95.652.A8762 Q43.J6.AT73.KQ95 J95.AKT82.QJ4.J4 AT87.Q743.K98.T3 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "E"]
+Pass Pass 1C 1H
+X Pass 1S Pass
+Pass Pass
+[Play "N"]
+H9 H6 HA H3
+H5 HJ HK H4
+D2 D3 DQ DK
+C2 CK C4 C3
+C6 C5 CJ CT
+D5 DA DJ D8
+D6 D7 D4 D9
+S6 SQ H2 HQ
+C7 C9 H8 S7
+SK CQ HT H7
+CA S3 S5 S8
+S2 S4 S9 SA
+C8 DT SJ ST
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K62.95.652.A8762 Q43.J6.AT73.KQ95 J95.AKT82.QJ4.J4 AT87.Q743.K98.T3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "E"]
+Pass Pass 1C 1H
+X an ne Pass
+1S Pass Pass 2C
+Pass Pass Pass
+[Play "W"]
+S2 S3 S5 SA
+S6 SQ S9 S7
+SK S4 SJ S8
+C2 CQ C4 C3
+H5 H6 HA H4
+C6 CK CJ CT
+H9 HJ HK H3
+C7 C9 H2 H7
+D2 DA D4 D8
+D5 D3 DJ DK
+C8 D7 H8 ST
+CA C5 HT D9
+D6 DT DQ HQ
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ.KQ85.Q82.K872 96543.A9.KT64.Q4 A7.732.J973.JT63 JT82.JT64.A5.A95 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "S"]
+1C Pass 1D Pass
+1H Pass Pass Pass
+[Play "W"]
+SQ S3 SA S8
+C2 CQ CJ C5
+SK S4 S7 ST
+CK C4 C3 CA
+C8 H9 C6 C9
+D2 D4 D3 DA
+DQ DK D7 D5
+D8 D6 DJ HT
+HQ HA H2 H4
+H5 DT D9 S2
+HK S5 H3 H6
+C7 S6 CT HJ
+H8 S9 H7 SJ
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ.KQ85.Q82.K872 96543.A9.KT64.Q4 A7.732.J973.JT63 JT82.JT64.A5.A95 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "S"]
+1N an 14 Pass
+Pass Pass
+[Play "W"]
+SQ S3 SA S2
+C2 CQ CJ C5
+SK S6 S7 ST
+CK C4 C3 C9
+C8 D4 C6 CA
+H5 S4 H2 SJ
+HQ HA H3 H6
+H8 S9 CT S8
+D2 S5 D3 D5
+D8 D6 D7 DA
+HK H9 H7 HT
+C7 DT D9 H4
+DQ DK DJ HJ
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ983.4.K3.T9853 JT7642.T72.J.Q42 5.KJ963.T8765.J6 A.AQ85.AQ942.AK7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "W"]
+Pass Pass 2C 2S
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+D3 DJ D5 DA
+DK S2 D6 D9
+H4 H2 HJ HQ
+C3 C2 C6 CK
+S8 ST D7 DQ
+C5 C4 CJ CA
+S3 S4 S5 SA
+C8 CQ H3 C7
+S9 H7 H9 HA
+SK S6 H6 D2
+SQ S7 D8 D4
+C9 HT DT H5
+CT SJ HK H8
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ983.4.K3.T9853 JT7642.T72.J.Q42 5.KJ963.T8765.J6 A.AQ85.AQ942.AK7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "W"]
+Pass Pass 2C an
+st Pass 2D Pass
+3D Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "N"]
+C3 C2 CJ CA
+S3 S2 S5 SA
+D3 DJ D5 DA
+DK S4 D6 D2
+S8 S7 H3 H5
+CT C4 C6 CK
+C8 CQ H6 C7
+SQ ST D7 D4
+C9 S6 H9 H8
+H4 H2 HJ HQ
+S9 H7 HK HA
+SK SJ D8 D9
+C5 HT DT DQ
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT72.AJ6.KQJ.AQ8 85.T94.987632.T9 A94.K532.T.75432 KQ63.Q87.A54.KJ6 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+S2 S5 SA S3
+S7 S8 S9 SK
+DJ D2 DT D4
+SJ D3 S4 SQ
+ST D6 C7 S6
+DK D7 H2 DA
+DQ D8 C2 D5
+HA H4 H3 H7
+HJ H9 HK H8
+CQ C9 C3 C6
+CA CT C4 CJ
+C8 D9 C5 CK
+H6 HT H5 HQ
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT72.AJ6.KQJ.AQ8 85.T94.987632.T9 A94.K532.T.75432 KQ63.Q87.A54.KJ6 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "N"]
+Pass 1N X 2D
+Pass Pass Pass
+[Play "N"]
+CQ C9 C2 C6
+H6 H9 HK H7
+HJ H4 H2 H8
+HA HT H3 HQ
+CA CT C3 CJ
+C8 D6 C4 CK
+DJ D2 DT DA
+DK D3 S4 D4
+DQ D7 S9 D5
+S2 S5 SA S3
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 7.Q43.T4.JT98765 T54.52.KQ9863.Q4 AKQ92.AT9876.A2. J863.KJ.J75.AK32 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "E"]
+1C Pass 1D 1H
+X Pass 2D 2S
+3D 3H Pass 4C
+Pass 4H Pass 5D
+Pass 5H Pass 6H
+Pass Pass Pass
+[Play "E"]
+C5 C4 H6 CA
+S7 S4 SA S3
+D4 S5 SK S6
+H3 ST S2 S8
+DT DQ DA D5
+H4 D3 D2 D7
+HQ H2 HA HJ
+C6 H5 HT HK
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 7.Q43.T4.JT98765 T54.52.KQ9863.Q4 AKQ92.AT9876.A2. J863.KJ.J75.AK32 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "E"]
+1C Pass 1D X
+1S 2C 2D 4H
+Pass Pass Pass
+[Play "E"]
+D4 DQ DA D5
+S7 S4 SA S6
+DT S5 SK S3
+H3 D6 D2 D7
+C5 C4 H6 C2
+H4 ST S2 S8
+HQ H2 HA HJ
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J64.A86532.8.Q97 A9.KJ4.KQJT62.J5 Q532.9.A9743.A64 KT87.QT7.5.KT832 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "S"]
+2D an mu 3D
+Pass Pass Pass
+[Play "N"]
+HA HK H9 H7
+H2 H4 D3 HT
+C7 C5 CA C2
+C9 CJ C4 CK
+D8 DT D4 D5
+H3 DK D7 S7
+H5 DJ DA C3
+SJ SA S3 S8
+H6 DQ D9 HQ
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J64.A86532.8.Q97 A9.KJ4.KQJT62.J5 Q532.9.A9743.A64 KT87.QT7.5.KT832 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "S"]
+2D an mu 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+H5 HJ H9 H7
+D8 DK DA D5
+SJ SA S3 S7
+H6 DQ D3 C2
+H2 DJ D4 C3
+S4 S9 S2 S8
+CQ CJ C4 C8
+HA H4 S5 HT
+H3 HK SQ HQ
+C7 C5 CA CT
+H8 D6 D7 ST
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K85.94.83.KQJ762 AJT3.KQ832.KQ.53 Q642.AJ75.AJ2.T4 97.T6.T97654.A98 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "W"]
+1H X Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+H4 H2 HJ HT
+C2 C5 CT C8
+C6 C3 C4 CA
+H9 HQ H5 H6
+D3 H8 HA C9
+S5 S3 SQ S9
+S8 ST S2 S7
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K85.94.83.KQJ762 AJT3.KQ832.KQ.53 Q642.AJ75.AJ2.T4 97.T6.T97654.A98 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "W"]
+1H Pass Pass 2C
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+D3 DQ DA DT
+C2 C5 CT C8
+CK C3 C4 C9
+C6 H2 S2 CA
+D8 DK D2 D9
+H4 HK H5 H6
+H9 HQ HA HT
+S5 SA SQ S7
+SK SJ S4 S9
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J.AK4.KT8743.AJ8 AT764.J32.Q5.Q73 Q8.T985.A962.KT9 K9532.Q76.J.6542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J.AK4.KT8743.AJ8 AT764.J32.Q5.Q73 Q8.T985.A962.KT9 K9532.Q76.J.6542 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 3D Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K7.AQ84.3.QJT873 J42.976.AT84.K54 Q863.K5.J975.962 AT95.JT32.KQ62.A "]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "E"]
+1D 2C 3D Pass
+Pass 3H Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K7.AQ84.3.QJT873 J42.976.AT84.K54 Q863.K5.J975.962 AT95.JT32.KQ62.A "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "E"]
+1D 2C 2D 3C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 6542.63.JT42.854 JT.K872.Q753.KQ7 93.AQJ9.86.AJT96 AKQ87.T54.AK9.32 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 6542.63.JT42.854 JT.K872.Q753.KQ7 93.AQJ9.86.AJT96 AKQ87.T54.AK9.32 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "S"]
+Pass Pass 2C 2S
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Farmen Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hegrand"]
+[North "Marstrande"]
+[East "Harr"]
+[South "Pedersen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJ52.95.AQJT5.A7 Q6.AKT83.32.JT82 AT9743.QJ74.4.96 8.62.K9876.KQ543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Farmen 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Star Team 1"]
+[Auction "W"]
+Pass Pass Pass 1N
+2H 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

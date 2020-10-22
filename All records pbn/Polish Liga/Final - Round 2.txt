@@ -1,0 +1,698 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK5.JT643.T7.QJ5 J74.972.64.AT872 QT3.AKQ.AQ932.K6 9862.85.KJ85.943 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "N"]
+1C Pass 1H Pass
+2D Pass 3C Pass
+3D Pass 3S Pass
+4C Pass 4H Pass
+4N Pass 5C an
+1 Pass 5H Pass
+Pass Pass
+[Play "W"]
+C5 C7 CK C4
+H3 H2 HQ H5
+H4 H7 HK H8
+H6 H9 HA C3
+SK S4 S3 S2
+D7 D4 DQ DK
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK5.JT643.T7.QJ5 J74.972.64.AT872 QT3.AKQ.AQ932.K6 9862.85.KJ85.943 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "N"]
+2N an ma Pass
+an oX 3D an
+!H Pass 4H Pass
+4S Pass 4N Pass
+5C Pass 6H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K76.KT.T983.J942 J942.Q9.K74.AT53 A5.J8432.QJ52.K6 QT83.A765.A6.Q87 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "E"]
+1D Pass 1S Pass
+2S Pass Pass X
+Pass 2N Pass 3D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K76.KT.T983.J942 J942.Q9.K74.AT53 A5.J8432.QJ52.K6 QT83.A765.A6.Q87 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "E"]
+1C Pass 1S Pass
+2S Pass Pass 2N
+Pass 3C X XX
+an   Pass 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T5.KJ9762.Q95.T2 J8743.A4.KJT.A96 96.85.A743.Q8543 AKQ2.QT3.862.KJ7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+X 3C Pass 4D
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T5.KJ9762.Q95.T2 J8743.A4.KJT.A96 96.85.A743.Q8543 AKQ2.QT3.862.KJ7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "S"]
+2D Pass 2H X
+Pass 3H an  
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQ5.974.J8.J9543 KJT83.AKJ832.K4.6 T.QT93.AKQT762. 9742.Q65.A7652.8 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "W"]
+1C an 16 4C
+Pass 5C 5H Pass
+6H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQ5.974.J8.J9543 KJT83.AKJ832.K4.6 T.QT93.AKQT762. 9742.Q65.A7652.8 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "W"]
+1S 2C 3C 4C
+6C 7C X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ93.K65.T6.AT63 876.QT2.Q982.852 QT2.A93.A4.QJ974 K54.J874.KJ753.K "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "N"]
+1C 1D 1H Pass
+1S Pass 2D Pass
+3C Pass 3D Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ93.K65.T6.AT63 876.QT2.Q982.852 QT2.A93.A4.QJ974 K54.J874.KJ753.K "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "N"]
+1N Pass 2H Pass
+2S Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ8752.43.T4.962 6.AJT2.QJ62.QJT5 A.96.AK973.AK743 JT943.KQ875.85.8 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "E"]
+Pass Pass 1D 2N
+an mi 3D an
+ma Pass 3H X
+Pass 4C Pass 5C
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ8752.43.T4.962 6.AJT2.QJ62.QJT5 A.96.AK973.AK743 JT943.KQ875.85.8 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "E"]
+2H Pass 4H 4N
+Pass 5C X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A8.J8732.A98542.Q96 Q75.KQ6.Q763.J54 JT92.T94.KJT.KT732 AK8643.A5."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "S"]
+2N Pass 4C 4D
+4H Pass 5C Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A8.J8732.A98542.Q96 Q75.KQ6.Q763.J54 JT92.T94.KJT.KT732 AK8643.A5."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "S"]
+[Play "S"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q76.2.J8.KJ98543 95.QJT7.K97432.7 T2.AK86543.A65.6 AKJ843.9.QT.AQT2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "W"]
+Pass 1H X 1N
+2D 2H 2S Pass
+3C Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q76.2.J8.KJ98543 95.QJT7.K97432.7 T2.AK86543.A65.6 AKJ843.9.QT.AQT2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "W"]
+Pass 1H 1S 2C
+Pass 3H 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 875.KQ4.A64.9873 2.9872.K872.T542 AKT3.AJ63.9.AKQ6 QJ964.T5.QJT53.J "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "N"]
+1C 2D X 3H
+X 3S Pass Pass
+X Pass Pass 3N
+X 4D X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 875.KQ4.A64.9873 2.9872.K872.T542 AKT3.AJ63.9.AKQ6 QJ964.T5.QJT53.J "]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "N"]
+1C Pass 1N Pass
+2D an   X
+2N an   3D
+Pass Pass 3H Pass
+6C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A63.A5.AT964.AT2 T52.T73.J32.8643 KQ7.K964.K75.KQ7 J984.QJ82.Q8.J95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A63.A5.AT964.AT2 T52.T73.J32.8643 KQ7.K964.K75.KQ7 J984.QJ82.Q8.J95 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1N Pass 2C
+Pass 2N Pass 4N
+Pass 6N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J9.832.K85.K9732 85432.T76.T74.84 T7.AKQ95.Q.AQJT5 AKQ6.J4.AJ9632.6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 1D 1H 2D
+3C Pass 4C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J9.832.K85.K9732 85432.T76.T74.84 T7.AKQ95.Q.AQJT5 AKQ6.J4.AJ9632.6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "S"]
+Pass Pass 1H X
+2D Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Liga"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Bizon"]
+[North "Zmudzinski"]
+[East "Kowalski"]
+[South "Balicki"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 8.KQJT752.T85.T8 54.A63.K972.Q942 KJT3.94.AJ4.J763 AQ9762.8.Q63.AK5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "COMPUTERLAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "UNIA LESZNO"]
+[Auction "W"]
+Pass Pass 1S 3H
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+

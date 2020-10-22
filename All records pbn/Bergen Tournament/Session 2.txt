@@ -1,0 +1,977 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQ865.T8.K4.AQT4 A92.KJ65.J876.K3 J73.Q9732.92.876 T4.A4.AQT53.J952 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S X Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+SQ S9 S3 S4
+S5 S2 SJ ST
+S8 SA S7 C2
+D4 DJ D9 DA
+DK D6 D2 D3
+SK H5 H2 C5
+S6 D8 C8 C9
+CA C3 C6 CJ
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AKJ7532.T.T52.T9 Q4.AKJ8762.AQ98.T9 95.J3.QJ86532. 86.Q43.K764.AK74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2C 3S
+4H Pass Pass Pass
+[Play "E"]
+CA C9 S4 C6
+HA H5 H3 HT
+S2 H2 H9 HQ
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "33"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.AK843.642.J532 9742.Q9.5.K98764 AKQT63.T765.JT.A 85.J2.AKQ9873.QT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S 2D X Pass
+4H Pass Pass Pass
+[Play "N"]
+D2 D5 DT DK
+D4 C9 DJ DA
+D6 HQ S3 DQ
+C2 C4 CA CT
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "34"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A87.JT5.AK5.A873 KJ432.K6.J96.KQ2 Q.A9432.QT32.JT4 T965.Q87.874.965 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H 2S 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "35"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 32.K53.J954.Q985 KQ87.Q762.63.AJ7 AT54.J9.AK7.KT32 J96.AT84.QT82.64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "36"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K5.AJ52.AT5.J753 J9642.KQT8.8743.QT7 63.Q62.KT862. A83.974.KJ9.AQ94 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2D Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQT.42.T6.AKQJ83 AJ93.AT985.A84.5 764.Q7.K7532.T74 852.KJ63.QJ9.962 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N 2D
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T92.A7.T84.QJT97 AKJ864.J98.J9.63 Q753.KQ3.KQ53.54 .T6542.A762.AK82 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1H Pass 1S Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKQ986.AK96.75.8 T.Q85.Q98632.753 J752.7.AK.KJT642 43.JT432.JT4.AQ9 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 2N Pass
+3H Pass 3S Pass
+4N Pass 5D Pass
+6S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "40"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K876.7543.Q.A863 J53.KQ.AJT763.94 Q94.A862.85.K752 AT2.JT9.K942.QJT "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D Pass 2D Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "41"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ9752.Q73.A3.QT KJ.AK98.J2.AJ873 863.4.KQ8654.942 T4.JT652.T97.K65 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1S X
+2D Pass 2S 3C
+3H X Pass Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "42"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 4.J9863.AKT96.Q2 T76.AT542.J7.654 J98.K7.Q8543.A87 AKQ532.Q.2.KJT93 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S X Pass 1N
+3C 3D 4S 5D
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "43"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q85.KQ8.QT7.K982 T62.J9432.4.QJT7 A94.AT75.A9863.5 KJ73.6.KJ52.A643 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1H X
+XX Pass 2N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "44"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJ72.8.K87.AQJ98 Q83.QJ53.QT53.63 965.K642.A62.K74 AT4.AT97.J94.T52 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "45"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT732.T9642.AQJ.Q9 8542.AQ753.74.4 AQJ7.J.KT86532.AK865 KT963.K8.9."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C 2C an !s
+Pass 2N Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 87.AK9.Q2.AQ9843 A42.J2.AT98764.J KQJT953.8653.65.6 QT74.KJ53.KT72."]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 3D 4S
+5D X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A72.972.K84.JT74 J853.A.JT6.Q9632 T64.QT83.AQ753.K KQ9.KJ654.92.A85 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 1S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "48"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J95.Q987.KT963.6 K86432.2.74.KJ75 A7.KT6543.AQ52.2 QT.AJ.J8.AQT9843 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2S 3H 3S 4H
+4S Pass Pass 5C
+Pass 5D Pass 5H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 72.K842.KT8.K962 T5.T3.AJ97.AJ543 AJ4.QJ965.32.T87 KQ9863.A7.Q654.Q "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2D Pass 3D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q6.T.KJ984.AT842 A5.AK86.A6532.63 J7.Q753.QT7.KJ95 KT98432.J942.Q7."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 965.8.AKQ43.A543 KQ832.6.JT87.Q76 A74.AJT952.9.T82 JT.KQ743.652.KJ9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1H Pass
+2C Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 8.K875.AJ5.K9873 J72.QJT932.T6.64 AQT9654.6.Q43.J5 K3.A4.K9872.AQT2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 3S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J4.KJT542.Q8.QJ9 AT762.A963.A93.8 KQ3.Q8.JT4.KT542 985.7.K7652.A763 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 2D Pass
+2H Pass Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K72.K842.T7.AT64 Q953.JT.AKJ843.2 AJ864.653.Q6.K53 T.AQ97.952.QJ987 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1D 1S
+X XX 2D Pass
+3D 3S 4D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKQ43.J.KT5.QJ53 85.K97.AQ87.KT74 J962.QT3.9632.62 T7.A86542.J4.A98 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "56"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 4.K98.J764.KJ654 K873.AJ764.2.973 AJT65.QT.AKT5.Q8 Q92.532.Q983.AT2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 2D Pass Pass
+2H 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "57"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKJ832.J.Q72.987 964.T4.AK983.KT6 7.A7653.T54.J532 QT5.KQ982.J6.AQ4 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2H Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "58"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A6.AT862.Q96.A52 Q52.J754.A2.KT98 KJ874.K9.853.743 T93.Q3.KJT74.QJ6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "59"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J62.T9875.K.AT97 KQ9.K63.T763.642 873.AQ.Q542.KQ83 AT54.J42.AJ98.J5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1C X
+1H 1N Pass Pass
+2C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "60"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 54.Q7.965.AJ9864 AJT98.T5.Q87.732 KQ632.832.K42.KQ 7.AKJ964.AJT3.T5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S 2H Pass
+Pass X Pass 3C
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "61"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK.Q98.QJ4.AJ962 T64.KT63.T763.Q3 J32.A542.AK985.T Q9875.J7.2.K8754 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D Pass 2C Pass
+2D Pass 6D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "62"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT632.A.QJ954.J5 QJ85.QJ762.K.A64 974.K54.3.KQT832 K.T983.AT8762.97 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "63"]
+[West "B Lund"]
+[North "Nyheim"]
+[East "Molberg"]
+[South "Ovenstad"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT5.643.QJT5.752 Q932.KQ85.A62.96 864.J972.973.A83 AK7.AT.K84.KQJT4 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2N Pass 3D
+Pass 3N Pass 4C
+Pass 4D Pass 4N
+Pass 5D Pass 6N
+Pass Pass Pass
+[Play "N"]
+*
+
+

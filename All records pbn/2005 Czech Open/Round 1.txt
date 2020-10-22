@@ -1,0 +1,324 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "33"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJT97.7542.KJ54.865 AQ.KQ862.T92.A3 T863.AT93.Q73.K42 KJ9.J754.A86."]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "N"]
+Pass 1D 1N 2D
+2H Pass Pass 2N
+Pass Pass Pass
+[Play "N"]
+HA H6 H9 H7
+DK DA D4 H5
+H4 HQ H3 HK
+D5 SQ DQ D3
+H2 D2 D9 DJ
+D6 DT D7 C4
+CA C5 C2 CQ
+S7 S5 HT HJ
+C6 CK C9 C3
+SJ S6 SA S2
+D8 H8 S4 ST
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "33"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJT97.7542.KJ54.865 AQ.KQ862.T92.A3 T863.AT93.Q73.K42 KJ9.J754.A86."]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "N"]
+[Play "S"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "34"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K5.3.AT9865.AKJ9 A7.KQT9752.4.632 QJ962.J4.QJ3.Q87 T843.A86.K72.T54 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "E"]
+Pass 1D 3H 3S
+Pass 4C Pass 4D
+Pass 4H X Pass
+Pass 5D Pass Pass
+Pass
+[Play "W"]
+H3 HK H4 HA
+D5 H7 HJ H6
+C9 C6 CQ C4
+D6 D4 DQ D2
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "34"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K5.3.AT9865.AKJ9 A7.KQT9752.4.632 QJ962.J4.QJ3.Q87 T843.A86.K72.T54 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "E"]
+[Play "W"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "35"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ5.KQ.K975.J965 AJ732.J932.A3.42 4.AT6.JT84.KQT87 T986.8754.Q62.A3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "S"]
+1N an 12 2D
+2N Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "35"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ5.KQ.K975.J965 AJ732.J932.A3.42 4.AT6.JT84.KQT87 T986.8754.Q62.A3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "S"]
+[Play "W"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "36"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T86.A93.AKJT.A95 AK732.J87.9876.2 J5.6.Q5432.KJT73 Q94.KQT542.Q864."]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "W"]
+Pass Pass 2H an
+!H 2N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "36"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T86.A93.AKJT.A95 AK732.J87.9876.2 J5.6.Q5432.KJT73 Q94.KQT542.Q864."]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "W"]
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT843.KT7.62.Q76 Q.AJ5.K54.KJ9832 K976.8642.AJ97.T J52.Q93.QT83.A54 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "N"]
+Pass Pass Pass 2C
+an Pa Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT843.KT7.62.Q76 Q.AJ5.K54.KJ9832 K976.8642.AJ97.T J52.Q93.QT83.A54 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "N"]
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West "Skliba"]
+[North "Pavlik"]
+[East "Molak"]
+[South "Filip"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK9852.76.KQT5.K 763.QT985.92.J42 QT.J42.7.AQT9873 J4.AK3.AJ8643.65 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ESA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Atrium"]
+[Auction "E"]
+1D X Pass 3C
+3D 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+

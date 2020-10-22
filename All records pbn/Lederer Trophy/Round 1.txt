@@ -1,0 +1,693 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK8.JT654.9632.3 93.AQ.J.QJT98762 QT762.982.QT87.K J54.K73.AK54.A54 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "W"]
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J985.K83.JT3.KQT A42.A754.Q2.A765 QT.QJ6.A9765.942 K763.T92.K84.J83 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "N"]
+DT DQ D6 D4
+CT C5 C4 C8
+DJ D2 D5 DK
+CQ CA C2 CJ
+CK C7 C9 C3
+D3 H4 D9 D8
+S9 H5 D7 H2
+H3 S2 DA S3
+H8 HA HQ H9
+HK C6 ST HT
+S5 SA SQ S6
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ65.AKJ3.J532.Q KQ732.87.KT7.AK3 T.T6542.Q64.J654 984.Q9.A98.T9872 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "E"]
+Pass 1H 1S 3H
+an PX Pass Pass
+Pass
+[Play "W"]
+CQ CA C4 C2
+HA H8 H2 HQ
+D5 D7 DQ DA
+SA S2 ST S8
+D3 DT D4 D8
+HK H7 H5 H9
+D2 DK D6 D9
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ65.AKJ3.J532.Q KQ732.87.KT7.AK3 T.T6542.Q64.J654 984.Q9.A98.T9872 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "E"]
+Pass 1D 1S Pass
+2S Pass Pass Pass
+[Play "N"]
+DJ DK D4 D8
+HK H8 H2 HQ
+S5 SK ST S4
+HJ H7 H5 H9
+SA S2 H4 S8
+S6 S3 H6 S9
+CQ CA C5 CT
+SJ SQ C4 D9
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9743.J4.9754.K64 JT.KT98.QJ82.987 K8652.Q6532.K.AT AQ.A7.AT63.QJ532 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "S"]
+Pass Pass 1S 1N
+2S X! 3S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9743.J4.9754.K64 JT.KT98.QJ82.987 K8652.Q6532.K.AT AQ.A7.AT63.QJ532 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "S"]
+Pass Pass 1S 1N
+3S X Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ9.Q2.T43.A9853 T42.JT987.KJ2.K7 K8653.3.98765.64 Q7.AK654.AQ.QJT2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "W"]
+Pass Pass 1H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ9.Q2.T43.A9853 T42.JT987.KJ2.K7 K8653.3.98765.64 Q7.AK654.AQ.QJT2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "W"]
+Pass Pass 1H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T53.AK974.KJ9.J8 K9742.J2.84.T765 8.T.AT763.AQ9432 AQJ6.Q8653.Q52.K "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "N"]
+1C X XX 1S
+2D Pass 2H 2S
+3C 3S 4C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T53.AK974.KJ9.J8 K9742.J2.84.T765 8.T.AT763.AQ9432 AQJ6.Q8653.Q52.K "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "N"]
+1C 1H 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T7.93.732.AJT932 A982.Q7.JT5.K765 543.AKJT62.KQ4.Q KQJ6.854.A986.84 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass 1N Pass 2D
+an 6! Pass 2H
+Pass 3D an Ga
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T7.93.732.AJT932 A982.Q7.JT5.K765 543.AKJT62.KQ4.Q KQJ6.854.A986.84 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "E"]
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 43.KT76.AJT4.T87 T9.A852.53.65432 AKQ52.J3.KQ9876. J876.Q94.2.AKQJ9 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "S"]
+Pass Pass 1D X
+3D Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 43.KT76.AJT4.T87 T9.A852.53.65432 AKQ52.J3.KQ9876. J876.Q94.2.AKQJ9 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "S"]
+Pass Pass 1D X
+1H Pass 1S Pass
+2D Pass 2S Pass
+4D Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9753.92.A94.QT62 842.AK76.832.874 KJ.QT843.KJ.J953 AQT6.J5.QT765.AK "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "W"]
+Pass 1H X Pass
+1N Pass 2N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9753.92.A94.QT62 842.AK76.832.874 KJ.QT843.KJ.J953 AQT6.J5.QT765.AK "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "W"]
+Pass Pass 1N Pass
+Pass 2C 2D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K74.QJT52.KT3.Q3 J5.K98.Q642.AK82 9863.73.J87.JT95 AQT2.A64.A95.764 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "N"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K74.QJT52.KT3.Q3 J5.K98.Q642.AK82 9863.73.J87.JT95 AQT2.A64.A95.764 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "N"]
+Pass 1C 1H 2H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J86.KQ986.4.7532 K975.A53.QT7.KQ9 Q3.74.AKJ9832.J8 AT42.JT2.65.AT64 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "E"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J86.KQ986.4.7532 K975.A53.QT7.KQ9 Q3.74.AKJ9832.J8 AT42.JT2.65.AT64 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "E"]
+Pass Pass 1C 3D
+X Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ5.53.A8653.KJ4 QT762.KJ9.J4.T82 983.QT64.KT7.Q65 K4.A872.Q92.A973 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ5.53.A8653.KJ4 QT762.KJ9.J4.T82 983.QT64.KT7.Q65 K4.A872.Q92.A973 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "S"]
+1D 1S X XX
+1N Pass Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lederer Trophy"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Brunner"]
+[North "Silverston"]
+[East "Goldenfiel"]
+[South "Dixon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 6532.J84.K.K9742 A987.A972.Q75.T8 KJT4.KQT.A62.A65 Q.653.JT9843.QJ3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "President"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England Ladies"]
+[Auction "W"]
+Pass 1S Pass 2S
+Pass 2N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

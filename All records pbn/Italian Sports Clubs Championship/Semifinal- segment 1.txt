@@ -1,0 +1,901 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J6.T74.AQ54.KJT6 874.A532.T87.874 AKT.J986.96.AQ92 Q9532.KQ.KJ32.53 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "N"]
+1H 1S X Pass
+1N Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+SJ S8 ST S3
+H4 HA H6 HQ
+S6 S7 SK S2
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J6.T74.AQ54.KJT6 874.A532.T87.874 AKT.J986.96.AQ92 Q9532.KQ.KJ32.53 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "N"]
+1H 1S X Pass
+1N Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+D4 DT D6 D2
+SJ S7 SA S2
+DA D7 D9 DK
+C6 C7 CA C3
+CK C4 CQ C5
+CJ C8 C2 S3
+CT S8 C9 S5
+DQ D8 H6 D3
+D5 H3 H8 DJ
+H4 H2 H9 HK
+H7 HA HJ HQ
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J643.62.KJ7.T632 KQ52.KQ93.3.A974 AT9.J85.QT985.J5 87.AT74.A642.KQ8 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "E"]
+1N Pass 2C Pass
+2H Pass 2S Pass
+3D Pass 3H Pass
+4C Pass 4D Pass
+4H Pass 4N Pass
+5H Pass 6H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J643.62.KJ7.T632 KQ52.KQ93.3.A974 AT9.J85.QT985.J5 87.AT74.A642.KQ8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "E"]
+1H Pass 1S Pass
+1N Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 983.A7.T5432.752 AKJT6.T5.A8.T864 Q75.K832.J7.AJ93 42.QJ964.KQ96.KQ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 2S Pass 2N
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 983.A7.T5432.752 AKJT6.T5.A8.T864 Q75.K832.J7.AJ93 42.QJ964.KQ96.KQ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 2S Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT43.76.AJ97.QT2 Q2.KQ.KQ654.AK43 J85.AJT954.2.J98 K976.832.T83.765 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "W"]
+1C 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT43.76.AJ97.QT2 Q2.KQ.KQ654.AK43 J85.AJT954.2.J98 K976.832.T83.765 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "W"]
+1C 2H Pass Pass
+X Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T53.8.AJ984.K764 Q8.QT63.T2.98532 AJ62.J952.Q65.AQ K974.AK74.K73.JT "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "N"]
+1H X 2D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T53.8.AJ984.K764 Q8.QT63.T2.98532 AJ62.J952.Q65.AQ K974.AK74.K73.JT "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "N"]
+1H X 2C Pass
+2D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 653.K96.A6.AQT95 KQ42.QJT5.J.KJ73 AJT97.A72.Q94.86 8.843.KT87532.42 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 953.KT984.K4.A86 42.A76.AJ95.QJ52 AKJT87.52.3.KT94 Q6.QJ3.QT8762.73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "S"]
+Pass 1N 2D Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 953.KT984.K4.A86 42.A76.AJ95.QJ52 AKJT87.52.3.KT94 Q6.QJ3.QT8762.73 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "S"]
+Pass 1D 1S 2D
+X Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QT4.T64.T63.J732 AKJ532.AKJ8.9.96 9.973.AKQJ852.84 876.Q52.74.AKQT5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "W"]
+1C 3D X Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QT4.T64.T63.J732 AKJ532.AKJ8.9.96 9.973.AKQJ852.84 876.Q52.74.AKQT5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "W"]
+1C 3D X Pass
+3S Pass 4C Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQJ4.AJ65.Q8.J65 T963.2.T9764.972 A2.KQ83.KJ.AKQ43 875.T974.A532.T8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "N"]
+1C Pass 1H Pass
+2C Pass 2H Pass
+3H Pass 3S Pass
+4C Pass 4S Pass
+6N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQJ4.AJ65.Q8.J65 T963.2.T9764.972 A2.KQ83.KJ.AKQ43 875.T974.A532.T8 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1020"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 2D Pass
+2H Pass 3H Pass
+6H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q2.T64.Q43.A7542 T8753.J8.K965.K3 6.AK753.A2.QJT96 AKJ94.Q92.JT87.8 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "E"]
+1S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q2.T64.Q43.A7542 T8753.J8.K965.K3 6.AK753.A2.QJT96 AKJ94.Q92.JT87.8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "E"]
+1S Pass 2S 2N
+Pass 3C Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T82.8754.T42.A42 AJ.KQ2.765.QJT86 Q954.AT6.K93.K95 K763.J93.AQJ8.73 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T82.8754.T42.A42 AJ.KQ2.765.QJT86 Q954.AT6.K93.K95 K763.J93.AQJ8.73 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "S"]
+Pass 1D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T52.J8754.Q85.A7 K943.AQ.AJT632.T AJ7.2.K74.K98632 Q86.KT963.9.QJ54 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "W"]
+1D 2C Pass Pass
+2S Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T52.J8754.Q85.A7 K943.AQ.AJT632.T AJ7.2.K74.K98632 Q86.KT963.9.QJ54 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "W"]
+1S 2C Pass Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 2.K4.AK94.AK7642 543.AT752.8532.T AKQJT8.6.T7.Q983 976.QJ983.QJ6.J5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "N"]
+1S Pass 2C Pass
+3C Pass 4N Pass
+5D Pass 6C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 2.K4.AK94.AK7642 543.AT752.8532.T AKQJT8.6.T7.Q983 976.QJ983.QJ6.J5 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "N"]
+1S Pass 2C Pass
+2S Pass 3C Pass
+3S Pass 3N Pass
+4C Pass 4D Pass
+4H Pass 4N Pass
+5C Pass 6C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q75.764.T8762.A7 8.K.J543.QJT8632 KJT2.53.AKQ9.954 A9643.AQJT982.K."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "E"]
+1C Pass 1H Pass
+2H Pass 3C Pass
+3S Pass 5C Pass
+5H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q75.764.T8762.A7 8.K.J543.QJT8632 KJT2.53.AKQ9.954 A9643.AQJT982.K."]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "E"]
+1S Pass 1N Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T9.AT8.97543.T85 A643.QJ5432.K8.Q KJ875.Q62.A9432.Q2 K976.AJT.KJ76."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "S"]
+Pass 1H 1S 2N
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T9.AT8.97543.T85 A643.QJ5432.K8.Q KJ875.Q62.A9432.Q2 K976.AJT.KJ76."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Sports Clubs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Camerini"]
+[North "Croci"]
+[East "Mina"]
+[South "Johansson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 76432.742.A63.94 KQJ5.AJ83.Q.AQJ6 8.QT96.KT875.K82 AT9.K5.J942.T753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Fanfulla LO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio Emilia"]
+[Auction "W"]
+1C Pass 1S Pass
+2C Pass 3C Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

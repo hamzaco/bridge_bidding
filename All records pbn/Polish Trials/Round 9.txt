@@ -1,0 +1,299 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "PUCZYNSKI"]
+[North "KOTOROWICZ"]
+[East "STARKOWSKI"]
+[South "KALITA"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A643.A9543.AJ3.T Q75.QT7.QT7.KQ95 KT8.86.96.AJ8643 J92.KJ2.K8542.72 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "KALITA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "S"]
+1H Pass 1N Pass
+Pass Pass
+[Play "E"]
+D3 DT D6 D4
+DJ DQ D9 D5
+DA D7 C3 D8
+CT CQ CA C2
+HA H7 H6 HJ
+H3 HT H8 HK
+H4 S7 C4 DK
+S3 C5 S8 D2
+S4 SQ SK S2
+SA S5 ST SJ
+S6 C9 C6 S9
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "PUCZYNSKI"]
+[North "KOTOROWICZ"]
+[East "STARKOWSKI"]
+[South "KALITA"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A643.A9543.AJ3.T Q75.QT7.QT7.KQ95 KT8.86.96.AJ8643 J92.KJ2.K8542.72 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "KALITA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "S"]
+1H Pass 1N Pass
+Pass Pass
+[Play "E"]
+D3 DT D6 D4
+DJ DQ D9 D2
+DA D7 C3 D8
+S3 S7 ST SJ
+H3 S5 C4 DK
+H4 C5 C6 D5
+S4 SQ SK S9
+SA C9 S8 S2
+S6 H7 H6 C2
+CT CK CA C7
+HA HT H8 H2
+H5 HQ C8 HK
+H9 CQ CJ HJ
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "PUCZYNSKI"]
+[North "KOTOROWICZ"]
+[East "STARKOWSKI"]
+[South "KALITA"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT32.J52.A92.T73 94.AT93.75.KQJ86 KJ86.KQ86.T4.542 Q75.74.KQJ863.A9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "KALITA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 2D Pass
+3C Pass 3D Pass
+Pass Pass
+[Play "S"]
+H5 H3 HQ H4
+ST S4 S6 S7
+H2 HA H6 H7
+C7 C6 C5 CA
+CT CK C4 C9
+C3 CQ C2 S5
+D2 D5 D4 DJ
+DA D7 DT DK
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "PUCZYNSKI"]
+[North "KOTOROWICZ"]
+[East "STARKOWSKI"]
+[South "KALITA"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT32.J52.A92.T73 94.AT93.75.KQJ86 KJ86.KQ86.T4.542 Q75.74.KQJ863.A9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "KALITA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 2D Pass
+3C Pass 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "PUCZYNSKI"]
+[North "KOTOROWICZ"]
+[East "STARKOWSKI"]
+[South "KALITA"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q84.Q82.98765.Q3 K6.7653.AQJT.854 J532.AKJT4.43.KJ AT97.9.K2.AT9762 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "KALITA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "N"]
+1H 2C Pass 2H
+X 2S Pass 3C
+Pass 5C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "PUCZYNSKI"]
+[North "KOTOROWICZ"]
+[East "STARKOWSKI"]
+[South "KALITA"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q84.Q82.98765.Q3 K6.7653.AQJT.854 J532.AKJT4.43.KJ AT97.9.K2.AT9762 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "KALITA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "N"]
+1H X 2D an
+  X 2H Pass
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "PUCZYNSKI"]
+[North "KOTOROWICZ"]
+[East "STARKOWSKI"]
+[South "KALITA"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK.T74.J2.AQJ842 865.AK953.8753.K Q743.6.KQ4.T9753 JT92.QJ82.AT96.6 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "KALITA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "E"]
+Pass 1C 1H X!
+an 4! 4H 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "PUCZYNSKI"]
+[North "KOTOROWICZ"]
+[East "STARKOWSKI"]
+[South "KALITA"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK.T74.J2.AQJ842 865.AK953.8753.K Q743.6.KQ4.T9753 JT92.QJ82.AT96.6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "KALITA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "E"]
+Pass 1C 1H X!
+2N 3C Pass Pass
+3H Pass Pass 4C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "PUCZYNSKI"]
+[North "KOTOROWICZ"]
+[East "STARKOWSKI"]
+[South "KALITA"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ843.K8.J652.54 AQT65.K9743.A92.AQ976 942.AQ.T83. T52.J73.T8.KQJ76 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "KALITA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "S"]
+Pass 1H 1S 2C
+3S 4C Pass Pass
+Pass
+[Play "S"]
+*
+
+

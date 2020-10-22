@@ -1,0 +1,983 @@
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[HomeTeam "Jacobs"]
+[VisitTeam "Schwartz"]
+[Board "17"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:K9.QJT76.7542.K2 JT7.A982.K.JT654 Q6543.K5.A9.9873 A82.43.QJT863.AQ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "N"]
+Pass  1D    1H    1NT
+X     2D    Pass  Pass
+2H    3D    Pass  Pass
+Pass  
+[Play "S"]
+CK C4 C7 CA 
+C2 C5 C3 CQ 
+D5 DK DA D3 
+H6 HA HK H3 
+D2 CJ C8 H4 
+SK S7 S3 SA 
+D4 H2 -  DQ 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "17"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:K9.QJT76.7542.K2 JT7.A982.K.JT654 Q6543.K5.A9.9873 A82.43.QJT863.AQ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Auction "N"]
+Pass  1D    1H    1NT
+X     2D    Pass  Pass
+Pass  
+[Play "S"]
+HJ HA H5 H3 
+D2 DK DA D3 
+H6 H2 HK H4 
+C2 C4 C3 CA 
+D4 H8 D9 DQ 
+D5 C5 C7 DJ 
+D7 H9 C8 DT 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "18"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:A852.Q3.J74.JT85 7.K8.KT852.A9743 QJ94.AT652.A3.Q2 KT63.J974.Q96.K6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "E"]
+Pass  Pass  1D    1H
+X     2H!   Pass  Pass
+3D    Pass  Pass  Pass
+[Play "N"]
+SQ S3 S5 S7 
+S4 ST SA D2 
+C2 CK C5 C3 
+SJ SK S2 H8 
+CQ C6 CT CA 
+S9 D6 C8 C7 
+HA H4 H3 HK 
+H5 HJ HQ D5 
+H2 D9 CJ C9 
+H6 H7 DJ DK 
+HT DQ S8 C4 
+DA H9 D7 D8 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "18"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:A852.Q3.J74.JT85 7.K8.KT852.A9743 QJ94.AT652.A3.Q2 KT63.J974.Q96.K6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Auction "E"]
+Pass  Pass  1D    1H
+X     Pass  2C    Pass
+2D    Pass  Pass  Pass
+[Play "N"]
+SJ -  -  -  
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "19"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:QJ964.AK754.J8.A 72..AKQ53.T87652 AT5.JT6.964.KQJ4 K83.Q9832.T72.93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS 200"]
+[Auction "S"]
+1S    2NT   X!    3D
+3H    Pass  3S    Pass
+Pass  Pass  
+[Play "W"]
+DK D4 D7 D8 
+D5 D6 DT DJ 
+C2 C4 C3 CA 
+S2 SA S3 S4 
+C8 CJ C9 H4 
+C7 CQ D2 H5 
+C5 CK S8 S9 
+S7 S5 SK SQ 
+CT -  H2 HA 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "19"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:QJ964.AK754.J8.A 72..AKQ53.T87652 AT5.JT6.964.KQJ4 K83.Q9832.T72.93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "S"]
+1S    2NT   X     3D
+3H    Pass  3S    Pass
+4H    Pass  Pass  Pass
+[Play "W"]
+DQ D4 D7 D8 
+DK D6 D2 DJ 
+DA D9 DT H4 
+C8 H6 H3 HA 
+C7 C4 C3 CA 
+S2 ST SK S4 
+S7 SA S3 S6 
+C2 CK C9 S9 
+C5 HJ HQ HK 
+D5 S5 -  SQ 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "20"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:T94.KT.75.AKT853 K87632.AJ8762..2 AJ5.Q953.QJ3.J64 Q.4.AKT98642.Q97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "W"]
+1S    Pass  2D    Pass
+2H    Pass  3D    Pass
+3H    Pass  4D    Pass
+Pass  Pass  
+[Play "S"]
+CK C2 C4 C7 
+CA S2 C6 C9 
+C5 H2 CJ CQ 
+D5 S3 D3 DA 
+D7 H6 DJ DK 
+C3 S6 DQ D9 
+HK HA H3 H4 
+-  S7 SA SQ 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "20"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:T94.KT.75.AKT853 K87632.AJ8762..2 AJ5.Q953.QJ3.J64 Q.4.AKT98642.Q97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS 300"]
+[Auction "W"]
+1S    Pass  2D    Pass
+2H    Pass  3D    Pass
+3H    Pass  4D    Pass
+4H    Pass  Pass  Pass
+[Play "N"]
+C4 C7 CK C2 
+DJ DA D5 S2 
+SA SQ ST S3 
+H3 H4 HK HA 
+S5 D2 S4 SK 
+SJ D4 S9 S8 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "21"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:QJ84.AT875.T92.9 K97.K963.AQ64.AQ AT63.QJ2.J3.K754 52.4.K875.JT8632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "N"]
+Pass  Pass  Pass  1D
+Pass  3D!   X     XX
+3S    Pass  Pass  Pass
+[Play "E"]
+H4 HA H3 H2 
+S2 SQ S7 S3 
+S5 S4 S9 ST 
+C2 H5 HK HQ 
+D8 D2 DA D3 
+DK D9 D4 DJ 
+D5 DT DQ -  
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "21"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:QJ84.AT875.T92.9 K97.K963.AQ64.AQ AT63.QJ2.J3.K754 52.4.K875.JT8632"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "4"]
+[Score "NS 250"]
+[Auction "N"]
+Pass  3C    Pass  3NT
+Pass  Pass  Pass  
+[Play "N"]
+HQ H4 H5 HK 
+D3 DK D2 D4 
+CK C2 C9 CQ 
+HJ S2 H7 H3 
+H2 C3 HA H6 
+C4 C6 HT H9 
+C5 S5 H8 S7 
+SA D5 SQ SK 
+S3 C8 SJ S9 
+-  -  S8 -  
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "22"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:AT9865.A.Q5.Q642 74.KT763.J63.AJ3 KQ3.Q9852.T87.T7 J2.J4.AK942.K985"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "E"]
+1D    1S    X     2H!
+Pass  3C    Pass  3S
+Pass  Pass  Pass  
+[Play "W"]
+S4 S3 SJ SA 
+H3 H2 H4 HA 
+C3 CT CK C4 
+S7 SQ S2 S5 
+H6 H5 HJ S6 
+D3 D7 D9 D5 
+D6 D8 DK DQ 
+CJ C7 C9 C2 
+DJ DT DA S8 
+CA SK -  CQ 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "22"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:AT9865.A.Q5.Q642 74.KT763.J63.AJ3 KQ3.Q9852.T87.T7 J2.J4.AK942.K985"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "E"]
+1D    1S    X     2S
+3C    3S    Pass  Pass
+Pass  
+[Play "W"]
+D3 D7 DK D5 
+D6 D8 DA DQ 
+CJ C7 C5 C2 
+S4 S3 SJ SA 
+H3 H2 H4 HA 
+CA CT C8 C4 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "23"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:A654.A42.K4.Q832 KQJ.J9.852.K7654 T7.KT65.AQJ963.9 9832.Q873.T7.AJT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Auction "S"]
+1C    Pass  1D    Pass
+1S    Pass  3D    Pass
+3NT   Pass  Pass  Pass
+[Play "W"]
+SK S7 S3 SA 
+D2 D3 D7 DK 
+D5 DA DT D4 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "23"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:A654.A42.K4.Q832 KQJ.J9.852.K7654 T7.KT65.AQJ963.9 9832.Q873.T7.AJT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Auction "S"]
+1C!   Pass  1D!   Pass
+1H!   Pass  1S!   Pass
+1NT!  Pass  3D!   Pass
+3NT   Pass  Pass  Pass
+[Play "W"]
+SQ S7 S3 SA 
+D2 D3 D7 DK 
+D5 DA DT D4 
+D8 DQ S2 S4 
+C4 DJ H8 S5 
+-  D9 -  -  
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "24"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:KQ3.KT84.752.Q52 9.AQJ765.T.AK863 AJT874..KQJ98.J7 652.932.A643.T94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "9"]
+[Score "NS 150"]
+[Auction "W"]
+1H    1S    2H    2S
+4C    4S    Pass  Pass
+4NT   Pass  5D    Pass
+5H    5S    Pass  Pass
+6H    Pass  Pass  Pass
+[Play "N"]
+DK DA D2 DT 
+S7 H2 H4 HJ 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "24"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:KQ3.KT84.752.Q52 9.AQJ765.T.AK863 AJT874..KQJ98.J7 652.932.A643.T94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "W"]
+1H    2NT!  Pass  3C
+X     3S    Pass  4S
+Pass  Pass  Pass  
+[Play "E"]
+C4 C5 CK C7 
+DA D2 DT DQ 
+D3 D5 S9 D8 
+C9 C2 CA CJ 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "25"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:T9752.J4.JT853.T A.A75.AQ742.9532 KQJ6.QT6.96.K874 843.K9832.K.AQJ6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "N"]
+Pass  1H    1NT   X
+Pass  2C    Pass  4H
+Pass  Pass  Pass  
+[Play "S"]
+DJ D2 D6 DK 
+H4 H7 HT H2 
+CT C2 C7 CQ 
+HJ H5 H6 HK 
+S2 HA HQ H3 
+D3 DA D9 S4 
+D5 DQ S6 S3 
+S5 C9 CK CA 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "25"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:T9752.J4.JT853.T A.A75.AQ742.9532 KQJ6.QT6.96.K874 843.K9832.K.AQJ6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "N"]
+1NT!  Pass  2H    Pass
+3D!   Pass  3H!   Pass
+3S    Pass  Pass  Pass
+[Play "E"]
+S3 S2 SA SK 
+DK D3 DA D6 
+H8 H4 HA H6 
+H2 D5 DQ D9 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "26"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:AJT984.T2.A97.54 2.AKQ654.QT.T832 KQ6.J87.K43.KJ96 753.93.J8652.AQ7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "E"]
+Pass  2S    3H    3S
+Pass  Pass  Pass  
+[Play "W"]
+HK H7 H9 H2 
+HA H8 H3 HT 
+DQ D3 D2 DA 
+S2 SK S3 S4 
+H4 S6 S5 SJ 
+H5 SQ S7 S8 
+H6 HJ D6 S9 
+C8 CJ CQ C4 
+DT DK D5 D9 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "26"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:AJT984.T2.A97.54 2.AKQ654.QT.T832 KQ6.J87.K43.KJ96 753.93.J8652.AQ7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "E"]
+Pass  2S    3H    3S
+Pass  4S    Pass  Pass
+Pass  
+[Play "W"]
+HQ H7 H3 H2 
+HA H8 H9 HT 
+HK HJ D6 S8 
+C2 C9 CQ C4 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "27"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:J74.J3.A976.K532 AQ95.872.43.Q974 2.AT954.JT85.AT6 KT863.KQ6.KQ2.J8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "S"]
+Pass  Pass  Pass  1S
+Pass  2C    Pass  2D
+Pass  2S    Pass  Pass
+Pass  
+[Play "S"]
+C3 C4 CA C8 
+H3 H2 H4 HQ 
+S4 SA S2 S3 
+S7 S5 HT SK 
+SJ SQ H5 S6 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "27"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:J74.J3.A976.K532 AQ95.872.43.Q974 2.AT954.JT85.AT6 KT863.KQ6.KQ2.J8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "S"]
+Pass  Pass  1H    1S
+X     3H!   Pass  3S
+Pass  Pass  Pass  
+[Play "S"]
+HJ H2 H4 HK 
+S4 SA S2 S3 
+S7 S5 H5 SK 
+SJ SQ D5 S6 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "28"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:AK.T7.KQ32.JT976 JT9832.J98.86.82 76.Q65432.AJ5.K4 Q54.AK.T974.AQ53"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "W"]
+Pass  Pass  2S    Pass
+Pass  Pass  
+[Play "S"]
+DK -  -  -  
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "28"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:AK.T7.KQ32.JT976 JT9832.J98.86.82 76.Q65432.AJ5.K4 Q54.AK.T974.AQ53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "W"]
+2S    Pass  2NT!  Pass
+3D!   Pass  3S    Pass
+Pass  Pass  
+[Play "N"]
+CK CA C6 C2 
+H2 HA H7 H8 
+H3 HK HT H9 
+C4 CQ C7 C8 
+H4 C3 C9 SJ 
+HQ S4 SK HJ 
+S7 S5 SA S2 
+D5 D4 DK D6 
+DJ D7 D2 D8 
+DA -  -  -  
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "29"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:A82.QT2.KT652.A7 QJ96543.876.J.53 .94.A943.KJT9862 KT7.AKJ53.Q87.Q4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "8"]
+[Score "NS 500"]
+[Auction "N"]
+3C    3H    3NT   4H
+X     Pass  Pass  Pass
+[Play "S"]
+CA C3 CJ C4 
+SA S3 C9 S7 
+S8 S4 H4 ST 
+D2 DJ DA D7 
+DK H6 D3 DQ 
+H2 H7 H9 HA 
+D5 H8 D4 D8 
+-  SQ C2 -  
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "29"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:A82.QT2.KT652.A7 QJ96543.876.J.53 .94.A943.KJT9862 KT7.AKJ53.Q87.Q4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "11"]
+[Score "NS 150"]
+[Auction "N"]
+Pass  1NT   Pass  3H!
+Pass  3S    Pass  Pass
+4C    Pass  Pass  Pass
+[Play "E"]
+HA H2 H8 H9 
+HK HT H6 H4 
+SK SA S6 D3 
+S7 S2 SJ C8 
+CQ -  -  CJ 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "30"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:T95.762.Q2.KJ862 AKJ64.Q98.AJ65.9 Q.KJT53.K9743.T4 8732.A4.T8.AQ753"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "E"]
+Pass  Pass  1S    Pass
+2C!   Pass  2D!   2H
+4S    Pass  Pass  Pass
+[Play "N"]
+HJ H4 H7 HQ 
+SQ S2 S5 SA 
+H5 HA H2 H9 
+D3 D8 D2 DA 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "30"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:T95.762.Q2.KJ862 AKJ64.Q98.AJ65.9 Q.KJT53.K9743.T4 8732.A4.T8.AQ753"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "E"]
+Pass  Pass  1S    Pass
+2D!   Pass  4S    Pass
+Pass  Pass  
+[Play "N"]
+HT H4 H6 HQ 
+H3 HA H2 H8 
+DK D8 D2 DJ 
+CT CA C2 C9 
+D3 DT DQ DA 
+HJ S2 H7 H9 
+C4 C3 CJ S4 
+D7 S8 S9 D5 
+SQ C5 CK S6 
+D9 S7 -  -  
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "31"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:AK8.T4.982.KT953 9763.AK76.T5.AQ7 QT54.Q983.KJ6.42 J2.J52.AQ743.J86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Auction "S"]
+Pass  1C    Pass  1NT
+Pass  Pass  Pass  
+[Play "S"]
+SA S3 S4 S2 
+SK S6 S5 SJ 
+S8 S9 ST C6 
+C3 S7 SQ C8 
+CK CA C4 CJ 
+H4 H6 HQ H2 
+CT CQ C2 D4 
+HT H7 H3 HJ 
+D2 HK H8 H5 
+D9 HA H9 D3 
+D8 D5 D6 DQ 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "31"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:AK8.T4.982.KT953 9763.AK76.T5.AQ7 QT54.Q983.KJ6.42 J2.J52.AQ743.J86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Auction "S"]
+Pass  1C    Pass  1D
+Pass  1H    Pass  1NT
+Pass  Pass  Pass  
+[Play "S"]
+C3 C7 C2 C8 
+H4 HA H3 H2 
+HT H6 HQ H5 
+SK S3 S4 S2 
+SA S6 S5 SJ 
+S8 S7 ST D3 
+C5 S9 SQ D4 
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "32"]
+[West "Katz"]
+[North "Becker"]
+[East "Jacobs"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:AQJT2.A.932.8743 K95.Q873.KQ76.J9 863.965.AJT.AKT2 74.KJT42.854.Q65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "W"]
+Pass  1C    Pass  1S
+Pass  1NT   Pass  2D!
+Pass  2S    Pass  4S
+Pass  Pass  Pass  
+[Play "W"]
+DK DA D4 D2 
+S5 S3 S7 SQ 
+CJ CA C5 C3 
+SK S6 S4 SJ 
+DQ DT D8 D3 
+C9 CK -  -  
+*
+
+[Event "2004 Vanderbilt"]
+[Site "Vandy2I1732"]
+[Date ""]
+[Board "32"]
+[West "Robinson"]
+[North "Bocchi"]
+[East "Boyd"]
+[South "Duboin"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:AQJT2.A.932.8743 K95.Q873.KQ76.J9 863.965.AJT.AKT2 74.KJT42.854.Q65"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "W"]
+Pass  1NT!  Pass  2H!
+Pass  2S    Pass  3C
+Pass  3S    Pass  4S
+Pass  Pass  Pass  
+[Play "E"]
+HT HA H8 H5 
+D4 D2 D6 DT 
+C5 C3 C9 CA 
+S4 SJ S5 S3 
+S7 SA S9 S6 
+D8 D3 DQ DA 
+*

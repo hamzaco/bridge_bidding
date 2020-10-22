@@ -1,0 +1,453 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q83.J942.J83.J76 AK95.Q653.92.A84 J762.K.K76.KT532 T4.AT87.AQT54.Q9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "N"]
+2C Pass Pass X
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+C7 C4 CK C9
+D3 D2 D6 DA
+H2 H3 HK HA
+C6 C8 C2 CQ
+S3 SA S2 ST
+D8 D9 DK D4
+SQ SK S6 S4
+S8 S5 S7 H7
+DJ CA D7 DQ
+H9 HQ C3 DT
+HJ S9 SJ HT
+CJ H5 C5 D5
+H4 H6 CT H8
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q83.J942.J83.J76 AK95.Q653.92.A84 J762.K.K76.KT532 T4.AT87.AQT54.Q9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+C6 C4 C2 CQ
+S3 SA S7 S4
+D3 D9 D6 DQ
+D8 D2 D7 DA
+DJ H3 DK D4
+H2 H5 HK HA
+H9 HQ C5 DT
+HJ H6 S2 H7
+CJ CA C3 C9
+C7 C8 CT H8
+S8 SK S6 ST
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K65.KJ.KJ743.KQ5 J93.T.Q98.AT9873 AQT874.Q854.6.J6 2.A97632.AT52.42 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "E"]
+2H X Pass Pass
+Pass
+[Play "S"]
+CK CA C6 C2
+HJ HT H4 H2
+CQ C3 CJ C4
+DJ DQ D6 D2
+C5 CT H8 H9
+HK S3 H5 HA
+D3 D8 HQ D5
+S5 S9 SA S2
+SK SJ SQ H3
+D4 C7 S4 H6
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K65.KJ.KJ743.KQ5 J93.T.Q98.AT9873 AQT874.Q854.6.J6 2.A97632.AT52.42 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "E"]
+Pass 1N Pass 4H
+X Pass Pass 4S
+Pass Pass Pass
+[Play "E"]
+HJ HT H5 HA
+DK D8 D6 D5
+S5 S3 SA S2
+SK S9 S4 H6
+D3 D9 S7 D2
+S6 SJ SQ H3
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 72.AJ7.9543.QT95 QJT543.Q64.A7.62 6.T983.QJ862.A43 AK98.K52.KT.KJ87 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "S"]
+Pass 2D Pass 4H
+an   Pass 4S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJT542.952.4.AK9 AJ8643.QT3.J642.AQ9763 KJ9876.T..8 KQT7.A52.Q8753."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "W"]
+2H 3H an 5+
+X 4S Pass 4N
+5H X Pass 5S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJT542.952.4.AK9 AJ8643.QT3.J642.AQ9763 KJ9876.T..8 KQT7.A52.Q8753."]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "W"]
+2D 2S 4H 4N
+Pass 6D Pass 6S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQT964.7.A76.QJ4 8.QT632.JT92.963 A7.98.K853.AKT72 J532.AKJ54.Q4.85 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "N"]
+1D 1H 2S an
+FG 4H 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQT964.7.A76.QJ4 8.QT632.JT92.963 A7.98.K853.AKT72 J532.AKJ54.Q4.85 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "N"]
+1D 1H 1S 3H
+X! Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 75.J653.KJ3.AK43 AKQ96.AK8.Q762.6 J843.T2.A54.Q872 T2.Q974.T98.JT95 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "E"]
+Pass 1C X Pass
+1D Pass 1S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 75.J653.KJ3.AK43 AKQ96.AK8.Q762.6 J843.T2.A54.Q872 T2.Q974.T98.JT95 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "E"]
+Pass 1N X Pa
+Pass XX Pass 2C
+Pass Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKT.AT972.AK8.AQ KJ54.Q964.K7652.82 Q83.J732.T843. QJ976543.6.T5.J9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "S"]
+1C 1H an 3-
+Pass 1S an  
+X an 18 1N
+Pass 2S X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKT.AT972.AK8.AQ KJ54.Q964.K7652.82 Q83.J732.T843. QJ976543.6.T5.J9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "S"]
+1C 1N Pass 2S
+3N Pass Pass 4S
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Borevkovic"]
+[North "Stoklasek"]
+[East "Zoric"]
+[South "Szyszkowsk"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQJ963.J3.QJ.754 T5.QT95.87.AKQJ9 K87.A42.KT6.T863 42.K876.A95432.2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lancia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tesla"]
+[Auction "W"]
+1C an 11 Pass
+1D 1S 2H 2S
+3H Pass Pass 3S
+Pass Pass Pass
+[Play "S"]
+*
+
+

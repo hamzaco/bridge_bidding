@@ -1,0 +1,809 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKJ97.JT.J62.AQ9 Q543.987.AT5.J73 6.KQ5432.KT8652.T82 A6.KQ98743.4."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H 3D X Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "E"]
+D5 H2 DK D2
+HT H7 H3 HA
+D6 DA H4 D9
+HJ H8 H5 H6
+CA C3 C2 C4
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKJ97.JT.J62.AQ9 Q543.987.AT5.J73 6.KQ5432.KT8652.T82 A6.KQ98743.4."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 3D 3S 4D
+4H Pass Pass Pass
+[Play "E"]
+CQ C3 C5 C4
+HJ H7 H3 HA
+D2 DA H2 D3
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A742.43.AKT6.986 K83.T96.J93.KQ53 QT95.AQJ5.8.JT72 J6.K872.Q7542.A4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A742.43.AKT6.986 K83.T96.J93.KQ53 QT95.AQJ5.8.JT72 J6.K872.Q7542.A4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A74.42.A65.QT874 QJ95.9853.7.J963 T3.KQ76.Q9832.A5 K862.AJT.KJT4.K2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1H an
+we X XX 1S
+Pass Pass 1N Pass
+Pass 2S Pass Pass
+3D Pass 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A74.42.A65.QT874 QJ95.9853.7.J963 T3.KQ76.Q9832.A5 K862.AJT.KJT4.K2 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1H 1N
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T54.QT.AJ986.KJ3 KQJ62.854.73.T52 A8.A963.KQT.A874 973.KJ72.542.Q96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1N Pass 2C
+an no Pass 2H
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T54.QT.AJ986.KJ3 KQJ62.854.73.T52 A8.A963.KQT.A874 973.KJ72.542.Q96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT9.KJT6.KJ87.QJ A542.A82.A95.K95 J.Q95.T642.A6432 K8763.743.Q3.T87 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1D X
+2D 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT9.KJT6.KJ87.QJ A542.A82.A95.K95 J.Q95.T642.A6432 K8763.743.Q3.T87 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1D X
+2D 2S Pass Pass
+3C Pass 3D X
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT7.QT98.Q62.82 A.AKJ742.KJ85.J3 Q832.6.73.KQT954 9654.53.AT94.A76 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1H 2C
+X an ne Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT7.QT98.Q62.82 A.AKJ742.KJ85.J3 Q832.6.73.KQT954 9654.53.AT94.A76 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1H 3C
+X Pass 4D Pass
+5D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT8765.AQT7.976.KQ72 Q94.K93.J42.T954 32.J642.AK3.AJ863 AK.85.QT85."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2D an mu Pass
+2H an Pa 2S
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT8765.AQT7.976.KQ72 Q94.K93.J42.T954 32.J642.AK3.AJ863 AK.85.QT85."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2D an mu Pass
+2H 2S Pass 3S
+Pass 4S Pass Pass
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J84.A4.KJ872.862 AKT95.Q3.AQ964.7 Q.KJT962.T.JT954 7632.875.53.AKQ3 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S 3H an we
+3S 4H 4S 5H
+Pass an fo Pass
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J84.A4.KJ872.862 AKT95.Q3.AQ964.7 Q.KJT962.T.JT954 7632.875.53.AKQ3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S 3H 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 74.8654.AT6.AK93 T85.J73.J732.542 A963.AK92.K95.Q6 KQJ2.QT.Q84.JT87 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass 3C an
+Pa Pass 3D an
+at Pass 3S an
+4! Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 74.8654.AT6.AK93 T85.J73.J732.542 A963.AK92.K95.Q6 KQJ2.QT.Q84.JT87 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K83.A6.AJ6.AQT92 QJ42.J74.Q975.J3 65.KQT93.KT2.854 AT97.852.843.K76 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2N Pass 3H
+an 5  Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K83.A6.AJ6.AQT92 QJ42.J74.Q975.J3 65.KQT93.KT2.854 AT97.852.843.K76 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C Pass 1D
+an tX Pass 2N
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QT.T94.KQJ43.T62 32.873.T72.AK853 A765.KJ62.A86.94 KJ984.AQ5.95.QJ7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1H 1S
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QT.T94.KQJ43.T62 32.873.T72.AK853 A765.KJ62.A86.94 KJ984.AQ5.95.QJ7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1D 1S
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT97.K87.82.8743 A5432.T96.AJT5.T KJ8.QJ32.974.Q62 6.A54.KQ63.AKJ95 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 2D Pass
+3D Pass 3H Pass
+3S Pass 4D Pass
+4S Pass 5D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT97.K87.82.8743 A5432.T96.AJT5.T KJ8.QJ32.974.Q62 6.A54.KQ63.AKJ95 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 2D Pass
+3D Pass 3H Pass
+3S Pass 4C Pass
+4D Pass 4H X
+6D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ2.KQT74.T83.73 J763.86.AKQ9.AT9 4.AJ9.542.K86542 AT985.532.J76.QJ "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1H X
+1N an !c 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ2.KQT74.T83.73 J763.86.AKQ9.AT9 4.AJ9.542.K86542 AT985.532.J76.QJ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1H X
+2C an 8+  n
+2S Pass Pass 3C
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Lebovits"]
+[North "Fohrer"]
+[East "Lengy"]
+[South "Birman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A543.A73.A92.AQ2 JT6.JT.T.T976543 K987.Q962.QJ63.J Q2.K854.K8754.K8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 2S
+an in  w Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+

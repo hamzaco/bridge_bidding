@@ -1,0 +1,680 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 863.42.97542.985 Q952.KJT753.AK2.AKJT74 Q9.83.743."]
+[Declarer "W"]
+[Contract "7"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "N"]
+2S X 3S 6H
+Pass 6S Pass 7H
+Pass Pass Pass
+[Play "N"]
+H6 S3 S5 SA
+D7 H5 D3 D6
+H2 H3 H9 HA
+H4 HJ HQ H8
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 863.42.97542.985 Q952.KJT753.AK2.AKJT74 Q9.83.743."]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "N"]
+1S X Pass 2S
+Pass 3D Pass 4H
+Pass 5S Pass 6D
+Pass 6H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q97.KT652.72.Q87 JT862.QT93.KJT2.AK5 Q84.K65.A953."]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "E"]
+1H Pass 1S X
+Pass 1N Pass 2N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q97.KT652.72.Q87 JT862.QT93.KJT2.AK5 Q84.K65.A953."]
+[Declarer "N"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "E"]
+Pass Pass Pass 1N
+2C Pass 2D Pass
+Pass X Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 642.J5.AQT75.J94 875.K7642.J2.T83 T93.AQ98.94.Q762 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 642.J5.AQT75.J94 875.K7642.J2.T83 T93.AQ98.94.Q762 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -70"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ9.K975.83.J854 A8743.86.AQ7.A96 J652.T32.K92.KT7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "W"]
+1S Pass 1N Pass
+2C Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ9.K975.83.J854 A8743.86.AQ7.A96 J652.T32.K92.KT7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "W"]
+1S Pass 1N Pass
+2C Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQT53.J2.932.K92 987.K65.AT4.A863 4.T743.KQ5.QJ754 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "N"]
+Pass 1D 1S X
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQT53.J2.932.K92 987.K65.AT4.A863 4.T743.KQ5.QJ754 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "N"]
+Pass 1D 1S 2C
+Pass 2D Pass 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T3.A84.KJ73.QJT4 9542.K652.Q5.953 A8.QJT3.A42.AK87 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 2C Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T3.A84.KJ73.QJT4 9542.K652.Q5.953 A8.QJT3.A42.AK87 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J76432.5.K4.T964 T.AJ942.T98.Q873 AK98.QT3.AQJ5.AK "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "S"]
+Pass Pass 2C Pass
+2H Pass 2N Pass
+3H X 4S Pass
+5D Pass 5S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J76432.5.K4.T964 T.AJ942.T98.Q873 AK98.QT3.AQJ5.AK "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "S"]
+Pass Pass 2C Pass
+2D Pass 2N Pass
+3H Pass 4S Pass
+4N Pass 5C Pass
+6S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T983.J7.KQ64.AQ2 KQ52.QT54.5.9876 AJ6.82.873.KJT43 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "W"]
+Pass Pass 1H X
+3H 4C 4D Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T983.J7.KQ64.AQ2 KQ52.QT54.5.9876 AJ6.82.873.KJT43 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "W"]
+Pass Pass 1H X
+4H X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KT943.T9.T2.KT32 AJ87.632.K74.A94 2.AKQ854.QJ83.Q6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "N"]
+1H Pass 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KT943.T9.T2.KT32 AJ87.632.K74.A94 2.AKQ854.QJ83.Q6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "N"]
+1H Pass 1S Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQT863.AT2.Q5.64 A72.Q.A864.AKQT9 95.854.JT97.J732 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "E"]
+Pass 2S 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQT863.AT2.Q5.64 A72.Q.A864.AKQT9 95.854.JT97.J732 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "E"]
+2H 2S 2N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQJ654.92.KJ6.84 KT8.5432.AKQ953. A82.QJ74.AT8.J72 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "S"]
+2S 3C 3S Pass
+Pass 4C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQJ654.92.KJ6.84 KT8.5432.AKQ953. A82.QJ74.AT8.J72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "S"]
+3S 4C 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Hu"]
+[North "Branco"]
+[East "Wang"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJ75.AJ97.5.8732 AQ32.5.A9.AQT964 T984.KT3.KQJ842."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "China"]
+[Auction "W"]
+1C X 1H Pass
+1S Pass 2C Pass
+2D Pass 2H Pass
+3D Pass 3H Pass
+5C Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+

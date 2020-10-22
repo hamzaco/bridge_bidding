@@ -1,0 +1,907 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K.97654.AKJ42.73 QJ9742.3.Q87.K94 T853.A82.965.T82 A6.KQJT.T3.AQJ65 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+Pass 1C 1D 1H
+Pass 2H Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+DK D7 D5 D3
+DA D8 D6 DT
+H4 H3 HA HT
+H5 S2 H8 HQ
+SK SQ S3 S6
+H6 C4 H2 HJ
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K.97654.AKJ42.73 QJ9742.3.Q87.K94 T853.A82.965.T82 A6.KQJT.T3.AQJ65 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+Pass 1C 1H 1S
+Pass 2N Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J2.QT98.73.AQ653 6.A7543.AQ4.K984 QT9.KJ62.J9865.2 AK87543.KT2.JT7."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+1S Pass 2H Pass
+2S Pass 3C Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J2.QT98.73.AQ653 6.A7543.AQ4.K984 QT9.KJ62.J9865.2 AK87543.KT2.JT7."]
+[Declarer "W"]
+[Contract "6"]
+[Result "8"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+1S Pass 2C Pass
+2S Pass 3D Pass
+4C Pass 5C Pass
+6C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT32.3.Q9732.AK6 AJ8.QJ97.KJ854.Q 9654.T52.T.J9743 Q7.AK864.A6.T852 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+1D Pass 1S Pass
+2S Pass Pass X
+3C 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT32.3.Q9732.AK6 AJ8.QJ97.KJ854.Q 9654.T52.T.J9743 Q7.AK864.A6.T852 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+1D Pass Pass 1H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 2.KT2.Q87.AQT762 K76.AJ74.K94.943 AJT954.63.JT65.J Q83.Q985.A32.K85 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 2.KT2.Q87.AQT762 K76.AJ74.K94.943 AJT954.63.JT65.J Q83.Q985.A32.K85 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT5.AKJ8653.9.A5 7432.T2.J643.JT8 Q8.974.KT82.K942 KJ96.Q.AQ75.Q763 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+Pass 1D X Pass
+1N Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT5.AKJ8653.9.A5 7432.T2.J643.JT8 Q8.974.KT82.K942 KJ96.Q.AQ75.Q763 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+Pass 1D 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T7642.JT63.92.Q5 AQJ5.KQ8752.84.3 K3.9.QT.AKJ98642 98.A4.AKJ7653.T7 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+1D Pass 1H 4C
+4D 6C X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T7642.JT63.92.Q5 AQJ5.KQ8752.84.3 K3.9.QT.AKJ98642 98.A4.AKJ7653.T7 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+1D Pass 1H 5C
+5D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q95.KQ8.AT9752.6 K762.764.K4.K973 T84.A92.863.A542 AJ3.JT53.QJ.QJT8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+1D Pass 1N Pass
+2D Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q95.KQ8.AT9752.6 K762.764.K4.K973 T84.A92.863.A542 AJ3.JT53.QJ.QJT8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+1D Pass 1N Pass
+2D Pass Pass X
+Pass 2S 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQ2.T53.KQT7.A87 875.Q4.A652.KJ92 943.986.843.QT43 KJT6.AKJ72.J9.65 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass Pass 1H X
+XX Pass Pass 2D
+Pass Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQ2.T53.KQT7.A87 875.Q4.A652.KJ92 943.986.843.QT43 KJT6.AKJ72.J9.65 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass Pass 1H X
+XX Pass Pass 2D
+Pass Pass 2S Pass
+3D Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J98532.A.AJ74.32 Q4.J974.KT8.AQJT 6.KQT8632.Q92.65 AKT7.5.653.K9874 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J98532.A.AJ74.32 Q4.J974.KT8.AQJT 6.KQT8632.Q92.65 AKT7.5.653.K9874 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A2.AKT9.AK543.KJ KQ4.QJ764.AQT65.T987 52.QJ92.832.J653 83.T876.974."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+Pass 2D Pass 2H
+Pass 2N Pass 3C
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A2.AKT9.AK543.KJ KQ4.QJ764.AQT65.T987 52.QJ92.832.J653 83.T876.974."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+Pass 2C 2H Pass
+Pass 2N Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT85.K.J73.AQ942 K932.QT87643.T8.Q7 J952.542.J875. J64.A.AKQ96.KT63 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+1C 1H Pass 2D
+Pass 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT85.K.J73.AQ942 K932.QT87643.T8.Q7 J952.542.J875. J64.A.AKQ96.KT63 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+1C 1H Pass 2D
+Pass 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J95.T73.A86.9743 87643.AK6.QT4.Q2 A.QJ9854.K753.KJ KQT2.2.J92.AT865 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass 1H 1S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J95.T73.A86.9743 87643.AK6.QT4.Q2 A.QJ9854.K753.KJ KQT2.2.J92.AT865 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass 1H X Pass
+2H Pass 2S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A985.Q6542.J75.K T73.AKJ98.A.AQ62 KQJ4.7.KQ9863.T8 62.T3.T42.J97543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A985.Q6542.J75.K T73.AKJ98.A.AQ62 KQJ4.7.KQ9863.T8 62.T3.T42.J97543 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 92.K9652.AQJ.AKQ AT3.AQJ3.9862.65 KJ8754.8.K43.JT4 Q6.T74.T75.98732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 92.K9652.AQJ.AKQ AT3.AQJ3.9862.65 KJ8754.8.K43.JT4 Q6.T74.T75.98732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT4.T74.AQ97653.A AK865.A4.KT842.Q8762 Q.KQT985.J.K953 J932.J7632."]
+[Declarer "S"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT4.T74.AQ97653.A AK865.A4.KT842.Q8762 Q.KQT985.J.K953 J932.J7632."]
+[Declarer "S"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "S"]
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Quantin"]
+[North "Zimmermann"]
+[East "Bompis"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T.KJ87643.K8.T76 Q984.T92.T72.AQ4 AJ32.Q.QJ964.952 K765.A5.A53.KJ83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MULTON"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MEYER"]
+[Auction "W"]
+Pass Pass 1N 3H
+X Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+

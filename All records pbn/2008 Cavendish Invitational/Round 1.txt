@@ -1,0 +1,67 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Drijver"]
+[North "Berthau"]
+[East "Brink"]
+[South "Nystrom"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9.K93.AQJ9642.54 J6.Q762.73.AT762 KQ753.JT54.85.Q9 AT842.A8.KT.KJ83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Berthau/Nystrom"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brink/Drijver"]
+[Auction "N"]
+Pass 1S 2D X
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+C5 C6 C9 CJ
+H3 H2 H4 HA
+HK H6 H5 H8
+S9 S6 SQ SA
+C4 C2 CQ CK
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Drijver"]
+[North "Berthau"]
+[East "Brink"]
+[South "Nystrom"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T7.AKQ.QT762.KT8 K53.763.A985.A96 AQ8.JT984.J3.Q32 J9642.52.K4.J754 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Berthau/Nystrom"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brink/Drijver"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "None"]
+*
+
+

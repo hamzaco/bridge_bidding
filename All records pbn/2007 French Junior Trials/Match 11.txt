@@ -1,0 +1,396 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q2.Q52.K86.KT865 AJT96.K.AJ3.A942 K743.J9643.Q9.73 85.AT87.T7542.QJ "]
+[Declarer "E"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 1N Pass 2C
+Pass 2S Pass 2N
+Pass Pass Pass
+[Play "S"]
+C6 C2 C7 CQ
+SQ SA S4 S8
+S2 SJ S3 S5
+C8 ST SK D2
+H2 HK H3 H8
+H5 S9 S7 H7
+HQ S6 H4 HT
+D6 DA D9 D4
+DK DJ DQ D5
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J9873.QJ54.K76.J A62.987.AJ9.KT63 QT4.K3.T543.A842 K5.AT62.Q82.Q975 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 1N Pass
+2C an   Pass
+2H an   Pass
+2N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 85.652.T8532.KJ4 AJ6.K984.K76.A83 K9.QJ3.Q94.Q9765 QT7432.AT7.AJ.T2 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "S"]
+Pass 1N Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT7542.J.K92.A97 Q3.AT976.T7.KT62 KJ96.K5.Q653.QJ8 8.Q8432.AJ84.543 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 2S Pass 2N
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK93.Q6.A964.AJ6 QT7.J7.J72.K9832 J52.AK9852.K.T74 864.T43.QT853.Q5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "N"]
+1H Pass 1S Pass
+2H Pass 3C Pass
+3S Pass 5H Pass
+6H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K.J97.K932.AQ976 A95.AT.AJ864.854 T8643.KQ8543.Q7. QJ72.62.T5.KJT32 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "E"]
+Pass 1C 1D 1H
+Pass 2C Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q.A3.QT843.J8643 T9532.KQJ98.A7.5 AKJ74.T62.J9.KQT 86.754.K652.A972 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "S"]
+Pass Pass 1S Pass
+1N 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 6432.KJ654.96.42 KQJ95.Q72.74.JT8 87.T83.KT53.AK76 AT.A9.AQJ82.Q953 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "W"]
+Pass Pass 1D Pass
+1S Pass 2N Pass
+3C an   Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 87.AQ92.KQ8.J982 AQ543.64.T6.T654 K92.T3.A953.AQ73 JT6.KJ875.J742.K "]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "N"]
+1D 1H 2H Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T74.94.9852.KQT5 J52.Q7.AQT643.72 K983.AJ52.J7.864 AQ6.KT863.K.AJ93 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "E"]
+1H Pass 1N Pass
+2C Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K9.Q842.AQT.JT74 T86.T5.86543.AQ5 Q7432.K97.KJ9.98 AJ5.AJ63.72.K632 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "S"]
+1C Pass 1S Pass
+1N Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J3.QJ94.K6.KJ743 KQ.AK86.T42.AQ86 876.532.QJ53.T52 AT9542.T7.A987.9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "W"]
+1N Pass 4H Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Volcker"]
+[North "O Bessis"]
+[East "Tembouret"]
+[South "T Bessis"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK7.A62.AJT62.53 J9.54.KQ84.AKJ98 QT86.KQT3.975.64 5432.J987.3.QT72 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "BESSIS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "VOLCKER"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

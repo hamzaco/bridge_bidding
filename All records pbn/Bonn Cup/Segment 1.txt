@@ -1,0 +1,218 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gierulski"]
+[North "Ramondt"]
+[East "Skrzypczak"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T.A8754.QJ62.J32 AQ9643.KT.A953.8 KJ85.92.T8.T7654 72.QJ63.K74.AKQ9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+Pass 1N Pass 2H
+Pass 2S Pass 3D
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "S"]
+C2 C8 CT CA
+ST SQ SK S2
+HA HK H9 H3
+H8 HT H2 HJ
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gierulski"]
+[North "Ramondt"]
+[East "Skrzypczak"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J864.K.QJ84.KQ95 AKQ2.Q96.T962.A6 T95.JT54.A5.JT83 73.A8732.K73.742 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass 1C X 3C
+an Pa 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gierulski"]
+[North "Ramondt"]
+[East "Skrzypczak"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 95.AJ973.J.J9865 6432.KT8.QT93.AK Q8.Q542.A86.QT43 AKJT7.6.K7542.72 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+3H an !S X
+XX Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gierulski"]
+[North "Ramondt"]
+[East "Skrzypczak"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T96.JT6.AJ95.643 KQJ8543.7.K3.AQ9 AK82.8762.K8752. A72.Q9543.QT4.JT "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+1S X 2S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gierulski"]
+[North "Ramondt"]
+[East "Skrzypczak"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT872.KJ64.AQ4.4 J965.983.K63.QT2 AK4.AT2.852.K875 3.Q75.JT97.AJ963 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+1C Pass 1S Pass
+1N Pass 2C an
+fo Pass 3N an
+ma Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gierulski"]
+[North "Ramondt"]
+[East "Skrzypczak"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A85.AJ62.QJT63.8 72.T8743.KJ6543.KQT9 Q5.AK52.Q72.J643 K9.9874.AT9."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2S Pass 2N
+an XX Pass 3C
+an 3! X 3D
+an XX Pass 3S
+an si Pass 4D
+Pass 4H Pass 5D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gierulski"]
+[North "Ramondt"]
+[East "Skrzypczak"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q952.76.QT987.96 T.AQ52.A2.AQ8753 AJ873.T4.KJ63.JT K64.KJ983.54.K42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+Pass 1C 1S 2H
+3S 4S Pass 5C
+Pass 6H Pass Pass
+Pass
+[Play "N"]
+*
+
+

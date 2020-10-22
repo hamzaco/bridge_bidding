@@ -1,0 +1,915 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ.A73.JT983.KJ2 T4.KT965.62.9543 Q9876.Q82.75.AQ7 A532.J4.AKQ4.T86 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "N"]
+Pass 1D Pass 1H
+1S Pass Pass Pass
+[Play "E"]
+D3 D2 D5 DA
+H3 HK H8 HJ
+HA HT H2 H4
+SK S4 S7 SA
+D8 D6 D7 DK
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ.A73.JT983.KJ2 T4.KT965.62.9543 Q9876.Q82.75.AQ7 A532.J4.AKQ4.T86 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJT8.Q865.AJT96.T96542 954.A42.8.KQJ83 K.K73.5432.A7 A7632.JT9.KQ7."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "E"]
+1H Pass 1S Pass
+1N Pass 2H 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJT8.Q865.AJT96.T96542 954.A42.8.KQJ83 K.K73.5432.A7 A7632.JT9.KQ7."]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "E"]
+1H Pass 1S Pass
+1N Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A8542.AJT94.A.A8 KQJ3.8.T82.97532 6.K632.KJ963.KJT T97.Q75.Q754.Q64 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "S"]
+1S Pass 1N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A8542.AJT94.A.A8 KQJ3.8.T82.97532 6.K632.KJ963.KJT T97.Q75.Q754.Q64 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "S"]
+1S Pass 1N Pass
+3H Pass 4C Pass
+4D Pass 4H Pass
+4N Pass 5C Pass
+6H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T32.K986.Q87.QJ4 98754.T.64.A9532 Q6.J7542.JT32.87 AKJ.AQ3.AK95.KT6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 2N Pass
+3H Pass 3S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T32.K986.Q87.QJ4 98754.T.64.A9532 Q6.J7542.JT32.87 AKJ.AQ3.AK95.KT6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 2N Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT85.95.A65.AJT8 K94.A862.97.9752 73.KJ43.QJT8.KQ3 AQ62.QT7.K432.64 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "N"]
+1D Pass 1S Pass
+1N Pass 2N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT85.95.A65.AJT8 K94.A862.97.9752 73.KJ43.QJT8.KQ3 AQ62.QT7.K432.64 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ74.KQ7.J53.T9 A865.JT62.K62.84 T932.43.A4.Q7632 .A985.QT987.AKJ5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "E"]
+1D 1S X 2S
+4H Pass Pass 4S
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ74.KQ7.J53.T9 A865.JT62.K62.84 T932.43.A4.Q7632 .A985.QT987.AKJ5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "E"]
+1D 1S X 3S
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 95.AJ76.K2.KJ975 AK2.43.A6543.A83 Q63.KT82.JT87.Q4 JT874.Q95.Q9.T62 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "S"]
+1C 2D X Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 95.AJ76.K2.KJ975 AK2.43.A6543.A83 Q63.KT82.JT87.Q4 JT874.Q95.Q9.T62 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "S"]
+1C 1D Pass Pass
+X Pass 1H Pass
+Pass X Pass 1S
+Pass Pass 1N Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQJ983.AKQ73.54.AT62 T64.AKT97.T.54 J985.Q63.QJ72.7 2.J8542.AK9863."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "W"]
+1D Pass 5D 5S
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQJ983.AKQ73.54.AT62 T64.AKT97.T.54 J985.Q63.QJ72.7 2.J8542.AK9863."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "W"]
+1D Pass 2D 3D
+3S Pass 5D 5S
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T.QJ92.JT.AK7532 AKQ6.63.AK32.J94 J543.AK854.Q8.Q8 9872.T7.97654.T6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "N"]
+1H Pass 2C X
+Pass 2D 2H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T.QJ92.JT.AK7532 AKQ6.63.AK32.J94 J543.AK854.Q8.Q8 9872.T7.97654.T6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "N"]
+1H Pass 2C X
+Pass 2D 2H 3D
+3H Pass 4C Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A86.A.9653.A7643 KQ9532.J72.Q7.J8 74.KQT643.AT.Q95 JT.985.KJ842.KT2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "E"]
+Pass 1C 1S 2H
+Pass 3C Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A86.A.9653.A7643 KQ9532.J72.Q7.J8 74.KQT643.AT.Q95 JT.985.KJ842.KT2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "E"]
+Pass 1C 1S 2H
+Pass 2N Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 852.K652.65.9865 AKJ6.AT7.J8.Q432 943.83.KQ7432.K7 QT7.QJ94.AT9.AJT "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "S"]
+Pass 1N 2C an
+1  Pass Pass 2D
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 852.K652.65.9865 AKJ6.AT7.J8.Q432 943.83.KQ7432.K7 QT7.QJ94.AT9.AJT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -520"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2D an  
+Pass 2S an  
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A64.T53.9865.QJ3 9853.QJ7.Q72.T86 KQJ.A98.K43.K752 T72.K642.AJT.A94 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A64.T53.9865.QJ3 9853.QJ7.Q72.T86 KQJ.A98.K43.K752 T72.K642.AJT.A94 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J9.A65.K862.7643 AKT52.KJ9.54.K82 Q73.Q4.AQJT93.QJ 864.T8732.7.AT95 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "N"]
+1D Pass 1N 2S
+3D 3S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J9.A65.K862.7643 AKT52.KJ9.54.K82 Q73.Q4.AQJT93.QJ 864.T8732.7.AT95 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "N"]
+1N Pass 2S an
+in X 2N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 654.8.AT98.AJT73 AQ3.A654.Q62.854 J872.KJT7.J753.Q KT9.Q932.K4.K962 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 2H Pass
+3C Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 654.8.AT98.AJT73 AQ3.A654.Q62.854 J872.KJT7.J753.Q KT9.Q932.K4.K962 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 2H Pass
+2N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J2.AT9865.K8.J93 Q73.J.A3.KT86542 AT864.KQ74.T54.Q K95.32.QJ9762.A7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "S"]
+2H 3C 3H 4D
+Pass Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J2.AT9865.K8.J93 Q73.J.A3.KT86542 AT864.KQ74.T54.Q K95.32.QJ9762.A7 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "S"]
+2D 3C 4H 5D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "CCTBA Trials"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Chen"]
+[North "J. Huang"]
+[East "Shih"]
+[South "W. Chen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 95.T532.AK84.T32 A432.4.T9652.865 K7.KQJ96.J73.AK4 QJT86.A87.Q.QJ97 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Nan-Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DEPPO"]
+[Auction "W"]
+Pass 1H 1S 2H
+3S 3N Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+

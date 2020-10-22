@@ -1,0 +1,944 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 3.AQJT9762.T8.T9 Q8.K8543.QJ75.86 AKT7652.2.A5432.J94 AK9643.KQJ7."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "N"]
+1S 2D 2H 3D
+4C X 4H X
+4S X 5H X
+Pass Pass Pass
+[Play "W"]
+D8 DQ D2 D3
+DT D5 C2 DK
+DJ C3 DA H2
+HA H4 S2 D4
+H9 HK C4 CK
+C9 C6 CA C7
+S3 S8 SA S4
+CT SQ SK S9
+CJ H6 C8 C5
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 3.AQJT9762.T8.T9 Q8.K8543.QJ75.86 AKT7652.2.A5432.J94 AK9643.KQJ7."]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "N"]
+1S 2D 4H Pass
+4S Pass Pass Pass
+[Play "E"]
+DQ D2 DA D8
+DT DJ S2 D6
+CJ C9 C8 C2
+CT C6 CA CQ
+C7 S3 S8 C3
+H2 H3 C5 S4
+H6 SQ C4 CK
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T.542.AQT5.AKQT3 52.KJ873.98.J975 KQ9874.QT.K63.42 AJ63.A96.J742.86 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2C Pass 3S
+an IN Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T.542.AQT5.AKQT3 52.KJ873.98.J975 KQ9874.QT.K63.42 AJ63.A96.J742.86 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "E"]
+Pass 1D an un
+Pass 1S Pass 1N
+an F Pass 2S
+Pass 3H an so
+ w X 4S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 987.962.AQ5432.Q AQ3.AQ53.J.J8652 T6.KJ84.K976.A94 KJ542.T7.T8.KT73 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "S"]
+2D X 3D 3S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 987.962.AQ5432.Q AQ3.AQ53.J.J8652 T6.KJ84.K976.A94 KJ542.T7.T8.KT73 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "S"]
+Pass 2D an sh
+ u Pass 3S an
+in Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T632.AKT2.42.AJ2 K87.J873.AQT9.K3 QJ95.Q9.K763.764 A4.654.J85.QT985 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "W"]
+1C an mu Pass
+1D Pass 1H an
+ma Pass 1N an
+5-  f  n Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T632.AKT2.42.AJ2 K87.J873.AQT9.K3 QJ95.Q9.K763.764 A4.654.J85.QT985 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "W"]
+1D Pass 1N X
+Pass Pass 2C Pass
+Pass X Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A.QJT95.J75.QJ42 J9732.43.82.AT98 KQ8.K872.AKQ3.75 T654.A6.T964.K63 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "N"]
+1N an 15 Pass
+2D an xf Pass
+2N an be Pass
+3D an XX Pass
+3H Pass 3S Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A.QJT95.J75.QJ42 J9732.43.82.AT98 KQ8.K872.AKQ3.75 T654.A6.T964.K63 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "N"]
+1C an 16 Pass
+1H an 8+  5
+Pass 1N Pass 2C
+an 4  Pass 2D
+Pass 2N an 5!
+ 4  8 Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 876.873.87.AK874 K4.AJT52.KJ653.5 AQT93.96.Q2.QT62 J52.KQ4.AT94.J93 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "E"]
+2S X! 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 876.873.87.AK874 K4.AJT52.KJ653.5 AQT93.96.Q2.QT62 J52.KQ4.AT94.J93 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "E"]
+Pass Pass 1H 1S
+2C an XX X
+2D an so 3C
+3D 3S 4D Pass
+4H Pass Pass 4S
+5D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J.JT98.96543.983 AKQ975.762.KQ.42 864.KQ43.AT.AKT6 T32.A5.J872.QJ75 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "S"]
+Pass 1S X 2H
+an go Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J.JT98.96543.983 AKQ975.762.KQ.42 864.KQ43.AT.AKT6 T32.A5.J872.QJ75 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "S"]
+Pass 1S X 2H
+an tX Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJT2.K54.Q9.KT96 743.AQJ.KJ3.AQ73 Q965.T976.A.J542 A8.832.T876542.8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "W"]
+1N an 15 Pass
+2N an !D Pass
+3C an li Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJT2.K54.Q9.KT96 743.AQJ.KJ3.AQ73 Q965.T976.A.J542 A8.832.T876542.8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "W"]
+1N an 14 Pass
+3C an tX Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A.AKQT5.KJT9.KT9 KT7532.A72.A632.J84 J874.Q653.J4.Q96 9632.84.Q875."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "N"]
+Pass Pass 1H 1S
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A.AKQT5.KJT9.KT9 KT7532.A72.A632.J84 J874.Q653.J4.Q96 9632.84.Q875."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "N"]
+Pass Pass 1C an
+16 1S X 2S
+X 3S X Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ3.3.A6543.9653 AQ862.KQJ4.K72.8 T7.8652.QT8.AQ42 954.AT97.J9.KJT7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "E"]
+Pass Pass 1S Pass
+2C an XX Pass
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ3.3.A6543.9653 AQ862.KQJ4.K72.8 T7.8652.QT8.AQ42 954.AT97.J9.KJT7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "E"]
+Pass 3S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q8.AKT7.Q98.K543 AJT9.86.A63.T982 7632.32.K542.QJ7 K54.QJ954.JT7.A6 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "S"]
+1C Pass 1S Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q8.AKT7.Q98.K543 AJT9.86.A63.T982 7632.32.K542.QJ7 K54.QJ954.JT7.A6 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q963.A54.QT2.A93 KJ74.KT763.7.752 AT.Q8.AKJ983.KJ6 852.J92.654.QT84 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q963.A54.QT2.A93 KJ74.KT763.7.752 AT.Q8.AKJ983.KJ6 852.J92.654.QT84 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "W"]
+Pass 1C an 16
+Pass 1N an 8+
+Pass 2N an 1 
+ 1  n Pass 3C
+an as Pass 3N
+an 6+ Pass 4N
+Pass 6D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ842.A43.J2.KJ5 QT3.K8752.KQ93.3 K95.T6.T87.AQT92 76.QJ9.A654.8764 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "N"]
+Pass Pass 1S Pass
+2C an XX Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ842.A43.J2.KJ5 QT3.K8752.KQ93.3 K95.T6.T87.AQT92 76.QJ9.A654.8764 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "N"]
+Pass Pass 1S Pass
+2C an XX Pass
+2D Pass 3C Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 9.J86.KQT2.AKJ87 AQ4.T942.6.T5432 KJ53.AQ5.J75.Q96 T8762.K73.A9843."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 9.J86.KQT2.AKJ87 AQ4.T942.6.T5432 KJ53.AQ5.J75.Q96 T8762.K73.A9843."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 1N an Xi
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q8.AQ54.JT43.J73 K5.KT32.96.AQ852 AJT9762.9.AQ.K64 43.J876.K8752.T9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "S"]
+Pass 1C an mu
+1S Pass 1N Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q8.AQ54.JT43.J73 K5.KT32.96.AQ852 AJT9762.9.AQ.K64 43.J876.K8752.T9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "S"]
+Pass 1D 1S Pass
+1N Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Zmudzinski"]
+[North "Meltzer"]
+[East "Balicki"]
+[South "Larsen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J876.AT32.KQ.K74 Q2.94.A986432.82 KT4.KQJ.T75.AJ95 A953.8765.J.QT63 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gromov"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1N Pass 2D
+an aX Pass 2H
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

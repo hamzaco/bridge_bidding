@@ -1,0 +1,915 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T5.KJ75.JT972.KJ A74.T92.AQ4.8752 QJ6.A83.K653.T96 K9832.Q64.8.AQ43 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+1N an 10 Pass
+Pass Pass
+[Play "E"]
+S5 SA SJ S3
+ST S4 S6 S2
+DJ DA D3 D8
+H5 S7 SQ SK
+H7 H2 H3 S8
+HJ HT D5 S9
+HK H9 H8 H4
+D2 D4 D6 C3
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T5.KJ75.JT972.KJ A74.T92.AQ4.8752 QJ6.A83.K653.T96 K9832.Q64.8.AQ43 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+Pass Pass Pass 1D
+an 2+ Pass 1S
+Pass Pass Pass
+[Play "S"]
+DJ DA D3 D8
+CK C2 C6 CQ
+DT DQ DK S2
+S5 S4 S6 SK
+ST SA SJ S3
+CJ C5 CT CA
+H5 C7 C9 C4
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9864.KT3.J54.T95 JT5.Q82.AKQ8.764 732.AJ765.62.KJ2 AKQ.94.T973.AQ83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9864.KT3.J54.T95 JT5.Q82.AKQ8.764 732.AJ765.62.KJ2 AKQ.94.T973.AQ83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A743.A72.AK52.53 J96.KJ9.J3.KJ964 T82.54.QT6.AT872 KQ5.QT863.9874.Q "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+1D Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A743.A72.AK52.53 J96.KJ9.J3.KJ964 T82.54.QT6.AT872 KQ5.QT863.9874.Q "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J2.K86.AJ8.KQ652 AK843.T532.K9.J8 QT95.A9.Q762.A74 76.QJ74.T543.T93 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+1S Pass 1N Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J2.K86.AJ8.KQ652 AK843.T532.K9.J8 QT95.A9.Q762.A74 76.QJ74.T543.T93 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+1S Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ73.763.KT542.4 T8.AQT.AQ973.AT2 A9.K952.8.KJ8763 Q6542.J84.J6.Q95 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+1C Pass 1H X!
+2C Pass Pass 2D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ73.763.KT542.4 T8.AQT.AQ973.AT2 A9.K952.8.KJ8763 Q6542.J84.J6.Q95 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+1C Pass 1S X
+2C an Xe Pass
+Pass 2D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K64.A98.A86.KJ87 J3.KT765.T54.A54 T95.QJ32.KQ7.Q63 AQ872.4.J932.T92 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+Pass 1C Pass 1D
+an tX 1S X!
+an 3c Pass 1N
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K64.A98.A86.KJ87 J3.KT765.T54.A54 T95.QJ32.KQ7.Q63 AQ872.4.J932.T92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ8.32.QJT874.J4 A9654.QT76.5.A53 T3.J85.AK96.KQ87 K72.AK94.32.T962 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+2D X 3C 3D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ8.32.QJT874.J4 A9654.QT76.5.A53 T3.J85.AK96.KQ87 K72.AK94.32.T962 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+2D X 5D X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ8753.7.AKT9.J6 4.AKQT9643.72.A7 A6.Q65.KQT98432.JT92 J852.J843.5."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+1C 5C Pass Pass
+5H Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ8753.7.AKT9.J6 4.AKQT9643.72.A7 A6.Q65.KQT98432.JT92 J852.J843.5."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+1C an ST  A
+ F 5C Pass Pass
+5H Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ92.96.KT.KJT74 KT73.AQ5.A8.Q632 8.T42.QJ97632.A8 J654.KJ873.54.95 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+3D Pass Pass X
+Pass 3H 4D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ92.96.KT.KJT74 KT73.AQ5.A8.Q632 8.T42.QJ97632.A8 J654.KJ873.54.95 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+3D Pass Pass X
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T75.QT876.K9.J63 AQJ94.AQ875.T54.2 J9542.63.AKQ82.K863 AK3.JT42.97."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+1D Pass 1S X
+2S 3H 4H Pass
+4S Pass Pass 5H
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T75.QT876.K9.J63 AQJ94.AQ875.T54.2 J9542.63.AKQ82.K863 AK3.JT42.97."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+Pass Pass 1S 2S
+an He 3H an
+!s 4H 4S Pass
+Pass 5H 5S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8.Q5432.T53.T32 965.86.AK94.AQ64 AKJ.KJ9.J72.KJ95 Q7432.AT7.Q86.87 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+Pass 1D 1N Pass
+2H Pass Pass 2S
+Pass Pass 2N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8.Q5432.T53.T32 965.86.AK94.AQ64 AKJ.KJ9.J72.KJ95 Q7432.AT7.Q86.87 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+Pass 1N an 13
+X Pass 2H Pass
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJT42.85.J32.984 Q3.Q7.QT984.KJT7 K9.KJT6.A765.A62 8765.A9432.K.Q53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+2N Pass 3C X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJT42.85.J32.984 Q3.Q7.QT984.KJT7 K9.KJT6.A765.A62 8765.A9432.K.Q53 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKT9854.3.K8.QJ3 Q6.AKQT852.43.T4 9.AQJ97652.AK75. J732.J764.T.9862 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+1D Pass 1S 2H
+3H Pass 4C Pass
+6C Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKT9854.3.K8.QJ3 Q6.AKQT852.43.T4 9.AQJ97652.AK75. J732.J764.T.9862 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+1D Pass 1S 2H
+5D Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ75.3.A987.QT83 T832.Q52.QJ43.KJ Q64.AKT98.652.54 K9.J764.KT.A9762 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ75.3.A987.QT83 T832.Q52.QJ43.KJ Q64.AKT98.652.54 K9.J764.KT.A9762 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 62.AKJT7632.Q9.3 J97.94.A7653.QJ5 AK83.Q5.KJT4.964 QT54.8.82.AKT872 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+4C Pass 4H 4S
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 62.AKJT7632.Q9.3 J97.94.A7653.QJ5 AK83.Q5.KJT4.964 QT54.8.82.AKT872 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Cheek"]
+[North "Wang"]
+[East "Grue"]
+[South "Ao"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AJ65.T964.Q86.Q7 9873.A872.92.A98 KQT.QJ3.J4.KJT53 42.K5.AKT753.642 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Kang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+Pass 1C 1D X!
+Pass 1H Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+

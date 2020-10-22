@@ -1,0 +1,677 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q6.93.KJ96.T8543 KJT53.Q4.42.AKJ7 942.AKJ652.A83.Q A87.T87.QT75.962 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "S"]
+Pass 1S 2H 2S
+Pass Pass Pass
+[Play "N"]
+H3 H4 HA H7
+H9 HQ HK H8
+C3 S3 HJ HT
+S6 S5 S4 SA
+SQ SK S2 S7
+C4 SJ S9 S8
+C5 CA CQ C2
+C8 CK H2 C6
+CT CJ H5 C9
+D6 C7 D3 D5
+D9 ST D8 D7
+DJ D2 DA DT
+DK D4 H6 DQ
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q6.93.KJ96.T8543 KJT53.Q4.42.AKJ7 942.AKJ652.A83.Q A87.T87.QT75.962 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "S"]
+Pass 1S 2H 2S
+Pass Pass X Pass
+3C Pass 3H Pass
+Pass Pass
+[Play "E"]
+C3 CA CQ C2
+H3 H4 HJ H7
+SQ SK S2 S8
+H9 HQ HA H8
+C4 S5 HK HT
+S6 ST S4 S7
+C5 S3 S9 SA
+C8 CJ H2 C6
+D6 SJ H5 D5
+CT C7 H6 C9
+D9 D2 DA D7
+DJ D4 D3 DT
+DK CK D8 DQ
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT7.T72.A8532.J7 KJ652.AQJ.K64.82 984.9853.J97.KQ5 Q3.K64.QT.AT9643 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "W"]
+1S Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+HT HQ H3 H4
+SA S2 S9 SQ
+D3 D4 D9 DT
+S7 SK S4 S3
+ST SJ S8 C3
+H7 S6 H5 C4
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT7.T72.A8532.J7 KJ652.AQJ.K64.82 984.9853.J97.KQ5 Q3.K64.QT.AT9643 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "W"]
+1S Pass 1N an
+  Pass 2D an
+  Pass 2N Pass
+Pass Pass
+[Play "S"]
+D2 D4 DJ DQ
+S7 S2 S4 SQ
+ST SK S8 S3
+SA S5 S9 C4
+D3 D6 D7 DT
+C7 C2 C5 CA
+H2 HJ H3 H4
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT743.5.K63.QJ93 KJ985.AT.J75.A76 Q62.J87.AT9.K852 .KQ96432.Q842.T4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "N"]
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+CQ C6 C2 C4
+C3 CA C5 CT
+H5 HA H7 H3
+S7 HT H8 HQ
+S4 C7 HJ HK
+C9 S5 C8 H9
+D6 D7 D9 D4
+DK D5 DT D2
+D3 DJ DA D8
+ST S8 S2 H4
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT743.5.K63.QJ93 KJ985.AT.J75.A76 Q62.J87.AT9.K852 .KQ96432.Q842.T4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "N"]
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+CQ CA C5 C4
+ST S9 S2 CT
+C3 C6 CK H2
+D3 DJ DA D4
+CJ C7 C8 H4
+D6 D5 D9 D2
+S3 S5 S6 H3
+DK D7 DT D8
+C9 S8 C2 H6
+H5 HA H7 H9
+S4 HT H8 HQ
+S7 SJ HJ HK
+SA SK SQ DQ
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T853.AQT93.T.K86 K92.742.A542.Q52 AQ4.85.KQ63.J974 J76.KJ6.J987.AT3 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass 2C Pass 2D
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "E"]
+S3 SK SA S6
+HA H7 H8 HK
+DT D2 DK D7
+HQ H4 H5 H6
+HT H2 D3 HJ
+C6 DA D6 D8
+S5 S2 S4 SJ
+CK C5 C4 C3
+S8 S9 SQ S7
+ST D4 DQ D9
+H9 D5 C7 CT
+H3 C2 C9 DJ
+C8 CQ CJ CA
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T853.AQT93.T.K86 K92.742.A542.Q52 AQ4.85.KQ63.J974 J76.KJ6.J987.AT3 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "E"]
+Pass Pass Pass 1C
+an   Pass 1D
+an   Pass 1N
+an   Pass Pass
+Pass
+[Play "E"]
+DT DA D3 D8
+S3 D2 DK D7
+HQ H2 H8 HJ
+C6 C2 C4 CT
+S5 D4 DQ DJ
+H9 H4 H5 H6
+HA H7 D6 HK
+HT D5 C7 S7
+H3 C5 S4 C3
+C8 CQ C9 CA
+S8 S9 SQ D9
+ST S2 SA S6
+CK SK CJ SJ
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 97.752.9842.QT93 632.KJT9.KQJ6.A7 T85.Q63.AT53.KJ8 AKQJ4.A84.7.6542 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 1N Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+CT C7 CK C5
+C3 CA CJ C4
+S7 S2 S8 SK
+D2 DK D3 D7
+D4 DQ DA S4
+S9 S3 S5 SA
+H2 H9 HQ H4
+H5 S6 ST SQ
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 97.752.9842.QT93 632.KJT9.KQJ6.A7 T85.Q63.AT53.KJ8 AKQJ4.A84.7.6542 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 1N Pass 2D
+an   Pass 2H
+Pass 2S Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+D8 DK D3 D7
+H2 HJ H6 HA
+H5 H9 HQ H4
+C3 CA C8 C2
+S7 S3 ST SA
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T5.JT963.Q82.974 AK92.Q72.KJT64.8 Q8.AK54.A975.KT6 J7643.8.3.AQJ532 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "W"]
+1D 1N 3C Pass
+Pass Pass
+[Play "S"]
+ST SA S8 S6
+C7 C8 C6 CQ
+C4 D4 CT CA
+C9 D6 CK C5
+S5 SK SQ S3
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T5.JT963.Q82.974 AK92.Q72.KJT64.8 Q8.AK54.A975.KT6 J7643.8.3.AQJ532 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "W"]
+1D 1N 3C Pass
+Pass Pass
+[Play "S"]
+ST SA S8 S7
+C4 C8 C6 CQ
+C7 H2 CT CA
+C9 HQ CK CJ
+HJ H7 HK H8
+H3 D4 HA C3
+D2 DK DA D3
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 5.752.KJ932.AJ82 JT86.754.KQ6543.AK973 KQ84.QT6.7.Q42 AJT963.A8.T9."]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "N"]
+1S 2H X Pass
+2N Pass Pass Pass
+[Play "E"]
+H2 C3 HK HJ
+DA D2 D5 DT
+CJ CQ C7 CT
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 5.752.KJ932.AJ82 JT86.754.KQ6543.AK973 KQ84.QT6.7.Q42 AJT963.A8.T9."]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "N"]
+1S 2H X Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKT8.A98.7642.92 J9764.T76.QT.T53 53.5.KJ8.AKQJ874 Q2.KQJ432.A953.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "E"]
+1H Pass 1S 2C
+2H 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKT8.A98.7642.92 J9764.T76.QT.T53 53.5.KJ8.AKQJ874 Q2.KQJ432.A953.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "E"]
+1H 1S Pass 2C
+2H Pass Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT.A87.K9653.AT6 98642.J632.A84.3 73.KQ94.T.J87542 KQJ5.T5.QJ72.KQ9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass 2C Pass
+2D Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT.A87.K9653.AT6 98642.J632.A84.3 73.KQ94.T.J87542 KQJ5.T5.QJ72.KQ9 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "8"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "S"]
+1N Pass 2S an
+  X 2N an
+  3C an  
+3D an   Pass
+3N Pass 5C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "4th European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Barel"]
+[North "Bjarnarson"]
+[East "Zack"]
+[South "Askgaard"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 763.AK7.84.KQ975 AJT.9.A96.AJT843 KQ9852.QJT4.K5.2 4.86532.QJT732.6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Herbst"]
+[Auction "W"]
+1C 1S Pass 2H
+an 3  Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

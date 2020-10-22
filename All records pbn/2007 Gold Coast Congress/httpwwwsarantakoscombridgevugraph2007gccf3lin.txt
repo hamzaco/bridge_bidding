@@ -1,0 +1,534 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9853.AK7.T98.K94 K62.JT53.QJ53.83 T74.Q92.K742.QT2 AQJ.864.A6.AJ765 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "S"]
+HA H3 H2 H4
+C4 C3 CQ C7
+CK C8 CT CJ
+C9 S2 C2 CA
+H7 HT HQ H6
+S5 S6 S7 SQ
+HK H5 H9 H8
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T942.J74.KQ9873.AKQ73 654.A82.65.J5 KQT987.K95.AJ.86 AJ32.QT63.T42."]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "W"]
+1S 2H Pass Pass
+Pass
+[Play "S"]
+D3 D4 DA D5
+S5 S8 S2 SA
+D8 DK D6 D7
+HA C3 H4 HQ
+DQ DJ D2 D9
+SJ S6 S4 SK
+C2 S9 SQ H9
+C7 H5 HK H2
+H7 H3 C8 H6
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T942.J74.KQ9873.AKQ73 654.A82.65.J5 KQT987.K95.AJ.86 AJ32.QT63.T42."]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "W"]
+1S 2H Pass Pass
+X Pass 2N Pass
+3D Pass Pass Pass
+[Play "E"]
+D4 H6 HK HA
+C7 C5 CJ C2
+CA C4 C3 C6
+H2 C8 H4 HQ
+H7 HJ D7 H5
+D8 D9 CT C9
+H3 DJ DA HT
+DK D3 CQ D2
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q32.T853.63.Q754 KJ4.AQJ6.AT8.A83 A987.72.K972.T96 T65.K94.QJ54.KJ2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "N"]
+CQ CA CT CJ
+H3 H6 H2 HK
+D3 DT DK D4
+C4 C3 C9 CK
+S3 SJ SA S5
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q32.T853.63.Q754 KJ4.AQJ6.AT8.A83 A987.72.K972.T96 T65.K94.QJ54.KJ2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 2C Pass 3N
+Pass Pass Pass
+[Play "N"]
+D6 DT D2 D4
+D3 DA D7 D5
+C5 D8 DK DJ
+S2 C3 D9 DQ
+S3 SK SA S5
+SQ S4 S9 S6
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q63.AJ8532.Q.A54 AJ98.Q76.J972.K7 KT.KT4.A63.J8632 7542.9.KT854.QT9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "E"]
+Pass 1H Pass 4H
+Pass Pass Pass
+[Play "N"]
+DQ D2 D3 DK
+C4 D7 DA D5
+S3 SA SK S7
+SQ SJ ST S2
+H2 H7 HK H9
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q63.AJ8532.Q.A54 AJ98.Q76.J972.K7 KT.KT4.A63.J8632 7542.9.KT854.QT9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 865.AT94.A64.AQ2 AKT4.5.K97.J9653 QJ2.K73.T832.T74 973.QJ862.QJ5.K8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "S"]
+1C Pass 1D 1H
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K853.84.876.8652 Q6.JT96.AQT32.J4 9.A53.K9.AKQT973 AJT742.KQ72.J54."]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "W"]
+Pass 1C 1S Pass
+Pass 2S 3H Pass
+4H 5C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K853.84.876.8652 Q6.JT96.AQT32.J4 9.A53.K9.AKQT973 AJT742.KQ72.J54."]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "W"]
+Pass 2C 2S Pass
+3S 4C 4S X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ76.942.76.A652 T3.863.AQ54.KQ84 Q84.KJT.J83.JT73 K952.AQ75.KT92.9 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "N"]
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ76.942.76.A652 T3.863.AQ54.KQ84 Q84.KJT.J83.JT73 K952.AQ75.KT92.9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT42.Q9.Q75.AJ96 K7.A6543.K93.KQ4 A9853.KT72.J.T53 Q6.J8.AT8642.872 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "E"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT42.Q9.Q75.AJ96 K7.A6543.K93.KQ4 A9853.KT72.J.T53 Q6.J8.AT8642.872 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "E"]
+2D Pass 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 92.A86.AKT732.63 Q83.T94.J6.JT952 T65.K5.Q854.AQ84 AKJ74.QJ732.9.K7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "S"]
+1D Pass 2D an
+al 2S Pass Pass
+3D 3H 3S X
+Pass Pass 4D Pass
+5D Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 92.A86.AKT732.63 Q83.T94.J6.JT952 T65.K5.Q854.AQ84 AKJ74.QJ732.9.K7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "S"]
+1D Pass 3D X
+Pass 4C X 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "T Burke"]
+[North "Hackett"]
+[East "Courtney"]
+[South "Hanlon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T9.AKT5.9543.JT3 A42.Q92.QJ2.AK94 QJ7653.7.T876.65 K8.J8643.AK.Q872 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hirst"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Courtney"]
+[Auction "W"]
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+

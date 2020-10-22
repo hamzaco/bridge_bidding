@@ -1,0 +1,456 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K43.AK984.KQ84.3 AQT8.65.AT975.85 J762.QT2.62.QT42 95.J73.J3.AKJ976 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "N"]
+Pass 3C X Pass
+Pass Pass
+[Play "W"]
+HA H5 H2 H7
+DK DA D6 D3
+H4 H6 HQ H3
+C3 C8 C2 C7
+H8 C5 CT CJ
+H9 S8 C4 CA
+D4 D5 CQ CK
+DQ D7 D2 DJ
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJT3.KT2.A874.83 K8762.4.QJT952.K 95.AQ9865.63.642 Q4.J73.K.AQJT975 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "E"]
+2C X Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A652.A87.QT8765.K943 JT6.T932.K3.QJT AKQ98.Q4.A42.87 75432.KJ65.J9."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "S"]
+2C an 6+ Pass
+2D an XX Pass
+2N an sP 3C
+an XX Pass 3H
+an 40 Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT97632.854.97.6 J84.T3.AJ852.JT5 Q5.AQ92.KT4.A874 A.KJ76.Q63.KQ932 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "W"]
+Pass 1C an 15
+1N an !S 2H
+an !S Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A3.Q72.AJT84.KT2 QJ62.AJ9.97653.6 T75.KT864.2.9843 K984.53.KQ.AQJ75 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "N"]
+Pass 1C 1D 1S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 7.AT975.QJ64.T75 AQT9865.8.AK8.J8 2.KQJ432.72.AK62 KJ43.6.T953.Q943 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "E"]
+Pass Pass 4S X
+Pass 4N X 5H
+5S 6H X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 3.J87.AJ42.J9862 AT97.AQ64.986.73 J542.K52.T3.AKQT KQ86.T93.KQ75.54 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "S"]
+Pass Pass 1D an
+11 Pass 2C Pass
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 98.Q862.AT84.Q94 743.9543.9652.52 AQ652.KT7.Q7.A63 KJT.AJ.KJ3.KJT87 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "W"]
+Pass 1C an 15
+Pass 1H an 6-
+Pass 1N Pass 2C
+Pass 2S Pass 2N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A9.T62.K95.KQ754 K7642.JT4.AJ963.QT853 A4.Q762.82.J KQJ98753.A83.T."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "N"]
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J8.A93.K953.AK97 AQ2.J642.AT72.65 943.T85.864.Q842 KT765.KQ7.QJ.JT3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "E"]
+Pass 1C an 15
+Pass 1S an 0-
+X Pass Pass XX
+an T/ Pass 2C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J87.9865.862.764 T9632.AQJ.A4.QT2 AKQ5.74.97.AJ853 4.KT32.KQJT53.K9 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 2S Pass 3N
+Pass Pass X Pass
+Pass XX Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJT.QJT5.K.KQ652 Q863.A762.A942.J 542.9.Q8765.T973 K97.K843.JT3.A84 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "W"]
+Pass Pass 1C 1N
+X XX Pass 2C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J972.J.K986.JT72 63.K854.AQ4.KQ85 AKT54.Q73.J32.43 Q8.AT962.T75.A96 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "N"]
+2S Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q653.J6.JT986.JT A.87532.KQ42.K97 JT9872.AQ94.3.Q4 K4.KT.A75.A86532 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "E"]
+1C Pass 1H 2S
+3C 3S 4N Pass
+5N Pass 6C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Gue"]
+[North "Szymanowsk"]
+[East "Bagchi"]
+[South "Pszczola"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQ732.Q.Q8.KQ732 9.JT7643.A3.AJ54 T6.AK2.J9765.986 AJ854.985.KT42.T "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Otvosi"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Marston"]
+[Auction "S"]
+1H an !S 2H
+Pass Pass X Pass
+3D X Pass Pass
+Pass
+[Play "E"]
+*
+
+

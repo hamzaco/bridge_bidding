@@ -1,0 +1,451 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q52.QJT64.A7.KQ8 K763.A5.Q832.T54 4.K832.JT954.J32 AJT98.97.K6.A976 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "N"]
+Pass 1S Pass 3D
+an li Pass 4S
+Pass Pass Pass
+[Play "S"]
+HQ HA H3 H9
+C8 C4 C2 C6
+CK C5 C3 CA
+S2 SK S4 SJ
+S5 S3 H2 SA
+CQ CT CJ C7
+SQ S6 D4 ST
+HJ H5 HK H7
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q52.QJT64.A7.KQ8 K763.A5.Q832.T54 4.K832.JT954.J32 AJT98.97.K6.A976 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "N"]
+Pass 1S 2H 2N
+4H Pass Pass Pass
+[Play "W"]
+S2 S3 S4 SA
+CQ C4 C2 C6
+HQ H5 H2 H7
+CK C5 C3 CA
+DA D2 D4 DK
+HT HA H3 H9
+D7 DQ D5 D6
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKQJ83.Q3.T942.J 97654.JT52.K.AT6 T2.AK9.85.987542 .8764.AQJ763.KQ3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "E"]
+1D 1S X Pass
+2H 2S Pass Pass
+Pass
+[Play "W"]
+D2 DK D5 DA
+D4 HJ D8 DQ
+CJ C6 C2 CK
+S3 CT C4 C3
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKQJ83.Q3.T942.J 97654.JT52.K.AT6 T2.AK9.85.987542 .8764.AQJ763.KQ3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "E"]
+1D 1S Pass Pass
+2D 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A8732.AK32.JT.87 K4.Q76.8432.K543 JT9.T54.AK75.Q92 Q65.J98.Q96.AJT6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "S"]
+1S Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A8732.AK32.JT.87 K4.Q76.8432.K543 JT9.T54.AK75.Q92 Q65.J98.Q96.AJT6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "S"]
+1S Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KT6.A9743.86.KQ2 Q432.KJ8.42.AT83 975.Q6.AJ953.954 AJ8.T52.KQT7.J76 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S an co Pass
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KT6.A9743.86.KQ2 Q432.KJ8.42.AT83 975.Q6.AJ953.954 AJ8.T52.KQT7.J76 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "W"]
+Pass Pass 1D 1H
+X Pass 1S Pass
+2N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A952.9.KT7532.87 KQ6.KQT54.J986.T 843.AJ63.AQ4.952 JT7.872.AKQJ643."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "N"]
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A952.9.KT7532.87 KQ6.KQT54.J986.T 843.AJ63.AQ4.952 JT7.872.AKQJ643."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "N"]
+1D 2C 2D 2H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ75.AK6.653.Q98 863.J85.JT94.543 KT.Q9743.A7.AJT2 Q942.T2.KQ82.K76 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "E"]
+1C X Pass 2C
+Pass 2S Pass 4H
+an to Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ75.AK6.653.Q98 863.J85.JT94.543 KT.Q9743.A7.AJT2 Q942.T2.KQ82.K76 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2S Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A94.J9654.AJ6.93 KJ65.QT8.K95.J42 T82.A732.743.AQT Q73.K.QT82.K8765 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "S"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A94.J9654.AJ6.93 KJ65.QT8.K95.J42 T82.A732.743.AQT Q73.K.QT82.K8765 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "S"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Schapiro Spring Foursomes"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hyett"]
+[North "Hallberg"]
+[East "Wolfarth"]
+[South "McIntosh"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 762.KT7.9653.KQ5 KQ4.652.JT74.A82 JT.AQJ8.AKQ2.T43 A9853.943.8.J976 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Liggins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wolfarth"]
+[Auction "W"]
+Pass 1N an 15
+Pass Pass Pass
+[Play "E"]
+*
+
+

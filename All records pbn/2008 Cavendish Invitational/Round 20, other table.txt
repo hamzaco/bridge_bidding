@@ -1,0 +1,83 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Welland"]
+[North "Moss"]
+[East "Meckstroth"]
+[South "Gitelman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT4.J5.KJ98.KT76 7632.6432.AQJ98.97652 A84.Q.5432.AKJ83 KQT9.AT75.."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gitelman/Moss"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meckstroth/Welland"]
+[Auction "W"]
+Pass Pass 1S Pass
+1N Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+D9 D2 DQ DA
+D3 S2 SA S4
+ST D4 S5 SK
+S6 S3 SQ H2
+D5 C6 CA C2
+C3 H9 C7 CQ
+H3 S7 S8 CT
+HT CK C8 C5
+HJ D6 S9 SJ
+H5 H6 HA HQ
+H7 H4 HK D8
+DJ C9 C4 D7
+DK CJ H8 DT
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Welland"]
+[North "Moss"]
+[East "Meckstroth"]
+[South "Gitelman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQ7.AJ743.AK.QJ3 JT93.KT9.T952.A8 A865.652.J6.T765 42.Q8.Q8743.K942 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Gitelman/Moss"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meckstroth/Welland"]
+[Auction "N"]
+Pass Pass 2N Pass
+3C Pass 3D Pass
+3N Pass Pass Pass
+[Play "None"]
+SK ST S5 S4
+CQ CA C5 C2
+DK DT DJ DQ
+CJ C8 C6 C4
+C3 H9 CT CK
+DA D2 D6 D4
+SQ S3 S6 S2
+S7 S9 SA D3
+H3 SJ S8 H8
+*
+
+

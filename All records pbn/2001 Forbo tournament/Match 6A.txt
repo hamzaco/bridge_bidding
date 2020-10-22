@@ -1,0 +1,447 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J85.AJ98.J54.A63 K.74.AK92.KT9875 AQ64.KT52.T83.QJ T9732.Q63.Q76.42 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "N"]
+1N P P P
+[Play "E"]
+S5 SK SA S2
+HA H4 H2 H6
+HJ H7 H5 HQ
+D4 DK D3 D6
+C3 C9 CQ C4
+H8 C5 HK H3
+H9 C7 HT D7
+SJ D2 S4 ST
+S8 C8 SQ S3
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J85.AJ98.J54.A63 K.74.AK92.KT9875 AQ64.KT52.T83.QJ T9732.Q63.Q76.42 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "N"]
+1N P P P
+[Play "E"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A94.QT98.AT.A983 Q2.6543.K953.KT5 KJ3.AK72.Q864.42 T8765.J.J72.QJ76 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "E"]
+P 1N P 3H
+P 4H P P
+P
+[Play "E"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A94.QT98.AT.A983 Q2.6543.K953.KT5 KJ3.AK72.Q864.42 T8765.J.J72.QJ76 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "E"]
+P 1N P 2C
+P 2H P 4H
+P P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J.AT6.Q7642.AJ73 QT74.932.AT53.Q9 A95.K74.KJ8.KT42 K8632.QJ85.9.865 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "S"]
+1D P 1N P
+2D P 2H P
+2N P 3C P
+3N P 5C P
+P P
+[Play "E"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J.AT6.Q7642.AJ73 QT74.932.AT53.Q9 A95.K74.KJ8.KT42 K8632.QJ85.9.865 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "S"]
+1D P 2C P
+3C P 3D P
+3H P 3N P
+5C P P P
+[Play "E"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J9842.Q3.J.KT942 KQ63.642.AK42.A7 AT5.AJ95.Q853.QJ 7.KT87.T976.8653 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "W"]
+1N P P 2C
+P 2S P P
+P
+[Play "E"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J9842.Q3.J.KT942 KQ63.642.AK42.A7 AT5.AJ95.Q853.QJ 7.KT87.T976.8653 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "W"]
+1N P P 2S
+P 3D P 3S
+P P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K942.A.AKJ863.J4 765.975.T742.K86 Q8.QJT842.QT753.AJT3 K63.Q95.A92."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "N"]
+2H D R P
+P 2S P P
+3H P P P
+[Play "E"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K942.A.AKJ863.J4 765.975.T742.K86 Q8.QJT842.QT753.AJT3 K63.Q95.A92."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "N"]
+2D P 2N P
+3S D 4H P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A.Q74.AT732.JT94 T72.A98.J8.AK765 J865.KJ63.Q65.83 KQ943.T52.K94.Q2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "E"]
+P 1D P 1S
+D 2C 2S 3D
+P P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A.Q74.AT732.JT94 T72.A98.J8.AK765 J865.KJ63.Q65.83 KQ943.T52.K94.Q2 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "E"]
+P 1D P 1H
+1S D R 2D
+P P 2H P
+P P
+[Play "N"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A43.AQ85.84.KT42 9762.96.KQJ3.J75 QT5.KJT4.7652.93 KJ8.732.AT9.AQ86 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "S"]
+1C P 1D P
+1H P P 1N
+2H P P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A43.AQ85.84.KT42 9762.96.KQJ3.J75 QT5.KJT4.7652.93 KJ8.732.AT9.AQ86 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "S"]
+1C 1D 1H D
+2H P P 3D
+P P P
+[Play "N"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Jansma"]
+[North "Duboin"]
+[East "Verhees"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A85.JT9.KT8.A972 QT7.A832.AJ5.J43 K2.K64.Q9764.T85 J9643.Q75.32.KQ6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstein"]
+[Auction "W"]
+1C 1D 1S D
+R P 2S 3D
+P P P
+[Play "E"]
+*
+
+

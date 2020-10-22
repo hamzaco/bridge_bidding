@@ -1,0 +1,658 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 4.KJT7.Q976.Q984 8632.A84.AK2.KT5 AKQJ7.962.53.762 T95.Q53.JT84.AJ3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2D an mu Pass
+2S Pass Pass Pass
+[Play "W"]
+H7 HA H2 H3
+D6 DK D3 D8
+D7 DA D5 D4
+HK H4 H9 HQ
+S4 S2 SA S5
+C4 S3 SK S9
+C8 S6 SQ ST
+C9 S8 SJ H5
+HJ H8 H6 C3
+HT D2 C2 DJ
+DQ C5 C6 DT
+D9 CT C7 CJ
+CQ CK S7 CA
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J543.98643.K94.6 KQT9.KQT75.Q.QJ2 7.2.A87652.AT543 A862.AJ.JT3.K987 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1H 2D
+Pass 3D 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+D4 DQ DA D3
+C6 C2 CA C7
+S3 CJ C3 C8
+DK S9 D6 DT
+S4 SK S7 S2
+S5 SQ C4 S6
+SJ ST D2 SA
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 93.AQ76532.Q8.Q2 876.T94.J9742.A4 JT54.J8.A6.KJ987 AKQ2.K.KT53.T653 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H Pass 1S X
+2H Pass Pass Pass
+[Play "N"]
+C2 CA C7 C5
+HA H4 H8 HK
+H2 H9 HJ S2
+CQ C4 C8 C3
+HQ HT S4 C6
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ532.Q.QT4.A982 K874.K983.A6.Q74 6.T6542.J52.KJT3 QT9.AJ7.K9873.65 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N Pass Pass 2D
+an sP Pass Pass
+Pass
+[Play "N"]
+D4 DA D2 D3
+DQ D6 D5 DK
+DT H3 DJ D7
+CA C4 CJ C6
+C9 C7 C3 C5
+C2 CQ CK D8
+HQ HK H2 H7
+S2 H9 H4 HJ
+S3 H8 H5 HA
+SA S7 S6 S9
+C8 S4 CT D9
+S5 S8 H6 SQ
+SJ SK HT ST
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q5.AQJ4.J943.QT7 JT974.T632.AK93.A632 7.AT865.654.K8 K985.KQ72.J82."]
+[Declarer "S"]
+[Contract "2"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass Pass X Pass
+2D Pass Pass Pass
+[Play "W"]
+S5 S4 SA SK
+H5 HJ H2 H7
+HA H3 C5 H8
+SQ S7 S6 S8
+H4 H6 D5 H9
+C2 D3 S9 S3
+HQ HT D6 HK
+C8 D4 ST S2
+C7 CA C4 CJ
+D2 CT CK C6
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQT.KT875.AQJT.4 J83.A93.92.K9873 A74.J64.8765.J52 9652.Q2.K43.AQT6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1H Pass 1N
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 7.AJ4.8432.J8643 KQ9832.98532.A.T T5.QT76.K96.K975 AJ64.K.QJT75.AQ2 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1S Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ9764.J84.93.87 KT.T76.Q6.AQJT96 Q2.AQ32.J8542.54 853.K95.AKT7.K32 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C Pass 1D 2S
+Pass Pass 3C Pass
+Pass 3S 4D Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J8653.Q.65432.Q5 9.JT64.AKQJ8.J96 74.K873.T.AK7432 AKQT2.A952.97.T8 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C 1S Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q86.AKQ4.K72.Q92 AKT9542.JT8.965.7 97652.Q.KJT643. J3.3.AJT843.A875 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D 1N 4S 5C
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ9.AJT9842.952.4 KQ93.Q7.AKJT87.T76 JT87642.K53..KQ8532 A5.6.Q643."]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D 2C 3H 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J85.A9874.J932.5 AK932.K5.AK84.63 QT74.QJT.Q6.AJ87 6.632.T75.KQT942 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S Pass 3C an
+we Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A632.J865.T962.3 4.973.J874.KJ852 JT875.2.AQ5.T974 KQ9.AKQT4.K3.AQ6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C an Pa
+Pass 1D 1S 3H
+3S 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T5.QJT.AK74.K974 KJ984.654.963.QT 6.K83.QJ5.J86532 AQ732.A972.T82.A "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S X 3S 4C
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 7542.T984.K72.K7 AJ6.32.A9654.J64 KT93.Q765.QJT.AQ Q8.AKJ.83.T98532 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1H Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 6.J32.J963.KT876 AJT9842.T86.A.Q2 5.AKQ7.KQT7542.9 KQ73.954.8.AJ543 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S 2D 3D 5D
+Pass Pass 5S Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9842.Q852.J973.A Q.AJT973.K62.K53 A3.K64.Q854.Q974 KJT765.AT.JT862."]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N 2S Pass 3H
+Pass 3S X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKQT97.AJ5.KT.Q6 J8532.QT8.J.9432 6.K932.Q9642.KT8 4.764.A8753.AJ75 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 74.KT2.Q653.8532 AKQ95.7.JT9742.9 J83.QJ64.AK8.KT6 T62.A9853.AQJ74."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S Pass 2N
+Pass 4S Pass 5C
+Pass 5S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T2.AQJT972.AQ.92 J87.63.85432.KQ6 AQ.K5.KJT976.AJT K96543.84.87543."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1D 2S 3H
+3S 3N Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Dusheiko"]
+[North "Sapire"]
+[East "Shefer"]
+[South "Eber"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T3.AT42.764.AT54 QJ64.76.A832.763 A98.QJ853.J5.QJ2 K752.K9.KQT9.K98 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N Pass Pass
+X Pass 2C Pass
+Pass Pass
+[Play "S"]
+*
+
+

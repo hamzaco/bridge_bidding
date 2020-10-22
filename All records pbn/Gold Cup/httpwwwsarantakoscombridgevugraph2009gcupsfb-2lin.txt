@@ -1,0 +1,459 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J6.JT98654.AJ.J3 QT42.3.Q98.Q9762 A8.AKQ.T432.AK54 K9753.72.K765.T8 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "N"]
+2N Pass 4C Pass
+4S Pass 5D Pass
+6C Pass 6H Pass
+Pass Pass
+[Play "W"]
+C3 C2 CA C8
+H4 H3 HA H7
+H5 C6 HK H2
+DJ DQ D2 D5
+CJ CQ CK CT
+H6 C9 C4 S5
+DA D8 D3 D6
+H8 S2 HQ S3
+HT D9 D4 D7
+HJ S4 DT DK
+H9 ST C5 S7
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J6.JT98654.AJ.J3 QT42.3.Q98.Q9762 A8.AKQ.T432.AK54 K9753.72.K765.T8 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "N"]
+2N Pass 4C Pass
+4D Pass 4H Pass
+4S X 5D Pass
+6H Pass Pass Pass
+[Play "W"]
+S6 S2 SA S3
+H6 H3 HQ H7
+H9 S4 HK H2
+HT C2 HA S5
+SJ ST S8 SK
+DA D9 D2 D5
+H8 SQ D3 C8
+H5 C7 D4 CT
+H4 D8 C4 D6
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT.KJ5.Q5.QT8753 AQ9863.98.9842.4 5.QT64.AK763.J96 J742.A732.JT.AK2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "E"]
+1C Pass 2D Pass
+2H Pass 2S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT.KJ5.Q5.QT8753 AQ9863.98.9842.4 5.QT64.AK763.J96 J742.A732.JT.AK2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "E"]
+1H 2C 2S 3C
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A9873.T9.Q.AJ976 QJ5.KJ7.A96.Q852 K642.8.KJT832.T3 T.AQ65432.754.K4 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "S"]
+2S Pass 4S 5H
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A9873.T9.Q.AJ976 QJ5.KJ7.A96.Q852 K642.8.KJT832.T3 T.AQ65432.754.K4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "S"]
+1S Pass 4H an
+sP X Pass Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQT874.85.J873.T J74.A4.AQJ98762.AJ 62.KQT96.K543.96532 AKQT93.52.."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "W"]
+1C X 4H Pass
+5H Pass 6H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQT874.85.J873.T J74.A4.AQJ98762.AJ 62.KQT96.K543.96532 AKQT93.52.."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "W"]
+5C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T8653.92.K4.AJ42 AQJ4.T4.AT6.KT86 72.AKJ75.QJ972.Q K9.Q863.853.9753 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T8653.92.K4.AJ42 AQJ4.T4.AT6.KT86 72.AKJ75.QJ972.Q K9.Q863.853.9753 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 97.QT85.T8.AJ876 AQJT4.K2.AK74.QT K53.A3.QJ965.K43 862.J9764.32.952 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "E"]
+Pass Pass 1S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 97.QT85.T8.AJ876 AQJT4.K2.AK74.QT K53.A3.QJ965.K43 862.J9764.32.952 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "E"]
+Pass Pass 1S Pass
+Pass X Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K763.AJ97.T83.QT QJ.52.AJ742.J765 942.Q863.KQ96.43 AT85.KT4.5.AK982 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D Pass 1S
+Pass 3C Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K763.AJ97.T83.QT QJ.52.AJ742.J765 942.Q863.KQ96.43 AT85.KT4.5.AK982 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "S"]
+1C 1D X an
+4+ 1S 2H Pass
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Crouch"]
+[North "Silverston"]
+[East "Forrester"]
+[South "Dixon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K3.J8.QJ842.AKQ6 A98652.Q972.A.J3 JT.4.KT9765.9852 Q74.AKT653.3.T74 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Waterlow"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "W"]
+1S Pass 1N Pass
+2D Pass 4D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+

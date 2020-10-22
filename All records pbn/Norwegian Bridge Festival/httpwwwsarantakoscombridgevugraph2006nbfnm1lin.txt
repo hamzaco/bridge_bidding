@@ -1,0 +1,855 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 76542.T9.QJ6.764 9.KJ75.KT9852.QJ KJT3.Q2.A3.K9532 AQ8.A8643.74.AT8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C 1H Pa 2C
+Pass 3C Pass 4H
+Pass Pass Pass
+[Play "S"]
+S2 S9 SK SA
+H9 HK H2 H4
+HT H5 HQ HA
+D6 DT DA D4
+C4 CJ C2 CA
+DJ DK D3 D7
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 95.J52.AKQ2.9765 76432.8.98.AT843 KQJ.AQT643.J43.J AT8.K97.T765.KQ2 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1S 2H
+X! 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J865.A73.73.KJ87 A932.K952.AQ4.A5 KQT4.64.J986.643 7.QJT8.KT52.QT92 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ97.J5.T643.A86 KT63.Q83.QJ9.K95 Q54.AK7.A875.Q72 82.T9642.K2.JT43 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A9863.Q3.K62.J95 Q7.KJT84.95.AQ82 JT52.65.QT843.43 K4.A972.AJ7.KT76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ.A96.92.KQ8643 AT842.T873.T4.J7 J9653.J5.J763.T2 7.KQ42.AKQ85.A95 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D an be 2C
+X! an ne Pass
+3C 4C Pass Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT6.T83.AT3.Q94 J952.J5.K2.AJT62 73.AQ976.J9876.3 A84.K42.Q54.K875 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1H Pass
+1S Pass 2D Pass
+2N Pass 3D Pass
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ72.KJ82.AJ93.5 T8.Q973.Q5.JT762 54.A5.K872.AK983 AJ963.T64.T64.Q4 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ7632.8742.4.T6 84.KQT9.J53.K754 KT9.A5.KQT86.J93 J5.J63.A972.AQ82 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D Pass 1S Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 84.K9.KQT962.832 AT975.Q432.4.JT4 KQ2.AT85.AJ853.6 J63.J76.7.AKQ975 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C 1D 1S X
+XX 2D 2S 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9743.874.Q62.A52 AK8.KJT63.83.943 J5.A2.AJT95.KQ86 QT62.Q95.K74.JT7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1H 1N 2H
+2N Pass 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 32.AK3.T63.AT964 K84.74.KQJ742.QJ AQT976.QJ82.9.K8 J5.T965.A85.7532 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D 1S Pa 2C
+2D 2H 3D X!
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A2.AQ872.K975.JT J83.K653.42.KQ87 KQ765.JT4.Q3.964 T94.9.AJT86.A532 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S X Pa 2C
+2H Pass Pass 3C
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J87.A53.K32.A985 92.QJ2.AT74.KQ32 K.KT8764.QJ6.T64 AQT6543.9.985.J7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J972.964.J53.Q74 83.32.AKQ98.JT82 KQT65.QJ75.T2.93 A4.AKT8.764.AK65 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D X Pass
+1S 3C Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AT97.Q97.AJ.JT73 J43.J6532.T6.954 K862.A8.K98.A862 Q5.KT4.Q75432.KQ "]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C 1D 1S
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K62.JT72.A3.AKJ3 J94.AQ984.KJ65.T 875.K6.T842.9762 AQT3.53.Q97.Q854 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N 2D
+an ha Pass 2H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ84.QJ763.Q832.K762 AT.A7643.64.95 K982.QJ952.AK.QT3 54.KT8.JT975."]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1D Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 84.T862.97543.A5 T2.AQJ4.AK2.KJ32 KJ73.K5.Q8.Q9874 AQ965.973.JT6.T6 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 2N Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQT975.3.8.QT952 K32.A96.A3.A8763 J86.KJ742.Q74.KJ 4.QT85.KJT9652.4 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N Pass 2C 2S
+Pass Pass 5D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 843.A93.9753.AK5 QT2.652.84.Q9862 AK95.QJT7.Q2.T74 J76.K84.AKJT6.J3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C 1D 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT73.985.95.AT95 A954.AQJ4.K87.63 KQ62.2.AQJT4.KQ2 8.KT763.632.J874 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1N X
+XX Pass 2C Pass
+2H 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K2.AJ4.A62.AKQ95 J986.32.984.8432 A74.K965.QJT7.JT QT53.QT87.K53.76 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C an 11 Pass
+1H Pass 2C Pass
+2D Pass 2N Pass
+3N Pass 4C Pass
+4N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T42.J9854.865.73 AQ876.A7.AT2.KQ2 3.Q63.Q43.AJT984 KJ95.KT2.KJ97.65 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C an 11 3C
+Pass Pass 3S Pass
+4N Pass 5D Pass
+6S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q.JT93.KT2.QJT74 AKJ984.AKQ8.7.86 73.7642.QJ.AK952 T652.5.A986543.3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1C X
+1H 2D 2H 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J932.QT763.A3.J2 AQT4.K4.Q82.9763 87.A952.K965.A85 K65.J8.JT74.KQT4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKQ6.QT97.T.AJ52 832.42.KJ962.Q86 JT.5.A8753.KT973 9754.AKJ863.Q4.4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C 1D 2C 2H
+3D Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 862.QT3.7542.A32 AQT3.A96.3.KQ964 K94.87542.AQ.875 J75.KJ.KJT986.JT "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2S Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Herland"]
+[North "Brogeland"]
+[East "Skimmeland"]
+[South "Stabell"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J9642.A3.J96.QT2 KQ3.8762.A3.K964 A85.K.KQT7542.87 T7.QJT954.8.AJ53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -520"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D 2H X! an
+ne 3H Pass Pass
+X Pass 4D Pass
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+

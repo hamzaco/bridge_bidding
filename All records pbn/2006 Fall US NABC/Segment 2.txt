@@ -1,0 +1,909 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 42.J974.T53.QT86 QT.T852.KJ872.42 A65.Q3.AQ94.AKJ9 KJ9873.AK6.6.753 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "N"]
+2N Pass Pass Pass
+[Play "E"]
+S2 SQ S5 SK
+S4 ST S6 SJ
+H4 H2 H3 HK
+H7 D7 SA S9
+C6 C2 CA C7
+C8 C4 CK C5
+CT H5 C9 C3
+DT DK DA D6
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 42.J974.T53.QT86 QT.T852.KJ872.42 A65.Q3.AQ94.AKJ9 KJ9873.AK6.6.753 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "N"]
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T6.QJ985.AK9752.A972 A732.6.JT64.J8543 KT.AKQT94..KQ 64.J87532.Q83."]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "E"]
+Pass 2H an 5!
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T6.QJ985.AK9752.A972 A732.6.JT64.J8543 KT.AKQT94..KQ 64.J87532.Q83."]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "E"]
+Pass 1H Pass 2D
+Pass 3C Pass 3S
+Pass 4C Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQJ5.964.KJ8.QT8 973.K8.T53.J6432 AT.Q52.AQ72.AK95 8642.AJT73.964.7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "S"]
+1C Pass 1D 1H
+1S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQJ5.964.KJ8.QT8 973.K8.T53.J6432 AT.Q52.AQ72.AK95 8642.AJT73.964.7 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass 2H Pass
+2N Pass 4C Pass
+4D Pass 4S Pass
+5D Pass 6C Pass
+6D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K95.98.A8642.AJ2 AJT73.AJ6.J75.T3 Q82.Q753.T3.Q974 64.KT42.KQ9.K865 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "W"]
+Pass Pass Pass 1D
+1S X XX 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K95.98.A8642.AJ2 AJT73.AJ6.J75.T3 Q82.Q753.T3.Q974 64.KT42.KQ9.K865 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "W"]
+Pass Pass Pass 1D
+1S X Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q8.T85.K2.AQ9643 J9732.A6.QJ87.J2 AT65.KQJ972.A9.K K4.43.T6543.T875 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "N"]
+1H Pass 2C Pass
+2H Pass 4H Pass
+4N Pass 5C Pass
+5H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q8.T85.K2.AQ9643 J9732.A6.QJ87.J2 AT65.KQJ972.A9.K K4.43.T6543.T875 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "N"]
+1H Pass 1N Pass
+2S Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ8.Q984.K95.972 Q73.T5.J2.KQT843 A954.A73.Q643.J6 T62.KJ62.AT87.A5 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "E"]
+1D Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ8.Q984.K95.972 Q73.T5.J2.KQT843 A954.A73.Q643.J6 T62.KJ62.AT87.A5 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "E"]
+1D Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK75.53.K9842.95 QT432.84.73.T632 986.AK62.T5.KQ84 J.QJT97.AQJ6.AJ7 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "S"]
+Pass Pass 1C 1H
+X Pass 1S X
+XX Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK75.53.K9842.95 QT432.84.73.T632 986.AK62.T5.KQ84 J.QJT97.AQJ6.AJ7 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "S"]
+Pass Pass 1C 1H
+X Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT.AJT7.AK53.Q62 7432.Q9864.97.94 AQ9.532.QJ86.AT7 K865.K.T42.KJ853 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT.AJT7.AK53.Q62 7432.Q9864.97.94 AQ9.532.QJ86.AT7 K865.K.T42.KJ853 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J864.863.K732.98 3.KQT92.94.KT643 QT52.A7.A865.AQ2 AK97.J54.QJT.J75 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "N"]
+1N Pass Pass X!
+an ma Pass 2C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J864.863.K732.98 3.KQT92.94.KT643 QT52.A7.A865.AQ2 AK97.J54.QJT.J75 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "N"]
+1N Pass Pass 2C
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AT83.AK8.9.Q9754 72.T96542.72.AJ6 KQJ.QJ73.K43.T32 9654.AQJT865.K8."]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "E"]
+1D X 1H X
+2D Pass Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AT83.AK8.9.Q9754 72.T96542.72.AJ6 KQJ.QJ73.K43.T32 9654.AQJT865.K8."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "E"]
+1D X Pass 3H
+Pass 4H X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ3.KJ6543.KJ54.J742 976.A7.A873.AKT983 QT.T9.T92.Q65 K8542.Q82.Q6."]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ3.KJ6543.KJ54.J742 976.A7.A873.AKT983 QT.T9.T92.Q65 K8542.Q82.Q6."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJT4.965.KJ2.KJ8 AK6.Q2.T864.AT96 952.J874.AQ73.32 873.AKT3.95.Q754 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "W"]
+1D Pass 1H Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJT4.965.KJ2.KJ8 AK6.Q2.T864.AT96 952.J874.AQ73.32 873.AKT3.95.Q754 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "W"]
+1C Pass 1H Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKJ4.Q4.Q83.T652 T52.AJT95.AJ4.87 983.83.9752.AQJ4 Q76.K762.KT6.K93 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "N"]
+Pass Pass 1C 1H
+2C X Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKJ4.Q4.Q83.T652 T52.AJT95.AJ4.87 983.83.9752.AQJ4 Q76.K762.KT6.K93 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S Pass Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKJ983.K3.T9.A53 T.Q9.K8752.KJ942 Q652.J865.J63.Q8 74.AT742.AQ4.T76 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKJ983.K3.T9.A53 T.Q9.K8752.KJ942 Q652.J865.J63.Q8 74.AT742.AQ4.T76 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "E"]
+Pass 1S Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT2.AQ96.K764.85 875.JT8.QT8.Q743 A963.K732.J2.AT6 QJ4.54.A953.KJ92 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "S"]
+1D Pass 1H Pass
+2H Pass 2S an
+as Pass 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT2.AQ96.K764.85 875.JT8.QT8.Q743 A963.K732.J2.AT6 QJ4.54.A953.KJ92 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "S"]
+1D Pass 1H Pass
+2H Pass 2N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Fall US NABC"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Mittelman"]
+[North "Tritt"]
+[East "Ozdil"]
+[South "Freed"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 4.Q97542.QT5.AT6 Q853.J63.A6.Q843 9.AK8.KJ874.J952 AKJT762.T.932.K7 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Freed"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Kaminsky"]
+[Auction "W"]
+Pass 1D 3S 4H
+4S 5H Pass Pass
+Pass
+[Play "W"]
+*
+
+

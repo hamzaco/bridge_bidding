@@ -1,0 +1,201 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bahník"]
+[North "Hradil"]
+[East "Svoboda"]
+[South "Jelínek"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K73.AK6.984.9652 AT964.754.QJ653.J2 J832.AT.KQJ83. Q85.QT9.K72.AT74 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Acolvick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acol"]
+[Auction "N"]
+1D Pass 1N Pass
+Pass Pass
+[Play "W"]
+SK S4 S2 SQ
+C6 D6 CK CA
+SA SJ S8 S3
+S7 ST C3 S5
+D4 S9 C8 D7
+D8 S6 H2 HT
+D9 D3 DA DK
+H4 CJ C4 C2
+C7 C5 H5 CQ
+H9 HA H7 H3
+HK D5 H8 HQ
+H6 DJ HJ D2
+CT C9 DQ DT
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bahník"]
+[North "Hradil"]
+[East "Svoboda"]
+[South "Jelínek"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A65.AK852.A64.KQ Q743.743.JT753.A J982.QJT.K.JT654 KT.96.Q982.98732 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Acolvick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acol"]
+[Auction "E"]
+Pass 1C X 1H
+Pass 1S Pass 1N
+Pass 2C Pass 3D
+Pass 3S Pass 4S
+Pass 6H Pass Pass
+Pass
+[Play "E"]
+D4 DT DK D8
+CK CA C4 C9
+DA D3 S2 D9
+CQ H3 C5 C2
+D6 D5 HT DQ
+H2 H4 HQ H6
+H5 H7 HJ H9
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bahník"]
+[North "Hradil"]
+[East "Svoboda"]
+[South "Jelínek"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQJ754.T92.AJ72.K3 AKQ74.KT43.A8.96 J.Q5.KQT96542. T82.8653.986.J73 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Acolvick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acol"]
+[Auction "S"]
+1S X 2C Pass
+2S X 3C Pass
+Pass Pass
+[Play "E"]
+H2 HQ HJ H8
+HT HK C2 H3
+CK C3 S4 CA
+D5 D9 DJ D3
+H9 HA C4 H6
+C7 S5 C8 CQ
+CJ D2 H4 CT
+DQ D8 DA D4
+D7 DK C5 D6
+H7 C9 H5 S7
+S3 C6 S2 SJ
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Bahník"]
+[North "Hradil"]
+[East "Svoboda"]
+[South "Jelínek"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQT85.KQ.J73.J98 K92.AJ83.T98.QT4 7643.74.Q6.K6532 J.T9652.AK542.A7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Acolvick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acol"]
+[Auction "W"]
+Pass Pass 1H 1S
+2H 2S 3D 3S
+4H 4S Pass Pass
+X Pass Pass Pass
+[Play "W"]
+D3 DT D6 DK
+HK HA H4 HT
+HQ H3 H7 H9
+D7 D8 DQ DA
+DJ D9 C2 D2
+SA S2 S3 SJ
+ST SK S4 D4
+C8 C4 C3 CA
+C9 S9 C5 D5
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Bahník"]
+[North "Hradil"]
+[East "Svoboda"]
+[South "Jelínek"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T4.73.AJT843.Q95 AK9.AK842.KQ92.3 QJ6532.QT.75.JT6 87.J965.6.AK8742 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Acolvick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acol"]
+[Auction "N"]
+2D Pass 2H X
+2S 3C Pass 3N
+Pass Pass Pass
+[Play "E"]
+DA D2 D7 D6
+ST SA S2 S7
+H7 HA HT H5
+C5 C3 C6 CA
+H3 H2 HQ HJ
+S4 SK SQ S8
+D4 H4 S3 H9
+C9 D9 CT CK
+D8 HK S5 H6
+D3 H8 D5 C2
+*
+
+

@@ -1,0 +1,418 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J3.A8765.A7542.5 52.KQ2.J863.AT73 T98.T943.K9.KJ82 AKQ764.J.QT.Q964 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2C Pass 2S
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "N"]
+HA H2 H3 HJ
+H5 HK H4 C4
+S3 S2 S9 SA
+SJ S5 S8 SK
+D4 D3 ST SQ
+D2 C3 C2 S4
+D5 C7 C8 S7
+C5 D6 H9 S6
+D7 CA CJ C6
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T42.Q874.9.KJ862 73.AK5.542.T9543 AKQ85.JT.AKT873. J96.9632.QJ6.AQ7 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1H Pass 2S
+Pass 2N Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "None"]
+H4 HK HT H6
+H7 HA HJ H2
+C2 C3 S5 C7
+D9 D4 DA DQ
+S2 S3 SA S6
+S4 S7 SK S9
+ST C4 SQ SJ
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT85.KJ98.KJ3.AK KJ9.7653.A62.T73 Q32.AQT.85.QJ642 764.42.QT974.985 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+1D Pass 2H Pass
+2S Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+H8 H3 HT H4
+DJ DA D5 D4
+H9 H5 HA H2
+CK C3 C2 C5
+CA C7 C4 C8
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ9.AQJ65.J9.AT7 82.K7.AKQ863.843 KT54.T943.42.QJ9 A763.82.T75.K652 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1D Pass 1S 2H
+Pass 3H Pass 3N
+Pass Pass X Pass
+Pass Pass
+[Play "None"]
+D9 DA D2 D5
+DJ DK D4 D7
+C7 DQ H3 DT
+S9 D6 H4 H8
+H5 D3 C9 H2
+HJ D8 S4 C2
+SJ S8 S5 SA
+CA C3 CJ C5
+SQ S2 SK S3
+CT C4 ST S7
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ98.A83.J74.A63 76.K74.KQ98.JT97 K54.QJT65.T6.K42 QT32.92.A532.Q85 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass Pass 1N Pass
+2D Pass 2H Pass
+3N Pass Pass Pass
+[Play "W"]
+C6 CJ CK C8
+H3 H4 HQ H2
+H8 HK HJ H9
+D4 DK D6 D5
+D7 D8 DT DA
+DJ DQ C2 D2
+C3 D9 C4 D3
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQ4.K.AK873.QT54 K52.JT82.J96.K82 JT93.Q754.QT4.73 876.A963.52.AJ96 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2N Pass 3C
+Pass 3D Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+HK HJ H4 H3
+DA D6 D4 D2
+D3 D9 DQ D5
+S4 SK SJ S6
+C4 HT HQ HA
+SQ H8 H5 H6
+SA H2 H7 H9
+C5 C2 C3 CA
+CT CK C7 C6
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 98764.A85.QJ752.T KJ943.K52.K643.KJ5 T62.AQJ963.T.AQ32 Q7.T874.A98."]
+[Declarer "W"]
+[Contract "7"]
+[Result "12"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S X XX 1N
+2S Pass Pass 2N
+Pass Pass 3D Pass
+3S Pass Pass Pass
+[Play "N"]
+SQ S4 ST SJ
+H3 H2 HQ HA
+CT C9 C2 CK
+H5 HK H6 H7
+D4 H8 HJ HT
+SA C5 H9 S5
+C3 SK S2 S6
+D8 C7 D2 DA
+DQ D7 S7 D5
+S9 H4 D3 S3
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQT.AKJT.98.9543 J7632.653.Q75.J6 4.9874.AJ4.AT872 A985.Q2.KT632.KQ "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "None"]
+HA H3 H4 H2
+HK H5 H7 HQ
+D9 D5 DA D2
+C3 C6 C2 CQ
+ST S2 S4 SA
+SQ S3 H8 S9
+SK S6 DJ S5
+HJ H6 H9 S8
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q8754.A932.T87.K JT9.K5.A42.98543 K32.QJT864.J5.Q2 A6.7.KQ963.AJT76 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+2H 3D 3H Pass
+Pass Pass
+[Play "N"]
+D7 D4 D5 DK
+D8 DA DJ D9
+DT D2 H4 D6
+H2 HK HQ H7
+CK C4 C2 CA
+S4 C3 CQ CJ
+H3 H5 HJ D3
+SQ S9 S2 S6
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 63.42.Q983.KQT72 A98.T3.AKJ6.8643 Q752.J865.52.A95 KJT4.AKQ97.T74.J "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+1H Pass 1S Pass
+1N Pass 2N Pass
+3N Pass Pass Pass
+[Play "None"]
+CK C3 C9 CJ
+C7 C8 CA D4
+CQ C4 C5 D7
+CT C6 D2 H7
+C2 H3 H5 DT
+D9 DA D5 S4
+H2 HT H6 HA
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Figueiredo"]
+[North "Marcos"]
+[East "Brenner"]
+[South "Sergio"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 8653.974.AQ5.AT2 K.K853.T74.KQ753 AQ2.JT62.J932.J9 JT974.AQ.K86.864 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Mane"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+H9 H5 H2 HQ
+C2 CQ C9 C4
+S3 SK S2 S4
+H4 H3 H6 HA
+CA C3 CJ C6
+S5 H8 SQ S7
+DA D4 DJ DK
+DQ D7 D2 D6
+S6 C5 SA S9
+*
+
+

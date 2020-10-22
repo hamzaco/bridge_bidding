@@ -1,0 +1,912 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K.743.KQ742.J874 T3.AKJT62.T3.AQ5 9874.Q85.J95.963 AQJ652.9.A86.KT2 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "N"]
+Pass 1S Pass 2H
+Pass 3S Pass 4C
+Pass 4D Pass 4N
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "S"]
+DK D3 D5 DA
+H3 HA H5 H9
+H7 HK H8 D8
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K.743.KQ742.J874 T3.AKJT62.T3.AQ5 9874.Q85.J95.963 AQJ652.9.A86.KT2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "N"]
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ7632.7.A83.K73 T986.KQJT97.A94.KJT8 KJ53.6.Q865. 954.AQ42.542.JT2 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "E"]
+Pass 1S 2D 2N
+3D 3N 5D Pass
+Pass 5N Pass 6C
+Pass 6S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ7632.7.A83.K73 T986.KQJT97.A94.KJT8 KJ53.6.Q865. 954.AQ42.542.JT2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "E"]
+Pass 1S 3D 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A7542.T32.J3.JT7 J.J954.KQ84.A853 KT63.AK7.5.Q9642 Q98.Q86.AT9762.K "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "S"]
+Pass Pass 1C 1D
+1S X 2S 3D
+Pass 3S X 4C
+Pass 5D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A7542.T32.J3.JT7 J.J954.KQ84.A853 KT63.AK7.5.Q9642 Q98.Q86.AT9762.K "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "S"]
+Pass Pass 1C 1D
+1H 2C 2S 3D
+3S 4C Pass 4D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A9.A43.63.AJT854 KQ742.K.A8542.97 T3.Q987.QJ97.KQ2 J865.JT652.KT.63 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "W"]
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A9.A43.63.AJT854 KQ742.K.A8542.97 T3.Q987.QJ97.KQ2 J865.JT652.KT.63 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "W"]
+1S Pass 2S 3C
+3S 4C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J7.K63.AKQ542.Q5 A64.J987.J93.A42 9853.AQT52.T6.63 KQT2.4.87.KJT987 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "N"]
+Pass Pass 1N Pass
+2D 3C 3D Pass
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J7.K63.AKQ542.Q5 A64.J987.J93.A42 9853.AQT52.T6.63 KQT2.4.87.KJT987 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "N"]
+Pass Pass 1N Pass
+2D 2H 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q6.QJT7.Q8.AQT54 T743.94.AKT65.J9 K82.A32.972.8632 AJ95.K865.J43.K7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "E"]
+1C Pass 1S Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q6.QJT7.Q8.AQT54 T743.94.AKT65.J9 K82.A32.972.8632 AJ95.K865.J43.K7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "E"]
+1N X 2D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A7542.AKJ83.65.K 963.4.AJ8743.932 KQJ.T97.KT2.QJ85 T8.Q652.Q9.AT764 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "S"]
+1S Pass 2C Pass
+2H Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A7542.AKJ83.65.K 963.4.AJ8743.932 KQJ.T97.KT2.QJ85 T8.Q652.Q9.AT764 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "S"]
+1S Pass 2N Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9.KQ63.KQT854.T9 QT74.AJ852.KQ74.AKJ65 97.632.AJ2.832 T4.AJ97.8653."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "W"]
+1H 1S Pass 2D
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9.KQ63.KQT854.T9 QT74.AJ852.KQ74.AKJ65 97.632.AJ2.832 T4.AJ97.8653."]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "W"]
+1H 1S Pass 2D
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J8.9543.J65.J987 AQ97.A7.AQ83.A65 T432.KQJ.T97.KQT K65.T862.K42.432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "N"]
+Pass Pass Pass 2N
+Pass 3C Pass 3D
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J8.9543.J65.J987 AQ97.A7.AQ83.A65 T432.KQJ.T97.KQT K65.T862.K42.432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "N"]
+Pass Pass Pass 2N
+Pass 3C Pass 3D
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKQ.AK9643.Q65.8 JT9754.T2.J74.63 863.QJ75.K3.QT97 2.8.AT982.AKJ542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "E"]
+1C X 1S 2H
+3D 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKQ.AK9643.Q65.8 JT9754.T2.J74.63 863.QJ75.K3.QT97 2.8.AT982.AKJ542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "E"]
+1C X Pass 2H
+3D 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 98.QJ752.9865.53 K64.AK98.72.Q972 AQ753.6.AQT43.64 JT2.T43.KJ.AKJT8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "S"]
+Pass 1C 1S 2S
+Pass 2N 3D 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 98.QJ752.9865.53 K64.AK98.72.Q972 AQ753.6.AQT43.64 JT2.T43.KJ.AKJT8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "S"]
+Pass 1N 2H 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A.AQT752.6.KJ932 9643.K6.853.QT64 JT852.J843.AKQ9. KQ7.9.JT742.A875 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 4C Pass 4N
+Pass 5C Pass 5H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A.AQT752.6.KJ932 9643.K6.853.QT64 JT852.J843.AKQ9. KQ7.9.JT742.A875 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 3H Pass 4C
+Pass 4D Pass 4N
+Pass 6C Pass 6H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 986.AJ75.A52.654 3.Q94.T43.AK8732 AKJ7.K63.KJ98.Q9 QT542.T82.Q76.JT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "N"]
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 986.AJ75.A52.654 3.Q94.T43.AK8732 AKJ7.K63.KJ98.Q9 QT542.T82.Q76.JT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "N"]
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A86.A9842.T98.93 KQJT72.K75.J.A86 9543.T6.AQ653.T4 .QJ3.K742.KQJ752 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "E"]
+1C Pass 1S Pass
+2C Pass 2D Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A86.A9842.T98.93 KQJT72.K75.J.A86 9543.T6.AQ653.T4 .QJ3.K742.KQJ752 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "E"]
+1C 1H 1S Pass
+3C Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T9653.A9.732.A63 QJ84.Q7.QJ98.Q74 72.J632.AT4.T985 AK.KT854.K65.KJ2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 1S Pass 2C
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T9653.A9.732.A63 QJ84.Q7.QJ98.Q74 72.J632.AT4.T985 AK.KT854.K65.KJ2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 1S Pass 2C
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "13th European Champions Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "CRONIER"]
+[North "SCHALTZ"]
+[East "ZALESKI"]
+[South "BLAKSET"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 3.KJ964.A843.Q76 AQT.Q73.KJT2.A43 K764.A52.97.JT85 J9852.T8.Q65.K92 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SCHALTZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZALESKI"]
+[Auction "W"]
+1N Pass 2H X
+2S 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+

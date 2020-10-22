@@ -1,0 +1,916 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK93.JT764.6.K86 852.Q92.AJ852.J3 QJT4.AK3.K73.A92 76.85.QT94.QT754 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "N"]
+2N Pass 3D X
+3H Pass 4D Pass
+4H Pass Pass Pass
+[Play "E"]
+CK C3 C2 C4
+H4 H2 HA H5
+H6 H9 HK H8
+SA S2 SJ S7
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK93.JT764.6.K86 852.Q92.AJ852.J3 QJT4.AK3.K73.A92 76.85.QT94.QT754 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "N"]
+1C Pass 1S Pass
+1N Pass 2D Pass
+2H Pass 3C Pass
+3H Pass 4C Pass
+4D Pass 4S Pass
+5C Pass 6S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J3.T6.AQ9432.QJ6 A.Q98753.J8.K983 K97654.A2.76.T75 QT82.KJ4.KT5.A42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "E"]
+1C 1D 1H 1S
+X! Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J3.T6.AQ9432.QJ6 A.Q98753.J8.K983 K97654.A2.76.T75 QT82.KJ4.KT5.A42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "E"]
+1D Pass 1H 1S
+X 2D 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ53.KJT7.J6.J6 T92.Q643.K75.QT9 8.A98.AQT982.832 Q764.52.43.AK754 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "S"]
+1S Pass 2D Pass
+2H Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ53.KJT7.J6.J6 T92.Q643.K75.QT9 8.A98.AQT982.832 Q764.52.43.AK754 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "S"]
+1S Pass 2D Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J953.J7.JT73.T32 AKT53.K964.AJ64.AKQ76 Q6.A.KQ987. T842.9842.Q852.5 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "W"]
+1H 2H Pass 2S
+X XX 4C 4S
+5C X 5H X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J953.J7.JT73.T32 AKT53.K964.AJ64.AKQ76 Q6.A.KQ987. T842.9842.Q852.5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "W"]
+1H 2H 3H Pass
+4H 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 6.Q7654.65432.53 A98543.AKQJ9.T4.KQT7 AKJT.8.K976.J2 9832.T7.AQJ82."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "N"]
+1C Pass Pass X
+Pass Pass 1D X
+XX an Al Pass
+1H 1S Pass 1N
+Pass 2S Pass 3S
+Pass 4S X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 6.Q7654.65432.53 A98543.AKQJ9.T4.KQT7 AKJT.8.K976.J2 9832.T7.AQJ82."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "N"]
+1C 2C X 2S
+Pass Pass 3H 3S
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 765.K85.73.AQT96 AQ42.63.AT62.543 KJT983.A742.K98. QJT9.QJ54.KJ872."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "E"]
+Pass 1N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 765.K85.73.AQT96 AQ42.63.AT62.543 KJT983.A742.K98. QJT9.QJ54.KJ872."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "E"]
+Pass Pass Pass 1S
+X XX 2D 4S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 962.K.T92.KJ9843 AJT.AQT32.AJ65.Q Q8743.J9764.K7.6 K5.85.Q843.AT752 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "S"]
+Pass 1H Pass 1N
+Pass 2N Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 962.K.T92.KJ9843 AJT.AQT32.AJ65.Q Q8743.J9764.K7.6 K5.85.Q843.AT752 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "S"]
+Pass 1C 2C 3C
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QT4.9765.JT7.Q87 853.JT2.KQ653.A6 AJ762.A.984.K542 K9.KQ843.A2.JT93 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "W"]
+Pass 1S 2H 2S
+3H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QT4.9765.JT7.Q87 853.JT2.KQ653.A6 AJ762.A.984.K542 K9.KQ843.A2.JT93 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "W"]
+Pass 1S 2H 2S
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J92.AJ8.K9854.74 7654.QT.T7.AKJ82 AKQT3.K53.Q62.96 8.97642.AJ3.QT53 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "N"]
+1S Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J92.AJ8.K9854.74 7654.QT.T7.AKJ82 AKQT3.K53.Q62.96 8.97642.AJ3.QT53 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "N"]
+1N Pass 3D Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A6.T7.QT9.QJT853 JT985.Q83.AJ64.7 72.A92.K532.AK62 KQ43.KJ654.87.94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "E"]
+Pass Pass Pass 1C
+1H 2D 2H 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A6.T7.QT9.QJT853 JT985.Q83.AJ64.7 72.A92.K532.AK62 KQ43.KJ654.87.94 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "E"]
+Pass Pass Pass 1N
+2C 3N 4S X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A952.762.Q63.A32 T76.AQJ8.J72.QT5 QJ.543.K84.K9874 K843.KT9.AT95.J6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "S"]
+1N Pass 2C an
+Al Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A952.762.Q63.A32 T76.AQJ8.J72.QT5 QJ.543.K84.K9874 K843.KT9.AT95.J6 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKT93.K74.8653.8 86.A8.KT2.AKT432 Q752.JT32.A94.J9 J4.Q965.QJ7.Q765 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKT93.K74.8653.8 86.A8.KT2.AKT432 Q752.JT32.A94.J9 J4.Q965.QJ7.Q765 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "W"]
+2C Pass 2N Pass
+3N Pass Pass X
+Pass 4C Pass 4S
+Pass Pass 5C Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K3.QJ963.AJ63.Q9 AJT875.A.T4.A764 Q.KT85.K97.KJ853 9642.742.Q852.T2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "N"]
+1C Pass 1H 1S
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K3.QJ963.AJ63.Q9 AJT875.A.T4.A764 Q.KT85.K97.KJ853 9642.742.Q852.T2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "N"]
+1D Pass 1H 1S
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KT32.KQJT2.J4.Q8 AQ87.965.T2.T964 965.A8.KQ96.AKJ2 J4.743.A8753.753 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 3D
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KT32.KQJT2.J4.Q8 AQ87.965.T2.T964 965.A8.KQ96.AKJ2 J4.743.A8753.753 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "E"]
+Pass 1H Pass 1N
+Pass 2D Pass 2H
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 987542.A4.872.83 K3.K8752.AK65.QT 6.Q96.JT93.A9752 AQJT.JT3.Q4.KJ64 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2D Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 987542.A4.872.83 K3.K8752.AK65.QT 6.Q96.JT93.A9752 AQJT.JT3.Q4.KJ64 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "S"]
+Pass 1H Pass 1N
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-07 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Furunes"]
+[North "A.Rasmusse"]
+[East "T.Aa"]
+[South "T.Charlsen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KJ3.A9876.873.K9 A6.KT52.AQJ5.Q42 Q9852.Q.K62.AT87 T74.J43.T94.J653 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Hordaland 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Midt-Trøndelag 1"]
+[Auction "W"]
+1N Pass 2C Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+

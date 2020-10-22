@@ -1,0 +1,928 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT3.Q976.A3.6543 QJ542.JT542.AJT.9876 83.T8654.K9.K AK.KQJ972.Q872."]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+P 1D P 1S
+P 2C P P
+P
+[Play "S"]
+C3 CT CK C2
+CA C9 C7 C4
+S3 S2 S6 SK
+D3 CJ D4 D2
+H6 H4 H3 HA
+C5 H2 S7 CQ
+S8 C8 C6 S4
+H5 D5 DK DA
+H7 HT H8 HK
+ST S5 D6 DQ
+D8 DJ H9 SJ
+HQ HJ DT D7
+D9 SA SQ S9
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT3.Q976.A3.6543 QJ542.JT542.AJT.9876 83.T8654.K9.K AK.KQJ972.Q872."]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+P 1D P 1S
+P 2N P 3H
+P 3N P P
+P
+[Play "S"]
+C6 CT CK C2
+CJ C9 C7 C3
+S3 S2 S6 SK
+S4 D6 DK DA
+H6 HJ H3 HA
+D3 H2 D4 DQ
+D5 DJ ST S5
+H7 H4 H8 HK
+S7 C8 C4 CA
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A852.J3.AJ872.K6 JT.Q95.K.AQJT987 K4.8642.QT94.432 Q9763.AKT7.653.5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+P 1D 2C 2D
+P P 3C P
+P 3D P P
+P
+[Play "W"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A852.J3.AJ872.K6 JT.Q95.K.AQJT987 K4.8642.QT94.432 Q9763.AKT7.653.5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+P 1D 4C P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T8765.A8654.Q62.AJT763 A93.7.KJ9.KQ54 Q42.Q32.A54.982 KJ.KJT9.T873."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+2H 2S 3H P
+P 3S P P
+P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T8765.A8654.Q62.AJT763 A93.7.KJ9.KQ54 Q42.Q32.A54.982 KJ.KJT9.T873."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+P 1S P 2S
+2N 4S P P
+P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 96.AKJ873.K7.K85 AQ854.2.432.A742 JT2.T64.AQJ96.J6 K73.Q95.T85.QT93 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+P P P 1H
+1S 2H 2S 3C
+P 4H P P
+P
+[Play "W"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 96.AKJ873.K7.K85 AQ854.2.432.A742 JT2.T64.AQJ96.J6 K73.Q95.T85.QT93 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+P P P 1H
+1S 2H 2S 3C
+P 3D P 3H
+P 4H P P
+P
+[Play "W"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J5.K.KJ943.J8643 98762.QJ42.Q.A95 QT.A5.AT7652.KQ2 AK43.T98763.8.T7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+1N 2C 3N 4S
+P P D P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J5.K.KJ943.J8643 98762.QJ42.Q.A95 QT.A5.AT7652.KQ2 AK43.T98763.8.T7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+1N 2D 3N 4H
+P P D P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 65.QT8.A872.J743 A83.A5.KJT53.962 KJT72.KJ973.96.8 Q94.642.Q4.AKQT5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+1C P 1D 2C
+P 3H 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 65.QT8.A872.J743 A83.A5.KJT53.962 KJT72.KJ973.96.8 Q94.642.Q4.AKQT5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+1C P 1D 1N
+P 2H 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ9.KT54.AKQT.62 T743.Q72.7532.KT K62.J3.J984.A953 Q85.A986.6.QJ874 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+1D P 1N P
+2N P 3N P
+P P
+[Play "E"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ9.KT54.AKQT.62 T743.Q72.7532.KT K62.J3.J984.A953 Q85.A986.6.QJ874 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+1N P 3N P
+P P
+[Play "W"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 743.QT76.J9874.5 J9.K4.Q652.AKT96 AKT85.J93.AK3.J7 Q62.A852.T.Q8432 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+1C 1S D P
+2C D 4C P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 743.QT76.J9874.5 J9.K4.Q652.AKT96 AKT85.J93.AK3.J7 Q62.A852.T.Q8432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+1C 1S D 2S
+P P 3C P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 98.AQ864.64.A653 4.KJT9.KJ852.KJ7 K32.752.QT3.Q942 AQJT765.3.A97.T8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+P 1S P 2D
+P 3S P 3N
+P 4S P P
+P
+[Play "S"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 98.AQ864.64.A653 4.KJT9.KJ852.KJ7 K32.752.QT3.Q942 AQJT765.3.A97.T8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+P 4S P P
+P
+[Play "S"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 543.A9732.86.963 A862.Q64.KQT42.K QJT9.KT.J9.AT742 K7.J85.A753.QJ85 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+P P 1D P
+3D P 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 543.A9732.86.963 A862.Q64.KQT42.K QJT9.KT.J9.AT742 K7.J85.A753.QJ85 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+P P 1D P
+2D P 2H P
+2S P 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 97532.AKJT.76.AQ KT84.Q7532.32.T5 AQ6.86.KQJT54.83 J.94.A98.KJ97642 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+1S P 2D 3C
+P P 4S P
+P P
+[Play "W"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 97532.AKJT.76.AQ KT84.Q7532.32.T5 AQ6.86.KQJT54.83 J.94.A98.KJ97642 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+1S P 2D 3C
+3H P 4S P
+P P
+[Play "W"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ87.A8.J985.952 AK3.743.A62.AQ43 52.KQJ965.KQT3.7 T964.T2.74.KJT86 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+1N 2D 2N P
+3C 3H P 4H
+D P P P
+[Play "E"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ87.A8.J985.952 AK3.743.A62.AQ43 52.KQJ965.KQT3.7 T964.T2.74.KJT86 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+1N 3H P P
+P
+[Play "E"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 94.AT84.A6.KQT83 J.KJ9632.9852.76 AKT652.5.KJT73.J Q873.Q7.Q4.A9542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+1S P 2C P
+2D P 2H P
+3D P 3N P
+4S P P P
+[Play "E"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 94.AT84.A6.KQT83 J.KJ9632.9852.76 AKT652.5.KJT73.J Q873.Q7.Q4.A9542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "N"]
+1S P 2C 2H
+3D P 3N P
+4S P P P
+[Play "E"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 8654.AT974.973.4 QJ97.Q8632.K4.K2 AK2.5.A8652.QT96 T3.KJ.QJT.AJ8753 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+1C P 1H P
+2C P 2D P
+2H P 2N P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 8654.AT974.973.4 QJ97.Q8632.K4.K2 AK2.5.A8652.QT96 T3.KJ.QJT.AJ8753 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "E"]
+1C P 1H D
+2C 2S 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A76.KJT.QT94.953 QJT43.A7.86.KQT8 982.9432.AJ72.A2 K5.Q865.K53.J764 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+P 1S P 1N
+P 2C P 2S
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A76.KJT.QT94.953 QJT43.A7.86.KQT8 982.9432.AJ72.A2 K5.Q865.K53.J764 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "S"]
+P 1S P 1N
+P 2C P 2S
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "De Boer"]
+[North "Ramondt"]
+[East "Muller"]
+[South "Maas"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q952.AQT65.K.AT3 AK643.972.63.KJ8 7.J8.QJT98542.64 JT8.K43.A7.Q9752 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Modalfa"]
+[Auction "W"]
+P 3D P P
+P
+[Play "E"]
+*
+
+

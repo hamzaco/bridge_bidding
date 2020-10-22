@@ -1,0 +1,916 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ74.J97.J953.76 J98.QT85.764.432 T653.A432.2.KQJT K2.K6.AKQT8.A985 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "N"]
+Pass 2N Pass Pass
+Pass
+[Play "S"]
+D3 D4 D2 D8
+H7 H5 H4 HK
+D5 D6 S5 DA
+D9 D7 S3 DK
+DJ C2 H2 DQ
+S7 C3 S6 DT
+H9 HT HA H6
+C6 C4 CK C5
+SQ S8 ST S2
+SA S9 H3 SK
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ74.J97.J953.76 J98.QT85.764.432 T653.A432.2.KQJT K2.K6.AKQT8.A985 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "N"]
+Pass 1D Pass Pass
+X XX 1S Pass
+2D 3C Pass 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 654.QJ7.AK6.K864 QJ87.AK9.QJ52.Q9 AKT2.T63.43.JT52 93.8542.T987.A73 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "E"]
+Pass 1C X 1S
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 654.QJ7.AK6.K864 QJ87.AK9.QJ52.Q9 AKT2.T63.43.JT52 93.8542.T987.A73 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "E"]
+Pass 1C X 1S
+Pass 1N Pass Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K98542.J932.K42.KT5 A987643.A98.AJ73.AQ74 Q2.T73..QT6 86.KJT5.QJ65."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "S"]
+Pass 1D X 2D
+4S 5D Pass Pass
+5S Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K98542.J932.K42.KT5 A987643.A98.AJ73.AQ74 Q2.T73..QT6 86.KJT5.QJ65."]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "S"]
+Pass 1D X 2D
+3D 4D Pass Pass
+4S 5D Pass Pass
+5S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 85.T8652.KT32.85 K9764.J4.87.AK76 QJ.KQ93.AJ4.Q932 AT32.A7.Q965.JT4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "W"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+2S 3H 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 85.T8652.KT32.85 K9764.J4.87.AK76 QJ.KQ93.AJ4.Q932 AT32.A7.Q965.JT4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "W"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+2S 3H 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K763.AQ7.86.A854 JT5.T94.Q9542.96 Q84.6532.73.KT72 A92.KJ8.AKJT.QJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "N"]
+Pass 1D X 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K763.AQ7.86.A854 JT5.T94.Q9542.96 Q84.6532.73.KT72 A92.KJ8.AKJT.QJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "N"]
+Pass 1D X 2D
+2H 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ93.J72.K87.A92 K54.A54.J532.K63 AT7.KT86.AQT.J85 862.Q93.964.QT74 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1S Pass 1N
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ93.J72.K87.A92 K54.A54.J532.K63 AT7.KT86.AQT.J85 862.Q93.964.QT74 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass 2C Pass 2H
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 86.Q962.A8.KQT62 K543.8.KJ43.AJ94 QJT97.T7.Q9652.7 A2.AKJ543.T7.853 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+X Pass Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 86.Q962.A8.KQT62 K543.8.KJ43.AJ94 QJT97.T7.Q9652.7 A2.AKJ543.T7.853 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "S"]
+1C Pass 1S 2H
+Pass 2N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J976.T82.T5.KQT3 T8.QJ93.AQ4.AJ62 Q532.AK764.93.74 AK4.5.KJ8762.985 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "W"]
+1C 1H 2D 2H
+2N Pass 3H Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J976.T82.T5.KQT3 T8.QJ93.AQ4.AJ62 Q532.AK764.93.74 AK4.5.KJ8762.985 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "W"]
+1C 1H 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.AJ43.AKT6.QT42 J982.Q2.84.AKJ76 AKQT5.K96.QJ3.93 643.T875.9752.85 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "N"]
+1S Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.AJ43.AKT6.QT42 J982.Q2.84.AKJ76 AKQT5.K96.QJ3.93 643.T875.9752.85 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "N"]
+1S Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 93.AKT6.Q76.QT63 75.84.KJ984.K754 KT2.QJ3.AT532.J2 AQJ864.9752.A98."]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "E"]
+1S Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 93.AKT6.Q76.QT63 75.84.KJ984.K754 KT2.QJ3.AT532.J2 AQJ864.9752.A98."]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "E"]
+1S Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ83.T74.84.T432 A.953.QJ9632.K76 T96.AKJ86.AKT.J9 J7542.Q2.75.AQ85 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "S"]
+Pass Pass 1H Pass
+1S 2D 2N Pass
+3D Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ83.T74.84.T432 A.953.QJ9632.K76 T96.AKJ86.AKT.J9 J7542.Q2.75.AQ85 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass 2D an !h
+2H 2S Pass 3D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J42.T843.A95.K94 AQ85.AKJ.T82.J62 KT76.Q976.Q3.AQ7 93.52.KJ764.T853 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J42.T843.A95.K94 AQ85.AKJ.T82.J62 KT76.Q976.Q3.AQ7 93.52.KJ764.T853 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 8.T95.AKT964.KJ5 AT94.A2.Q5.QT943 K632.86.J82.A762 QJ75.KQJ743.73.8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 8.T95.AKT964.KJ5 AT94.A2.Q5.QT943 K632.86.J82.A762 QJ75.KQJ743.73.8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQJ98.T84.A8.QJ7 K3.Q6.T952.AT652 T52.AK732.Q6.984 764.J95.KJ743.K3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "E"]
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQJ98.T84.A8.QJ7 K3.Q6.T952.AT652 T52.AK732.Q6.984 764.J95.KJ743.K3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "E"]
+Pass 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ.853.AT92.Q982 KQT9.AQJ72.K85.J 65432.K9.Q74.KT6 87.T64.J63.A7543 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "S"]
+Pass 1H Pass 1N
+Pass 2D Pass 2H
+Pass 2S Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ.853.AT92.Q982 KQT9.AQJ72.K85.J 65432.K9.Q74.KT6 87.T64.J63.A7543 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "S"]
+Pass 1H Pass 1N
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Stretz"]
+[North "Levy"]
+[East "Meyer"]
+[South "Mouiel"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K32.J7.AQJ.KQ953 986.AK53.2.AJT42 AQJT75.T64.95.86 4.Q982.KT87643.7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MARI"]
+[Auction "W"]
+1C 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,692 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ72.AQ.QJT4.QT4 K6.T973.7632.AJ7 JT8543.K6.A985.2 9.J8542.K.K98653 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S Pass 4S Pass
+Pass Pass
+[Play "E"]
+HQ H7 H6 H2
+SA S6 S3 S9
+DQ D6 D5 DK
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ72.AQ.QJT4.QT4 K6.T973.7632.AJ7 JT8543.K6.A985.2 9.J8542.K.K98653 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "N"]
+2D Pass 2N Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "W"]
+HQ HT HK H4
+S2 SK SJ S9
+SQ S6 S3 C3
+DQ D2 D5 DK
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ8.AJ98.87.T843 K964.K6.J96.KQ92 53.QT742.Q5.AJ76 AT72.53.AKT432.5 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "E"]
+1D Pass 1S Pass
+4C Pass an 4c
+4H Pass an 4h
+4S Pass 4N Pass
+an 45 X 5S
+Pass Pass Pass
+[Play "N"]
+HA H6 H2 H3
+C3 CK CA C5
+CT CQ C6 D2
+S8 SK S3 S2
+SQ S4 S5 SA
+H8 HK H7 H5
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ8.AJ98.87.T843 K964.K6.J96.KQ92 53.QT742.Q5.AJ76 AT72.53.AKT432.5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "E"]
+1D Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T5.KJT6.62.JT632 K4.A432.KQJ75.85 AQJ9863.Q8.T.AK4 72.975.A9843.Q97 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "S"]
+Pass 1D 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T5.KJT6.62.JT632 K4.A432.KQJ75.85 AQJ9863.Q8.T.AK4 72.975.A9843.Q97 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "S"]
+Pass 1D X 3D
+Pass Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKJ7632.T2.AT64.QT K7643.75.KJ62.954 QJ98.K93.Q54. 8.A5.QJ82.AT9873 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "W"]
+Pass Pass 1C 4S
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKJ7632.T2.AT64.QT K7643.75.KJ62.954 QJ98.K93.Q54. 8.A5.QJ82.AT9873 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "W"]
+Pass Pass 1C 1S
+X 2S 2N 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ54.KQ.KJ7.KQ92 9872.AJ954.42.A5 J.832.AQT863.843 KT63.T76.95.JT76 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "N"]
+Pass Pass 2N an
+20 Pass 3C Pass
+an 3c 3S Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ54.KQ.KJ7.KQ92 9872.AJ954.42.A5 J.832.AQT863.843 KT63.T76.95.JT76 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "N"]
+Pass Pass 1C 1H
+2D 2H 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 952.AKQJ.AKT.T97 AKJ74.83.J62.864 83.764.8543.AKQ5 QT6.T952.Q97.J32 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "E"]
+Pass 1C 1S X
+Pass 2H Pass 2S
+X Pass Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 952.AKQJ.AKT.T97 AKJ74.83.J62.864 83.764.8543.AKQ5 QT6.T952.Q97.J32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ52.K.KJ6.J9764 QT8.Q732.AQT7.Q2 A763.65.842.KT85 94.AJT984.953.A3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ52.K.KJ6.J9764 QT8.Q732.AQT7.Q2 A763.65.842.KT85 94.AJT984.953.A3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "S"]
+Pass 1D Pass 1H
+X 2H 2S 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ84.A9432.5.AK9 QT7.Q76.Q874.Q64 K9652.K5.AJT62.5 3.JT8.K93.JT8732 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 2S Pass 4D
+Pass an 4X 4H
+Pass 4N Pass 5H
+an 5h Pass 6S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ84.A9432.5.AK9 QT7.Q76.Q874.Q64 K9652.K5.AJT62.5 3.JT8.K93.JT8732 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 3D Pass 3S
+Pass 4S Pass 6S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ2.T865.K762.J2 K8.A43.A54.97543 T754.KJ7.QJ93.T6 A963.Q92.T8.AKQ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "N"]
+Pass 1C Pass 2C
+an 2c Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ2.T865.K762.J2 K8.A43.A54.97543 T754.KJ7.QJ93.T6 A963.Q92.T8.AKQ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "N"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A52.JT96.JT764.J Q4.K.KQ53.A86532 KJ976.Q842.92.T9 T83.A753.A8.KQ74 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "E"]
+1C Pass 2C Pass
+2N Pass 3D Pass
+3H an 3h Pass
+3S Pass 4C Pass
+4N Pass 5D Pass
+6C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A52.JT96.JT764.J Q4.K.KQ53.A86532 KJ976.Q842.92.T9 T83.A753.A8.KQ74 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "E"]
+1C Pass 2C Pass
+2D Pass 2H Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T9652.J95.AJ72.Q AKJ.63.QT64.AK76 87.KQT8.K83.JT54 Q43.A742.95.9832 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T9652.J95.AJ72.Q AKJ.63.QT64.AK76 87.KQT8.K83.JT54 Q43.A742.95.9832 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Huayan Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J75.94.A32.98742 QT84.K3.QJ865.J6 K93.A765.T74.AK3 A62.QJT82.K9.QT5 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Li Shu Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhang Xiao Feng"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+

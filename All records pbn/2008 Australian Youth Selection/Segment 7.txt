@@ -1,0 +1,215 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Australian Youth Selection"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ware"]
+[North "Howard"]
+[East "Krochmalik"]
+[South "Hollands"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQT62.T82.3.J765 K.AJ743.9752.AT4 543.K9.QJT86.Q92 J987.Q65.AK4.K83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C an 2+
+1S 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+D3 D2 DQ DA
+H8 HJ HK H5
+H2 D5 DJ DK
+SA SK S3 S7
+HT H4 H9 HQ
+SQ H7 S4 SJ
+C5 C4 C2 CK
+ST HA S5 S9
+*
+
+
+[Event "2008 Australian Youth Selection"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ware"]
+[North "Howard"]
+[East "Krochmalik"]
+[South "Hollands"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9.KQJ4.K975.AT6 J65.3.AQJT43.K82 8743.AT86.8.J954 AKQ2.9752.62.Q73 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C an 2+ 1H
+2D 3H Pass Pass
+X Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Australian Youth Selection"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ware"]
+[North "Howard"]
+[East "Krochmalik"]
+[South "Hollands"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT4.AKQJ6.T974.Q J973.85.AJ2.T543 Q52.T3.Q8653.A87 A86.9742.K.KJ962 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian Youth Selection"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ware"]
+[North "Howard"]
+[East "Krochmalik"]
+[South "Hollands"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJT843.Q7.K98.84 K752.AT84.QJT6.T A6.K32.73.KQJ965 9.J965.A542.A732 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 1H
+an !S X 1N
+an 15  n 2H
+2S Pass Pass 3D
+Pass 3H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2008 Australian Youth Selection"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ware"]
+[North "Howard"]
+[East "Krochmalik"]
+[South "Hollands"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 4.AJ632.KJ98.Q92 AT876532.K.5.AT8 K9.Q974.QT42.K64 QJ.T85.A763.J753 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1H 4S
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian Youth Selection"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ware"]
+[North "Howard"]
+[East "Krochmalik"]
+[South "Hollands"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J984.KQ.QJT9.A53 AK2.J73.865.KQ42 Q63.AT92.K743.JT T75.8654.A2.9876 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1N an 11
+ n Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Australian Youth Selection"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Ware"]
+[North "Howard"]
+[East "Krochmalik"]
+[South "Hollands"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKJT62.6.J.AT743 98754.3.QT8642.8 Q.KQ9872.975.KJ9 3.AJT54.AK3.Q652 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+4S Pass Pass X
+Pass 5D Pass Pass
+X Pass Pass Pass
+[Play "S"]
+*
+
+

@@ -1,0 +1,816 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A42.J2.A2.KQJ754 Q765.AT6.9754.93 J93.54.KQT86.A86 KT8.KQ9873.J3.T2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D 1H X 2H
+3C Pass 3H X
+Pass Pass 4C Pass
+4S Pass 5C Pass
+Pass Pass
+[Play "W"]
+DA D7 D8 DJ
+CK C3 C6 C2
+C4 C9 CA CT
+D2 D4 DK D3
+H2 D5 DT H3
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q75.Q852.T5.JT62 AJ8643.T43.J73.4 K92.J76.KQ8.A985 T.AK9.A9642.KQ73 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "E"]
+1D Pass 1S Pass
+2C Pass 2D Pass
+Pass Pass
+[Play "W"]
+H5 H3 HJ HA
+SQ SA S2 ST
+C2 C4 C5 CK
+C6 D3 C8 C3
+S5 S3 S9 D2
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 65.T52.QJ42.AQ92 AKT8.K964.987.K8 QJ973.J83.T6.T76 42.AQ7.AK53.J543 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "S"]
+Pass 1D Pass 2D
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+S6 S8 S9 S4
+DJ D7 D6 D3
+CA C8 C7 C3
+C2 CK C6 C4
+H2 H4 H3 HA
+H5 H6 H8 HQ
+HT HK HJ H7
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K2.A8743.84.A832 J8653.Q65.953.K4 974.T2.AKQ72.J75 AQT.KJ9.JT6.QT96 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "W"]
+Pass Pass 1C 1H
+1S 2D X Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K2.A8743.84.A832 J8653.Q65.953.K4 974.T2.AKQ72.J75 AQT.KJ9.JT6.QT96 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "W"]
+Pass Pass 1C 1H
+1S 2D X Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q6.JT7.KT82.9853 T9743.53.743.J62 J8.AQ964.AJ9.KQ4 AK52.K82.Q65.AT7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "N"]
+1C Pass 1D Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q6.JT7.KT82.9853 T9743.53.743.J62 J8.AQ964.AJ9.KQ4 AK52.K82.Q65.AT7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "N"]
+1H 1N 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 6.KJ86.Q954.AKT8 AJ742.T7432.K8.9 Q83.J32.QJ65432.KT95 AQ95.AT76.7."]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "E"]
+1D 1H 1S 2C
+2S 3S 4S 5C
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 6.KJ86.Q954.AKT8 AJ742.T7432.K8.9 Q83.J32.QJ65432.KT95 AQ95.AT76.7."]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "E"]
+1D 1H 1S Pass
+3C X 4S 5C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A9753.AK95.J842.KT765 KQ62.T76.T.Q9843 J84.Q82.65.AJ2 T.J43.AKQ973."]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "S"]
+1D an 4+  1
+Pass 1S 2C 2D
+Pass Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A9753.AK95.J842.KT765 KQ62.T76.T.Q9843 J84.Q82.65.AJ2 T.J43.AKQ973."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "S"]
+1H 1S Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 7653.AT932.A8.75 QT84.K.K742.Q963 J9.QJ65.Q93.AKJ2 AK2.874.JT65.T84 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "W"]
+Pass 1D Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 7653.AT932.A8.75 QT84.K.K742.Q963 J9.QJ65.Q93.AKJ2 AK2.874.JT65.T84 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "W"]
+Pass 1N Pass 2D
+an an Pass 2H
+an mi Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q5.AJT975.KT82.Q 9.Q643.9754.A943 AJ73.K2.AQJ3.T87 KT8642.8.6.KJ652 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "N"]
+1C an 15 1S
+2H an se Pass
+2N Pass 3D Pass
+4D Pass 4N Pass
+5S Pass 6D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q5.AJT975.KT82.Q 9.Q643.9754.A943 AJ73.K2.AQJ3.T87 KT8642.8.6.KJ652 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "N"]
+1N 2S 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ87.Q932.AK2.J5 Q.85.Q965.AT8764 KT5432.KT6.J.KQ9 96.AJ74.T8743.32 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ87.Q932.AK2.J5 Q.85.Q965.AT8764 KT5432.KT6.J.KQ9 96.AJ74.T8743.32 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D an tw
+Pass 2H an wh
+Pass 3D an bo
+Pass 3S an sP
+Pass 4C an mi
+Pass 4S an to
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 8.AT732.KQ842.QT AQ7.K98.A65.9532 KJT4.QJ.73.A8764 96532.654.JT9.KJ "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "S"]
+1D Pass 1H Pass
+2D Pass 2N Pass
+3H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 8.AT732.KQ842.QT AQ7.K98.A65.9532 KJT4.QJ.73.A8764 96532.654.JT9.KJ "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass 2N Pass
+3D Pass 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KT4.QT642.KJ872.AJ98 T973.AK8.93.73 AK854.753.QT4.Q652 QJ62.J9.A65."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "W"]
+1D 1H 1S 2C
+2S 3C 3S 4C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KT4.QT642.KJ872.AJ98 T973.AK8.93.73 AK854.753.QT4.Q652 QJ62.J9.A65."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "W"]
+1D Pass 1H Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 43.76.A73.AQT973 AKT9.85432.QJ.K2 Q7.J9.T964.J8654 J8652.AKQT.K852."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "N"]
+Pass 1S 2C 3C
+4C 4H an ma
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 43.76.A73.AQT973 AKT9.85432.QJ.K2 Q7.J9.T964.J8654 J8652.AKQT.K852."]
+[Declarer "S"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "N"]
+Pass 1S 2C 3C
+an cu 4C 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KT9.A9643.KT942.QT52 Q874.72.A87.K98 AJ653.T.J653.AJ7643 2.KQJ85.Q."]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "E"]
+1S X 3C 3H
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT4.K8542.95.J75 Q98753.J63.4.Q96 K6.QT7.QT6.KT832 A2.A9.AKJ8732.A4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "S"]
+Pass Pass Pass 2C
+Pass 2D Pass 2N
+Pass 3H an tX
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT4.K8542.95.J75 Q98753.J63.4.Q96 K6.QT7.QT6.KT832 A2.A9.AKJ8732.A4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "S"]
+Pass 2S Pass 2N
+Pass 3D Pass 5S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Autumn NOT"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Gill"]
+[North "Gaspar"]
+[East "Peake"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 8.AKQ653.JT75.A9 AKJ9532.97.83.QJ 64.JT4.AQ2.K8763 QT7.82.K964.T542 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Gaspar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gumby"]
+[Auction "W"]
+1S Pass 2S 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+

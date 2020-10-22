@@ -1,0 +1,895 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A97.JT42.J8.K964 J.AKQ875.K.JT875 K52.3.T9642.AQ32 QT8643.96.AQ753."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "N"]
+Pass Pass Pass 4H
+Pass Pass Pass
+[Play "N"]
+DJ DK D2 D3
+C4 C5 C2 H6
+D8 SJ D6 DA
+SA H5 S2 S3
+C6 C7 C3 H9
+S7 H7 S5 S4
+H2 HA H3 S6
+H4 HK D4 D5
+C9 CJ CQ S8
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A97.JT42.J8.K964 J.AKQ875.K.JT875 K52.3.T9642.AQ32 QT8643.96.AQ753."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "N"]
+Pass 1S Pass 2H
+Pass 2S Pass 3C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A874.JT.Q432.J82 KJT.AKQ97.865.T4 652.643.T97.K753 Q93.852.AKJ.AQ96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "E"]
+1N Pass 2D Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ64.AQJ4.AKQ.J8 85.T932.J72.Q632 KT932.85.986.T97 Q7.K76.T543.AK54 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "S"]
+2C an st Pass
+2D Pass 2N Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ64.AQJ4.AKQ.J8 85.T932.J72.Q632 KT932.85.986.T97 Q7.K76.T543.AK54 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "S"]
+2C Pass 2D Pass
+2N Pass 3H Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKQ7.AJ976.7542.3 KQ853.KT.AK642.JT964 T42.Q.QT97.852 .AJ9863.J853."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "W"]
+1H Pass 1N Pass
+2C Pass 3C X
+5C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKQ7.AJ976.7542.3 KQ853.KT.AK642.JT964 T42.Q.QT97.852 .AJ9863.J853."]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "W"]
+1H Pass 1N Pass
+2C Pass 3C Pass
+4C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ7.K6.T4.KJ9642 84.T532.AKQ.AQ85 AKT52.QJ.876.T73 963.A9874.J9532."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "N"]
+Pass Pass 1C 1N
+X 2H Pass Pass
+2S 3D Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ7.K6.T4.KJ9642 84.T532.AKQ.AQ85 AKT52.QJ.876.T73 963.A9874.J9532."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "N"]
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T962.854.82.AJ94 KQ8753.J2.JT9.86 J.K93.K7543.KQ53 A4.AQT76.AQ6.T72 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "E"]
+1N Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T962.854.82.AJ94 KQ8753.J2.JT9.86 J.K93.K7543.KQ53 A4.AQT76.AQ6.T72 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "E"]
+1N Pass 4D Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQJ983.T8.6.T653 65.Q2.AQ842.KJ87 T.KJ654.JT53.AQ2 K742.A973.K97.94 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "S"]
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQJ983.T8.6.T653 65.Q2.AQ842.KJ87 T.KJ654.JT53.AQ2 K742.A973.K97.94 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "S"]
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 65.Q9.A52.JT9532 3.A432.Q86.AK876 AT987.T865.T94.Q KQJ42.KJ7.KJ73.4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "W"]
+1C Pass 1S Pass
+1N Pass 2D an
+xy 2H Pass 2S
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 65.Q9.A52.JT9532 3.A432.Q86.AK876 AT987.T865.T94.Q KQJ42.KJ7.KJ73.4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "W"]
+1C 1S Pass Pass
+X! Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J875.JT.AKJT6.42 T43.KQ752.Q4.AK8 AQ62.93.975.QT95 K9.A864.832.J763 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "N"]
+Pass Pass 1D 1H
+X an 4+ 2D
+an go Pass 2H
+Pass Pass 2S 3D
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J875.JT.AKJT6.42 T43.KQ752.Q4.AK8 AQ62.93.975.QT95 K9.A864.832.J763 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "N"]
+Pass Pass 1D 1H
+1S 2H 2S 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ94.AK52.AKJ8.8 53.T7.Q9763.AQT6 Q876.Q643.54.K73 AT2.J98.T2.J9542 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 4C Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ94.AK52.AKJ8.8 53.T7.Q9763.AQT6 Q876.Q643.54.K73 AT2.J98.T2.J9542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 4C Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A9.Q982.J82.KJT8 QJT872.T76.T97.2 K63.K3.654.A9765 54.AJ54.AKQ3.Q43 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "S"]
+Pass 2S Pass 2N
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A9.Q982.J82.KJT8 QJT872.T76.T97.2 K63.K3.654.A9765 54.AJ54.AKQ3.Q43 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "S"]
+Pass 2D Pass 2N
+Pass 3D Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: JT93.J9.96432.J9 A87.Q7632.J.A863 K642.T5.T87.KQ72 Q5.AK84.AKQ5.T54 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "W"]
+1H Pass 2N an
+ja  g Pass 3H
+Pass 3N Pass 4C
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: JT93.J9.96432.J9 A87.Q7632.J.A863 K642.T5.T87.KQ72 Q5.AK84.AKQ5.T54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "W"]
+1H Pass 2N Pass
+3H Pass 3N Pass
+4C Pass 4D Pass
+4S Pass 4N Pass
+5S Pass 6H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K98.AKT62.T6.KJ3 A5.Q854.J87.7652 42.73.A9432.QT94 QJT763.J9.KQ5.A8 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "N"]
+Pass 1S 2H Pass
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K98.AKT62.T6.KJ3 A5.Q854.J87.7652 42.73.A9432.QT94 QJT763.J9.KQ5.A8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "N"]
+Pass 1S 1N Pass
+Pass 2S Pass Pass
+2N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q86.KQ6432.6.AT3 AJT92.A9.873.KQ2 K7.5.AKQJT42.964 543.JT87.95.J875 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "E"]
+Pass 1H 1S 2D
+Pass 2H Pass 2S
+Pass 2N Pass 3D
+Pass 3H Pass 3S
+Pass 4H Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q86.KQ6432.6.AT3 AJT92.A9.873.KQ2 K7.5.AKQJT42.964 543.JT87.95.J875 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "E"]
+Pass 1H 1S 3D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 965.QT7.AT6543.3 8.AKJ963.K9.AJT8 T72.854.Q82.KQ94 AKQJ43.2.J7.7652 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2C Pass 2D
+Pass 3H Pass 3S
+Pass 3N Pass 4C
+Pass 4D Pass 4S
+Pass 4N Pass 5D
+Pass 5S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 965.QT7.AT6543.3 8.AKJ963.K9.AJT8 T72.854.Q82.KQ94 AKQJ43.2.J7.7652 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2C Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Helgemo"]
+[North "Eide"]
+[East "Austberg"]
+[South "Livgaard"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KQ.642.AKJ4.AQJ7 763.AKT85.Q9.654 AJ95.QJ.T8763.93 T842.973.52.KT82 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Heimdal BK 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Heimdal BK 2"]
+[Auction "W"]
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+

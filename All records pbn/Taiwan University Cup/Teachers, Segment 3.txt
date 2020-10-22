@@ -1,0 +1,435 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9.J9.AK432.T853 KQ65.AK654.T9.J7 A83.T732.J65.AK6 J742.Q8.Q87.Q942 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "E"]
+Pass Pass 2D Pass
+Pass Pass
+[Play "N"]
+C5 C7 CA C2
+C3 CJ CK C4
+CT D9 C6 C9
+H9 H4 H3 HQ
+C8 S5 D5 CQ
+DK DT DJ DQ
+DA H5 D6 D7
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 853.J4.A8763.KT8 QJ4.QT73.KJ9.542 AT96.952.QT2.J76 K72.AK86.54.AQ93 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+D6 DJ DQ D4
+D3 DK DT D5
+H4 H3 H2 HA
+HJ H7 H9 HK
+S3 HQ H5 H6
+C8 HT C7 H8
+S5 S4 SA S2
+DA D9 D2 C3
+D8 C2 S6 C9
+D7 C4 S9 CQ
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK976.KJT6.65.T7 Q.84.J742.KQ9632 T432.AQ73.QT9.A5 J85.952.AK83.J84 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "W"]
+Pass 1C Pass 1S
+2C 2S 3C 4S
+Pass Pass Pass
+[Play "N"]
+C7 CK CA C4
+SA SQ S2 S5
+H6 H4 HA H2
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKJ2.AQ975.QJT8.Q85 2.AKQT7.K953.74 KT863.J84.A62.T963 J4.96532.74."]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "N"]
+Pass Pass 1H 2D
+3H Pass 3S 4C
+Pass 4D 6H Pass
+7H Pass Pass Pass
+[Play "S"]
+D2 H5 DA D4
+HA H2 H3 H4
+HQ D7 H6 HJ
+CQ CK CA C4
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ642.JT543.8.T 75.Q987.JT6.A643 T9.A62.95432.J95 J83.K.AKQ7.KQ872 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "E"]
+1N 2H Pass Pass
+3C 3S Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 764.A75.86542.Q9 AKJ.KJT9.A73.643 Q92.Q6432.KJ.AJT T853.8.QT9.K8752 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T2.QJ64.AK763.T6 AQ7.AK.85.KQ9542 985.852.QJ4.AJ83 KJ643.T973.T92.7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "W"]
+1N Pass Pass 2D
+an D   5 3C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K76.AQ32.T6.J652 QT9432.5.A2.AQT7 AJ8.JT94.QJ74.84 5.K876.K9853.K93 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "N"]
+Pass Pass 1C 1S
+1N 2H Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J42.AKT.QT942.T2 6.Q764.K8765.986 AKT83.532.A3.Q73 Q975.J98.J.AKJ54 "]
+[Declarer "S"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "E"]
+1C 1D Pass 1S
+Pass 1N Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ754.AKQ87.K.QJ 632.53.QJT942.92 J.JT92.8653.AKT4 KT98.64.A7.87653 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "S"]
+1S Pass 1N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T92.532.J64.QJ87 AQ8653.A87.QT.K9 KJ74.KT964.952.2 .QJ.AK873.AT6543 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "W"]
+1S Pass 2D Pass
+2N Pass 3N Pass
+4S Pass 5C Pass
+6S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT83.KT32.65.A42 74.J985.8.KQT965 K52.Q76.AKJ92.J3 AJ96.A4.QT743.87 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "N"]
+1D Pass 1H Pass
+2D Pass Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQT.AKJ74.86.43 J873.T62.95.AKJ6 5.83.KQT7432.Q75 9642.Q95.AJ.T982 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "E"]
+Pass 1H Pass 1N
+Pass 2S Pass 3D
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Taiwan University Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Liu"]
+[North "Lee"]
+[East "Kung"]
+[South "Lee"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q4.A98.A64.AQT63 J952.Q.KJ873.987 AT8.K642.Q9.KJ42 K763.JT753.T52.5 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "CCU"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHU"]
+[Auction "S"]
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

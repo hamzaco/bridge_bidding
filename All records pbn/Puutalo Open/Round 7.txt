@@ -1,0 +1,222 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "Ukkonen"]
+[North "Koistinen"]
+[East "Bäckström"]
+[South "Nyberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT7.AJT.A5.7632 965.965.K9864.K4 K8432.K87.732.Q9 A.Q432.QJT.AJT85 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Koistinen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lehtinen"]
+[Auction "N"]
+1S 2C 2S Pass
+Pass Pass
+[Play "E"]
+DA D4 D2 DQ
+SQ S5 S2 SA
+D5 DK D3 DJ
+C2 CK C9 C5
+C3 C4 CQ CA
+C6 S9 SK CJ
+SJ S6 S3 H2
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "Ukkonen"]
+[North "Koistinen"]
+[East "Bäckström"]
+[South "Nyberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT7.AJT.A5.7632 965.965.K9864.K4 K8432.K87.732.Q9 A.Q432.QJT.AJT85 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Koistinen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lehtinen"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1H Pass Pass
+1S 2D 2S 3D
+Pass Pass Pass
+[Play "N"]
+DA D4 D2 DT
+SQ S6 S4 SA
+C2 CK C9 C5
+SJ S5 S2 DJ
+C3 C4 CQ CA
+C6 D8 S3 C8
+S7 S9 S8 DQ
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West "Ukkonen"]
+[North "Koistinen"]
+[East "Bäckström"]
+[South "Nyberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q76.A82.JT73.T97 KJT8.K93.K6.A532 52.Q65.A9852.KJ8 A943.JT74.Q4.Q64 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Koistinen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lehtinen"]
+[Auction "E"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West "Ukkonen"]
+[North "Koistinen"]
+[East "Bäckström"]
+[South "Nyberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q82.7.AKQ43.KJ72 A9543.K62.87.T93 K.AQJ953.T96.A54 JT76.T84.J52.Q86 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Koistinen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lehtinen"]
+[Auction "S"]
+1C Pass 1D Pass
+2D Pass 2H Pass
+2S Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West "Ukkonen"]
+[North "Koistinen"]
+[East "Bäckström"]
+[South "Nyberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q82.7.AKQ43.KJ72 A9543.K62.87.T93 K.AQJ953.T96.A54 JT76.T84.J52.Q86 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Koistinen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lehtinen"]
+[Auction "S"]
+1D Pass 1H Pass
+2C Pass 2S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "40"]
+[West "Ukkonen"]
+[North "Koistinen"]
+[East "Bäckström"]
+[South "Nyberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A8532.Q5.32.A542 AT9873.AKQ84.JT.QT94 K2.J976.876. KJ76.J64.T5.KQ93 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Koistinen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lehtinen"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass 2H Pass
+4H Pass Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "41"]
+[West "Ukkonen"]
+[North "Koistinen"]
+[East "Bäckström"]
+[South "Nyberg"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J74.AQJ84.AK6.AK AT53.K.8542.QJ87 KQ96.T97532.T95.82 6.QJT973.6432."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Koistinen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lehtinen"]
+[Auction "N"]
+Pass an 0- 2D
+X 4D 4H Pass
+6H Pass Pass Pass
+[Play "N"]
+*
+
+

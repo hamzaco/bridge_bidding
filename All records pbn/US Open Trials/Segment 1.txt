@@ -1,0 +1,882 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK8.Q862.AQ64.A2 QJ2.T5.K7.QJT854 5.A974.9532.K763 T97643.KJ3.JT8.9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 4H Pass
+Pass Pass
+[Play "E"]
+CA CQ C3 C9
+H2 H5 HA H3
+H6 HT H4 HK
+DA D7 D2 DJ
+HQ C5 H9 HJ
+SA S2 S5 S3
+C2 CT CK ST
+DQ DK D3 D8
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK8.Q862.AQ64.A2 QJ2.T5.K7.QJT854 5.A974.9532.K763 T97643.KJ3.JT8.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass Pass 1D 3C
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+SK SQ S5 S7
+H2 H5 HA H3
+H6 HT H4 HK
+S8 SJ D2 S6
+SA S2 D3 S3
+HQ C4 H7 HJ
+H8 C5 H9 S4
+CA C8 C3 C9
+C2 CT CK S9
+D4 CJ C6 ST
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T83.A985.AKQ85.J A94.KQ32.T4.QT93 KQJ5.64.J96.A764 762.JT7.732.K852 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass 1D X XX
+Pass Pass 1H Pass
+Pass X Pass 1S
+Pass 2S Pass 3C
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T83.A985.AKQ85.J A94.KQ32.T4.QT93 KQJ5.64.J96.A764 762.JT7.732.K852 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2D Pass 3D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 6.65.JT7632.AK85 AJ72.K.K95.J7642 KQT985.T974.A.Q3 43.AQJ832.Q84.T9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass 1S Pass 2H
+X Pass 2S Pass
+3D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 6.65.JT7632.AK85 AJ72.K.K95.J7642 KQT985.T974.A.Q3 43.AQJ832.Q84.T9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass 1C 2S 3D
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A985.A9.AKJ2.Q32 J63.K7.QT3.JT986 KQT4.QT42.96.K74 72.J8653.8754.A5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 2N
+Pass 3C Pass 3D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A985.A9.AKJ2.Q32 J63.K7.QT3.JT986 KQT4.QT42.96.K74 72.J8653.8754.A5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1H Pass 1S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 7.J87.K76.J98432 KT65432.AQT6.QT.AQ 532.AQ95432.7.J98 K94.JT8.AK65."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1D Pass 1N 4S
+4N X 5C Pass
+5D 5S Pass Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 7.J87.K76.J98432 KT65432.AQT6.QT.AQ 532.AQ95432.7.J98 K94.JT8.AK65."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1D Pass Pass 1S
+2D X XX 2H
+Pass 3S 4D 5D
+Pass 5S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 632.J98754.7.976 AKQJT7.A.K82.KT2 54.KQT6.A9543.J4 98.32.QJT6.AQ853 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass Pass 1C an
+st  a 1H 2C
+4H 4N an RK
+ c Pass 5D an
+1  5H 6S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 632.J98754.7.976 AKQJT7.A.K82.KT2 54.KQT6.A9543.J4 98.32.QJT6.AQ853 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2N Pass
+3H Pass 4C Pass
+4D Pass 4N Pass
+5C Pass 6S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q942.AKT52.A.J93 J65.876.Q73.QT86 Q943.KJT984.AK7. AKT873.J.652.542 "]
+[Declarer "S"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1H Pass 3C an
+fo 3S Pass 4S
+5S Pass 7H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q942.AKT52.A.J93 J65.876.Q73.QT86 Q943.KJT984.AK7. AKT873.J.652.542 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1H Pass 2N Pass
+3C Pass 3D Pass
+3S Pass 5H Pass
+5S Pass 6H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T9.AKQ97.J76.A76 AKJ4.654.AK4.T92 653.JT82.85.K543 Q872.3.QT932.QJ8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+1N Pass Pass X
+Pass 2C 2D 2H
+3D 3H 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T9.AKQ97.J76.A76 AKJ4.654.AK4.T92 653.JT82.85.K543 Q872.3.QT932.QJ8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+1N Pass Pass 2C
+Pass 2D 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQJT82.K.964.Q74 6.952.T52.AK9862 73.QJT86.Q7.JT53 A954.A743.AKJ83."]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+2D X Pass Pass
+2H 3D 3S 5C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQJT82.K.964.Q74 6.952.T52.AK9862 73.QJT86.Q7.JT53 A954.A743.AKJ83."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass 1D 2S 2N
+Pass 3H Pass 4D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 8654.Q86.QJ.KJ32 AQJ3.A75.976.T87 KT72.42.KT84.Q95 9.KJT93.A532.A64 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1H Pass 1S Pass
+2D Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 8654.Q86.QJ.KJ32 AQJ3.A75.976.T87 KT72.42.KT84.Q95 9.KJT93.A532.A64 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1H Pass 2D Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ85.KQT93.A.Q43 3.A74.KQ854.J862 QT42.97632.A975.K976 J8652.JT.KT."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1H Pass 1S Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ85.KQT93.A.Q43 3.A74.KQ854.J862 QT42.97632.A975.K976 J8652.JT.KT."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1H Pass 1S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T982.5432.AQ7.T5 K76.6.JT842.KJ62 Q43.KQ987.K53.Q8 AJ5.AJT.96.A9743 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1H 1N 2H
+3H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T982.5432.AQ7.T5 K76.6.JT842.KJ62 Q43.KQ987.K53.Q8 AJ5.AJT.96.A9743 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1H 2C 2H
+3H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 876.98.QT543.965 Q4.AK432.AJ76.T3 AKJ532.QJ.K8.AQ7 T9.T765.92.KJ842 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1S Pass Pass 2H
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 876.98.QT543.965 Q4.AK432.AJ76.T3 AKJ532.QJ.K8.AQ7 T9.T765.92.KJ842 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1S Pass Pass 2H
+2S 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 74.AKJ6.AT32.KT8 T986.T97.965.AQ4 AQJ3.Q852.J8.963 K52.43.KQ74.J752 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 74.AKJ6.AT32.KT8 T986.T97.965.AQ4 AQJ3.Q852.J8.963 K52.43.KQ74.J752 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Open Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hamman"]
+[North "Zia"]
+[East "Soloway"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K92.AKT.J2.KT832 JT86.86.A8653.Q9 543.QJ954.K4.J76 AQ7.732.QT97.A54 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Welland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1N Pass 2D Pass
+2H Pass Pass X
+Pass 2S X Pass
+3H Pass Pass Pass
+[Play "W"]
+*
+
+

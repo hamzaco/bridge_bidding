@@ -1,0 +1,875 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A94.A6.AKT84.KT2 J876.KT83.Q65.J7 QT2.J.J97.A86543 K53.Q97542.32.Q9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+HA H3 HJ HQ
+CK C7 C3 C9
+CT CJ CA CQ
+C2 S8 C8 D3
+H6 S6 C6 D2
+S4 S7 C4 S3
+S9 SJ C5 H2
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKQJ93.J97.AQ64.AQJ753 T8.85.873.T82 654.KQT32.52.K964 72.A64.KJT9."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "E"]
+Pass 1H 2S 3H
+4S 5H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKQJ93.J97.AQ64.AQJ753 T8.85.873.T82 654.KQT32.52.K964 72.A64.KJT9."]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "E"]
+Pass 1H 3S Pass
+4S X Pass 5D
+5S Pass Pass 6D
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 986.A653.KJ74.64 Q752.QT74.9.AJ53 AJT43.8.AQ52.T72 K.KJ92.T863.KQ98 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "S"]
+Pass Pass 1S Pass
+2S Pass Pass X
+XX 2N X Pass
+Pass 3C X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 986.A653.KJ74.64 Q752.QT74.9.AJ53 AJT43.8.AQ52.T72 K.KJ92.T863.KQ98 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "S"]
+Pass Pass 1S Pass
+2S Pass Pass X
+Pass 2N Pass 3C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T3.A53.A5.Q98765 AKQ72.K92.92.AJ2 964.T864.QJ86.K3 J85.QJ7.KT743.T4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "W"]
+1S Pass 2S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T3.A53.A5.Q98765 AKQ72.K92.92.AJ2 964.T864.QJ86.K3 J85.QJ7.KT743.T4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "W"]
+1C Pass 1D Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 874.AT5.QJ983.Q2 2.K863.AT7.A9763 AKJT63.QJ4.2.KT4 Q95.972.K654.J85 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "N"]
+1S Pass 2S X
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 874.AT5.QJ983.Q2 2.K863.AT7.A9763 AKJT63.QJ4.2.KT4 Q95.972.K654.J85 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "N"]
+1S Pass 2S X
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K95.J62.QJ97.AJ2 QT8.A7.AT6432.K8 A63.K853.85.9754 J742.QT94.K.QT63 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K95.J62.QJ97.AJ2 QT8.A7.AT6432.K8 A63.K853.85.9754 J742.QT94.K.QT63 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT87542.AQ.J4.K3 T6432.Q632.A654.KQ63 98.AT85.Q98. J9.KJ75.K97.JT72 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "S"]
+1S Pass 3H Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT87542.AQ.J4.K3 T6432.Q632.A654.KQ63 98.AT85.Q98. J9.KJ75.K97.JT72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "S"]
+1S Pass 2N Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJT95.KQ864.9.Q2 AK73.J3.JT842.T9 42.5.AQ763.K7643 86.AT972.K5.AJ85 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "W"]
+Pass Pass 1H 1S
+1N X! Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJT95.KQ864.9.Q2 AK73.J3.JT842.T9 42.5.AQ763.K7643 86.AT972.K5.AJ85 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "W"]
+Pass Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ854.83.84.A973 A976.K74.K65.Q86 J.QJT62.JT32.KJT T32.A95.AQ97.542 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "N"]
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ854.83.84.A973 A976.K74.K65.Q86 J.QJT62.JT32.KJT T32.A95.AQ97.542 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "N"]
+Pass Pass 1S Pass
+1N Pass 2C Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ98.AKT.AT3.Q96 T763.64.KJ5.8432 A542.Q753.987.K5 J.J982.Q642.AJT7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2N Pass 3H
+Pass 3S Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ98.AKT.AT3.Q96 T763.64.KJ5.8432 A542.Q753.987.K5 J.J982.Q642.AJT7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 73.AT764.QJT98.7 K82.KJ2.76.QT865 AJ964.98.A432.93 QT5.Q53.K5.AKJ42 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "S"]
+Pass Pass 1S 1N
+2D 3N X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 73.AT764.QJT98.7 K82.KJ2.76.QT865 AJ964.98.A432.93 QT5.Q53.K5.AKJ42 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "S"]
+Pass Pass 1S 1N
+2D 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q63.K863.983.Q63 87.QT97.J42.T854 JT95.J4.AKT.AK97 AK42.A52.Q765.J2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q63.K863.983.Q63 87.QT97.J42.T854 JT95.J4.AKT.AK97 AK42.A52.Q765.J2 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ6.QT5.KT753.J5 9.J.QJ942.AKT987 AJ4.A976.A6.6432 T87532.K8432.8.Q "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "N"]
+1C 2C 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ6.QT5.KT753.J5 9.J.QJ942.AKT987 AJ4.A976.A6.6432 T87532.K8432.8.Q "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "N"]
+1C 2S 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J982.J854.J2.653 7643.K763.Q5.KT7 A5.AT.K763.QJ984 KQT.Q92.AT984.A2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "E"]
+1N Pass 2C X
+2D Pass 2N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J982.J854.J2.653 7643.K763.Q5.KT7 A5.AT.K763.QJ984 KQT.Q92.AT984.A2 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "E"]
+1C Pass 1D Pass
+1N Pass 2C X
+2D Pass 2N Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 8732.AT5.A76.AT6 A94.Q873.93.J842 JT.K62.KJT54.K75 KQ65.J94.Q82.Q93 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 8732.AT5.A76.AT6 A94.Q873.93.J842 JT.K62.KJT54.K75 KQ65.J94.Q82.Q93 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Smith"]
+[North "Gitelman"]
+[East "Cohen"]
+[South "Moss"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q7.64.AK953.T732 K962.AK7.Q62.Q98 T5.Q852.JT84.A54 AJ843.JT93.7.KJ6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Ekeblad"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hollman"]
+[Auction "W"]
+1C Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+

@@ -1,0 +1,919 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A654.Q7632.J63.7 K32.84.984.KQJ42 QJT.T5.AQT2.A986 987.AKJ9.K75.T53 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+1D Pass 1H 2C
+Pass 2N Pass Pass
+Pass
+[Play "S"]
+D3 D4 DA D5
+S4 SK SQ S7
+C7 C2 C6 CT
+H2 CK C8 C5
+HQ H4 H5 HJ
+S5 S2 ST S8
+H6 C4 CA C3
+SA S3 SJ S9
+S6 D8 C9 D7
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A654.Q7632.J63.7 K32.84.984.KQJ42 QJT.T5.AQT2.A986 987.AKJ9.K75.T53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+1N Pass 2C X
+Pass Pass 2H Pass
+2S 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT.8432.Q765.T74 65.A95.AT932.AQ2 KQ973.KQT7.4.K96 A842.J6.KJ8.J853 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass Pass 1N 2C
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT.8432.Q765.T74 65.A95.AT932.AQ2 KQ973.KQT7.4.K96 A842.J6.KJ8.J853 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass Pass 1D 1S
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ6.94.K9.K86432 32.8753.JT8.AT97 AKT94.AJT2.Q64.J 875.KQ6.A7532.Q5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+Pass Pass 1S Pass
+2C Pass 2D Pass
+2S Pass 3D Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ6.94.K9.K86432 32.8753.JT8.AT97 AKT94.AJT2.Q64.J 875.KQ6.A7532.Q5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+2C Pass 2D Pass
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T87652.8.J86.A86 43.K97.QT743.QT5 K.Q6543.K2.KJ732 AQJ9.AJT2.A95.94 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "12"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+Pass 2H 2N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T87652.8.J86.A86 43.K97.QT743.QT5 K.Q6543.K2.KJ732 AQJ9.AJT2.A95.94 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+Pass 1H 1N 2S
+3D Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT2.QJ2.AK853.Q4 A875.643.QT74.73 KQ.K98.J96.KJ652 9643.AT75.2.AT98 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+1C Pass 2D Pass
+2H Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT2.QJ2.AK853.Q4 A875.643.QT74.73 KQ.K98.J96.KJ652 9643.AT75.2.AT98 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J2.AKJ872.AJ9.65 T986.Q94.5.QJ982 Q753.653.KQ87.K7 AK4.T.T6432.AT43 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+1D 1H Pass 2H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J2.AKJ872.AJ9.65 T986.Q94.5.QJ982 Q753.653.KQ87.K7 AK4.T.T6432.AT43 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass 1H Pass 1S
+X 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ6.KJT983.A.943 K8.Q4.J962.KJ865 74.765.T8743.T72 JT9532.A2.KQ5.AQ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1H Pass Pass X
+Pass 2C Pass 2S
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ6.KJT983.A.943 K8.Q4.J962.KJ865 74.765.T8743.T72 JT9532.A2.KQ5.AQ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1H Pass Pass X
+2H Pass Pass 2S
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q963.QT6.K3.KQ97 T4.9752.AJ982.AT 5.K4.Q754.J86543 AKJ872.AJ83.T6.2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+Pass Pass 1S Pass
+1N Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q963.QT6.K3.KQ97 T4.9752.AJ982.AT 5.K4.Q754.J86543 AKJ872.AJ83.T6.2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+Pass Pass 1S Pass
+1N Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ8654.A5.83.J76 K7.T9.K765.AKQ32 Q3.KJ8632.AQJ2.4 T92.Q74.T94.T985 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+1H Pass 1S X
+2D Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ8654.A5.83.J76 K7.T9.K765.AKQ32 Q3.KJ8632.AQJ2.4 T92.Q74.T94.T985 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+1H Pass 1S 2C
+2D Pass 3C X
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T84.K7643.A72.32 AQ953.T5.986.KT7 K762.AQJ2.KQ5.Q5 J.98.JT43.AJ9864 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T84.K7643.A72.32 AQ953.T5.986.KT7 K762.AQJ2.KQ5.Q5 J.98.JT43.AJ9864 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1S Pass 1N
+Pass 2D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A65.AJT86.KQ73.2 QJT983.Q54.A.QT3 K4.K32.T64.K9854 72.97.J9852.AJ76 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1H 2S 3H Pass
+Pass 3S Pass Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A65.AJT86.KQ73.2 QJT983.Q54.A.QT3 K4.K32.T64.K9854 72.97.J9852.AJ76 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1H 1S 2H Pass
+3C Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 3.K643.Q8.KQJ943 QJ74.82.KJ9752.6 AKT96.AJT7.63.87 852.Q95.AT4.AT52 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+Pass 1S Pass 2C
+2D 2H 3D 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 3.K643.Q8.KQJ943 QJ74.82.KJ9752.6 AKT96.AJT7.63.87 852.Q95.AT4.AT52 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T8654.KT4.97.KT9 AKQJ7.95.AT53.Q8 93.AJ862.Q.J6543 2.Q73.KJ8642.A72 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 2D Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T8654.KT4.97.KT9 AKQJ7.95.AT53.Q8 93.AJ862.Q.J6543 2.Q73.KJ8642.A72 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "N"]
+2H Pass Pass 2S
+Pass 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 65.KJ6.KQ9654.A5 AQT84.53.J832.93 KJ932.984.T.KT76 7.AQT72.A7.QJ842 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+1H 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 65.KJ6.KQ9654.A5 AQT84.53.J832.93 KJ932.984.T.KT76 7.AQT72.A7.QJ842 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "E"]
+1H 2D 2S Pass
+3C Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQT64.Q76.KJ.A62 53.AJ942.A873.T3 AJ87.53.64.KQJ94 92.KT8.QT952.875 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1S 2H 2N 3H
+X! Pass 4C Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQT64.Q76.KJ.A62 53.AJ942.A873.T3 AJ87.53.64.KQJ94 92.KT8.QT952.875 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "S"]
+1S Pass 2C Pass
+2N Pass 3S Pass
+4C Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Mariani"]
+[North "Mancini"]
+[East "Mina"]
+[South "Freddio"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A875.Q743.Q974.8 K4.AT985.T653.62 T2.K2.AK8.AKQT74 QJ963.J6.J2.J953 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Bo - Tamburrini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Reggio E-Fornaciari"]
+[Auction "W"]
+Pass 2D an mo
+Pass 2H Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+

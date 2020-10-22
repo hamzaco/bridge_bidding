@@ -1,0 +1,823 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T9754.6.KJT.J865 AQ86.T82.97653.Q KJ2.9753.AQ842.A 3.AKQJ4.KT97432."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "N"]
+1D 2C X Pass
+2H 3C Pass Pass
+3S 4C 4S X
+Pass Pass Pass
+[Play "E"]
+H6 H2 H3 HA
+C5 CQ CA C3
+DT D3 D4 S3
+C6 D6 S2 CK
+S4 H8 H5 H4
+S5 SA SJ C7
+S7 S6 SK C4
+DK D5 D2 C2
+DJ D7 DQ HJ
+C8 D9 DA HQ
+S9 HT D8 CT
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T9754.6.KJT.J865 AQ86.T82.97653.Q KJ2.9753.AQ842.A 3.AKQJ4.KT97432."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "N"]
+1D an 5+ 2C
+X! an 4+ XX
+an ca Pass Pass
+2S Pass Pass 3D
+Pass 3N X 4H
+Pass 5C X Pass
+Pass Pass
+[Play "S"]
+DT D3 DA C2
+C5 CQ CA C4
+DJ D5 D4 C3
+C6 D6 D2 CK
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ9632.73.KQ973.Q7 K64.KQ964.864.5 AQT983.T852.JT.AT84 J752.AJ.A52."]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "E"]
+1C 1S 2C an
+Xi 2H 3D 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ9632.73.KQ973.Q7 K64.KQ964.864.5 AQT983.T852.JT.AT84 J752.AJ.A52."]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "E"]
+1N 2S an no
+3S an as X
+an as 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J743.A92.KQT3.A3 A98.KJ4.4.KJT985 KQ.63.AJ98762.Q4 T652.QT875.5.762 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J743.A92.KQT3.A3 A98.KJ4.4.KJT985 KQ.63.AJ98762.Q4 T652.QT875.5.762 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "S"]
+1C Pass 1D an
+0- Pass 1H an
+an 2C X! an
+TO Pass 2S Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT72.Q5.AJ3.A863 9.KJ987.K87.KQ97 A65.642.Q962.542 QJ843.AT3.T54.JT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "W"]
+1H Pass 2H an
+8- X Pass 2S
+Pass Pass 3C Pass
+3H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT72.Q5.AJ3.A863 9.KJ987.K87.KQ97 A65.642.Q962.542 QJ843.AT3.T54.JT "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "W"]
+1H Pass 1S Pass
+2C Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ42.T76.974.875 KJ53.K84.T.AKJ93 T76.QJ3.AQJ53.T2 98.A952.K862.Q64 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "N"]
+Pass Pass Pass 1C
+1D X! Pass 1H
+Pass 1N Pass 2N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ42.T76.974.875 KJ53.K84.T.AKJ93 T76.QJ3.AQJ53.T2 98.A952.K862.Q64 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "N"]
+Pass Pass Pass 1C
+1D an !X X
+an 4+ 2D an
+Pa X an su
+ 3 Pass an !X
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A976.AK85.65.Q85 J2.J632.982.T742 QT8.T974.QJT74.K K543.Q.AK3.AJ963 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "E"]
+1C X Pass 1H
+X Pass 2C 2D
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A976.AK85.65.Q85 J2.J632.982.T742 QT8.T974.QJT74.K K543.Q.AK3.AJ963 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "E"]
+1C X Pass 1D
+1S Pass 2C X
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ4.42.AQJ.JT874 97632.9873.73.Q9 K85.KJ5.KT986.K3 QT.AQT6.542.A652 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "S"]
+1C Pass 1D 1H
+Pass 2H 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ4.42.AQJ.JT874 97632.9873.73.Q9 K85.KJ5.KT986.K3 QT.AQT6.542.A652 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "S"]
+1C Pass 1D an
+0- Pass 1H an
+12 Pass 1S an
+as Pass 1N an
+12 Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K54.AK95.KJ3.QJ6 T9.JT74.Q65.AT95 J832.86.T982.K42 AQ76.Q32.A74.873 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "W"]
+Pass Pass 1C 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K54.AK95.KJ3.QJ6 T9.JT74.Q65.AT95 J832.86.T982.K42 AQ76.Q32.A74.873 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "W"]
+Pass Pass 1C X
+1D an 4+ Pass
+1H an 3  Pass
+Pass X! Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q98.Q764.KQ2.AKJ KJ7543.K85.4.742 6.AJT9.765.Q9653 AT2.32.AJT983.T8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "N"]
+Pass 2C 2N Pass
+3C an na Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q98.Q764.KQ2.AKJ KJ7543.K85.4.742 6.AJT9.765.Q9653 AT2.32.AJT983.T8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2H Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ.A743.QT74.842 JT974.KT52.9862.A8 J986.J.KJ9653. 6532.Q.AK53.AQT7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "E"]
+1D Pass 2H an
+5S  n 3C 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ.A743.QT74.842 JT974.KT52.9862.A8 J986.J.KJ9653. 6532.Q.AK53.AQT7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "E"]
+1C Pass 1S Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K987.K76.Q7.J965 AQ4.AQ983.K542.7 T653.42.T9.AKT43 J2.JT5.AJ863.Q82 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "S"]
+Pass 1H Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K987.K76.Q7.J965 AQ4.AQ983.K542.7 T653.42.T9.AKT43 J2.JT5.AJ863.Q82 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "S"]
+Pass 1H Pass 2H
+Pass 3D Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 865.9642.A86.T92 QT3.KQT853.JT.J6 AKJ2.7.Q542.AQ74 974.AJ.K973.K853 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "W"]
+2D an we 2H
+Pass 2S Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 865.9642.A86.T92 QT3.KQT853.JT.J6 AKJ2.7.Q542.AQ74 974.AJ.K973.K853 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "W"]
+2H X Pass 2S
+Pass 3S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 7.J3.A97543.KQ98 AT852.542.J8.A72 96.AKQ6.QT6.JT63 KQJ43.T987.K2.54 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "N"]
+1C 1S 2D 3D
+X 3S Pass Pass
+4D Pass 5D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 7.J3.A97543.KQ98 AT852.542.J8.A72 96.AKQ6.QT6.JT63 KQJ43.T987.K2.54 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "N"]
+1C an 2+ 1S
+2C an !X 2N
+an in  4 3D
+Pass an no 4D
+Pass 4H Pass 5D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bakkeren"]
+[North "Pont"]
+[East "Bertens"]
+[South "Fernandez"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K743.AJT9.QJ864.72 AQT2.Q7652.52.AKQ986543 6.T97.JT.J985 K843.AK3."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ventin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Orange green"]
+[Auction "E"]
+1D Pass 1H 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

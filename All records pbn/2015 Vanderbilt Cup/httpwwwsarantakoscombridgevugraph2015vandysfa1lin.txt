@@ -1,0 +1,894 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J9862.Q92.Q.K964 T.KT843.AT42.AQJ 753.65.J9753.T32 AKQ4.AJ7.K86.875 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+Pass 1C 1S 2D
+an 5  Pass 4H
+Pass 4N Pass 5H
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+S8 ST S3 S4
+H2 H3 H5 HA
+H9 H4 H6 HJ
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J9862.Q92.Q.K964 T.KT843.AT42.AQJ 753.65.J9753.T32 AKQ4.AJ7.K86.875 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+Pass 1C Pass 1N
+Pass 2C Pass 2D
+Pass 2H Pass 2N
+Pass 3C Pass 3D
+Pass 3H Pass 3N
+Pass 4C Pass 4D
+Pass 4H Pass 4S
+Pass 5D Pass 5N
+Pass 6N Pass Pass
+Pass
+[Play "N"]
+S6 ST S7 SA
+C4 CQ C2 C8
+HQ H3 H5 HJ
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT6.J942.T7.KQ84 QJ9.KT87.J943.A9 753.Q6.KQ865.T72 K842.A53.A2.J653 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+1C an cl  c
+1N Pass Pass Pass
+[Play "N"]
+DT DJ D6 D2
+SA SJ S7 S2
+D7 D3 D5 DA
+S6 S9 S3 S4
+ST SQ S5 SK
+H2 D4 C2 S8
+H4 HK H6 H3
+H9 H7 HQ HA
+HJ H8 C7 H5
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT6.J942.T7.KQ84 QJ9.KT87.J943.A9 753.Q6.KQ865.T72 K842.A53.A2.J653 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass Pass Pass
+[Play "S"]
+H2 H7 HQ HA
+C4 CA C2 C3
+CK C9 C7 C5
+S6 S9 S3 S2
+SA SJ S5 S4
+ST SQ S7 SK
+H4 H8 H6 H5
+D7 D3 DQ DA
+H9 HT D5 H3
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT5.7432.QT8.942 Q9642.T85.J95.86 K8.J96.7643.AQT7 A73.AKQ.AK2.KJ53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+Pass Pass 1D an
+co X Pass 1S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT5.7432.QT8.942 Q9642.T85.J95.86 K8.J96.7643.AQT7 A73.AKQ.AK2.KJ53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D Pass 2H
+Pass 2S Pass 2N
+Pass 3H Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 98754.KQJ9.92.QJ KQJ32.A63.875.74 6.742.AT43.T9865 AT.T85.KQJ6.AK32 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass Pass 1N an
+15 Pass 2H Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 98754.KQJ9.92.QJ KQJ32.A63.875.74 6.742.AT43.T9865 AT.T85.KQJ6.AK32 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 1N Pass
+2H Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT743.A863.K43.3 A95.95.872.AJ962 Q62.AQJT5.QT875.K8 KQJT742.96.K4."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+1D an co 1H
+1S an 5   u
+X 2S 3H X!
+an ga Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT743.A863.K43.3 A95.95.872.AJ962 Q62.AQJT5.QT875.K8 KQJT742.96.K4."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+1D 1H X XX
+2C 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT9854.T6.985.Q8 7.AQ43.AQ72.A974 KQ3.K875.KT63.K2 A62.J92.J4.JT653 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+Pass Pass 1D an
+us  5 Pass 1N
+2S X an ta
+3D Pass 3S X
+Pass 4C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT9854.T6.985.Q8 7.AQ43.AQ72.A974 KQ3.K875.KT63.K2 A62.J92.J4.JT653 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D 2S X 2N
+X Pass Pass 3S
+5C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT4.9.85.KJT9832 K9732.K.KQJ32.A7 Q6.JT7543.T974.4 A85.AQ862.A6.Q65 "]
+[Declarer "W"]
+[Contract "7"]
+[Result "11"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+3C 3S Pass 4C
+Pass 4D Pass 4H
+Pass 5C Pass 5D
+Pass 6D Pass 6H
+Pass 7D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT4.9.85.KJT9832 K9732.K.KQJ32.A7 Q6.JT7543.T974.4 A85.AQ862.A6.Q65 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1020"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+Pass 1C 2H 2N
+Pass 3S Pass 4H
+Pass 4S Pass 4N
+Pass 5H Pass 6N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK5.43.QT532.K75 JT7643.KJ92.4.Q2 Q98.Q6.AK76.T963 2.AT875.J98.AJ84 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass 1D 1H 2D
+3D Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK5.43.QT532.K75 JT7643.KJ92.4.Q2 Q98.Q6.AK76.T963 2.AT875.J98.AJ84 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass Pass 1H X
+4H X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T854.KQJ5.Q3.A75 A763.92.T98.T863 K9.874.AK762.KJ9 QJ2.AT63.J54.Q42 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+1N an 14 Pass
+2C Pass 2D Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T854.KQJ5.Q3.A75 A763.92.T98.T863 K9.874.AK762.KJ9 QJ2.AT63.J54.Q42 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+1D Pass 1H Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT64.Q97.K9.T863 92.K863.AJ84.Q54 J73.42.QT63.KJ92 AQ85.AJT5.752.A7 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+Pass 1D Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT64.Q97.K9.T863 92.K863.AJ84.Q54 J73.42.QT63.KJ92 AQ85.AJT5.752.A7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+1N Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT876.KQ93.J652.K54 T85.KJ9873.9.Q92 J4.QT42.AK74.J3 A762.A65.QT83."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+1S 2D 4S X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT876.KQ93.J652.K54 T85.KJ9873.9.Q92 J4.QT42.AK74.J3 A762.A65.QT83."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+1S Pass 1N Pass
+2H Pass 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K.K8.AQT.AQJ8432 Q985.QJ95.9842.T JT6.42.J7653.765 A7432.AT763.K.K9 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass Pass 1S an
+us X 3S Pass
+Pass 4C Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K.K8.AQT.AQJ8432 Q985.QJ95.9842.T JT6.42.J7653.765 A7432.AT763.K.K9 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass Pass 1S 3S
+4S Pass Pass X
+Pass 5C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ.753.AQ852.T82 7654.AT8.764.765 3.K964.KJT9.AQJ3 KJT982.QJ2.3.K94 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+1D an co 1S
+2D 2S 3S Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ.753.AQ852.T82 7654.AT8.764.765 3.K964.KJT9.AQJ3 KJT982.QJ2.3.K94 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+1D 1S 2S X
+3C Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 75.J743.K95.QJ92 A942.K82.JT82.65 T8.AQ95.AQ7.AT73 KQJ63.T6.643.K84 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+2S Pass 3S X
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 75.J743.K95.QJ92 A942.K82.JT82.65 T8.AQ95.AQ7.AT73 KQJ63.T6.643.K84 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Welland"]
+[North "Diamond"]
+[East "Auken"]
+[South "Platnick"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K762.3.AKT62.AQJ AQ543.A42.Q9.543 J9.KQ865.J43.T82 T8.JT97.875.K976 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+1C an st  a
+ f 1S X an
+5- Pass 2D Pass
+2H Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+

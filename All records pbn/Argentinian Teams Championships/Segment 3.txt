@@ -1,0 +1,396 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J63.KJ954.Q54.K5 52.876.KJ732.642 K8.A2.AT98.JT983 AQT974.QT3.6.AQ7 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "N"]
+1N X Pass 2D
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+H5 H6 HA H3
+HJ H7 H2 HT
+HK H8 C3 HQ
+D5 DJ DA D6
+CK C2 CJ CQ
+C5 C4 C8 CA
+H4 C6 C9 C7
+SJ D2 CT ST
+DQ DK D8 S4
+S3 S2 S8 SA
+S6 S5 SK S7
+*
+
+
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ3.KQ6.AQ86432.KQ52 T52.Q87632.4.AJ98743 AK4.T7.T9876. JT95.KJ95."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "E"]
+Pass 1C 2D 4H
+4N 5D Pass 5H
+Pass 6H X Pass
+Pass Pass
+[Play "E"]
+CT C9 C2 H5
+S6 SA SK S4
+HK HT H3 DJ
+*
+
+
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q2.AJ954.QJ6.KJ7 KJ3.T83.AK85.A95 AT865.KQ2.9.6432 974.76.T7432.QT8 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "S"]
+1N X Pass 2D
+Pass Pass 2S Pass
+Pass Pass
+[Play "E"]
+H4 H8 HK H7
+SQ SK S5 S4
+H5 H3 HQ H6
+S2 S3 SA S7
+C7 SJ S6 S9
+D6 DK D9 D2
+CJ CA C2 C8
+*
+
+
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 53.K54.A4.AJ7632 AJT876.A.QT932.8 Q4.J9873.87.KT95 K92.QT62.KJ65.Q4 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "W"]
+1S Pass 1N 2C
+2D Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+CA C8 CT CQ
+C2 S8 C5 C4
+S3 SA S4 S2
+S5 S6 SQ SK
+*
+
+
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT642.9742.A54.T 985.AK5.KQJ87.K6 K73.83.962.Q9753 AQ.QJT6.T3.AJ842 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "N"]
+Pass 1N Pass 4N
+Pass Pass Pass
+[Play "E"]
+H7 HA H8 H6
+DA D7 D2 DT
+S2 S5 SK SA
+D4 DK D6 D3
+*
+
+
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K953.QT72.86.Q84 AKJ543.KQ74.JT2.J86 9.J953.AK973. AQT742.86.AT2.65 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "E"]
+1S Pass 2H Pass
+2S Pass 3D Pass
+3S Pass 4H Pass
+Pass Pass
+[Play "W"]
+C5 C4 C2 CK
+C6 C8 CJ CA
+H8 CQ CT C3
+H2 HJ H9 H6
+C7 S2 H7 HA
+HT HK C9 S4
+S7 HQ H3 S6
+*
+
+
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT8652.QT85.A76.93 AK7.KQT542.Q2.KQ7 43.J93.AJT64. J4.J962.8.K98753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "S"]
+1S 2D X an
+  Pass 2H Pass
+4S Pass Pass Pass
+[Play "N"]
+D3 D8 DA DK
+S2 S3 SK S4
+SJ S5 S9 SQ
+HT HK H3 H6
+D7 DQ D9 C5
+C3 D6 DT DJ
+H7 H4 H9 H5
+*
+
+
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q875.64.4.KJ9542 A2.KQT7.K653.Q86 K63.AJ32.AQ82.A3 JT94.985.JT97.T7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "W"]
+1D 1N 2D Pass
+Pass 2N Pass Pass
+Pass
+[Play "N"]
+S5 S2 S3 SJ
+D4 D3 DQ DJ
+C2 C8 CA C7
+CK C6 C3 CT
+CJ CQ H2 H9
+H4 HK H3 H5
+S7 D5 D2 D7
+C4 D6 DA DT
+S8 SA SK S4
+H6 DK D8 D9
+*
+
+
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q962.AKQ9.K52.QJ AJ3.742.AQ86.K43 T854.53.J9.A8765 K7.JT86.T743.T92 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 3S Pass
+Pass Pass
+[Play "S"]
+HA H2 H3 HJ
+CQ C3 C5 C2
+CJ CK CA CT
+S2 SJ S8 S7
+S6 S3 S4 SK
+D2 DQ DJ D7
+D5 DA D9 D3
+S9 SA S5 D4
+DK D6 C6 DT
+HK H4 H5 H8
+HQ H7 C7 H6
+H9 D8 ST HT
+SQ C4 C8 C9
+*
+
+
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 76.K98.AKQ86.Q73 AT832.T543.AJ96.J54 AQJ2.JT975.5.KQ9 76.432.KT842."]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "E"]
+Pass 1N an 12
+2D Pass 2S Pass
+Pass Pass
+[Play "S"]
+DK S2 D5 D3
+H8 H3 HA H7
+S3 DJ D2 D6
+H9 H4 H2 H6
+DA S8 D7 D4
+C5 CK C3 C6
+C7 CA S4 C2
+*
+
+
+[Event "Argentinian Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Fornasari"]
+[North "Gigi"]
+[East "Mooney"]
+[South "Juarez"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J5.AQ942.JT83.K4 AKT82.865.654.Q6 Q64.73.Q92.AJT87 973.KJT.AK7.9532 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Leiro"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mooney"]
+[Auction "N"]
+Pass Pass 1H 1S
+1N X Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+

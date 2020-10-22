@@ -1,0 +1,687 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K74.A6.T76543.84 A.T752.J9.KQJT52 983.KQ943.AK8.A9 QJT652.J8.Q2.763 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "N"]
+1H 2S Pass Pass
+Pass
+[Play "S"]
+HA H2 H3 H8
+H6 H5 HQ HJ
+S4 SA S3 S5
+D7 D9 DK D2
+C8 C2 CA C3
+C4 H7 HK DQ
+S7 C5 C9 C6
+D3 DJ DA S2
+SK CT S8 SJ
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K74.A6.T76543.84 A.T752.J9.KQJT52 983.KQ943.AK8.A9 QJT652.J8.Q2.763 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "N"]
+1H 2S an we
+Pass Pass X Pass
+3D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T872.Q75.AQ87.86 AKJ94.KJ53.5432.QJ653 2.T62.AK97. AK94.T863.94.QJT "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "E"]
+Pass Pass 1H 1S
+2S 3S 4D 4S
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T872.Q75.AQ87.86 AKJ94.KJ53.5432.QJ653 2.T62.AK97. AK94.T863.94.QJT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "E"]
+Pass Pass 1H 1S
+2S 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT5.5.K873.86542 AK3.962.AQJ9.Q93 J97.KQ874.64.AJT 8642.AJT3.T52.K7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2D Pass 2N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT5.5.K873.86542 AK3.962.AQJ9.Q93 J97.KQ874.64.AJT 8642.AJT3.T52.K7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "40"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ9652.82.A32.A4 AQ8.T63.Q654.KJ9 743.K75.T7.Q7653 T.AQJ94.KJ98.T82 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "W"]
+1D Pass 1H 1S
+1N 2S 3D 3S
+Pass Pass 4D Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "40"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ9652.82.A32.A4 AQ8.T63.Q654.KJ9 743.K75.T7.Q7653 T.AQJ94.KJ98.T82 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "W"]
+1D Pass 1H 1S
+Pass Pass X Pass
+1N 2S 3D Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "41"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J8743.976.5.JT32 Q5.AJ4.AQ74.Q976 AKT92.T832.K83.5 6.KQ5.JT962.AK84 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "N"]
+Pass 1D Pass 1H
+1S X 4S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "41"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J8743.976.5.JT32 Q5.AJ4.AQ74.Q976 AKT92.T832.K83.5 6.KQ5.JT962.AK84 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "N"]
+1S X 4S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "42"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 983.J6.K863.AT83 AQT72.53.QT5.765 KJ.AKQ972.J97.K9 654.T84.A42.QJ42 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "E"]
+Pass Pass 1S 2H
+2S X Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "42"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 983.J6.K863.AT83 AQT72.53.QT5.765 KJ.AKQ972.J97.K9 654.T84.A42.QJ42 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "E"]
+Pass Pass 1S X
+2H an fi  7
+Pass 2S 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "43"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKJ.J63.KJT94.93 8.KQT874.AQ73.J4 9753.A95.62.AQ85 QT642.2.85.KT762 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "S"]
+1D 1H 1S Pass
+1N 2H Pass Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "43"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKJ.J63.KJT94.93 8.KQT874.AQ73.J4 9753.A95.62.AQ85 QT642.2.85.KT762 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "S"]
+1D 1H X Pass
+2D 2H Pass Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "44"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: JT94.AJ42.8.9632 6.K9765.6432.854 K52.QT3.JT975.KJ AQ873.8.AKQ.AQT7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "W"]
+2H Pass 2N Pass
+3H Pass 3S Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "44"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: JT94.AJ42.8.9632 6.K9765.6432.854 K52.QT3.JT975.KJ AQ873.8.AKQ.AQT7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "W"]
+2D an mu Pass
+2N Pass 3H Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "45"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 6.QJ9753.4.75432 KQT2.K2.AK985.T6 73.T84.JT76.AQJ9 AJ9854.A6.Q32.K8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "N"]
+Pass 1S Pass 2D
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "45"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 6.QJ9753.4.75432 KQT2.K2.AK985.T6 73.T84.JT76.AQJ9 AJ9854.A6.Q32.K8 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "N"]
+Pass 1S Pass 2D
+Pass 2S Pass 3S
+Pass 3N Pass 4D
+Pass 4H Pass 4N
+Pass 5H Pass 6S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK843.A32.KT82.5 T96.K97.Q.AKT972 J752.T6.J7543.Q8 Q.QJ854.A96.J643 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "E"]
+Pass 1S 2C 2S
+3S 4S 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK843.A32.KT82.5 T96.K97.Q.AKT972 J752.T6.J7543.Q8 Q.QJ854.A96.J643 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "E"]
+Pass 1S 2C 3S
+X 4S 5C Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A.AJ653.KQJ743.9 QJT64.K8.T6.KT53 K872.Q9.92.A7642 953.T742.A85.QJ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "S"]
+1D 1S 1N 2S
+4H 4S X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A.AJ653.KQJ743.9 QJT64.K8.T6.KT53 K872.Q9.92.A7642 953.T742.A85.QJ8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "S"]
+1D 1S 1N 2S
+3H Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swiss Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "48"]
+[West "stancescu"]
+[North "SASSELLI"]
+[East "toszeghi"]
+[South "ABOUCHANAB"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A95.KT9.T963.QJ8 Q632.3.J52.T9653 8.AJ752.AK74.A42 KJT74.Q864.Q8.K7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "DUROS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "RIBITAS"]
+[Auction "W"]
+Pass 1H 1S 2H
+2S 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+

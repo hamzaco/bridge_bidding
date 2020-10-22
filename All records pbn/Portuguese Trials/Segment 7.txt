@@ -1,0 +1,453 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T82.K93.95.AKT96 AQ95.JT4.QJT63.Q K743.A52.AK.J875 J6.Q876.8742.432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+HK H4 H2 H7
+CA CQ C5 C4
+C6 S5 CJ C3
+C9 D3 C8 C2
+CK HJ C7 S6
+CT HT H5 H6
+S8 SA S3 SJ
+D5 DQ DK D4
+S2 S9 SK D2
+ST SQ S4 H8
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A9.JT762.98.JT53 KQ843.A3.KQ752.8 J76.K.AT64.AQ742 T52.Q9854.J3.K96 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K7.K72.KJT7.Q852 Q865.QJ6.A96.J96 JT432.T5.543.T73 A9.A9843.Q82.AK4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass Pass X
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 65.K843.J763.Q65 KJ9742.97.T82.J7 AQ83.QT.KQ94.A84 T.AJ652.A5.KT932 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1N 2H an
+!H Pass Pass X
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A5.T75.QJ63.Q952 KJT94.Q8.AT2.643 Q8762.AK932.4.J7 3.J64.K9875.AKT8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A72.6.J32.KJ8642 J9.J732.T854.AQ5 T643.AKT95.K97.7 KQ85.Q84.AQ6.T93 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1H Pass
+1N Pass Pass X
+Pass 2C Pass 2H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 95.KQ9.AQJ97.KQJ A4.JT65.543.T932 JT632.A842.8.A65 KQ87.73.KT62.874 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1S Pass
+2N Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK742.J2.964.K65 J3.84.KJ853.Q972 9.KT653.AQT72.AJ QT865.AQ97.T843."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q42.K.92.AKJT975 AT6.95.KQJT743.6 KJ9873.64.65.842 5.AQJT8732.A8.Q3 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2D 4H 4S 5D
+Pass 5H 5S X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKQ42.KQ8.62.K52 3.A65432.Q987.84 96.JT7.A3.AJT976 JT875.9.KJT54.Q3 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q832.AQT95.73.J2 AKJ5.82.AQ84.A43 T976.K4.T52.T865 4.J763.KJ96.KQ97 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2N Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ843.7543.KJ87.762 KQ9652.J62.9.AT5 AJ74.AT.AQ53.J9 T83.KQ98.T642."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2D 2N Pass 3H
+Pass 3S Pass 3N
+Pass 4C Pass 4H
+Pass 4N Pass 5D
+Pass 6S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ.AT8742.J86.A6 A972.J63.KT5.KJ9 JT8643.K9.973.83 5.Q5.AQ42.QT7542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1H X
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T875.A8.T6.KJT96 J9.Q75.AKJ985.84 KQ63.K64.74.A752 A42.JT932.Q32.Q3 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1D X
+1H 2C 2D Pass
+Pass 2S Pass 3C
+3D Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Portuguese Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Cruzeiro"]
+[North "Oliveira"]
+[East "Santos"]
+[South "Pimenta"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T96.K72.KJ92.AJ6 A873.A84.853.K93 K5.J965.QT4.8542 QJ42.QT3.A76.QT7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 2S Pass 2N
+Pass Pass Pass
+[Play "W"]
+*
+
+

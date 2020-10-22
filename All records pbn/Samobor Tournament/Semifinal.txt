@@ -1,0 +1,916 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ752.A762.Q64.2 JT63.KQ4.T52.T85 A984.J983.A93.97 .T5.KJ87.AKQJ643 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass 1C 1S 1N
+X Pass 2H Pass
+3S 5C Pass Pass
+X Pass Pass Pass
+[Play "S"]
+SQ S3 S4 C3
+C2 C5 C7 CA
+S2 CT C9 C4
+DQ D2 D3 DJ
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ752.A762.Q64.2 JT63.KQ4.T52.T85 A984.J983.A93.97 .T5.KJ87.AKQJ643 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass 1C 1S Pass
+2N 3C 4S X
+Pass Pass Pass
+[Play "W"]
+HA HK H3 HT
+SK S3 S4 C3
+C2 CT C7 C4
+D4 DT D3 DK
+S2 C8 C9 CA
+H2 HQ H8 H5
+DQ D2 D9 DJ
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J5.T8.Q984.KJ852 K8742.A64.AJ63.6 A3.QJ32.T752.A74 QT96.K975.K.QT93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+2D Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J5.T8.Q984.KJ852 K8742.A64.AJ63.6 A3.QJ32.T752.A74 QT96.K975.K.QT93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+Pass Pass 1S Pass
+2C Pass 2D Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A93.QJT8.AKT6.92 7642.732.954.QT6 KQJ5.A94.32.K543 T8.K65.QJ87.AJ87 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+1D Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A93.QJT8.AKT6.92 7642.732.954.QT6 KQJ5.A94.32.K543 T8.K65.QJ87.AJ87 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+1N Pass 2C Pass
+2H Pass 2S Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT98742.KQT4.A5.AKJT75 3.97.J964.83 AKQ6.632.KQ73.Q9642 5.AJ85.T82."]
+[Declarer "S"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+2S X 4S 5S
+an   Pass 5N
+Pass 6H Pass 7H
+X an   Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT98742.KQT4.A5.AKJT75 3.97.J964.83 AKQ6.632.KQ73.Q9642 5.AJ85.T82."]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+3S X 4S 6H
+Pass Pass 6S Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 865.A95.52.T9852 Q2.JT763.AK7.643 JT743.K.Q983.KQ7 AK9.Q842.JT64.AJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass 1C Pass 1D
+1S 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 865.A95.52.T9852 Q2.JT763.AK7.643 JT743.K.Q983.KQ7 AK9.Q842.JT64.AJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ87.KT943.J3.9 5432.QJ85.K54.43 96.A7.Q2.AQT8765 JT.62.AT9876.KJ2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+2C 2S Pass 3C
+Pass 3H Pass 3S
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ87.KT943.J3.9 5432.QJ85.K54.43 96.A7.Q2.AQT8765 JT.62.AT9876.KJ2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2H Pass 3C
+Pass 3H Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 87643.6.K863.963 AJ92.T54.52.T875 K.KJ972.QJ94.KQ4 QT5.AQ83.AT7.AJ2 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+Pass Pass 1H 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 87643.6.K863.963 AJ92.T54.52.T875 K.KJ972.QJ94.KQ4 QT5.AQ83.AT7.AJ2 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+Pass Pass 1H 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJT8.K87.T4.652 Q9753.QT6.KQ3.AJ 2.A4.9875.KQ9874 64.J9532.AJ62.T3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+1N 3C Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJT8.K87.T4.652 Q9753.QT6.KQ3.AJ 2.A4.9875.KQ9874 64.J9532.AJ62.T3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+1N Pass 2D Pass
+2H 3C Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T9.KQ543.QT.T954 A53.A82.K9853.Q2 KQJ862.JT.72.AJ6 74.976.AJ64.K873 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+1S Pass 1N Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T9.KQ543.QT.T954 A53.A82.K9853.Q2 KQJ862.JT.72.AJ6 74.976.AJ64.K873 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+1S Pass 1N Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 875.QT54.KQJ2.K9 92.A62.AQJT8432.KJ43 J873.A64.75.AQT6 K9.T98753.6."]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+Pass 1D 3C X
+an   Pass 3H
+4C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 875.QT54.KQJ2.K9 92.A62.AQJT8432.KJ43 J873.A64.75.AQT6 K9.T98753.6."]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+Pass Pass 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A7.8642.KQ7.AJ76 9864.Q95.J85.Q95 Q52.AT7.A9643.T3 KJT3.KJ3.T2.K842 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+1C Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A7.8642.KQ7.AJ76 9864.Q95.J85.Q95 Q52.AT7.A9643.T3 KJT3.KJ3.T2.K842 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK.3.KJT74.AK832 754.AKJ86.Q6.QT4 QT932.Q97.532.97 J86.T542.A98.J65 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+1N Pass Pass X
+Pass 2S Pass 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK.3.KJT74.AK832 754.AKJ86.Q6.QT4 QT932.Q97.532.97 J86.T542.A98.J65 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+1H Pass 2H 2N
+an   Pass 3D
+Pass 4D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 743.QT82.86.AKJT QT982.94.KT93.62 J65.KJ3.QJ5.Q854 AK.A765.A742.973 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 743.QT82.86.AKJT QT982.94.KT93.62 J65.KJ3.QJ5.Q854 AK.A765.A742.973 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "N"]
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q9764.Q743.5.432 AT52.AT982.AT94.KJ8 K6.KJ8732.T9. 3.J5.Q6.AKQJ8765 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+1C Pass 1D an
+  2D 3C Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q9764.Q743.5.432 AT52.AT982.AT94.KJ8 K6.KJ8732.T9. 3.J5.Q6.AKQJ8765 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "E"]
+3N Pass 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K7652.986.J4.943 A.T42.AT752.AQJ2 Q984.Q75.K98.KT5 JT3.AKJ3.Q63.876 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2C Pass 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K7652.986.J4.943 A.T42.AT752.AQJ2 Q984.Q75.K98.KT5 JT3.AKJ3.Q63.876 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2C Pass 3D
+Pass 5D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Borevkovic"]
+[North "Kasprzak"]
+[East "Zoric"]
+[South "Nowosadzki"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K873.AQ4.87.T965 QJ9.853.KT9.Q832 AT4.K6.AJ65432.A 652.JT972.Q.KJ74 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Croatia"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+

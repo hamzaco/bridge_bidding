@@ -1,0 +1,466 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K852.K53.A5.AK95 T97.QJT8.K3.QT73 Q64.74.JT9742.J4 AJ3.A962.Q86.862 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "N"]
+Pass Pass 1D 1H
+2N X 4S Pass
+5D X Pass Pass
+Pass
+[Play "W"]
+H3 HQ H4 HA
+CK C3 C4 C6
+DA D3 D2 D6
+D5 DK D4 D8
+CA CQ CJ C8
+C5 C7 D7 C2
+HK H8 H7 H2
+S2 S7 SQ SA
+S5 HT D9 DQ
+SK S9 S4 S3
+C9 CT DT H6
+H5 HJ DJ H9
+S8 ST S6 SJ
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K852.K53.A5.AK95 T97.QJT8.K3.QT73 Q64.74.JT9742.J4 AJ3.A962.Q86.862 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "N"]
+Pass 1N an  
+X Pa 2D Pass
+Pass X! Pass 2H
+Pass Pass Pass
+[Play "S"]
+CA C3 C4 C6
+DA D3 D2 D8
+D5 DK D4 D6
+HK HQ H4 H6
+CK C7 CJ C8
+C9 CT H7 C2
+SK S7 S4 SJ
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 74.AJ73.QJ6.9543 9.Q5.K9853.AKJ76 AQJT863.T864.2.Q K52.K92.AT74.T82 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "E"]
+Pass Pass 1D 3S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 74.AJ73.QJ6.9543 9.Q5.K9853.AKJ76 AQJT863.T864.2.Q K52.K92.AT74.T82 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "E"]
+1N Pass 2C 2S
+Pass Pass 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ.J96.9653.KQT QT42.A3.AJT72.32 9653.K872.97654.87 QT54.KQ84.AJ8."]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "S"]
+1N an 11 2C
+an 5+ Pass 2N
+an in Pass 3D
+an !D Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ.J96.9653.KQT QT42.A3.AJT72.32 9653.K872.97654.87 QT54.KQ84.AJ8."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "S"]
+1D Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ7.QT9863.AQ.75 AT843.J2.KJ64.J2 Q92.A754.T75.T86 65.K.9832.AKQ943 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "W"]
+Pass Pass 2S an
+  Pass 3C Pass
+Pass 3H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ7.QT9863.AQ.75 AT843.J2.KJ64.J2 Q92.A754.T75.T86 65.K.9832.AKQ943 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "W"]
+1S Pass 1N 2H
+Pass Pass X! Pass
+3D 3H 4D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 875.K42.KJ95.J82 AQT.AT8753.AQ4.4 J.9.8632.AQ97653 K96432.QJ6.T7.KT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "N"]
+3C an bX Pass
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 875.K42.KJ95.J82 AQT.AT8753.AQ4.4 J.9.8632.AQ97653 K96432.QJ6.T7.KT "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "N"]
+Pass 2S Pass 2N
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q86.KQ83.AJ8.K76 AJT.65.Q753.AQJ4 42.942.KT2.T9853 K9753.AJT7.964.2 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "E"]
+Pass 1C 1D Pass
+1S Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q86.KQ83.AJ8.K76 AJT.65.Q753.AQJ4 42.942.KT2.T9853 K9753.AJT7.964.2 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "3"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "E"]
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J64.QT86.AJ65.32 QT9.J3.K9.AJT976 A87532.942.T43.4 K.AK75.Q872.KQ85 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "S"]
+Pass 1C an 12
+1D an on X
+XX Pass 1S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J64.QT86.AJ65.32 QT9.J3.K9.AJT976 A87532.942.T43.4 K.AK75.Q872.KQ85 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "S"]
+Pass 2C Pass 2D
+Pass 3C Pass 3D
+Pass 3N Pass 4C
+Pass 4D Pass 5C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "International Pula tournament"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Panina"]
+[North "Zoric"]
+[East "Rosenblum"]
+[South "Borevkovic"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ43.AQ.QJT43.T3 A75.KJT3.A852.QJ 962.9764.976.A54 QT8.852.K.K98762 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Tesla"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "West"]
+[Auction "W"]
+1N Pass 2D an
+FG Pass 2H Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+

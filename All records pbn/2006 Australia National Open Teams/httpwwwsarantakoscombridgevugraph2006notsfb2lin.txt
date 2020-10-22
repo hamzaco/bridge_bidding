@@ -1,0 +1,503 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K43.AK984.KQ84.3 AQT8.65.AT975.85 J762.QT2.62.QT42 95.J73.J3.AKJ976 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "N"]
+Pass Pass 1H Pass
+2H an . 3C
+4H Pass Pass Pass
+[Play "W"]
+C3 C8 C2 C9
+H4 C5 C4 CK
+DK DA D2 D3
+DQ DT D6 DJ
+D4 D5 HT HJ
+S3 SQ S2 S9
+S4 SA S6 S5
+SK S8 S7 H3
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJT3.KT2.A874.83 K8762.4.QJT952.K 95.AQ9865.63.642 Q4.J73.K.AQJT975 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "E"]
+1C X 1D 3H
+Pass 4H Pass Pass
+5C X Pass Pass
+Pass
+[Play "W"]
+H2 H4 HA H3
+C3 CK C2 CA
+C8 D2 C4 CQ
+D4 S2 C6 CJ
+S3 D5 H8 CT
+D7 D9 H9 C9
+D8 DT H5 C7
+SJ SK S5 S4
+DA DJ D3 DK
+HK S6 H6 H7
+HT S7 HQ HJ
+SA S8 S9 SQ
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A652.A87.QT8765.K943 JT6.T932.K3.QJT AKQ98.Q4.A42.87 75432.KJ65.J9."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "S"]
+1C Pass 1H Pass
+1S Pass 2D an
+. Pass 2S an
+. Pass 2N Pass
+3C Pass 3H Pass
+3N Pass 4C Pass
+4D Pass 4H Pass
+4S Pass 4N Pass
+5C Pass Pass Pass
+[Play "E"]
+DK DA D2 DQ
+C3 CA C9 C5
+HA H2 D7 HT
+H3 D8 H6 HK
+SK ST S7 S2
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT97632.854.97.6 J84.T3.AJ852.JT5 Q5.AQ92.KT4.A874 A.KJ76.Q63.KQ932 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "W"]
+Pass 1N X an
+!c 2H an .
+Pass 2S Pass 3H
+an . Pass 4S
+Pass Pass Pass
+[Play "S"]
+C6 CT CA CK
+S2 S4 S5 SA
+H4 H3 HQ HJ
+S3 S8 SQ C3
+S6 C5 C8 C9
+SK SJ D4 H6
+H8 HT HA H7
+S7 CJ C4 C2
+H5 D5 H2 HK
+S9 D2 C7 CQ
+D7 D8 DK D3
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A3.Q72.AJT84.KT2 QJ62.AJ9.97653.6 T75.KT864.2.9843 K984.53.KQ.AQJ75 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "N"]
+Pass 1C 1D 1S
+Pass 2S Pass 2N
+Pass 4S X Pass
+Pass Pass
+[Play "W"]
+DA D7 D2 DQ
+H2 H9 HT H3
+C2 C6 C3 CA
+S3 SQ S7 S4
+SA S2 S5 SK
+H7 HA H8 H5
+D4 SJ ST S8
+D8 D3 H4 DK
+CK S6 C4 CQ
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 7.AT975.QJ64.T75 AQT9865.8.AK8.J8 2.KQJ432.72.AK62 KJ43.6.T953.Q943 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "E"]
+Pass Pass 4S 5H
+5S 6H X Pass
+Pass Pass
+[Play "W"]
+S7 SA S2 S4
+D4 DK D2 D3
+D6 DA D7 D5
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 3.J87.AJ42.J9862 AT97.AQ64.986.73 J542.K52.T3.AKQT KQ86.T93.KQ75.54 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 98.Q862.AT84.Q94 743.9543.9652.52 AQ652.KT7.Q7.A63 KJT.AJ.KJ3.KJT87 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A9.T62.K95.KQ754 K7642.JT4.AJ963.QT853 A4.Q762.82.J KQJ98753.A83.T."]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "N"]
+1S 4H X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J8.A93.K953.AK97 AQ2.J642.AT72.65 943.T85.864.Q842 KT765.KQ7.QJ.JT3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "E"]
+1N X Pass an
+fo Pass XX Pass
+Pass 2C Pass Pass
+3C Pass 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J87.9865.862.764 T9632.AQJ.A4.QT2 AKQ5.74.97.AJ853 4.KT32.KQJT53.K9 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "S"]
+Pass 1N X Pass
+an . Pass XX
+Pass Pass 2C X
+Pass 3C Pass 3S
+Pass 5D Pass Pass
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJT.QJT5.K.KQ652 Q863.A762.A942.J 542.9.Q8765.T973 K97.K843.JT3.A84 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "W"]
+Pass Pass 1N X
+Pass an . Pass
+XX Pass Pass 2D
+Pass an . Pass
+X Pass Pass XX
+Pass 2S Pass Pass
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J972.J.K986.JT72 63.K854.AQ4.KQ85 AKT54.Q73.J32.43 Q8.AT962.T75.A96 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "N"]
+1S Pass 2C an
+. Pass 2S an
+. Pass Pass X
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q653.J6.JT986.JT A.87532.KQ42.K97 JT9872.AQ94.3.Q4 K4.KT.A75.A86532 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "E"]
+1N Pass 2D 2S
+Pass Pass X Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Australia National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Markey"]
+[North "Brogeland"]
+[East "Smolanko"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQ732.Q.Q8.KQ732 9.JT7643.A3.AJ54 T6.AK2.J9765.986 AJ854.985.KT42.T "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Markey"]
+[Auction "S"]
+1S 2H Pass 3H
+Pass Pass Pass Pass
+[Play "N"]
+*
+
+

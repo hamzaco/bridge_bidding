@@ -1,0 +1,784 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J.AQJT3.QT93.T85 T953.872.J42.KJ2 876.K9654.76.A96 AKQ42.AK85.Q743."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+2H Pass 3C X
+Pass 3S 4H 4S
+Pass Pass 5H 5S
+Pass Pass Pass
+[Play "E"]
+HA H7 HK S2
+SJ S3 S6 SA
+C5 CJ CA C3
+H3 S5 S7 SK
+DQ D2 D7 D5
+HQ H8 H5 S4
+C8 S9 S8 SQ
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT8.A2.J4.AT9863 AQ9.75.AQ965.KQ7 J7543.K9.KT83.42 62.QJT8643.72.J5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+1N an 15 Pass
+2D an xf Pass
+2H Pass Pass 3C
+Pass Pass 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT8.A2.J4.AT9863 AQ9.75.AQ965.KQ7 J7543.K9.KT83.42 62.QJT8643.72.J5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+1C 1D Pass 2C
+Pass 2D 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQJ63.QT875.Q8.A T7.93.AT52.KT952 A98.KJ.74.QJ8763 542.A642.KJ963.4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+1C 1D 1S 2D
+2S 3D 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQJ63.QT875.Q8.A T7.93.AT52.KT952 A98.KJ.74.QJ8763 542.A642.KJ963.4 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+1C 1D 1H an
+sP 3C an c 
+Pass 3D X Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 962.T.AQ432.Q752 AQT87.K82.97.J96 4.AJ7654.JT5.843 KJ53.Q93.K86.AKT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+1N an 14 Pass
+2H an xf Pass
+2S Pass 3N Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 962.T.AQ432.Q752 AQT87.K82.97.J96 4.AJ7654.JT5.843 KJ53.Q93.K86.AKT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+1N an 14 Pass
+2H an in X
+2S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ52.93.AKJ.Q643 A73.JT.QT9642.T5 T64.AK762.AJ972.Q98 Q854.8753.K8."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+1C 1D 1H 2D
+Pass Pass 3D Pass
+3N Pass 4C Pass
+4N Pass 5C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ52.93.AKJ.Q643 A73.JT.QT9642.T5 T64.AK762.AJ972.Q98 Q854.8753.K8."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+1N an 14 Pass
+2D an tX Pass
+2H Pass 2N an
+cl Pass 3N Pass
+4C Pass 4D Pass
+4S Pass 6C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKT975.432.AJ.J7 643.Q986.75.AT83 Q82.A75.KT642.95 J.KJT.Q983.KQ642 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+Pass Pass 1C an
+2+ 1S X 2C
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKT975.432.AJ.J7 643.Q986.75.AT83 Q82.A75.KT642.95 J.KJT.Q983.KQ642 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+Pass Pass 2C 2S
+4C 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ54.K65.T83.T84 J2.AQT98.K94.AJ6 K7.743.J762.K752 T9863.J2.AQ5.Q93 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+Pass Pass Pass 1N
+an go Pass 2C
+Pass 2H Pass 2N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ54.K65.T83.T84 J2.AQT98.K94.AJ6 K7.743.J762.K752 T9863.J2.AQ5.Q93 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+Pass Pass 1S X
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J97.KT9.Q86.AQ43 Q5.AJ742.92.K876 A862.865.743.JT5 KT43.Q3.AKJT5.92 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J97.KT9.Q86.AQ43 Q5.AJ742.92.K876 A862.865.743.JT5 KT43.Q3.AKJT5.92 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass 1N Pass
+3D an 42 Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ97.T85.AQ872.8 852.943.T5.Q9743 KJT643.A.KJ93.KT .KQJ762.64.AJ652 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+1D Pass 1S 4H
+an sk 4S Pass
+4N Pass 5S Pass
+6S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ97.T85.AQ872.8 852.943.T5.Q9743 KJT643.A.KJ93.KT .KQJ762.64.AJ652 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+1D Pass 1S 4H
+4S Pass 4N Pass
+5S Pass 6S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KT5.QJ9.J7653.K4 J97642.A83.JT63.Q8 K7654.AQ9852.A3.T2 AKQT9842.7."]
+[Declarer "S"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+2D an mu 3C
+5D X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KT5.QJ9.J7653.K4 J97642.A83.JT63.Q8 K7654.AQ9852.A3.T2 AKQT9842.7."]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+2S an wk 3C
+5D X Pass 5H
+Pass 6C X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 6.K53.AK853.KQT5 AQT42.T2.J4.A976 K.QJ764.QT72.J83 J98753.A98.96.42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+Pass 2D an mu
+Pass 2H an Pa
+Pass 2S Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 6.K53.AK853.KQT5 AQT42.T2.J4.A976 K.QJ764.QT72.J83 J98753.A98.96.42 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+Pass Pass 1D 1S
+X 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A986.KT7.8432.AJ JT7.J8532.KJ6.K3 542.A94.AT7.Q852 KQ3.Q6.Q95.T9764 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+Pass 1D Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A986.KT7.8432.AJ JT7.J8532.KJ6.K3 542.A94.AT7.Q852 KQ3.Q6.Q95.T9764 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT932.J93.42.KJ2 KJ.QT54.Q985.986 76.AK72.KT7.AT43 A854.86.AJ63.Q75 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+Pass Pass 1C Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT932.J93.42.KJ2 KJ.QT54.Q985.986 76.AK72.KT7.AT43 A854.86.AJ63.Q75 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Shugart"]
+[North "Mahaffey"]
+[East "Brogeland"]
+[South "Hallberg"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 3.KQT82.KQ84.K52 74.AJ9764.9.9763 KT9.53.AJT63.QJ4 AQJ8652.752.AT8."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mahaffey"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+2D an mu Pass
+2S an Pa Pass
+3H Pass 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+

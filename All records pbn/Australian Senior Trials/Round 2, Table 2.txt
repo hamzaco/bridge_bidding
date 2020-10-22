@@ -1,0 +1,336 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT932.Q82.K.AT87 Q.KT9765.J74.K96 AK84.J43.9862.Q2 765.A.AQT53.J543 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2C Pass 2D
+Pass Pass Pass
+[Play "S"]
+ST SQ SK S5
+DK D4 D2 DA
+H2 H6 H3 HA
+S9 D7 S4 S6
+H8 HK HJ C3
+HQ HT H4 D3
+S2 DJ S8 S7
+C8 H5 D8 C4
+S3 H7 SA D5
+C7 C6 D6 DQ
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 864.J864.Q8.9632 J73.Q2.JT654.QJ8 AKQ2.A953.3.A754 T95.KT7.AK972.KT "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "E"]
+1N an 11 Pass
+Pass X 2D Pass
+3D X Pass 3H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 876.KQJT984.82.7 Q42.A.AQ965.A985 KJ3.652.T7.JT632 AT95.73.KJ43.KQ4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "S"]
+2D an Mu 2N
+Pass 3C an as
+Pass 3N an No
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A8.AJ87.J9764.Q2 J4.Q32.A3.KJ9854 KQ762.K5.85.AT73 T953.T964.KQT2.6 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "W"]
+1C 1S Pass 2C
+an Fo Pass 2S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J8.T9753.A84.K76 Q9762.AKQ8.765.A AT43.J42.932.T43 K5.6.KQJT.QJ9852 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2C Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q9876.95.J32.AT6 AJ2.84.T654.KQ73 54.AKJ2.K987.954 KT3.QT763.AQ.J82 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "E"]
+1H Pass 2C Pass
+3C Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJT.J.JT864.J743 K98.KT76543.A2.A 532.982.53.T9862 Q764.AQ.KQ97.KQ5 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "S"]
+Pass 1H Pass 2D
+Pass 2H Pass 2S
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT.A65.K842.K642 J852.QT93.Q63.Q8 7.KJ87.T975.T973 AK9643.42.AJ.AJ5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "W"]
+Pass Pass 1S Pass
+3C an 4  Pass
+4S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q9632.J6.T9.AT74 KT8754.987.Q82.Q J.AT543.A543.852 A.KQ2.KJ76.KJ963 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 98.982.T532.T743 65.QJT54.764.AK2 KT432.763.KJ98.6 AQJ7.AK.AQ.QJ985 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "E"]
+2C an GF Pass
+2H Pass 2N Pass
+4N Pass 6N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Fordham"]
+[North "Walsh"]
+[East "Brown"]
+[South "McDonald"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q9532.QJ82.Q83.6 AJ7.A74.AJ4.QJT9 T8.K93.K752.K853 K64.T65.T96.A742 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "McDonald-Walsh"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brown-Fordham"]
+[Auction "S"]
+Pass 1C Pass 1N
+Pass 2N Pass Pass
+Pass
+[Play "N"]
+*
+
+

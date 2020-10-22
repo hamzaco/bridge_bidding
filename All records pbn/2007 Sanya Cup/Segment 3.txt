@@ -1,0 +1,360 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 754.J6.QT43.KQ75 T982.A8.J7.JT432 KQ63.T973.A85.A8 AJ.KQ542.K962.96 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "S"]
+H6 HA H3 H4
+HJ H8 HT HQ
+S4 C2 H7 HK
+S5 D7 H9 H2
+D4 DJ DA D6
+D3 S2 D5 DK
+C5 S9 S3 H5
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T43.76.T42.JT985 J82.A983.AK3.Q72 A65.JT54.986.AK6 KQ97.KQ2.QJ75.43 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9.A762.AJT854.J2 763.QJ8.K6.AQ763 K8.T543.Q972.T84 AQJT542.K9.3.K95 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "S"]
+1D an 3+ Pass
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 964.AJ65.T.KT942 KQ.QT7.AJ743.865 J8732.843.K92.A7 AT5.K92.Q865.QJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "W"]
+1D Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A3.A8.KT93.QT932 542.J9432.876.54 KQT876.5.Q52.AJ6 J9.KQT76.AJ4.K87 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "N"]
+1S 2H 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT2.AJ84.QT875.9 73.A93.AKQJT872.AQ63 T965.KJ.653. J98754.KQ2.642.4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "E"]
+Pass 1D 2C X
+Pass 2H 3C 3H
+Pass Pass 4C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQ965.J952.Q62.8 AT4.A864.K95.AQ4 872.KT73.8.KT965 J3.Q.AJT743.J732 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "S"]
+Pass 1C Pass 2D
+Pass 2N Pass 3C
+an na Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T9.9762.JT852.Q5 AKQJ8.53.6.AJ986 654.KQ.Q9743.432 732.AJT84.AK.KT7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "W"]
+2S an +m Pass
+2N Pass 3C an
+!c Pass 3D Pass
+3S Pass 4N an
+? Pass 5D an
+03 Pass 6C Pass
+6S Pass 7S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A874.KQ.2.AJ9642 K52.732.AKT3.Q53 QJ.AJT4.Q965.KT7 T963.9865.J874.8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "N"]
+1D Pass 2C Pass
+2H Pass 2S Pass
+3C Pass 6C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT654.KJ.AKJ9.Q6 K732.8.5.AKJT942 AJ8.A7632.864.75 9.QT954.QT732.83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "E"]
+Pass 1S 4C X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ7.Q7.J2.KQ6542 K96.KJT.T843.JT7 A8542.962.K97.A9 T3.A8543.AQ65.83 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "E"]
+1H Pass 2H 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Sanya Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "West"]
+[North "South"]
+[East "East"]
+[South "North"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QJ5.9654.QJT8.T9 T762.KQ3.K6.KQJ6 K83.J7.943.A8754 A94.AT82.A752.32 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Dongfeng Qiche"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meilin Qingcheng"]
+[Auction "S"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+

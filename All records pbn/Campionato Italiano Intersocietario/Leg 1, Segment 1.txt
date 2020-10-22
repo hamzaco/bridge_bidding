@@ -1,0 +1,706 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K5432.A.A9.AQJ72 8.T864.KT872.K85 JT9.QJ9.J53.T963 AQ76.K7532.Q64.4 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "N"]
+Pass 1H 2H 4H
+Pass Pass X Pass
+4S Pass Pass Pass
+[Play "E"]
+HA HT H9 H2
+S2 S8 S9 SQ
+DA D2 D3 D4
+S3 H4 ST S6
+CJ CK C3 C4
+D9 DK D5 D6
+S4 H8 HQ HK
+CA C5 C6 S7
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K5432.A.A9.AQJ72 8.T864.KT872.K85 JT9.QJ9.J53.T963 AQ76.K7532.Q64.4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "N"]
+Pass 1H 1S 4H
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+HA H4 H9 H2
+CA C5 C6 C4
+CQ C8 C3 H3
+S2 H6 HJ HK
+DA D2 D3 D4
+C2 CK C9 S6
+D9 D7 D5 DQ
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ84.5.T7653.A54 A653.K763.QJ.Q96 K9.AQT84.K8.KT72 T72.J92.A942.J83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "E"]
+Pass Pass 1C 1H
+Pass 1S Pass 2N
+Pass 3D Pass 3S
+Pass Pass Pass
+[Play "W"]
+CA C6 C2 C8
+H5 H3 HQ H2
+C5 H6 HA H9
+C4 C9 CK C3
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ84.5.T7653.A54 A653.K763.QJ.Q96 K9.AQT84.K8.KT72 T72.J92.A942.J83 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "E"]
+Pass Pass 1H Pass
+Pass Pass
+[Play "N"]
+CA C6 C2 C3
+SJ SA S9 S2
+D3 DQ DK DA
+C5 CQ CK C8
+S4 S3 SK S7
+C4 C9 C7 CJ
+D7 DJ D8 D2
+SQ S5 CT ST
+H5 H3 HQ H2
+D5 H6 HA H9
+S8 H7 H4 HJ
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A97643.7.542.QT9 QJ2.A985.AT9.A72 KT.QJ64.KJ86.K54 85.KT32.Q73.J863 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "S"]
+Pass 1N Pass Pass
+2S Pass Pass X
+Pass 2N Pass 3C
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+S3 S2 SK S5
+C9 CA C5 C3
+H7 HA H4 H2
+S4 H5 H6 HT
+SA SJ ST S8
+CT C2 CK C6
+S6 H8 HJ HK
+CQ C7 C4 C8
+S7 SQ D6 D3
+D2 H9 HQ H3
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A97643.7.542.QT9 QJ2.A985.AT9.A72 KT.QJ64.KJ86.K54 85.KT32.Q73.J863 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "S"]
+2S X XX 3H
+Pass Pass Pass
+[Play "S"]
+CT CA C5 C3
+H7 HA H4 H2
+S4 H5 H6 HT
+S3 SJ SK S5
+S7 H8 HJ HK
+SA S2 ST S8
+CQ C2 C4 C6
+D5 D9 DK D3
+C9 H9 HQ H3
+D2 C7 CK C8
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A9.J9872.KJ52.T6 864.AKQ54.T6.A84 KQT75.T.AQ4.KQ53 J32.63.9873.J972 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "W"]
+1H 1S Pass 1N
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+H2 HA HT H3
+SA S8 S5 SJ
+C6 CA C3 C2
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A9.J9872.KJ52.T6 864.AKQ54.T6.A84 KQT75.T.AQ4.KQ53 J32.63.9873.J972 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "W"]
+1H X Pass 1N
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "W"]
+H2 HA HT H6
+H7 HK S5 H3
+H8 HQ C3 D8
+DK DT D4 D3
+C6 C4 CK C2
+D2 D6 DA D7
+D5 H4 DQ D9
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 942.QT963.63.AK4 AT7.84.Q742.Q752 Q53.72.AJT85.J63 KJ86.AKJ5.K9.T98 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "N"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 942.QT963.63.AK4 AT7.84.Q742.Q752 Q53.72.AJT85.J63 KJ86.AKJ5.K9.T98 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A87.AKQ74.J85.98 KQ94.32.AQT62.Q7 T2.J986.K73.AT42 J653.T5.94.KJ653 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "E"]
+Pass 1H X 2H
+2S 3H 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A87.AKQ74.J85.98 KQ94.32.AQT62.Q7 T2.J986.K73.AT42 J653.T5.94.KJ653 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "E"]
+Pass 1H X 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 96.KT642.AK3.AT3 AQJ87.9.J76.KJ42 T543.QJ7.T95.975 K2.A853.Q842.Q86 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "S"]
+1H 1S Pass 1N
+Pass 2C Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 96.KT642.AK3.AT3 AQJ87.9.J76.KJ42 T543.QJ7.T95.975 K2.A853.Q842.Q86 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "S"]
+1H 1S Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K96.QT73.9754.T9 875.K852.T6.AKQ4 AQ2.A964.832.763 JT43.J.AKQJ.J852 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K96.QT73.9754.T9 875.K852.T6.AKQ4 AQ2.A964.832.763 JT43.J.AKQJ.J852 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "W"]
+1H Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K543.T7.A632.J74 A7.9632.K98.8653 J8.AQ85.QJT74.AK QT962.KJ4.5.QT92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "N"]
+1C an ST 1S
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K543.T7.A632.J74 A7.9632.K98.8653 J8.AQ85.QJT74.AK QT962.KJ4.5.QT92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 1N Pass
+2C Pass 2S Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A53.54.QJT.K9872 Q82.AJ873.A8.T54 K9.QT92.42.AQJ63 JT764.K6.K97653."]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "E"]
+Pass Pass 1H 2C
+X 3C Pass Pass
+3D 3H Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJT.KJ632.Q5.A76 82.Q8754.T3.KJ52 K97643.A.K9642.4 A5.T9.AJ87.QT983 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "S"]
+1H Pass 2D Pass
+2H Pass 2S Pass
+3S Pass 3N Pass
+4C Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJT.KJ632.Q5.A76 82.Q8754.T3.KJ52 K97643.A.K9642.4 A5.T9.AJ87.QT983 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "S"]
+1H Pass 1S Pass
+1N Pass 3D Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "VERSACE"]
+[North "AMENDOLA"]
+[East "LAURIA"]
+[South "D'ANIELLO "]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ.QJ9864.2.T864 8752.T7.83.AQ752 T43.K32.AT97.KJ3 KJ96.A5.KQJ654.9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "A.S. Salerno"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tennis Club Parioli"]
+[Auction "W"]
+Pass 1D Pass 1H
+an V Pass Pass
+X 2H X Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+

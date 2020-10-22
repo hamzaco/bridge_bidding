@@ -1,0 +1,454 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J6.JT98654.AJ.J3 QT42.3.Q98.Q9762 A8.AKQ.T432.AK54 K9753.72.K765.T8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "N"]
+2N Pass 3D Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+H4 H3 HA H2
+H5 C2 HK H7
+DJ DQ D2 D7
+DA D9 D3 D5
+H6 C6 HQ S3
+H8 D8 D4 D6
+C3 C7 CA C8
+CJ C9 CK CT
+H9 CQ C4 S5
+HT S2 S8 S7
+HJ S4 DT DK
+S6 ST SA S9
+SJ SQ C5 SK
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J6.JT98654.AJ.J3 QT42.3.Q98.Q9762 A8.AKQ.T432.AK54 K9753.72.K765.T8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "N"]
+1C 1N X! 2S
+X Pass 4H Pass
+Pass Pass
+[Play "W"]
+S6 S2 SA S3
+H4 H3 HA H2
+H5 ST HK H7
+H6 S4 HQ S5
+DJ DQ D2 D7
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT.KJ5.Q5.QT8753 AQ9863.98.9842.4 5.QT64.AK763.J96 J742.A732.JT.AK2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "E"]
+1D Pass 1S Pass
+2S Pass 3D Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT.KJ5.Q5.QT8753 AQ9863.98.9842.4 5.QT64.AK763.J96 J742.A732.JT.AK2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "E"]
+1N Pass 3H Pass
+4C Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A9873.T9.Q.AJ976 QJ5.KJ7.A96.Q852 K642.8.KJT832.T3 T.AQ65432.754.K4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "S"]
+1S Pass 3D an
+aX 3H 4S X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A9873.T9.Q.AJ976 QJ5.KJ7.A96.Q852 K642.8.KJT832.T3 T.AQ65432.754.K4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "S"]
+1S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQT874.85.J873.T J74.A4.AQJ98762.AJ 62.KQT96.K543.96532 AKQT93.52.."]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "W"]
+4H 4S 5D Pass
+5H Pass 6H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQT874.85.J873.T J74.A4.AQJ98762.AJ 62.KQT96.K543.96532 AKQT93.52.."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "W"]
+5C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T8653.92.K4.AJ42 AQJ4.T4.AT6.KT86 72.AKJ75.QJ972.Q K9.Q863.853.9753 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T8653.92.K4.AJ42 AQJ4.T4.AT6.KT86 72.AKJ75.QJ972.Q K9.Q863.853.9753 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 97.QT85.T8.AJ876 AQJT4.K2.AK74.QT K53.A3.QJ965.K43 862.J9764.32.952 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D Pass 1S Pass
+Pass 2C X Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 97.QT85.T8.AJ876 AQJT4.K2.AK74.QT K53.A3.QJ965.K43 862.J9764.32.952 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "E"]
+Pass Pass 1S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K763.AJ97.T83.QT QJ.52.AJ742.J765 942.Q863.KQ96.43 AT85.KT4.5.AK982 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K763.AJ97.T83.QT QJ.52.AJ742.J765 942.Q863.KQ96.43 AT85.KT4.5.AK982 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "S"]
+Pass Pass Pass 1C
+X 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Patterson"]
+[North "Matheson"]
+[East "Collins"]
+[South "Sime"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K3.J8.QJ842.AKQ6 A98652.Q972.A.J3 JT.4.KT9765.9852 Q74.AKT653.3.T74 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sime"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Collins"]
+[Auction "W"]
+1S Pass 3D an
+!h  i Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,362 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJT643.QJ3.Q7.5 K852.T9.83.AKQ87 AK876.KJT942.94. 97.542.A65.JT632 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "N"]
+1H Pass 1S 2C
+2D 4C 4S Pass
+Pass Pass
+[Play "W"]
+C5 CA C4 C3
+S3 CK C9 C2
+SA S2 D2 S7
+ST S5 D4 S9
+SJ SK D9 H5
+D7 D3 DT DA
+DQ D8 DJ D5
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T42.T53.A954.643 Q7.9876.KQ62.Q82 AK98.AK4.J7.K975 J653.QJ2.T83.AJT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "W"]
+S2 SQ SA S3
+S4 S7 S8 SJ
+H3 H8 HA HQ
+ST D2 S9 S5
+C3 C8 CK CA
+C4 C2 C5 CJ
+D4 DQ D7 D8
+H5 H6 HK H2
+C6 H7 SK S6
+DA D6 DJ D3
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9873.Q.A972.KT82 JT4.KJ52.JT65.J3 62.A9743.8.AQ976 AKQ5.T86.KQ43.54 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "S"]
+Pass Pass 1H X
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9873.Q.A972.KT82 JT4.KJ52.JT65.J3 62.A9743.8.AQ976 AKQ5.T86.KQ43.54 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "S"]
+[Play "E"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q753.KQ52.Q73.A2 AT64.97.KT864.84 J9.AT3.A5.QJT965 K82.J864.J92.K73 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q753.KQ52.Q73.A2 AT64.97.KT864.84 J9.AT3.A5.QJT965 K82.J864.J92.K73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "W"]
+[Play "E"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ5.JT75.Q64.A65 K4.Q.AK98.JT9873 6.A9864.T7532.42 QT98732.K32.J.KQ "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2S Pass 3D
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ5.JT75.Q64.A65 K4.Q.AK98.JT9873 6.A9864.T7532.42 QT98732.K32.J.KQ "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "N"]
+[Play "E"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T7542.4.8742.AK5 K9.AT865.AKQJ.Q7 A63.K732.T6.9862 QJ8.QJ9.953.JT43 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "E"]
+Pass Pass 1H Pass
+1N 2S 3S Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT85.AKQ873.83.A 74.J65.Q72.QJ743 J9632.T2.J65.K52 AQ.94.AKT94.T986 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "S"]
+1H Pass 1S 2D
+3D X Pass Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q752.4.J75.AQJ42 9843.KJ3.A983.75 KJ.A852.KT64.KT9 AT6.QT976.Q2.863 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "J. Fritsche"]
+[North "D. Vikor"]
+[East "R. Marsal"]
+[South "P. Gal"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: JT.K32.AK643.JT3 Q876.J85.Q98.Q95 53.Q96.T7.A87642 AK942.AT74.J52.K "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hungary"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "N"]
+Pass 1S 2D Pass
+Pass 2H Pass 2S
+2N Pass 3C Pass
+Pass Pass
+[Play "S"]
+*
+
+

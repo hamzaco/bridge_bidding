@@ -1,0 +1,886 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A3.K97.KJ632.KJ9 Q984.AJT4.95.T43 T5.Q8532.A87.A82 KJ762.6.QT4.Q765 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+Pass Pass 1N Pass
+2D Pass 3D Pass
+3H Pass 3S Pass
+4H Pass Pass Pass
+[Play "E"]
+SA S4 S5 S2
+H7 H4 HQ H6
+HK HA H2 S6
+H9 HJ H3 C7
+CK C3 C2 CQ
+D2 D5 DA D4
+DJ D9 D8 DT
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A3.K97.KJ632.KJ9 Q984.AJT4.95.T43 T5.Q8532.A87.A82 KJ762.6.QT4.Q765 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+S3 SQ S5 S2
+SA S4 ST S7
+D2 D5 D8 D4
+DJ D9 D7 DT
+D3 H4 DA DQ
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q4.AT54.8.AKQJ97 K7632.KJ8.QJ97.T AT85.963.T6.6542 J9.Q72.AK5432.83 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1N an wk X
+2S Pass Pass 3C
+3D 3S 4D 4H
+Pass Pass 5D Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+HA H8 H9 H2
+CK CT C2 C3
+CA DJ C6 C8
+D8 D9 D6 DA
+C7 DQ DT D2
+H4 HK H3 H7
+H5 HJ H6 HQ
+SQ SK SA SJ
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q4.AT54.8.AKQJ97 K7632.KJ8.QJ97.T AT85.963.T6.6542 J9.Q72.AK5432.83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+Pass 1C 1S Pass
+2C 3C an no
+3D Pass 3S Pass
+4D Pass Pass Pass
+[Play "N"]
+HA H8 H3 H2
+CA CT C2 C3
+C9 DQ C4 C8
+D8 DJ D6 D2
+CK D7 DT DA
+SQ SK SA SJ
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q643.AK43.J2.973 K982.T97.Q9743.8 J.J8652.AT865.T2 AT75.Q.K.AKQJ654 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass Pass Pass 1C
+X Pass 4H 5C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q643.AK43.J2.973 K982.T97.Q9743.8 J.J8652.AT865.T2 AT75.Q.K.AKQJ654 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+1N Pass 2H X
+Pass 2S Pass 3H
+X 4D Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ6.T65.QT5.8743 JT82.J9874.32.KQ 73.KQ32.K9864.95 A954.A.AJ7.AJT62 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass Pass 1C Pass
+1D Pass 1S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ6.T65.QT5.8743 JT82.J9874.32.KQ 73.KQ32.K9864.95 A954.A.AJ7.AJT62 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H Pass 2N Pass
+3D Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ852.T94.AJ.K83 KQ875.Q7632.J92.KJ6 63.854.QT765. T9743.AJ2.KT9.A4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ852.T94.AJ.K83 KQ875.Q7632.J92.KJ6 63.854.QT765. T9743.AJ2.KT9.A4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+Pass 1N an 12
+X XX Pass 2C
+Pass 2H Pass Pass
+2S 3D Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A65.A.KT85.AT985 KQT.QT842.Q742.3 8.9653.J93.KJ764 J97432.KJ7.A6.Q2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+Pass 1D Pass 1H
+1S 2C 2S 3C
+Pass 3S Pass 4C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A65.A.KT85.AT985 KQT.QT842.Q742.3 8.9653.J93.KJ764 J97432.KJ7.A6.Q2 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1S Pass 1N Pass
+2S 2N 4S 5C
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT542.974.QT9.9 A73.QJ.K6543.A72 6.A3.A872.KQJ863 J98.KT8652.J.T54 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+2D X 3C 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT542.974.QT9.9 A73.QJ.K6543.A72 6.A3.A872.KQJ863 J98.KT8652.J.T54 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+2D X an 13
+2H Pass 2S Pass
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J8765.JT3.K53.85 Q32.7642.AJ9.642 AT.T862.KQJT973.K94 AKQ985.Q74.A."]
+[Declarer "N"]
+[Contract "5"]
+[Result "8"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass 5C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J8765.JT3.K53.85 Q32.7642.AJ9.642 AT.T862.KQJT973.K94 AKQ985.Q74.A."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass 1C X 1D
+1H 4C 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q862.KJ.QT76.A86 A54.8542.943.Q92 KT93.Q.AK2.KT543 J7.AT9763.J85.J7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+1C Pass 1S Pass
+2S Pass 2N Pass
+3C Pass 3D Pass
+4C Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q862.KJ.QT76.A86 A54.8542.943.Q92 KT93.Q.AK2.KT543 J7.AT9763.J85.J7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+1C 1H 1S 2H
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 984.K43.AK.A9864 KQJ3.T972.QJ5.T5 A75.AQJ8.983.K32 T62.65.T7642.QJ7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 984.K43.AK.A9864 KQJ3.T972.QJ5.T5 A75.AQJ8.983.K32 T62.65.T7642.QJ7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ3.973.A87632.5 542.AT4.QJT.KQJ9 876.K2.K95.AT832 KJT9.QJ865.4.764 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+1D Pass 1N Pass
+2D Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ3.973.A87632.5 542.AT4.QJT.KQJ9 876.K2.K95.AT832 KJT9.QJ865.4.764 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+1D Pass 2C Pass
+2D Pass 3D Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J754.AQ93.Q2.K96 A6.87652.AK8.A42 KT32.T.J753.T853 Q98.KJ4.T964.QJ7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+1H Pass 2D Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J754.AQ93.Q2.K96 A6.87652.AK8.A42 KT32.T.J753.T853 Q98.KJ4.T964.QJ7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+1H Pass 2H Pass
+3C Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q7.73.J82.KT9543 K82.AKJ64.973.86 J965.985.A4.AJ72 AT43.QT2.KQT65.Q "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1D Pass 1S Pass
+2D Pass 2N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q7.73.J82.KT9543 K82.AKJ64.973.86 J965.985.A4.AJ72 AT43.QT2.KQT65.Q "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass 2N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 632.Q32.K843.Q84 A9.T87654.AQ9.76 KJ75.9.JT2.JT953 QT84.AKJ.765.AK2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 632.Q32.K843.Q84 A9.T87654.AQ9.76 KJ75.9.JT2.JT953 QT84.AKJ.765.AK2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2H Pass 3C
+Pass 3S Pass 5H
+Pass 6H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Canadian National Teams"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "L'Ecuyer"]
+[North "MikeGamble"]
+[East "Marcinsky"]
+[South "DougFraser"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KT9765.9542.3.T7 4.K876.K974.QJ85 AJ2.AQJ3.6.AK943 Q83.T.AQJT852.62 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Maksymetz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass 1C 1D 1S
+X 2H 3D 3S
+5D 5S Pass Pass
+X XX Pass Pass
+Pass
+[Play "N"]
+*
+
+

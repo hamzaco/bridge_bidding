@@ -1,0 +1,183 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Martynek"]
+[North "Kurka"]
+[East "P.Jelinek"]
+[South "Pokorna"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQT9.QJ9754.3.A9 632.T2.8764.J642 J875.A3.KJ92.T85 K4.K86.AQT5.KQ73 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Acolvik"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asketické samice"]
+[Auction "S"]
+1H Pass 1S X
+4S Pass Pass Pass
+[Play "E"]
+CA C4 C5 CQ
+HQ HT HA H6
+S9 S2 S5 S4
+D3 D7 DJ DQ
+C9 C2 CT CK
+H4 H2 H3 HK
+ST C6 C8 C3
+SA S3 S7 SK
+HJ S6 S8 H8
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Martynek"]
+[North "Kurka"]
+[East "P.Jelinek"]
+[South "Pokorna"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 865.JT6.A8742.J7 AKT4.852.JT96.T6 QJ973.AK7.Q5.K53 2.Q943.K3.AQ9842 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Acolvik"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asketické samice"]
+[Auction "W"]
+Pass 1S 1N an
+4  2S Pass Pass
+Pass
+[Play "E"]
+HT H2 H7 H4
+C7 CT CK CA
+DA D6 D5 DK
+S5 S4 SQ S2
+CJ C6 C3 CQ
+D2 D9 DQ D3
+S6 ST C5 C9
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Martynek"]
+[North "Kurka"]
+[East "P.Jelinek"]
+[South "Pokorna"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 842.AJ3.T753.865 AKQJ53.94.A9.QT4 7.QT6.Q862.AJ972 T96.K8752.KJ4.K3 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Acolvik"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asketické samice"]
+[Auction "N"]
+Pass 1N an 9-
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+D5 D9 D6 DJ
+S8 SJ S7 S6
+D3 DA D2 D4
+S2 S3 C7 S9
+S4 S5 D8 ST
+D7 H4 DQ DK
+C8 CT CJ C3
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Martynek"]
+[North "Kurka"]
+[East "P.Jelinek"]
+[South "Pokorna"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 52.752.9632.J952 AQ83.K943.A7.T64 T964.QJT6.QJ5.Q3 KJ7.A8.KT84.AK87 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Acolvik"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asketické samice"]
+[Auction "E"]
+1D Pass 1H Pass
+2N Pass 3C Pass
+3D Pass 5N an
+In Pass 6C Pass
+6S Pass 7N Pass
+Pass Pass
+[Play "S"]
+D3 D7 DJ DK
+CJ C4 C3 C7
+D2 DA D5 D4
+C2 C6 CQ CA
+C5 CT ST C8
+S2 S3 S4 SK
+S5 S8 S6 SJ
+C9 SQ S9 S7
+D6 SA H6 D8
+H2 H3 HT HA
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Martynek"]
+[North "Kurka"]
+[East "P.Jelinek"]
+[South "Pokorna"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A2.A53.JT8.AQT83 KQ9765.Q2.K7.K96 T843.T874.9542.7 J.KJ96.AQ63.J542 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Acolvik"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asketické samice"]
+[Auction "S"]
+1C 1S Pass 1N
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+

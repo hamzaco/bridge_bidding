@@ -1,0 +1,926 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT9.QT6.653.Q872 AQ5.A54.QT82.953 862.KJ98.KJ.KJT6 K743.732.A974.A4 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "3"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT9.QT6.653.Q872 AQ5.A54.QT82.953 862.KJ98.KJ.KJT6 K743.732.A974.A4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 86.AJ753.K6.K943 J93.QT86.QJ2.AJ6 KQT54.94.A853.T2 A72.K2.T974.Q875 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 86.AJ753.K6.K943 J93.QT86.QJ2.AJ6 KQT54.94.A853.T2 A72.K2.T974.Q875 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 7.A75.A874.KJ542 KQ83.JT2.JT.AQ98 T96.K96.K9632.73 AJ542.Q843.Q5.T6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+1C Pass 1D Pass
+2C Pass Pass X
+Pass Pass Pass
+[Play "W"]
+HA HJ H6 H3
+DA DT D2 D5
+D4 DJ DK DQ
+CJ CQ C3 C6
+S7 S3 S6 SA
+C2 SQ S9 S4
+D7 H2 D3 CT
+C4 SK ST S5
+C5 C8 C7 H4
+CK CA D6 S2
+H5 S8 H9 SJ
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 7.A75.A874.KJ542 KQ83.JT2.JT.AQ98 T96.K96.K9632.73 AJ542.Q843.Q5.T6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+1C Pass 1D X
+2D 4S Pass Pass
+Pass
+[Play "N"]
+CK CA C7 CT
+S7 SK S6 S2
+D4 S3 S9 SA
+D7 S8 ST SJ
+C5 C9 C3 C6
+C2 CQ D2 D5
+HA HT H9 H3
+DA DT D3 DQ
+CJ C8 D6 H4
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A3.QT9.AT985.K96 J952.AK74.Q2.T87 T8764.J.K7643.AJ KQ.86532.J.Q5432 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+Pass 2N Pass 3C
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "W"]
+H9 HA HJ H3
+CK C8 CJ CQ
+SA S5 S4 SQ
+S3 S2 S6 SK
+C6 C7 CA C2
+D5 S9 S7 H2
+C9 CT S8 C3
+DA D2 D3 DJ
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A3.QT9.AT985.K96 J952.AK74.Q2.T87 T8764.J.K7643.AJ KQ.86532.J.Q5432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1S Pass 1N
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+H9 HA HJ H2
+DA D2 D3 DJ
+D5 DQ DK C2
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J765.984.93.AQT5 AT92.QJ3.852.432 KQ4.AKT5.J64.K96 83.762.AKQT7.J87 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+1C 1D 1S Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J765.984.93.AQT5 AT92.QJ3.852.432 KQ4.AKT5.J64.K96 83.762.AKQT7.J87 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT43.AK8.J7.K874 A9876.754.KT6.52 J52.QJT92.Q84.AQ Q.63.A9532.JT963 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT43.AK8.J7.K874 A9876.754.KT6.52 J52.QJT92.Q84.AQ Q.63.A9532.JT963 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+2N X 3D X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A4.A963.643.K942 T963.KT.97.AT765 J82.82.AKQJ85.QJ KQ75.QJ754.T2.83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A4.A963.643.K942 T963.KT.97.AT765 J82.82.AKQJ85.QJ KQ75.QJ754.T2.83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 52.T642.T8642.K6 AKQ874.Q73.K.QJ2 JT.K5.AJ953.9874 963.AJ98.Q7.AT53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+1S Pass 3H Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 52.T642.T8642.K6 AKQ874.Q73.K.QJ2 JT.K5.AJ953.9874 963.AJ98.Q7.AT53 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+1C Pass 1D Pass
+2C Pass 2D Pass
+2H Pass 2S Pass
+3D Pass 3H Pass
+3S Pass 4S Pass
+4N Pass 5S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT4.T542.Q6.Q842 87.Q763.J8754.J5 J532.AJ9.93.AT63 KQ96.K8.AKT2.K97 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+Pass 1D Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT4.T542.Q6.Q842 87.Q763.J8754.J5 J532.AJ9.93.AT63 KQ96.K8.AKT2.K97 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ94.K32.T3.AJ52 K2.A875.K9842.Q3 T863.JT9.A65.KT7 Q75.Q64.QJ7.9864 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+Pass 1N 2D Pass
+Pass X Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ94.K32.T3.AJ52 K2.A875.K9842.Q3 T863.JT9.A65.KT7 Q75.Q64.QJ7.9864 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 73.T872.A874.KJ7 KJT94.KQ.JT932.T Q52.A95.Q5.Q9853 A86.J643.K6.A642 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+Pass 2S Pass 2N
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 73.T872.A874.KJ7 KJT94.KQ.JT932.T Q52.A95.Q5.Q9853 A86.J643.K6.A642 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2D Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A87.42.JT62.A543 K654.Q5.KQ83.Q82 QJT.JT93.94.KT76 932.AK876.A75.J9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+1N Pass 2D Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A87.42.JT62.A543 K654.Q5.KQ83.Q82 QJT.JT93.94.KT76 932.AK876.A75.J9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+1N Pass 2D Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J8.KT874.T64.742 2.93.AKJ95.K9653 AKQ654.A52.Q82.T T973.QJ6.73.AQJ8 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+1S Pass Pass X
+2S 3C Pass 4C
+Pass 5C X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J8.KT874.T64.742 2.93.AKJ95.K9653 AKQ654.A52.Q82.T T973.QJ6.73.AQJ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "N"]
+1S Pass Pass 2D
+2S Pass Pass 3C
+Pass Pass 3D Pass
+3H 4C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 95.A93.J62.AQT97 J742.T5.AQT98.54 A86.Q862.K5.KJ82 KQT3.KJ74.743.63 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D X 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 95.A93.J62.AQT97 J742.T5.AQT98.54 A86.Q862.K5.KJ82 KQT3.KJ74.743.63 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2H Pass 2N
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ.42.KJ872.AJT8 T85.A953.AT4.643 J964.QJT76.93.K7 K732.K8.Q65.Q952 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ.42.KJ872.AJT8 T85.A953.AT4.643 J964.QJT76.93.K7 K732.K8.Q65.Q952 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "S"]
+1D Pass 1H Pass
+2C Pass 2D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "D. Stern"]
+[North "Bilski"]
+[East "Grynberg"]
+[South "Noble"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 83.A74.AKT97.J52 AKJ9.K2.QJ52.Q74 QT52.9865.86.T83 764.QJT3.43.AK96 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brogeland"]
+[Auction "W"]
+1D Pass 1H Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

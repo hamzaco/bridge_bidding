@@ -1,0 +1,687 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K73.AT4.A63.T942 QT2.Q986.KQ94.J6 J84.K72.J7.KQ853 A965.J53.T852.A7 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K73.AT4.A63.T942 QT2.Q986.KQ94.J6 J84.K72.J7.KQ853 A965.J53.T852.A7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1C Pass
+3C Pass Pass Pass
+[Play "W"]
+HA H8 H2 HJ
+C2 C6 CK CA
+HT HQ HK H5
+C4 CJ CQ C7
+H4 H9 H7 H3
+D3 DK D7 D2
+DA DQ DJ D5
+D6 D4 C3 D8
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.KQJT.QJ3.Q8752 KT3.7.K9742.JT64 QJ9754.A92.AT.A9 862.86543.865.K3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 1D an
+na 2H an !S
+Pass 2S Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.KQJT.QJ3.Q8752 KT3.7.K9742.JT64 QJ9754.A92.AT.A9 862.86543.865.K3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J84.KJ842.JT95.9 K9.T965.AQ72.842 AT532.A.K3.AKQT5 Q76.Q73.864.J763 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2D Pass 2N Pass
+3C an !H Pass
+3D an XX Pass
+3H an XX Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J84.KJ842.JT95.9 K9.T965.AQ72.842 AT532.A.K3.AKQT5 Q76.Q73.864.J763 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 2S Pass
+2N Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J7.K8765.AKJ.A84 AK4.Q4.Q53.QT953 9532.J92.86.KJ72 QT86.AT3.T9742.6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C Pass 1H an
+!S 1N an 5!
+X! an 3! 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J7.K8765.AKJ.A84 AK4.Q4.Q53.QT953 9532.J92.86.KJ72 QT86.AT3.T9742.6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N an 11 Pass
+2C Pass 2D Pass
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T54.Q3.A83.J8532 K9.K94.QJT2.QT76 AJ8763.AJ8.K5.A9 Q2.T7652.9764.K4 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S Pass 1N Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T54.Q3.A83.J8532 K9.K94.QJT2.QT76 AJ8763.AJ8.K5.A9 Q2.T7652.9764.K4 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S Pass 1N Pass
+2N Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ.62.T832.QJT63 AT986.J3.KQJ96.K K7.KQT74.A4.8754 5432.A985.75.A92 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1S 2H
+3H Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ.62.T832.QJT63 AT986.J3.KQJ96.K K7.KQT74.A4.8754 5432.A985.75.A92 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1S 2H
+3H Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ763.K84.J5.A64 A852.A976.972.93 T94.QJ32.43.KJT7 Q.T5.AKQT86.Q852 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 1N 3D
+Pass 4D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ763.K84.J5.A64 A852.A976.972.93 T94.QJ32.43.KJT7 Q.T5.AKQT86.Q852 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 2S 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A532.8.AT83.QJ72 Q764.KT952.54.A6 JT.J764.QJ762.K3 K98.AQ3.K9.T9854 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2H an !H Pass
+Pass X Pass 3D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A532.8.AT83.QJ72 Q764.KT952.54.A6 JT.J764.QJ762.K3 K98.AQ3.K9.T9854 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A9543.642.4.QJ43 J.AT87.KJ83.A952 KQT7.KQJ5.A52.86 862.93.QT976.KT7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass 2H X
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A9543.642.4.QJ43 J.AT87.KJ83.A952 KQT7.KQJ5.A52.86 862.93.QT976.KT7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass 2C Pass
+2N an 4- Pass
+3H an tX Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q.92.KT85.KQJ975 874.AJT7.Q764.A3 KJT63.65.92.T842 A952.KQ843.AJ3.6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1H 3C 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q.92.KT85.KQJ975 874.AJT7.Q764.A3 KJT63.65.92.T842 A952.KQ843.AJ3.6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1H 2C 2N an
+in 3S 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ762.KQJ9.AT94.8 QT852.85.KQ875.AJ9 AK7.T7632.J6.T543 J9643.A4.32."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S 2N an !H
+3C an !S 5H
+an ex Pass 5S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ762.KQJ9.AT94.8 QT852.85.KQ875.AJ9 AK7.T7632.J6.T543 J9643.A4.32."]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 2C an
+GF Pass 3D an
+50 Pass 4D Pass
+4S Pass 4N Pass
+5S Pass 6D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Topcircuit final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Brink"]
+[North "Hop"]
+[East "Drijver"]
+[South "de Pagter"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T72.Q985.Q9.A742 AK94.T72.AKJT2.5 86.AJ63.65.KJT98 QJ53.K4.8743.Q63 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D an 5  Pass
+1S Pass 3H an
+14 Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+

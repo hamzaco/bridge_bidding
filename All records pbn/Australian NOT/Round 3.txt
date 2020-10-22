@@ -1,0 +1,930 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT873.T.KJ83.K63 5.7543.QT2.J9854 AJ962.KQ982.A4.2 K4.AJ6.9765.AQT7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+1S 1N 4S Pass
+Pass Pass
+[Play "E"]
+D3 DT DA D6
+S3 S5 SA S4
+S7 C4 S2 SK
+DK D2 D4 D7
+HT H3 HQ HA
+D8 DQ S6 D5
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT873.T.KJ83.K63 5.7543.QT2.J9854 AJ962.KQ982.A4.2 K4.AJ6.9765.AQT7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+1C an ! Pass
+1D Pass 2N Pass
+3C Pass 3S Pass
+4D Pass 4H an
+! Pass 4S Pass
+Pass Pass
+[Play "E"]
+C3 C9 C2 CA
+CK C4 H2 CQ
+SQ S5 S2 SK
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A653.KJ752.Q2.KJ T84.A84.864.AQ98 J2.Q63.AJ97.6542 KQ97.T9.KT53.T73 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A653.KJ752.Q2.KJ T84.A84.864.AQ98 J2.Q63.AJ97.6542 KQ97.T9.KT53.T73 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 1D an !
+Pass 2H an !
+X Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 42.J92.K4.AT9864 QT9.KT864.A863.7 AJ875.AQ53.95.32 K63.7.QJT72.KQJ5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass Pass 1S 2D
+Pass 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 42.J92.K4.AT9864 QT9.KT864.A863.7 AJ875.AQ53.95.32 K63.7.QJT72.KQJ5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+3C X Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K.KQJ96.A65.QJT5 A9843.53.KJT.862 QJ765.AT.983.K43 T2.8742.Q742.A97 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 1S Pass 2C
+Pass 2D Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K.KQJ96.A65.QJT5 A9843.53.KJT.862 QJ765.AT.983.K43 T2.8742.Q742.A97 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass 2S an !
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 754.K9.T52.QJ976 AT3.432.A64.AK52 Q982.J85.K98.T83 KJ6.AQT76.QJ73.4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1H Pass 1N
+Pass 2C Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 754.K9.T52.QJ976 AT3.432.A64.AK52 Q982.J85.K98.T83 KJ6.AQT76.QJ73.4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1H Pass 2C
+an ! Pass 2D
+an ! Pass 2H
+an ! Pass 3H
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT8762.Q7.T93.Q2 K3.K532.J5.JT763 94.AJ9.AQ86.K954 AQ5.T864.K742.A8 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1N Pass Pass X
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT8762.Q7.T93.Q2 K3.K532.J5.JT763 94.AJ9.AQ86.K954 AQ5.T864.K742.A8 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1C an ! Pass
+1D Pass 1S an
+! Pass 2C an
+! Pass Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT84.K9754.J976.K6 863.JT763.K53.J732 JT2.KQ985.T.Q95 AQ.A42.AQ842."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass Pass Pass 1C
+1H 2D 2H 3N
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT84.K9754.J976.K6 863.JT763.K53.J732 JT2.KQ985.T.Q95 AQ.A42.AQ842."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1D an 9- Pass
+2D an ! 2N
+Pass 3D X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKQJ3.63.A642.J2 T84.JT7.95.AT764 96.Q2.KJT87.KQ98 752.AK9854.Q3.53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass Pass 1H 1S
+2H X Pass 3H
+Pass 4D Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKQJ3.63.A642.J2 T84.JT7.95.AT764 96.Q2.KJT87.KQ98 752.AK9854.Q3.53 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass 1N 2D an
+! 3S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A9852.KQ873.K2.7 KQJ.64.A985.Q542 7643.T9.QJT76.A9 T.AJ52.43.KJT863 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1C 2C X
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A9852.KQ873.K2.7 KQJ.64.A985.Q542 7643.T9.QJT76.A9 T.AJ52.43.KJT863 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass Pass 1S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K98.AT872.KT875.AQ65 5.Q9865.J64.J3 KQJ3.JT42.A92.T742 964.AK73.Q3."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 1H Pass 3D
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K98.AT872.KT875.AQ65 5.Q9865.J64.J3 KQJ3.JT42.A92.T742 964.AK73.Q3."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2C Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 98643.976.A.Q864 A7.KT85.963.J953 JT2.AQJ2.KT87.A2 KQ5.43.QJ542.KT7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 98643.976.A.Q864 A7.KT85.963.J953 JT2.AQJ2.KT87.A2 KQ5.43.QJ542.KT7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass Pass 1N an
+! Pass 2H an
+! Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T842.KJ.9654.963 95.AQ942.AQ7.T72 AKQ763.T63.8.QJ8 J.875.KJT32.AK54 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1N 2H 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T842.KJ.9654.963 95.AQ942.AQ7.T72 AKQ763.T63.8.QJ8 J.875.KJT32.AK54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1H 2S 3S an
+! Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT84.KT642.82.K3 AK6532.Q.A53.985 Q9.75.QT976.QJ42 7.AJ983.KJ4.AT76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1H Pass 1N
+Pass 2C Pass 2D
+Pass 3C Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT84.KT642.82.K3 AK6532.Q.A53.985 Q9.75.QT976.QJ42 7.AJ983.KJ4.AT76 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2S Pass 2N
+Pass 3C Pass 3D
+Pass 4C Pass 4D
+Pass 4H Pass 5C
+Pass 6S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT3.863.JT93.T63 K9742.954.K42.97 Q8.T72.A876.AKJ2 A65.AKQJ.Q5.Q854 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1C Pass 1D Pass
+2N Pass 3H Pass
+3S Pass 3N Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT3.863.JT93.T63 K9742.954.K42.97 Q8.T72.A876.AKJ2 A65.AKQJ.Q5.Q854 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1C Pass 1D Pass
+1N Pass 2H Pass
+2S Pass 3N Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQ4.KJ9.KQ96542.T75 AT432.AJ873.J98632.T653 J97..A.AQ8742 KQ865.T."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1C Pass 1S 4H
+4S X Pass Pass
+5C X 5S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQ4.KJ9.KQ96542.T75 AT432.AJ873.J98632.T653 J97..A.AQ8742 KQ865.T."]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1C 2C Pass 2N
+Pass 3D 3S 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Noble"]
+[North "Braithwaite"]
+[East "Bilski"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 5.732.J642.AK976 QJ.965.AQT85.J43 A9876.AQ84.7.QT8 KT432.KJT.K93.52 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+

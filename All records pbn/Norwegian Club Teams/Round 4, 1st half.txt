@@ -1,0 +1,921 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T975432.A864.76.K J2.J4.AQJ95432.A86 KQT.AKT953.T. QJ.9753.Q82.K876 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "N"]
+1C an 17 Pass
+1D an 0- 3C
+3D Pass 4S Pass
+Pass Pass
+[Play "W"]
+S2 CA CT C8
+S3 SK SA SJ
+SQ S4 C5 S6
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T975432.A864.76.K J2.J4.AQJ95432.A86 KQT.AKT953.T. QJ.9753.Q82.K876 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "N"]
+1D Pass 1S 4C
+4S 5C 5S Pass
+Pass Pass
+[Play "W"]
+S2 CA CT C7
+S3 SK SA SJ
+D4 DA D2 D6
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJT84.642.KT2.T6 K52.T85.A3.KQJ43 Q73.K9.QJ94.A752 96.AQJ73.8765.98 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H 1S X! an
+3! 2S 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJT84.642.KT2.T6 K52.T85.A3.KQJ43 Q73.K9.QJ94.A752 96.AQJ73.8765.98 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "E"]
+2H an 5! 2S
+2N 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT65.753.AQT6.52 9872.J84.74.8643 AQJ3.KT96.85.KQ7 4.AQ2.KJ932.AJT9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "S"]
+Pass Pass 1N an
+14 X an 15
+Pa 2C Pass 3C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT65.753.AQT6.52 9872.J84.74.8643 AQJ3.KT96.85.KQ7 4.AQ2.KJ932.AJT9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "S"]
+Pass Pass 1H 2D
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K2.KQ93.KJ76.K96 98654.74.954.AT7 QJT73.J862.82.Q4 A.AT5.AQT3.J8532 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "W"]
+Pass Pass 1C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K2.KQ93.KJ76.K96 98654.74.954.AT7 QJT73.J862.82.Q4 A.AT5.AQT3.J8532 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "W"]
+Pass Pass 1C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K2.Q53.953.QJ984 AJ3.AJT842.AK53.Q9865 K6.KQJT.T6.T74 97.A87642.72."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "N"]
+1S Pass Pass X
+Pass 2D 2S 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K2.Q53.953.QJ984 AJ3.AJT842.AK53.Q9865 K6.KQJT.T6.T74 97.A87642.72."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "N"]
+1S Pass 1N X
+2D Pass Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT865.KT943.65.A742 Q7.K93.K942.Q93 A82.Q42.AJ73. .J65.AJT87.QT865 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "E"]
+2N an 5- 4C
+X 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT865.KT943.65.A742 Q7.K93.K942.Q93 A82.Q42.AJ73. .J65.AJT87.QT865 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D X Pass 1N
+3C 4C Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 765.986.QT874.87 AQJ84.KQT4.K654.92 72.AK9632.AQ9.KT3 AJ53.J5.JT32."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "S"]
+Pass 1S 2D 3S
+an Pa Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 765.986.QT874.87 AQJ84.KQT4.K654.92 72.AK9632.AQ9.KT3 AJ53.J5.JT32."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "S"]
+Pass 1S 2D X
+4D 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 8643.AQ.J.QJT864 T972.KJ65.KT72.K AK5.T9873.AQ3.95 QJ.42.98654.A732 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 8643.AQ.J.QJT864 T972.KJ65.KT72.K AK5.T9873.AQ3.95 QJ.42.98654.A732 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQJT.K2.AK82.A42 86.AJ64.9765.K75 A743.T9853.QJ.Q8 952.Q7.T43.JT963 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "N"]
+Pass Pass 2D Pass
+2S Pass 2N Pass
+3D an tX Pass
+3H Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQJT.K2.AK82.A42 86.AJ64.9765.K75 A743.T9853.QJ.Q8 952.Q7.T43.JT963 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "N"]
+Pass Pass 2N Pass
+3D Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J432.KJ8.KQ3.JT4 QT85.AQT62.J42.A K97.73.T97.K8763 A6.954.A865.Q952 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "E"]
+Pass Pass 1H Pass
+1N Pass 2D an
+UB  3 Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J432.KJ8.KQ3.JT4 QT85.AQT62.J42.A K97.73.T97.K8763 A6.954.A865.Q952 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "E"]
+Pass Pass 1H Pass
+1N Pass 2H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQJT62.A95.K.543 3.Q62.QJT986.J62 K8.KT8743.52.T87 9754.J.A743.AKQ9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "S"]
+1S Pass 1N 2C
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQJT62.A95.K.543 3.Q62.QJT986.J62 K8.KT8743.52.T87 9754.J.A743.AKQ9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "S"]
+1S Pass 1N 2C
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 9653.T753.KQ6.86 A4.9.AJT83.AKJ92 KQT72.QJ86.9.754 J8.AK42.7542.QT3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "W"]
+1D 1S X an
+Ne Pass 3C Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 9653.T753.KQ6.86 A4.9.AJT83.AKJ92 KQT72.QJ86.9.754 J8.AK42.7542.QT3 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "W"]
+1D Pass 1H Pass
+3C Pass 4D Pass
+4S Pass 4N Pass
+5D Pass 6D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQT82.AJ72.87.72 K.T963.T95.QJT86 65.K8.AQJ642.K53 J9743.Q54.K3.A94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "N"]
+1D Pass 1S Pass
+2D Pass 2H Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQT82.AJ72.87.72 K.T963.T95.QJT86 65.K8.AQJ642.K53 J9743.Q54.K3.A94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "N"]
+1D 1S Pass Pass
+X Pass Pass 2C
+Pass Pass 2H Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J9763.QJ84.AKT9.AK4 AK2.742.AQT9.Q85 975.Q865.876. T2.T63.J3.KJ5432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "E"]
+Pass 1S X Pass
+2C Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J9763.QJ84.AKT9.AK4 AK2.742.AQT9.Q85 975.Q865.876. T2.T63.J3.KJ5432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "E"]
+Pass 1S X Pass
+2C Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ94.AJT5.T3.AJT AT76.7642.854.Q3 Q853.KQ9.J6.K962 2.83.AKQ972.8754 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "S"]
+1N an 14 Pass
+2C 2D 2H Pass
+3D X 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ94.AJT5.T3.AJT AT76.7642.854.Q3 Q853.KQ9.J6.K962 2.83.AKQ972.8754 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "S"]
+1N Pass 2C 3D
+Pass Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Club Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Nyborg"]
+[North "Ellingsen"]
+[East "Røren"]
+[South "Bergsrud"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 96.AKQ94.KJ82.KT AT3.87532.AT9.84 KQ7.JT.Q643.9763 J8542.6.75.AQJ52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sortland BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Moss BK"]
+[Auction "W"]
+Pass Pass 1C X
+1H 1N Pass 3N
+X Pass Pass Pass
+[Play "E"]
+*
+
+

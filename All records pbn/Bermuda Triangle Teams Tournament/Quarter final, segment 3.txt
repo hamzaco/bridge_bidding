@@ -1,0 +1,421 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J93.KJ76.T6532.Q QT.AQT98.Q.KT754 K5.42.AJ974.AJ93 A87642.53.K8.862 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "N"]
+1D 1S X XX
+2C Pass 4D 4S
+Pass Pass Pass
+[Play "S"]
+CQ C4 C3 C6
+D6 DQ DA D8
+D2 C5 CA C2
+S3 C7 C9 C8
+H6 HQ H2 H3
+S9 SQ SK SA
+SJ ST S5 S2
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J93.KJ76.T6532.Q QT.AQT98.Q.KT754 K5.42.AJ974.AJ93 A87642.53.K8.862 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "N"]
+1D Pass 1H Pass
+1N Pass 2D Pass
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK532.AT43.A.J74 4.KQJ65.T862.953 QJT86.972.QJ7.Q2 97.8.K9543.AKT86 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "E"]
+Pass 1S Pass 3C
+an 4+ X 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK532.AT43.A.J74 4.KQJ65.T862.953 QJT86.972.QJ7.Q2 97.8.K9543.AKT86 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "E"]
+2N 3D 4D 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQT.Q974.T743.63 K5432.86.652.A84 J.KT32.AQ98.QT92 9876.AJ5.KJ.KJ75 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "S"]
+Pass Pass 1D X
+1H 1S 2H 2S
+3H Pass Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQT.Q974.T743.63 K5432.86.652.A84 J.KT32.AQ98.QT92 9876.AJ5.KJ.KJ75 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "S"]
+Pass Pass 1D X
+1H 1S 2H 2S
+Pass Pass 3H Pass
+Pass 3S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 9832.A4.KQ74.J96 AJT64.T962.J53.8 K5.KQ873.862.KQT Q7.J5.AT9.A75432 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "W"]
+Pass 1H 2C X
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 9832.A4.KQ74.J96 AJT64.T962.J53.8 K5.KQ873.862.KQT Q7.J5.AT9.A75432 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "W"]
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QJ854.Q87.A7.AT2 63.AJ93.K84.K643 K972.4.QJT9.Q985 AT.KT652.6532.J7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "N"]
+Pass Pass 1S Pass
+2C an DX Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QJ854.Q87.A7.AT2 63.AJ93.K84.K643 K972.4.QJT9.Q985 AT.KT652.6532.J7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J876543.AQJ9.Q.9 KT9.T2.A97654.K5 Q.8653.J.QT76432 A2.K74.KT832.AJ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "E"]
+1C an 16 1S
+2D an 5+ Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J876543.AQJ9.Q.9 KT9.T2.A97654.K5 Q.8653.J.QT76432 A2.K74.KT832.AJ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "E"]
+1N 2S 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT.743.KJT98.AQ2 842.JT5.64.JT754 K73.Q98.Q752.K98 AQ965.AK62.A3.63 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D Pass 1S
+an 4+ Pass 1N
+an 0- Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Orlov"]
+[North "Romanski"]
+[East "Tatarkin"]
+[South "Stepinski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT.743.KJT98.AQ2 842.JT5.64.JT754 K73.Q98.Q752.K98 AQ965.AK62.A3.63 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Poland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vorobei"]
+[Auction "S"]
+1D Pass 1N X
+Pass 2D 3D 4H
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+

@@ -1,0 +1,554 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ85.8743.K.9754 AKT73.6.AJT83.K2 962.Q9.42.AQJT86 4.AKJT52.Q9765.3 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+3C 3H 5C X
+Pass Pass Pass
+[Play "E"]
+H3 H6 HQ HA
+SQ SK S6 S4
+S5 SA S9 H5
+S8 S3 S2 C3
+DK DA D2 D6
+SJ S7 H9 D5
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ85.8743.K.9754 AKT73.6.AJT83.K2 962.Q9.42.AQJT86 4.AKJT52.Q9765.3 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+Pass 1H Pass 1S
+2C 2D 4C 6D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A52.J8.A984.AQ86 QT7.T74.765.J543 93.A93.KQJT3.KT2 KJ864.KQ652.2.97 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A52.J8.A984.AQ86 QT7.T74.765.J543 93.A93.KQJT3.KT2 KJ864.KQ652.2.97 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ7.Q2.873.K8632 T64.KJ874.Q52.Q5 Q53.A9.KT96.J974 A982.T653.AJ4.AT "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ7.Q2.873.K8632 T64.KJ874.Q52.Q5 Q53.A9.KT96.J974 A982.T653.AJ4.AT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H Pass 2H
+Pass Pass X Pass
+3C 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q6.K652.Q84.AJT2 K8.A4.AT2.Q98753 AJ42.JT83.9753.4 T9753.Q97.KJ6.K6 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "W"]
+1C Pass 1S Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q6.K652.Q84.AJT2 K8.A4.AT2.Q98753 AJ42.JT83.9753.4 T9753.Q97.KJ6.K6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "W"]
+1C Pass 1S Pass
+2C Pass 3C Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 762.J763.Q75.AT4 Q.T854.9632.9832 AJT54.A.JT8.Q765 K983.KQ92.AK4.KJ "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+1S X 2S Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 762.J763.Q75.AT4 Q.T854.9632.9832 AJT54.A.JT8.Q765 K983.KQ92.AK4.KJ "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+1S X 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A96.K95.AK543.92 KQJ52.64.762.J75 3.JT873.QT98.KT3 T874.AQ2.J.AQ864 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+1C 1D 1S 3D
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A96.K95.AK543.92 KQJ52.64.762.J75 3.JT873.QT98.KT3 T874.AQ2.J.AQ864 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+1C X 1S 3H
+3S 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT97.J87.642.854 KJ653.A.J3.AJ973 Q82.K4.AK9875.KT 4.QT96532.QT.Q62 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "S"]
+Pass 1S 1N 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT97.J87.642.854 KJ653.A.J3.AJ973 Q82.K4.AK9875.KT 4.QT96532.QT.Q62 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "S"]
+Pass 1S 2D Pass
+Pass X Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 72.A5.AT742.9652 KQ953.T72.96.KT7 JT84.9.QJ853.J43 A6.KQJ8643.K.AQ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "W"]
+Pass Pass 3N Pass
+4H an Pa Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 72.A5.AT742.9652 KQ953.T72.96.KT7 JT84.9.QJ853.J43 A6.KQJ8643.K.AQ8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 743.JT964.J42.72 Q5.AK87.K96.K963 KJT96.Q53.A75.AQ A82.2.QT83.JT854 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 743.JT964.J42.72 Q5.AK87.K96.K963 KJT96.Q53.A75.AQ A82.2.QT83.JT854 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Meyer"]
+[North "Sussel"]
+[East "Reiplinger"]
+[South "Soulet "]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T95.43.KQJ54.KJT 876.KJ9.A9763.A3 KQ43.Q872.2.Q986 AJ2.AT65.T8.7542 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "PAYEN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+

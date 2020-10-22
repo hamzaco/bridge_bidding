@@ -1,0 +1,934 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT.KQJ87.AJ975.A875 T942.K3.A42.93 A63.84.QJT765. Q642.5.QT62.K983 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "N"]
+Pass Pass 1H Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+S2 ST SA S3
+S9 SQ SK S5
+SJ S7 D4 S4
+DA D3 D8 D2
+D5 DK H3 D6
+C3 H7 C4 CQ
+DJ S8 H6 DT
+C5 C8 H8 C2
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "49"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT.KQJ87.AJ975.A875 T942.K3.A42.93 A63.84.QJT765. Q642.5.QT62.K983 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "N"]
+Pass Pass 1H Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+H5 H7 H4 H3
+DA D3 D4 D6
+D9 DK D8 D2
+HA C3 H8 HT
+ST SA S3 S6
+H6 C8 HJ H9
+HK H2 C5 S2
+D7 C2 C6 DT
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 75.QJ96.876.J842 T84.KQJT4.AQ653.AKJ632 A732.K97..QT984 K5.A9532.T."]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "E"]
+Pass Pass 1D X
+2S Pass 3C Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "50"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 75.QJ96.876.J842 T84.KQJT4.AQ653.AKJ632 A732.K97..QT984 K5.A9532.T."]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "E"]
+Pass Pass 1D X
+2S an fi Pass
+3C 3S 5D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q8743.AT.T7.8732 K92.965.Q865.A94 A6.K43.KJ432.QJ6 JT5.QJ872.A9.KT5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "S"]
+Pass Pass 1D 1H
+1S 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "51"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q8743.AT.T7.8732 K92.965.Q865.A94 A6.K43.KJ432.QJ6 JT5.QJ872.A9.KT5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "S"]
+Pass Pass 1D 1H
+1S 2H an ba
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJT.A763.T8753.Q Q87654.92.K2.AJT 2.KJT.AQJ.K98763 A93.Q854.964.542 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "W"]
+Pass 1C Pass 1H
+1S X 2S Pass
+Pass 3C Pass Pass
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "52"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJT.A763.T8753.Q Q87654.92.K2.AJT 2.KJT.AQJ.K98763 A93.Q854.964.542 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "W"]
+Pass 1C Pass 1D
+1S X an 3 
+2S an ba X
+an ta 3S 4C
+Pass 4H Pass 5C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A64.Q72.KJ765.J9 QJ95.T93.8.KT872 7.KJ864.9432.AQ3 KT832.A5.AQT.654 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "N"]
+Pass 1S Pass 3D
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "53"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A64.Q72.KJ765.J9 QJ95.T93.8.KT872 7.KJ864.9432.AQ3 KT832.A5.AQT.654 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "N"]
+Pass 1S Pass 3S
+an mi Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 8432.AJ6.J4.AQT7 A.KQT8.AK8762.K4 KJT76.9732.93.96 Q95.54.QT5.J8532 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "E"]
+Pass 1C X 1S
+Pass 2S X Pass
+2N 3S 4D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "54"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 8432.AJ6.J4.AQT7 A.KQT8.AK8762.K4 KJT76.9732.93.96 Q95.54.QT5.J8532 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "E"]
+Pass 1C 1D 1S
+Pass 2S X 3S
+an ba  c Pass
+Pass X Pass 4D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ8.AQ82.K93.J98 974.KJ75.JT6.T64 KT6.43.AQ42.KQ32 J532.T96.875.A75 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "S"]
+1N Pass 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "55"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ8.AQ82.K93.J98 974.KJ75.JT6.T64 KT6.43.AQ42.KQ32 J532.T96.875.A75 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "S"]
+1N Pass 2D an
+GF Pass 2H Pass
+2N Pass 3N Pass
+4N Pass 6N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "56"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T432.K72.643.J92 A95.AQT84.T52.Q6 KQ6.J.AKJ9.K8753 J87.9653.Q87.AT4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "W"]
+1H X 2D Pass
+2H X Pass 2S
+Pass Pass 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "56"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T432.K72.643.J92 A95.AQT84.T52.Q6 KQ6.J.AKJ9.K8753 J87.9653.Q87.AT4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "W"]
+1H X 3H an
+mi Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "57"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ6.Q843.T86.843 K9843.AKJ.AQJ65.QT AT5.Q97542.T2.752 KJ9762.3.K97."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 2S Pass 3C
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "57"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ6.Q843.T86.843 K9843.AKJ.AQJ65.QT AT5.Q97542.T2.752 KJ9762.3.K97."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "N"]
+Pass 2H Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "58"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q.J87.J765.AQ543 K763.A62.KQT2.J8 JT5.KT53.A8.KT97 A9842.Q94.943.62 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "E"]
+Pass Pass 1D Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "58"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q.J87.J765.AQ543 K763.A62.KQT2.J8 JT5.KT53.A8.KT97 A9842.Q94.943.62 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "E"]
+Pass Pass 1D Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "59"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K4.KT9875.J3.QT7 AJ83.63.Q96.AJ85 Q96.AJ.AT72.K962 T752.Q42.K854.43 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "S"]
+2H X 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "59"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K4.KT9875.J3.QT7 AJ83.63.Q96.AJ85 Q96.AJ.AT72.K962 T752.Q42.K854.43 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "S"]
+2D an mu Pass
+2N Pass 3C an
+!h  m Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "60"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ865.T42.AT5.86 AJ.AKQ3.J9872.T2 T32.86.43.AK7543 974.J975.KQ6.QJ9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "W"]
+1N Pass 2S X
+Pass Pass 2N Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "60"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ865.T42.AT5.86 AJ.AKQ3.J9872.T2 T32.86.43.AK7543 974.J975.KQ6.QJ9 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "61"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQT72.9642.73.96 J43.8.KJT5.KQJT3 65.AKQ3.Q842.A74 A98.JT75.A96.852 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "N"]
+1N Pass 2H Pass
+2S Pass Pass 3C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "61"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQT72.9642.73.96 J43.8.KJT5.KQJT3 65.AKQ3.Q842.A74 A98.JT75.A96.852 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "N"]
+1N Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "62"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J94.K.K74.A86432 T.J764.QJ62.QJT9 AKQ72.AQ8532.3.7 8653.T9.AT985.K5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2C Pass 2S
+Pass 2N Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "62"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J94.K.K74.A86432 T.J764.QJ62.QJT9 AKQ72.AQ8532.3.7 8653.T9.AT985.K5 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass 1N Pass 2S
+Pass 3C Pass 3S
+Pass 4D Pass 6S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "63"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T972.J76.8643.84 Q8643.KT2.T7.AK7 AQ83.Q2.QJT9532. AKJ5.954.AKJ95.6 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "S"]
+Pass 1S 2C 3C
+Pass 3S Pass 4C
+Pass 4H Pass 5D
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "63"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T972.J76.8643.84 Q8643.KT2.T7.AK7 AQ83.Q2.QJT9532. AKJ5.954.AKJ95.6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "S"]
+Pass 1S 2C 3C
+Pass 3S Pass 4C
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "64"]
+[West "Morgan"]
+[North "Sontag"]
+[East "Polowan"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T87.AJ6.AT9.K963 J.KQ75.J543.T842 Q9654.T.Q762.A75 AK32.98432.K8.QJ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schermer"]
+[Auction "W"]
+Pass Pass 1H Pass
+2D Pass 2H Pass
+Pass 2S Pass Pass
+3H Pass Pass Pass
+[Play "S"]
+*
+
+

@@ -1,0 +1,928 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "33"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A32.JT75.65.T752 Q86.93.AK43.KJ63 K97.862.T87.AQ94 JT54.AKQ4.QJ92.8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass 1D Pass 2D
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+C5 C3 CA C8
+C7 CK CQ D2
+D5 D3 D8 DQ
+SA S6 S7 S4
+C2 CJ C4 S5
+D6 D4 D7 DJ
+S3 DA DT D9
+S2 DK S9 ST
+H5 H3 H6 HA
+H7 H9 H2 HK
+HT C6 H8 HQ
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "33"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A32.JT75.65.T752 Q86.93.AK43.KJ63 K97.862.T87.AQ94 JT54.AKQ4.QJ92.8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass 1D Pass 2D
+Pass 3D Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "34"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 876.43.AJ92.A984 4.AQJT2.KT8.KJ73 AKQ9.86.Q754.QT5 JT532.K975.63.62 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass 1H 1S
+3H X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "34"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 876.43.AJ92.A984 4.AQJT2.KT8.KJ73 AKQ9.86.Q754.QT5 JT532.K975.63.62 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass 1H X
+3H Pass 4H Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "35"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T72.K74.J93.A853 J5.JT82.KQ74.J74 AK8.AQ9653.52.Q9 Q9643.AT86.KT62."]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "35"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T72.K74.J93.A853 J5.JT82.KQ74.J74 AK8.AQ9653.52.Q9 Q9643.AT86.KT62."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass 1H 1S
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "36"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 7432.A942.62.K84 KQJ85.AT5.JT765.KQJ98 T6.J74.Q93. AT65.73.KQ983.A2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1H 1S 2D 3S
+Pass Pass X Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "36"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 7432.A942.62.K84 KQJ85.AT5.JT765.KQJ98 T6.J74.Q93. AT65.73.KQ983.A2 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1H 1S 2D 3S
+4D Pass 4N Pass
+5N Pass 6D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J752.KT4.9764.T8 QT86.9.AQ5.KJ532 AK3.Q832.KT32.76 94.AJ765.J8.AQ94 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1D 1H Pass 2C
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J752.KT4.9764.T8 QT86.9.AQ5.KJ532 AK3.Q832.KT32.76 94.AJ765.J8.AQ94 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1D 1H Pass 2C
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A75.A2.AQ764.AK3 K4.KT9753.9.9654 JT32.Q86.KJ83.Q2 Q986.J4.T52.JT87 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass 1C 1H 1N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A75.A2.AQ764.AK3 K4.KT9753.9.9654 JT32.Q86.KJ83.Q2 Q986.J4.T52.JT87 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J94.T9.AJ42.QJ87 AK86.K4.Q73.K953 T53.Q652.985.AT6 Q72.AJ873.KT6.42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1S Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J94.T9.AJ42.QJ87 AK86.K4.Q73.K953 T53.Q652.985.AT6 Q72.AJ873.KT6.42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "40"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9752.A2.J8.KT974 AJ4.J4.KQ9643.A6 86.K83.AT5.QJ832 KQT3.QT9765.72.5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1D Pass 1H Pass
+3D Pass 3S Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "40"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9752.A2.J8.KT974 AJ4.J4.KQ9643.A6 86.K83.AT5.QJ832 KQT3.QT9765.72.5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1N Pass 2D Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "41"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK93.AK.K43.AKJ6 J8762.Q7654.762.QT4 93.AQ985.Q92. 5.JT82.JT.T87543 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1020"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1N Pass 2D Pass
+2N Pass 3C Pass
+3N Pass 6N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "41"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK93.AK.K43.AKJ6 J8762.Q7654.762.QT4 93.AQ985.Q92. 5.JT82.JT.T87543 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 2N Pass
+3N Pass 4C Pass
+6D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "42"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ5.AQ96.A82.AT6 T9862.82.6543.Q3 K.KT53.KT97.K987 Q743.J74.QJ.J542 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2N Pass 3D
+Pass 3H Pass 3S
+Pass 4C Pass 6C
+Pass 6H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "42"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ5.AQ96.A82.AT6 T9862.82.6543.Q3 K.KT53.KT97.K987 Q743.J74.QJ.J542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 3S Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "43"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ.JT64.Q543.K84 754.K752.92.AT52 KQT862.98.J76.Q7 93.AQ3.AKT8.J963 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+1N Pass 2S X
+Pass 3H 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "43"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ.JT64.Q543.K84 754.K752.92.AT52 KQT862.98.J76.Q7 93.AQ3.AKT8.J963 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "44"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ96.Q854.765.T2 JT.A32.A4.QJ9876 A82.J.QJT83.AK53 7543.KT976.K92.4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1C 1D 1H 2D
+X 3C 3H Pass
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "44"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ96.Q854.765.T2 JT.A32.A4.QJ9876 A82.J.QJT83.AK53 7543.KT976.K92.4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1C 1D 1H X
+Pass 1S Pass 2D
+Pass 3C Pass 3D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "45"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 53.Q75.KQ.T97532 A982.K9643.A5.Q6 KJT64.JT2.J93.A8 Q7.A8.T87642.KJ4 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "45"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 53.Q75.KQ.T97532 A982.K9643.A5.Q6 KJT64.JT2.J93.A8 Q7.A8.T87642.KJ4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass Pass Pass 1H
+1S 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T9832.8.KT54.743 AJ764.J973.Q2.J9 K.AKQT2.986.AQ62 Q5.654.AJ73.KT85 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass 1S X
+XX 2D Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "46"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T9832.8.KT54.743 AJ764.J973.Q2.J9 K.AKQT2.986.AQ62 Q5.654.AJ73.KT85 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A53.J762.842.973 97.AQT8.QT5.QJT5 T82.543.763.A864 KQJ64.K9.AKJ9.K2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 1N Pass 2N
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "47"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A53.J762.842.973 97.AQT8.QT5.QJT5 T82.543.763.A864 KQJ64.K9.AKJ9.K2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 1N Pass 2N
+Pass 3C Pass 3D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Brazilian Trials"]
+[Site "00"]
+[Date "00"]
+[Board "48"]
+[West " M"]
+[North "Figueiredo"]
+[East " R"]
+[South "Janz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT62.9.J76.AK752 J4.QT5.AK2.J9864 K753.KJ82.854.QT A98.A7643.QT93.3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Campos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2H Pass 3C
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+

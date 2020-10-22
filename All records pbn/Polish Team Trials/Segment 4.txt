@@ -1,0 +1,728 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT6.A973.QT7.Q74 K952.KQ85.J8632.A873 2.A95.AJT85. Q4.JT64.K4.K9632 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "N"]
+1D Pass 1N Pass
+Pass Pass
+[Play "W"]
+D7 D6 D5 DK
+DQ D2 D9 D4
+CQ S2 C5 CK
+HA H5 H2 HJ
+C7 D3 CA C6
+C2 C4 D8 CJ
+DT DJ DA H4
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT6.A973.QT7.Q74 K952.KQ85.J8632.A873 2.A95.AJT85. Q4.JT64.K4.K9632 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 1N Pass
+2C Pass Pass Pass
+[Play "E"]
+HA H5 H2 H4
+C4 D3 CA C2
+D7 D2 D5 DK
+H3 HK S3 H6
+DT D6 D9 D4
+H7 H8 C5 HT
+DQ D8 DA C3
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 2.AT53.J2.KQJT93 Q9543.862.AQ87.A AKT87.KT9654.85.J6 KQJ974.3.7642."]
+[Declarer "N"]
+[Contract "4"]
+[Result "6"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "E"]
+3H Pass 4H 4S
+Pass Pass Pass
+[Play "E"]
+DJ DQ DK D3
+C2 CK CA C5
+D2 DA D6 H4
+H3 D7 DT S6
+CQ S3 C8 C4
+C3 D8 D9 SJ
+H2 D4 HK HA
+S2 S5 SA H7
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 2.AT53.J2.KQJT93 Q9543.862.AQ87.A AKT87.KT9654.85.J6 KQJ974.3.7642."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "E"]
+2D an   3C
+4C 4D Pass 5C
+X XX Pass Pass
+Pass
+[Play "W"]
+S2 S4 SA S6
+H3 S3 SK SJ
+C3 S5 S7 D3
+H5 H6 C5 H4
+C9 S9 S8 H7
+DJ D7 DK C2
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T.Q76.QJT65.AK82 KQ7.52.AK432.T95 9863.AJT93.Q763.AJ542 K84.987.J4."]
+[Declarer "N"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "S"]
+1S Pass 1N an
+  Pass 2D Pass
+2H Pass Pass Pass
+[Play "E"]
+C9 C6 CJ CA
+ST SQ S3 S5
+H6 H2 H3 HK
+H7 H5 H9 H4
+HQ SK S6 S2
+D5 DA HT D8
+D6 D2 HA H8
+C4 C2 C5 CQ
+D7 CK CT C3
+DQ D4 S8 D9
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T.Q76.QJT65.AK82 KQ7.52.AK432.T95 9863.AJT93.Q763.AJ542 K84.987.J4."]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "S"]
+1D Pass 1H 1S
+X! XX 2H Pass
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+CA C5 C7 C4
+DQ DA S3 D7
+CJ CK C9 C3
+DJ DK S6 D8
+H7 H2 H9 HK
+ST SQ S8 S2
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 93.QT853.2.J9852 KQ84.976.AK76.K3 AJT7.KJ4.QT9.QT6 652.A2.J8543.A74 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+S3 SK SJ S2
+D2 DA D9 D3
+C2 DK DT D4
+H5 D7 DQ D8
+HQ H6 HJ H2
+S9 SQ SA S5
+H3 H7 H4 HA
+H8 D6 CT DJ
+C5 H9 S7 D5
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 93.QT853.2.J9852 KQ84.976.AK76.K3 AJT7.KJ4.QT9.QT6 652.A2.J8543.A74 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "W"]
+1N Pass 3D Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T.973.QJ97.AQT62 943.J864.AK83.75 J62.QT52.542.KJ4 AKQ875.AK.T6.983 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "N"]
+Pass 1S 2C 2S
+3C 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T.973.QJ97.AQT62 943.J864.AK83.75 J62.QT52.542.KJ4 AKQ875.AK.T6.983 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "N"]
+Pass 1S Pass 2S
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A853.96.J72.KJT7 K.Q52.Q985.Q9654 QT62.KJT87.63.83 J974.A43.AKT4.A2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "E"]
+1N Pass 2C Pass
+2S Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A853.96.J72.KJT7 K.Q52.Q985.Q9654 QT62.KJT87.63.83 J974.A43.AKT4.A2 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "E"]
+1N Pass 2S Pass
+2N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T86.K6.A54.AKT42 KQ9.Q93.QJ7.Q873 AJ532.AT42.983.5 74.J875.KT62.J96 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "S"]
+1H Pass 1S Pass
+1N Pass 2D an
+5! Pass 2S an
+14 Pass 3H an
+in Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T86.K6.A54.AKT42 KQ9.Q93.QJ7.Q873 AJ532.AT42.983.5 74.J875.KT62.J96 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "S"]
+1N Pass 2C Pass
+2D Pass 3D Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT874.53.J3.9653 AK.AKQ76.765.AQJ J3.T2.AK98.KT842 9652.J984.QT42.7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "W"]
+1C Pass 1D an
+0- Pass 2D an
+ac Pass 2H an
+  Pass 2N Pass
+3C Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT874.53.J3.9653 AK.AKQ76.765.AQJ J3.T2.AK98.KT842 9652.J984.QT42.7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "W"]
+2C Pass 2H Pass
+2N Pass 3C Pass
+3N Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 8532.9753.954.K9 A.AQJ.J763.AQT54 QJ64.KT82.KQ.863 KT97.64.AT82.J72 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "N"]
+X Pass 1S Pass
+1N Pass 2D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 8532.9753.954.K9 A.AQJ.J763.AQT54 QJ64.KT82.KQ.863 KT97.64.AT82.J72 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "N"]
+1C Pass 1D X
+1H 1S Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J62.J3.74.AQJ973 AQ53.KT98762.T.6 K4.Q54.AQ9863.84 T987.A.KJ52.KT52 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "E"]
+Pass Pass 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J62.J3.74.AQJ973 AQ53.KT98762.T.6 K4.Q54.AQ9863.84 T987.A.KJ52.KT52 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "E"]
+Pass 3C 3H Pass
+3N Pass 4H X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT4.T872.A72.A75 Q.AQ4.KJ6543.K82 KJ87532.K.T98.T4 96.J9653.Q.QJ963 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "S"]
+1C 1D 1H Pass
+1S 2D 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT4.T872.A72.A75 Q.AQ4.KJ6543.K82 KJ87532.K.T98.T4 96.J9653.Q.QJ963 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "S"]
+1C 1D 1H Pass
+1S X 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "D Kowalski"]
+[North "Pazur"]
+[East "Araszkiewi"]
+[South "Zawislak"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ973.8.A42.KT93 65.A6.QJT75.J764 QT842.K94.K96.A2 A.QJT7532.83.Q85 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jagniewski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Araszkiewicz"]
+[Auction "W"]
+Pass 1N an 10
+3H 3S Pass 4C
+an   Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+

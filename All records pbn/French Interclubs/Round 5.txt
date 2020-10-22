@@ -1,0 +1,185 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Interclubs"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Neve"]
+[North "Roger"]
+[East "Bellosta"]
+[South "Huiban"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AK632.KT93.K4.T6 QT7.J75.AT653.A7 J954.42.J82.KQJ4 8.AQ86.Q97.98532 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Val de seine 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "bretagne"]
+[Auction "S"]
+1S Pass 2S Pass
+Pass Pass
+[Play "W"]
+H3 H5 H2 HA
+D4 DA D2 D7
+DK D3 D8 D9
+SA S7 S4 S8
+SK ST S5 C2
+*
+
+
+[Event "French Interclubs"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Neve"]
+[North "Roger"]
+[East "Bellosta"]
+[South "Huiban"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AK632.KT93.K4.T6 QT7.J75.AT653.A7 J954.42.J82.KQJ4 8.AQ86.Q97.98532 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Val de seine 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "bretagne"]
+[Auction "S"]
+1S Pass 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Neve"]
+[North "Roger"]
+[East "Bellosta"]
+[South "Huiban"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ2.KJ54.AK98.A3 KT9.T2.T765.JT62 J6543.A96.J.K854 87.Q873.Q432.Q97 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Val de seine 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "bretagne"]
+[Auction "W"]
+Pass Pass Pass 2N
+Pass 3H Pass 3S
+an   Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Neve"]
+[North "Roger"]
+[East "Bellosta"]
+[South "Huiban"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ2.KJ54.AK98.A3 KT9.T2.T765.JT62 J6543.A96.J.K854 87.Q873.Q432.Q97 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Val de seine 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "bretagne"]
+[Auction "W"]
+Pass Pass Pass 2N
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Interclubs"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Neve"]
+[North "Roger"]
+[East "Bellosta"]
+[South "Huiban"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ43.J6543.J.A63 T98.K82.A875.KJ7 6.QT97.KQT64.954 AQ752.A.932.QT82 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Val de seine 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "bretagne"]
+[Auction "N"]
+Pass 1S Pass 2N
+an   Pass 3D
+Pass 3S Pass 4H
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Interclubs"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Neve"]
+[North "Roger"]
+[East "Bellosta"]
+[South "Huiban"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ43.J6543.J.A63 T98.K82.A875.KJ7 6.QT97.KQT64.954 AQ752.A.932.QT82 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Val de seine 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "bretagne"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pa an F1 2C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

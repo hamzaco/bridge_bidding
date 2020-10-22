@@ -1,0 +1,641 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.AK87.QJT4.J762 AT863.J5.5.AK985 K752.9432.K76.43 Q94.QT6.A9832.QT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1C 1S
+X 2C 2H 4S
+Pass Pass Pass
+[Play "N"]
+HK H5 H3 H6
+DQ D5 D6 DA
+SJ S3 SK SQ
+D4 HJ DK D2
+DJ S6 D7 D3
+C2 C5 C3 CQ
+CJ CA C4 CT
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJT74.A5.AQ5.KT8 A965.T632.J8.A94 832.87.T964.Q732 Q.KQJ94.K732.J65 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1H X 3C an
+7- Pass 3H 3S
+Pass Pass 4H Pass
+Pass Pass
+[Play "E"]
+HA H2 H7 HJ
+H5 H3 H8 HQ
+DQ D8 D6 D2
+DA DJ D4 D3
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K7.K8765.AJ.QT52 AQT43.AJ932.T3.J 852.Q4.8762.K984 J96.T.KQ954.A763 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 1S Pass 2H
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+H5 HA HQ HT
+DA D3 D6 DK
+C2 CJ CK CA
+DJ DT D2 DQ
+CQ S3 C4 C3
+H6 H2 H4 S6
+SK SA D7 D9
+H7 H3 D8 S9
+C5 S4 C8 C6
+H8 H9 C9 SJ
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A96.AK64.KQ87.53 KJT72.Q5.542.AT4 JT32.AJ63.QJ976. Q8543.987.T9.K82 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 2C Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+DK D5 D3 D9
+HA H5 H2 H7
+HK HQ H3 H8
+C3 CA C6 C2
+DQ D4 D6 DT
+H4 S7 HT H9
+CK C5 C4 CQ
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 962.JT43.AJ.T987 KQ73.975.7642.Q2 AT4.A62.QT.AKJ63 J85.KQ8.K9853.54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C Pass 1D an
+=  Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+DJ D2 DT D3
+HJ H5 H2 HK
+DA D4 DQ D5
+CT C2 CA C5
+C7 CQ CK C4
+C8 H7 C3 S8
+C9 H9 CJ S5
+S2 S3 C6 SJ
+H3 D6 HA H8
+S6 S7 SA D8
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT82.KQ963.5.K87 6.A8.KQJ862.J964 QJ975.2.AT43.A53 A43.JT754.97.QT2 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1H 2D 2S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+D5 DJ DA D9
+HK HA H2 H4
+CK C9 C5 C2
+HQ H8 C3 H5
+C7 C4 CA CT
+S2 D2 D3 D7
+C8 C6 S5 CQ
+S8 D6 D4 H7
+H3 S6 S7 HT
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT985.63.A83.AT6 AK3.9754.72.7432 Q764.AKT8.KJ5.Q9 2.QJ2.QT964.KJ85 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+2N Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 98.K954.J642.AQ3 4.JT62.953.KJT62 QT75.Q83.AK7.987 AKJ632.A7.QT8.54 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S Pass 2D
+Pass 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKJT2.J86.Q742.8 753.A97.KT8.AKJ7 64.KQT42.A3.T652 Q98.53.J965.Q943 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1S Pass
+2H Pass Pass X
+Pass 3C 3H 4C
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 3.KQJ982.T82.K54 KJT4.T753.Q9.973 A962.A7643.AJT8.Q875 A64.KJ5.Q62."]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C 2H X Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJT97.4.QJT2.875 K3.5.K86543.Q962 A8.AQT9763.A7.KT 6542.KJ82.9.AJ43 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2S Pass 2N Pass
+3D Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J.5432.J6.A86532 K32.A7.AKQ942.K9 A98764.QT6.T83.J QT5.KJ98.75.QT74 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2N Pass 3C Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 73.KQJT843.965.3 984.6.KQJ7.KQ762 AKQT5.A95.84.AJ9 J62.72.AT32.T854 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S Pass 2H an
+!h Pass 2N an
+fo Pass 4H Pass
+4S an cu Pass
+5H Pass 6H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T984.74.962.K973 KQ7652.986.K7.T6 J.KQT52.843.A542 A3.AJ3.AQJT5.QJ8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2N Pass 3H an
+tX X Pass Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQJ6.J964.94.Q64 T953.T8.KQT65.85 A74.3.8732.AK732 82.AKQ752.AJ.JT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1C 1H
+X Pass 1S 2H
+Pass Pass X! Pass
+2S Pass Pass 3H
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A3.AQ.KQT43.9865 976.KJ8.8762.J74 854.T954.A.AKQT3 KQJT2.7632.J95.2 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C 1S X!
+Pass 2H Pass 3D
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T975.T7.T2.AKQ82 AKJ6.KJ5432.AKJ.Q3 Q86.964.J9763. 842.A9.Q8753.T54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J865.J.A75.QJ964 A9.KT9843.Q82.83 KT.AQ52.JT96.AK7 Q7432.76.K43.T52 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2D Pass 2H 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A7652.32.KQ3.652 KT983.864.64.AKT J.AJT7.T875.J974 Q4.KQ95.AJ92.Q83 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 1N
+an 12 Pass 2C
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Sørensen"]
+[North "Røseng"]
+[East "Andersen"]
+[South "Thoresen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q95.8752.8.J9875 AT7.96.KJ54.QT42 KJ4.AQ4.AQ73.AK6 8632.KJT3.T962.3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2N an 22
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+

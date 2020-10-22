@@ -1,0 +1,445 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ654.T2.AT87.K3 987.AKQ753.J42.8 A.986.Q65.AJT764 QT32.J4.K93.Q952 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "N"]
+1C Pass 1S 2H
+Pass Pass X Pass
+3C Pass Pass Pass
+[Play "E"]
+H2 HQ H6 HJ
+HT HK H8 H4
+CK HA H9 C5
+S4 S7 SA S3
+C3 C8 CA C2
+S5 H3 CT CQ
+D7 H5 CJ C9
+S6 H7 C7 D3
+D8 S8 C6 ST
+SJ S9 C4 D9
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9.KQ752.QT932.84 KQ8754.J9.4.KJT9 AT63.84.KJ5.A632 J2.AT63.A876.Q75 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "E"]
+Pass Pass 2D an
+mu Pass 2S an
+Pass Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT7.QJ42.643.JT7 3.9876.QT75.AQ42 AK9865.T.AK.9653 Q42.AK53.J982.K8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "S"]
+Pass Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ7.Q98.T874.J82 T85.73.KQ653.Q96 J6432.654.A9.K73 A9.AKJT2.J2.AT54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "W"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQ54.AQ52.7.A764 A.873.JT63.KQJT9 832.K94.AQ92.532 JT976.JT6.K854.8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 1H Pass
+2C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ7.K97.JT9752.K 9643.QJ642.A4.96 J852.5.3.AJT7532 AT.AT83.KQ86.Q84 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "E"]
+1D Pass 1H 3C
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 9643.93.AQ9653.7 Q87.AKQ2.KJ7.A64 KJ.J7.T84.KQJ983 AT52.T8654.2.T52 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "S"]
+Pass 1H 2C 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KT.QT872.K.QJ754 43.J94.AJ8543.63 AJ9.A653.QT.AT98 Q87652.K.9762.K2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "W"]
+Pass 1N Pass 2D
+an H X 2H
+2S 3C Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ862.J6.KT5.T42 QT7.KT42.J8.Q963 K953.A3.AQ7432.A 4.Q9875.96.KJ875 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "N"]
+1D 2D an al
+2S 4H 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J85.Q863.AQT542.T3 T4.K9863.9843.Q972 K9752.A765..AK64 AJ.J7.KQJT2."]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "E"]
+1C 1D Pass 1H
+1S 3C Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQJT93.KQJ54.A9.K 87.KQ754.76532.8764 6.JT862.KJT.52 AT932.A93.Q84."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "S"]
+2C 2D Pass 2H
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 8.KT3.AJ9432.K63 AKQJ97.J82.K.QJ5 AQ96.QT6.AT9842. T65432.754.875.7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "W"]
+1S 2C 4S 5C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K9.A64.Q9765.743 QT7.Q.AT4.AKJ652 AJ84.KT983.8.Q98 6532.J752.KJ32.T "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "N"]
+Pass Pass Pass 1C
+1H Pass 2C X
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 9863.KJ852.Q.K54 AJ5.A9.J9632.J96 Q72.T743.T8.QT72 KT4.Q6.AK754.A83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "E"]
+1D 1H 2D 2H
+3D Pass 3H Pass
+5D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Victorian Open Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Sheather"]
+[North "Thompson"]
+[East "Schroor"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK3.93.98532.763 Q742.K6.Q.AKQT54 9.QJT7542.AJ.J92 JT865.A8.KT764.8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PENNANT"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BUTLER"]
+[Auction "S"]
+Pass 1C 2H X
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,760 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQT96.A.KQ97.J65 J87.765.A852.T32 A54.QJ3.T63.K984 32.KT9842.J4.AQ7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S Pass 2N Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "W"]
+HA H5 H3 H8
+SK S7 S4 S2
+SQ S8 S5 S3
+S6 SJ SA H2
+D9 DA D3 D4
+S9 H7 HJ HK
+DK D2 D6 DJ
+D7 D5 DT H4
+C5 H6 HQ H9
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQT96.A.KQ97.J65 J87.765.A852.T32 A54.QJ3.T63.K984 32.KT9842.J4.AQ7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+Pass 2H 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+C5 C2 C4 CA
+HA H5 H3 HT
+DK DA D6 D4
+C6 H6 HQ H4
+DQ D2 D3 DJ
+D7 D5 DT H2
+SK S7 S4 S2
+D9 D8 C8 S3
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J872.J4.KJ85.532 K3.AQT8.AQT42.Q8 AQ964.973.96.KT4 T5.K652.73.AJ976 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+Pass Pass 1D 1S
+X 3S 4H Pass
+Pass Pass
+[Play "N"]
+S7 S3 SA S5
+SJ SK S6 ST
+C2 CQ CK CA
+H4 HQ H3 H5
+HJ H8 H7 HK
+S8 HA H9 H2
+C3 C8 C4 C9
+C5 D2 CT CJ
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J872.J4.KJ85.532 K3.AQT8.AQT42.Q8 AQ964.973.96.KT4 T5.K652.73.AJ976 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+Pass Pass 1N Pass
+2C Pass 2H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQJT765.T.A9.JT4 8.AJ9863.8754.A3 K942.754.KQ9875.3 KQ2.KQJT632.62."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "S"]
+4D an st Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQJT765.T.A9.JT4 8.AJ9863.8754.A3 K942.754.KQ9875.3 KQ2.KQJT632.62."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "S"]
+1S 2H 4C 4H
+4S Pass Pass 5D
+5S 6D 6S Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ865.7.T5.QJT84 94.JT9864.972.32 K73.KQ2.KJ4.K976 JT2.A53.AQ863.A5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "W"]
+Pass 1N an 14
+Pass 2H Pass 2S
+Pass 3C Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ865.7.T5.QJT84 94.JT9864.972.32 K73.KQ2.KJ4.K976 JT2.A53.AQ863.A5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "W"]
+Pass 1N Pass 2H
+Pass 2S Pass 3C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A4.KT2.AK2.J7432 J985.Q984.9874.5 K32.J75.QJT5.T86 QT76.A63.63.AKQ9 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A4.KT2.AK2.J7432 J985.Q984.9874.5 K32.J75.QJT5.T86 QT76.A63.63.AKQ9 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A74.AKJ43.Q.K753 Q9862.62.J865.42 K3.QT987.T92.Q86 JT5.5.AK743.AJT9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+1D 1H 1S 4H
+X Pass 4S Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A74.AKJ43.Q.K753 Q9862.62.J865.42 K3.QT987.T92.Q86 JT5.5.AK743.AJT9 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+1D 1H X 4H
+X Pass 4S Pass
+Pass 5H Pass Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT.AKQ982.65.A75 82.J.QT732.KQJT4 AJ965.54.AJ8.932 K743.T763.K94.86 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "S"]
+1H Pass 1S Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT.AKQ982.65.A75 82.J.QT732.KQJT4 AJ965.54.AJ8.932 K743.T763.K94.86 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "S"]
+1H Pass 1S Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9.72.JT532.AJ972 AQT842.QJ9.AK7.T K765.T3.864.Q654 J3.AK8654.Q9.K83 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "W"]
+1S Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9.72.JT532.AJ972 AQT842.QJ9.AK7.T K765.T3.864.Q654 J3.AK8654.Q9.K83 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "W"]
+1S Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K4.QJT42.K73.985 Q532.K6.Q64.7632 A8.A953.JT8.AQT4 JT976.87.A952.KJ "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+1N an 14 Pass
+2D Pass 2H Pass
+3N Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K4.QJT42.K73.985 Q532.K6.Q64.7632 A8.A953.JT8.AQT4 JT976.87.A952.KJ "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+1N Pass 2D Pass
+2H 2S 3N Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKJ8.J7632.JT.96 54.AT98.54.QT872 762.K5.KQ732.543 QT93.Q4.A986.AKJ "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+1N 2C an la
+Pass 2D an XX
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKJ8.J7632.JT.96 54.AT98.54.QT872 762.K5.KQ732.543 QT93.Q4.A986.AKJ "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "E"]
+1N 2C X 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K532.8.AQ76.8765 QJT7.A63.T82.T94 A6.QJ974.43.KQJ2 984.KT52.KJ95.A3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "S"]
+Pass Pass 1H Pass
+1S Pass 2C Pass
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K532.8.AQ76.8765 QJT7.A63.T82.T94 A6.QJ974.43.KQJ2 984.KT52.KJ95.A3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "S"]
+Pass Pass 1H Pass
+1S Pass 2C Pass
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K4.Q864.AT43.974 T653.K53.Q52.QJ2 J2.AJT97.KJ.AKT3 AQ987.2.9876.865 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "W"]
+Pass 1H 1S 3H
+3S 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K4.Q864.AT43.974 T653.K53.Q52.QJ2 J2.AJT97.KJ.AKT3 AQ987.2.9876.865 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "W"]
+Pass 1H 1S 2S
+2N 4C 4S X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Lebel M"]
+[North "Izisel G"]
+[East "Reiplinger"]
+[South "Pilon D"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ764.J753.976.4 AJT2.A82.K.JT952 83.KT96.QJT843.7 95.Q4.A52.AKQ863 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "IZISEL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHEMLA"]
+[Auction "N"]
+Pass 1N Pass 2C
+2D Pass Pass X
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+

@@ -1,0 +1,452 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "81"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T9.K9653.AJT854.KQJ63 A87.96.AJ9.A754 42.K73.T652. 82.QJT.Q2.KQ8743 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass Pass 2D 2S
+3D Pass 3H Pass
+4D Pass Pass Pass
+[Play "W"]
+SA S2 S9 SK
+HQ HK HA H2
+DA D9 D3 DQ
+H3 H7 H4 HT
+D6 D7 D2 D8
+H5 H8 DK HJ
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "82"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q7.AQ42.543.KJ93 KJ4.K.AQJ98.AT75 62.J98765.K76.Q4 AT9853.T3.T2.862 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+C3 C5 CQ C6
+CJ CA C4 C8
+S7 SK S2 S3
+SQ S4 S6 SA
+D3 D8 DK DT
+HA HK H7 H3
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "83"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJT.K973.876.973 A9843.A2.KJ.QT85 72.Q6.QT953.AJ62 K65.JT854.A42.K4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+Pass 1S Pass 4S
+Pass Pass Pass
+[Play "S"]
+D6 DJ D9 D2
+C3 C5 CA C4
+D8 DK D5 D4
+ST SA S2 S5
+SJ S3 S7 SK
+C7 C8 C2 CK
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "84"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 962.98.Q976.A642 A5.A6432.T4.QT83 QJ4.KQ5.AJ532.K9 KT873.JT7.K8.J75 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "85"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K986.A632.62.953 QT43.QT874.AT.Q2 J5.KJ.KJ9743.AJ6 A72.95.Q85.KT874 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass 2S X Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "86"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 92.AQJ975.AT8.QT K.K6432.J953.A72 AJ8643.T8.76.K86 QT75.KQ42.J9543."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "87"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQJ96.87.Q5.KQ86 AK963.AJ742.A94.A72 JT4.9863.JT2. T8543.Q52.KT.753 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+1S 2S Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "88"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKQ.KJT98.65.JT4 9.AQ6432.K72.975 T7643.JT84.KQ86.J852 75.AQ93.A32."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "89"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A6.KT2.J8432.K83 KQT8.J854.65.T62 J9532.763.7.AJ95 74.AQ9.AKQT9.Q74 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "90"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K.75.AT9532.QT82 7654.AK.QJ76.AJ7 J92.QT96432.K4.5 AQT83.J8.8.K9643 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+1S Pass 1N Pass
+2C Pass 2D Pass
+2S Pass 2N Pass
+3H Pass 4C Pass
+4D X 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "91"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AK743.A7.T9763.8 QT85.62.J54.Q962 J962.T93.Q8.AKJT .KQJ854.AK2.7543 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+1S Pass 3S 4H
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "92"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q5.AT9643.K842.J J764.K.AQT97.952 K32.Q875.53.AK64 AT98.J2.J6.QT873 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+Pass 1H Pass 4C
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "93"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J6.K95.AT3.KT987 AQ752.Q873.K.642 KT943.A64.Q52.QJ 8.JT2.J98764.A53 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+1S Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "94"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 42.JT853.AJ94.Q5 J8.AK9642.52.AT6 Q6.Q.T83.K987432 AKT9753.7.KQ76.J "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+1S Pass 1N Pass
+2D Pass 2H Pass
+3C Pass 4H Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "England - Netherlands"]
+[Site "00"]
+[Date "00"]
+[Board "95"]
+[West "de Wijs"]
+[North "Simpson"]
+[East "Muller"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QJT86543.J8.96.8 97.KQT95.852.KJT K.7643.AKQ7.A742 A2.A2.JT43.Q9653 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+Pass Pass 1N Pass
+2H X Pass Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+

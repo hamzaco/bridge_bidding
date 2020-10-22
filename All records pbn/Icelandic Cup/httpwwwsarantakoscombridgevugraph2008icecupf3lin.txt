@@ -1,0 +1,918 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQT843.J9.K65.QT AJ65.T8642.42.32 92.KQ53.AQ.AK985 7.A7.JT9873.J764 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "N"]
+1C 2D 2S Pass
+2N Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+D5 D2 DQ DJ
+S3 S5 S9 S7
+SK SA S2 D8
+H9 H2 H3 HA
+HJ H4 H5 H7
+D6 D4 DA D3
+S4 H6 HK D7
+S8 H8 HQ D9
+CQ C2 C5 C4
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQT843.J9.K65.QT AJ65.T8642.42.32 92.KQ53.AQ.AK985 7.A7.JT9873.J764 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "N"]
+1C Pass 1N Pass
+2C Pass 2D Pass
+2H Pass 2N Pass
+3D Pass 3S Pass
+4D Pass 5D Pass
+6S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 87.Q8.KJ972.Q742 T93.76542.T54.A6 QJ54.KT93.6.KJ53 AK62.AJ.AQ83.T98 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "E"]
+1C 1D Pa an
+0- 1H 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 87.Q8.KJ972.Q742 T93.76542.T54.A6 QJ54.KT93.6.KJ53 AK62.AJ.AQ83.T98 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "E"]
+1C Pass 1D Pass
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 652.A65.QJ3.8543 KQ.983.T9654.AJ2 AJ98.KJ742.87.Q6 T743.QT.AK2.KT97 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "S"]
+Pass Pass 2D an
+5! Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 652.A65.QJ3.8543 KQ.983.T9654.AJ2 AJ98.KJ742.87.Q6 T743.QT.AK2.KT97 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "S"]
+Pass Pass 1H Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9854.642.J72.875 AQ7.A9.QT95.KQT9 K2.T853.AK63.J63 JT63.KQJ7.84.A42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "W"]
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9854.642.J72.875 AQ7.A9.QT95.KQT9 K2.T853.AK63.J63 JT63.KQJ7.84.A42 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "W"]
+1C Pass 1N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 8763.AQ83.KJ.AKQ K.JT7652.873.964 QJT9.K4.Q4.T7532 A542.9.AT9652.J8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "N"]
+Pass 1D X 1H
+1S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 8763.AQ83.KJ.AKQ K.JT7652.873.964 QJT9.K4.Q4.T7532 A542.9.AT9652.J8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "N"]
+Pass Pass 1C 2H
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ853.T54.AQ65.J 72.J73.8743.AT43 T64.A982.KT9.KQ9 KJ9.KQ6.J2.87652 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2D Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ853.T54.AQ65.J 72.J73.8743.AT43 T64.A982.KT9.KQ9 KJ9.KQ6.J2.87652 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 2S Pass 2N
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ8.72.A6.AKJ983 Q532.QJ964.954.5 K64.AT85.KJT7.76 T97.K3.Q832.QT42 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "S"]
+1C Pass 1N Pass
+2C Pass 3D Pass
+4N Pass 5H Pass
+6N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ8.72.A6.AKJ983 Q532.QJ964.954.5 K64.AT85.KJT7.76 T97.K3.Q832.QT42 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "S"]
+1C Pass 1H Pass
+1N Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK643.K987.Q.A75 982.654.AT8732.2 QT75.A2.K54.KQ86 J.QJT3.J96.JT943 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "W"]
+Pass 1N Pass 2H
+Pass 2S Pass 3H
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK643.K987.Q.A75 982.654.AT8732.2 QT75.A2.K54.KQ86 J.QJT3.J96.JT943 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2S Pass 3H
+Pass 4C Pass 4N
+Pass 5D Pass 5H
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ9.Q95.AJ96.752 A3.AJ864.54.KQ43 J76542.K32.T2.96 T8.T7.KQ873.AJT8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "N"]
+2S Pass 3S 4H
+Pass Pass 4S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ9.Q95.AJ96.752 A3.AJ864.54.KQ43 J76542.K32.T2.96 T8.T7.KQ873.AJT8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "N"]
+Pass Pass 1D 1H
+1S X! 2S 3C
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K74.2.KQT987.976 A5.K8.542.KQJ843 QJ632.QJ74.AJ6.5 T98.AT9653.3.AT2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "E"]
+2D an 1  Pass
+3H X Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K74.2.KQT987.976 A5.K8.542.KQJ843 QJ632.QJ74.AJ6.5 T98.AT9653.3.AT2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "E"]
+2H Pass 2N Pass
+3S Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 75.A32.AQ985.KT9 AQT.QJ74.T432.AQ J98632.KT8.8654.K4 965.KJ76.J732."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "S"]
+1D 1N 2S 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 75.A32.AQ985.KT9 AQT.QJ74.T432.AQ J98632.KT8.8654.K4 965.KJ76.J732."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "S"]
+1N X 2H 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJ97.J3.T85.KJT6 AQ542.T76.AJ93.2 T6.A85.Q764.A984 83.KQ942.K2.Q753 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "W"]
+1S Pass 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJ97.J3.T85.KJT6 AQ542.T76.AJ93.2 T6.A85.Q764.A984 83.KQ942.K2.Q753 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "W"]
+1S Pass 1N Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T6.A9432.AJ2.A97 KJ42.KJ87.KT.654 Q93.T65.98654.T2 A875.Q.Q73.KQJ83 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "N"]
+Pass 2C 2H X
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T6.A9432.AJ2.A97 KJ42.KJ87.KT.654 Q93.T65.98654.T2 A875.Q.Q73.KQJ83 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "N"]
+Pass 1D 1H 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQT5.K5.KT8.AQ42 98.AJT76.QJ92.65 K43.8.A654.KT987 J762.Q9432.73.J3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +520"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "E"]
+Pass 1C 1H 2C
+3H 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQT5.K5.KT8.AQ42 98.AJT76.QJ92.65 K43.8.A654.KT987 J762.Q9432.73.J3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "E"]
+Pass 1C 1H 2C
+3H Pass Pass X!
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ.2.863.AT97532 J42.AK754.7.KJ86 KT96.QJ3.AKJT5.4 8753.T986.Q942.Q "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "S"]
+2C 2H X 3H
+Pass Pass 3N Pass
+Pass Pa an th
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ.2.863.AT97532 J42.AK754.7.KJ86 KT96.QJ3.AKJT5.4 8753.T986.Q942.Q "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "S"]
+2C 2H X! 3H
+Pass Pass 3N Pass
+Pass X Pass Pass
+4C Pass 4D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Sverrir"]
+[North "Rúnar"]
+[East "Aðalsteinn"]
+[South "Símon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT84.AK85432.82.KJ2 6.Q5.AJ85432.A9 QJT97.T974.QT.7653 .AKJ63.K976."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Breki jarðverk"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eykt"]
+[Auction "W"]
+2C 2H 4H 5H
+Pa Pass 6C 6H
+X Pass Pass Pass
+[Play "E"]
+*
+
+

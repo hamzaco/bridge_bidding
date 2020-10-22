@@ -1,0 +1,567 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K953.AKJ6.J854.2 A84.T74.AKT72.A3 QT.983.93.QJ8765 J762.Q52.Q6.KT94 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+Pass Pass 1H X
+Pass 2S Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+HK H4 H3 H5
+C2 C3 CJ CK
+D4 D2 D3 DQ
+D5 DA D9 D6
+D8 DK C5 S2
+DJ D7 C6 C4
+HA H7 H8 H2
+H6 HT H9 HQ
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K953.AKJ6.J854.2 A84.T74.AKT72.A3 QT.983.93.QJ8765 J762.Q52.Q6.KT94 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+Pass Pass 1D 1N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T53.Q83.Q832.K42 96.7.65.QJT98763 K8742.T92.JT94.A AQJ.AKJ654.AK7.5 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+2C Pass 2D Pass
+2H Pass 3C Pass
+3N Pass 5C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T53.Q83.Q832.K42 96.7.65.QJT98763 K8742.T92.JT94.A AQJ.AKJ654.AK7.5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+2D Pass 2H Pass
+3H Pass 4C Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q.K86.KJ74.AT654 J8762.AT5.A52.73 K943.J74.QT3.Q92 AT5.Q932.986.KJ8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "S"]
+1C Pass 1H an
+!S Pass 2C Pass
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q.K86.KJ74.AT654 J8762.AT5.A52.73 K943.J74.QT3.Q92 AT5.Q932.986.KJ8 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "3"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "S"]
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q943.K3.Q42.7532 875.J8762.KJ.QT6 AT2.9.AT97653.A8 KJ6.AQT54.8.KJ94 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+Pass 1D 1H X
+3H X 4H X
+Pass 5D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q943.K3.Q42.7532 875.J8762.KJ.QT6 AT2.9.AT97653.A8 KJ6.AQT54.8.KJ94 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+Pass 1D 1H 1S
+3H X 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A76.A4.942.QJT64 T942.9.A8653.753 KJ85.KJ.KJT7.AK9 Q3.QT876532.Q.82 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+1D 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A76.A4.942.QJT64 T942.9.A8653.753 KJ85.KJ.KJT7.AK9 Q3.QT876532.Q.82 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+1D 3H 3N Pass
+4N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K953.Q65.K.AQT32 74.J842.Q43.8764 AQJT86.A.J9762.K 2.KT973.AT85.J95 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+Pass 1C Pass 1H
+X 2S Pass 3H
+Pass 3S Pass 4C
+Pass 4D Pass 4N
+Pass 5H Pass 6S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K953.Q65.K.AQT32 74.J842.Q43.8764 AQJT86.A.J9762.K 2.KT973.AT85.J95 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2S Pass 2N
+an   Pass 4D
+Pass 4N Pass 5H
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK974.AQT5.J987.63 AQT95.K4.AKQ6.QJ KJ83.9632.T54.T852 7642.J87.32."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "S"]
+1S X Pass 2H
+X 4H X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK974.AQT5.J987.63 AQT95.K4.AKQ6.QJ KJ83.9632.T54.T852 7642.J87.32."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "S"]
+1S X Pass 2H
+X XX 2S Pass
+Pass 4H X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 94.A65.T62.AKJT9 KJ763.83.J98.874 AQ5.T2.AQ75.6532 T82.KQJ974.K43.Q "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+Pass 1N 2D 2N
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 94.A65.T62.AKJT9 KJ763.83.J98.874 AQ5.T2.AQ75.6532 T82.KQJ974.K43.Q "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+Pass 1D 2H 3C
+Pass 3H X XX
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K9.75.AK962.A876 Q873.43.754.KT93 T54.AKQJ962.Q.QJ AJ62.T8.JT83.542 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+3N Pass 4C Pass
+4D Pass 6H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K9.75.AK962.A876 Q873.43.754.KT93 T54.AKQJ962.Q.QJ AJ62.T8.JT83.542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Division Nationale"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Multon"]
+[North "Ste Marie"]
+[East "Zimmermann"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 982.T832.Q.K9743 KQ5.Q5.AKT832.T6 T43.AKJ74.976.AQ AJ76.96.J54.J852 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+

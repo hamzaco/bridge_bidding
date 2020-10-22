@@ -1,0 +1,205 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Tørkli"]
+[North "Johansen"]
+[East "Fjælberg"]
+[South "Lyngen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A.AQ8532.A.KQT92 KQ962.K4.Q7642.4 75.J.KT9853.8765 JT843.T976.J.AJ3 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "salten rundt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "baias"]
+[Auction "W"]
+1S 3D 4S 5H
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+C9 C4 C5 CA
+CK H4 C6 C3
+DA D2 D3 DJ
+H2 HK HJ H6
+SA SK S5 S3
+HA D4 D5 H7
+*
+
+
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Tørkli"]
+[North "Johansen"]
+[East "Fjælberg"]
+[South "Lyngen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K542.92.4.Q97653 A873.JT874.A83.J Q9.A53.Q9752.KT8 JT6.KQ6.KJT6.A42 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "salten rundt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "baias"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1N Pass 2C
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+S2 SA SQ S6
+H2 H4 HA H6
+SK S3 S9 ST
+S5 S7 H3 SJ
+C3 CJ C8 CA
+H9 H7 H5 HK
+D4 D3 DQ DJ
+C5 H8 CK C2
+*
+
+
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Tørkli"]
+[North "Johansen"]
+[East "Fjælberg"]
+[South "Lyngen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J.AT6.A6.AT76543 T9743.J4.Q853.98 A86.Q75.JT97.KQJ KQ52.K9832.K42.2 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "salten rundt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "baias"]
+[Auction "E"]
+1H 2C Pass 2H
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+SJ S3 S6 SQ
+D6 S4 SA SK
+C3 C9 CJ C2
+C4 C8 CQ S5
+HA H4 HQ HK
+CA D3 CK H3
+C6 D5 D7 D2
+C5 D8 D9 S2
+C7 DQ DT D4
+CT S7 S8 DK
+DA ST DJ H2
+H6 HJ H5 H8
+HT S9 H7 H9
+*
+
+
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Tørkli"]
+[North "Johansen"]
+[East "Fjælberg"]
+[South "Lyngen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K84.KQ62.T643.AK 7653.T4.9.QJT972 Q9.AJ5.AKQ872.64 AJT2.9873.J5.853 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "salten rundt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "baias"]
+[Auction "S"]
+1N Pass 4N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Tørkli"]
+[North "Johansen"]
+[East "Fjælberg"]
+[South "Lyngen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ4.AT63.8.KQ942 T82.KJ987.J73.J8 KJ73.54.K652.753 965.Q2.AQT94.AT6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "salten rundt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "baias"]
+[Auction "W"]
+Pass Pass 1D 2C
+X! 3C Pass 4C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Monrad Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Tørkli"]
+[North "Johansen"]
+[East "Fjælberg"]
+[South "Lyngen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 9.Q653.6.AQ97543 KJ7.9874.Q9753.K Q842.AKJT.KJ82.2 AT653.2.AT4.JT86 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "salten rundt"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "baias"]
+[Auction "N"]
+1D Pass 1H Pass
+3H Pass 4C Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+

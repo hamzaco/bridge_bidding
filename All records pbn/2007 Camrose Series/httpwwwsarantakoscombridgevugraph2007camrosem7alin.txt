@@ -1,0 +1,930 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A842.K9.J853.K42 Q976.QT4.K92.QJ3 KJT53.J72.T7.AT9 .A8653.AQ64.8765 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "N"]
+Pass 1H Pass 2H
+2S 3H 3S 4H
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+S8 S6 S3 H3
+HK H4 H2 H5
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A842.K9.J853.K42 Q976.QT4.K92.QJ3 KJT53.J72.T7.AT9 .A8653.AQ64.8765 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "N"]
+[Play "E"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ83.2.T862.KQJ8 JT4.AK94.95.AT93 A652.QJT73.Q7.76 97.865.AKJ43.542 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "E"]
+Pass 1C 1H Pass
+2C Pass 2H X
+Pass Pass 2S X
+3D X Pass Pass
+Pass
+[Play "S"]
+CK CA C7 C4
+H2 HA H3 H6
+D6 D5 D7 DK
+D2 D9 DQ DA
+D8 S4 S5 DJ
+CJ C3 C6 C2
+DT ST H7 D4
+S3 SJ SA S7
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ83.2.T862.KQJ8 JT4.AK94.95.AT93 A652.QJT73.Q7.76 97.865.AKJ43.542 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "E"]
+Pass 1D X 1H
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 96.Q2.Q9652.QJ96 87.KT98765.AJ.K4 AKQ3.43.T843.852 JT542.AJ.K7.AT73 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 96.Q2.Q9652.QJ96 87.KT98765.AJ.K4 AKQ3.43.T843.852 JT542.AJ.K7.AT73 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJT2.J92.Q92.J82 Q53.KQ4.AT8643.7 K87.T876.J75.643 964.A53.K.AKQT95 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "W"]
+1D Pass 2C Pass
+2D Pass 3C Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJT2.J92.Q92.J82 Q53.KQ4.AT8643.7 K87.T876.J75.643 964.A53.K.AKQT95 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "W"]
+1D Pass 2C Pass
+2D Pass 3C Pass
+3H Pass 3S X
+3N Pass 4N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKJ3.J5.AJ84.J74 874.T97.KT952.Q2 QT62.Q82.Q76.KT8 95.AK643.3.A9653 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "N"]
+Pass 1H X 2H
+2S 3H 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKJ3.J5.AJ84.J74 874.T97.KT952.Q2 QT62.Q82.Q76.KT8 95.AK643.3.A9653 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "N"]
+Pass 1H X 2H
+2S 3C Pass 3D
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A92.K4.Q732.9854 K843.J9.J95.QT76 QJ6.AQ87652.AT4. T75.T3.K86.AKJ32 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "E"]
+1C Pass 1D 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A92.K4.Q732.9854 K843.J9.J95.QT76 QJ6.AQ87652.AT4. T75.T3.K86.AKJ32 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "E"]
+1C Pass 1S 2H
+Pass Pass 3C 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K97.AJT86.6.AQ83 Q842.4.AKQ952.95 AT5.KQ75.43.J642 J63.932.JT87.KT7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "S"]
+1H 2D 3D Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K97.AJT86.6.AQ83 Q842.4.AKQ952.95 AT5.KQ75.43.J642 J63.932.JT87.KT7 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "S"]
+1H 2D 2N 3D
+4D 5D Pa Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q872.K654.A4.AT6 A6.JT97.8752.QJ3 KJ9.AQ8.KJ9.K852 T543.32.QT63.974 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q872.K654.A4.AT6 A6.JT97.8752.QJ3 KJ9.AQ8.KJ9.K852 T543.32.QT63.974 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "W"]
+Pass 1C Pass 2D
+Pass 2N Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q6.74.AKQ875.965 KJ53.KJT98.Q832.T72 A52.96.AKJT4.A984 Q63.JT432.7."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "N"]
+1C Pass 1S 2H
+Pass 3H X! Pass
+4C Pass 4D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q6.74.AKQ875.965 KJ53.KJT98.Q832.T72 A52.96.AKJT4.A984 Q63.JT432.7."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "N"]
+1D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQT42.QJ9.J87.AJ J987.K6.KQT92.K8 A3.A8752.A.Q7532 65.T43.6543.T964 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass 3C
+Pass 3H Pass 3S
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQT42.QJ9.J87.AJ J987.K6.KQT92.K8 A3.A8752.A.Q7532 65.T43.6543.T964 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass 3C
+Pass 4H Pass 4S
+Pass 5C Pass 5D
+Pass 5H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q962.87.T95.JT43 AKJ75.T6.KJ62.AQ KJ52.Q87.K97652. T843.AQ943.A43.8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "S"]
+Pass 1C 2C 2H
+3C 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q962.87.T95.JT43 AKJ75.T6.KJ62.AQ KJ52.Q87.K97652. T843.AQ943.A43.8 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "S"]
+Pass 1S 2C 4C
+Pass 4D Pass 4H
+Pass 4N Pass 5H
+Pass 6S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 9742.9765.Q82.97 QT85.AJ2.KJ4.T63 AJ3.K8.T763.AK84 K6.QT43.A95.QJ52 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "W"]
+1C 1N X 2C
+Pass Pass X XX
+Pass 2D Pass Pass
+X Pass Pass XX
+Pass 2S Pass Pass
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 9742.9765.Q82.97 QT85.AJ2.KJ4.T63 AJ3.K8.T763.AK84 K6.QT43.A95.QJ52 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "W"]
+1C 1N X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ92.QT97.JT9.Q3 7.K86543.Q763.T8 AT863.A.K8.AK964 J54.J2.A542.J752 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "N"]
+1C Pass 1D Pass
+1S Pass 3S Pass
+4N Pass 5D Pass
+6S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ92.QT97.JT9.Q3 7.K86543.Q763.T8 AT863.A.K8.AK964 J54.J2.A542.J752 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "N"]
+1C Pass 1N Pass
+2S Pass 4S Pass
+4N Pass 5D Pass
+5H Pass 6S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT.AK.QJ953.AJ96 87.T96542.82.843 AK53.J873.AT76.K Q9642.Q.K4.QT752 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "E"]
+1S 2D Pass 2S
+Pass 3S Pass 4C
+Pass 5C Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT.AK.QJ953.AJ96 87.T96542.82.843 AK53.J873.AT76.K Q9642.Q.K4.QT752 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT965.J.Q5.J9732 85432.AK932.K64.KJ42 QT96.T76.T8. A873.AK7.J84.AQ5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "S"]
+Pass 1H Pass 2D
+Pass 2H Pass 2S
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT965.J.Q5.J9732 85432.AK932.K64.KJ42 QT96.T76.T8. A873.AK7.J84.AQ5 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 4S Pass 6D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Camrose Series"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hanlon"]
+[North "Gold"]
+[East "Garvey"]
+[South "Townsend"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T942.Q98763.5.AJ AJ8.5.AT2.KQT843 3.A.KQJ986.97652 KQ765.KJT42.743."]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Holders"]
+[Auction "W"]
+2C 4D Pass Pass
+Pass
+[Play "E"]
+*
+
+

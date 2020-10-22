@@ -1,0 +1,340 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJT52.KJT.J4.AJT K98.83.A873.Q742 A6.954.QT92.9863 743.AQ762.K65.K5 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "N"]
+Pass 1H 1S 1N
+Pass Pass Pass
+[Play "N"]
+S2 S8 SA S3
+ST S9 S6 S4
+SQ SK H5 S7
+HK H8 H4 HQ
+SJ C2 C9 H2
+S5 D3 C3 D5
+HJ H3 H9 HA
+HT C4 D2 H6
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKQ543.J65.T.QJT J96.T43.Q62.K982 82.K87.A98.A6543 T7.AQ92.KJ7543.7 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "E"]
+Pass 1S Pass 2C
+X an ot 2S
+Pass Pass 3D Pass
+Pass 3S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 72.KQT742.74.762 AKQT84.95.6.J984 93.J83.J95.AQT53 J65.A6.AKQT832.K "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "S"]
+2H 2S Pass 3H
+X Pass Pass 4H
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J9864.A53.5.AJ92 Q53.Q4.9732.KQ87 AT.J982.AQJ6.T64 K72.KT76.KT84.53 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K.AKQT3.32.KJT32 JT832.986.AQT9.A A5.754.764.Q9754 Q9764.J2.KJ85.86 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "N"]
+Pass Pass 1H 1S
+2H 3S 4H 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ752.J6.KT92.73 J9.872.A3.KJ8652 KT643.A95.875.T4 8.KQT43.QJ64.AQ9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "E"]
+1H 1S 2H 3N
+an !S 4H Pass
+Pass 4S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJT983.A6.KJT3.4 K.932.974.KQ9863 A6.KQ87.Q52.AJ75 7542.JT54.A86.T2 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "S"]
+1S Pass 1N Pass
+2C X 2D Pass
+2N Pass 3C Pass
+3H Pass 3S Pass
+3N Pass 4D Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ52.QJ5.QJ8.JT3 43.T832.952.AKQ5 KQ87.K76.AT.9842 T96.A94.K7643.76 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "W"]
+Pass 1D Pass 1S
+an Na Pass 2S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 83.AK6.AK872.T96 J96.8542.95.AK43 Q752.QJT3.Q.J875 AKT4.97.JT643.Q2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "N"]
+1H Pass 2H 2S
+Pass Pass 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ8.KT6.7642.KQ6 J653.A53.KQJT5.2 A72.Q.A83.AJT873 T94.J98742.9.954 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "E"]
+Pass 1D Pa an
+10 1N an as
+Pass 2C an 10
+Pass 3H Pass 3N
+an sh Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Chan"]
+[North "Hughes"]
+[East "Malaczynsk"]
+[South "Griffin"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT98.K.KQ742.QJ4 A7.J76.T653.8632 5432.Q985.J98.A5 KQ6.AT432.A.KT97 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Hughes-Griffin"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chan-Malaczynski"]
+[Auction "S"]
+1S Pass 3C an
+4! Pass an 4!
+3S Pass Pass Pass
+[Play "W"]
+*
+
+

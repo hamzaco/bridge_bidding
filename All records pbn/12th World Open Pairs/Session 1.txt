@@ -1,0 +1,765 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJT73.A83.Q.J654 K4.QT6542.K82.K2 965.KJ.JT76.T973 Q82.97.A9543.AQ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D 1S 2H
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+ST SK S9 S2
+DQ D2 D6 D9
+HA H2 HJ H7
+H8 H4 HK H9
+SJ S4 S6 S8
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 4.KQ983.A.AKQT73 AJ73.J42.KQT.J98 K962.T76.6532.62 QT85.A5.J9874.54 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 2H Pass Pass
+X XX 2S X
+Pass 4H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J2.AQT5.JT9765.T Q953.J94.43.9743 A876.K8762.A2.J5 KT4.3.KQ8.AKQ862 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1H X
+4D Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T8.J97.AJ8542.KQ 432.A42.93.AJ743 Q9.KQT63.KQ6.T65 AKJ765.85.T7.982 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1H 1S 2N
+X 3H Pass Pass
+3S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J93.KT9.JT72.QJ9 K75.Q4.AK43.AT62 864.6532.5.87543 AQT2.AJ87.Q986.K "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D Pass 2C
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q73.K53.AQT3.K73 J9865.2.J742.Q96 A4.QT9864.K95.A2 KT2.AJ7.86.JT854 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1N Pass 4H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J8.K98642.985.53 QT6.3.A763.AKQ72 A5432.AJ7.K42.JT K97.QT5.QJT.9864 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C 1S 1N
+2H X Pass 3C
+Pass Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 53.T5.AKT87.AJ43 QJ764.82.J64.Q65 AK92.J9764.Q95.K T8.AKQ3.32.T9872 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J753.A5.J53.K863 A862.J42.KQT987.KQT4 KT6.A2.A974. 9.Q9873.64.QJT52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass 2C 2D
+Pass Pass 2H Pass
+2S Pass 2N Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T52.53.KJ73.J643 A93.A764.98542.7 J86.QT8.Q.AQT952 KQ74.KJ92.AT6.K8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N Pass 2C X
+Pass Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K873.KJ875.42.32 AQ94.QT2.AQT65.4 6.9643.87.AQ8765 JT52.A.KJ93.KJT9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1D 2C X
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T84.T9843.AK7.QT Q62.5.Q64.K86532 K97.AQ6.J9832.J9 AJ53.KJ72.T5.A74 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1H Pass
+1N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT74.QJ4.J7.K975 AQJ62.93.843.A32 3.652.AT52.QJ864 985.AKT87.KQ96.T "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2D Pass 2N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 9.7642.K43.76542 T874.KT83.JT.Q83 KQJ5.AQ9.A8.KJT9 A632.J5.Q97652.A "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 2N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ.AQJ92.9642.Q3 KJT8654.K76.T.82 92.AJ8753.AKJ54.73 T8543.KQ.T976."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1N 3S 4S Pass
+5H Pass 5S Pass
+6D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T5.AT952.42.AKJ6 J86.AKQJ853.Q74.AK32 K8643.T97.T.Q974 QJ7.6.98532."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D 1H Pass 4H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J32.AKJ8.J7.T853 AT.T642.QT963.Q4 9765.53.A842.J72 KQ84.Q97.K5.AK96 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.KQ7643.KT42.K6 Q86.T852.J65.T74 KJT73.A.973.8532 9542.J9.AQ8.AQJ9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C 1H Pass 1S
+Pass 2D Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 854.Q32.J8.QJ842 J72.T654.KT65.A9 AK6.AJ87.94.K653 QT93.K9.AQ732.T7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T6.KT9532.AQ6.52 QJ9842.6.75.K863 73.A7.KJT942.QT7 AK5.QJ84.83.AJ94 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2S 3D 4S 5D
+Pass Pass X Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJT974.653.AQ5.5 K5.T872.9742.KJT Q86.AQJ4.T.AQ842 32.K9.KJ863.9763 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 2D Pass
+2H Pass 2S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ72.AKQ863.AKT.Q63 42.98753.T86.T54 J5.QJ2.AJ754. A98.T97.64.KQ932 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C Pass 1N
+Pass 2H Pass 3C
+Pass 3H Pass 4H
+Pass 6H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJT.KT63.86.KQ96 AQ753.972.Q2.T52 64.Q54.T9753.AJ3 982.AJ8.AKJ4.874 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C 1S 2C X
+Pass 2S Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T.JT754.KQ5.JT74 Q32.Q982.J8.A852 AKJ865.A63.3.Q63 974.K.AT97642.K9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S 3D Pass
+Pass X Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T96.AQT87.6.KJ53 754.J.87432.T762 KQ32.K92.KT5.Q84 AJ8.6543.AQJ9.A9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D 1N X XX
+Pass 2D Pass Pass
+X Pass 3H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Auken"]
+[North "Ozdil"]
+[East "Christians"]
+[South "Ginossar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q974.KQ53.964.T7 52.AJ876.AQ2.KQ4 K6.4.KJ87.AJ9652 AJT83.T92.T53.83 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1H 2C 2H
+Pass Pass 2N Pass
+3C Pass Pass Pass
+[Play "None"]
+*
+
+

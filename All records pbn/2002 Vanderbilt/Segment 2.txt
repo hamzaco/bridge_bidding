@@ -1,0 +1,921 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT84.Q98.AJ.J753 A7.AKJT3.T53.AK2 K3.7652.Q84.Q864 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 2N
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+CJ CA C4 C9
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT84.Q98.AJ.J753 A7.AKJT3.T53.AK2 K3.7652.Q84.Q864 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass Pass Pass 2N
+Pass 3H Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+CJ C2 C4 C9
+C7 CA C6 CT
+DJ D5 D4 D9
+C5 CK C8 S2
+DA D3 D8 DK
+C3 H3 CQ S5
+S8 DT DQ D2
+HQ HA H7 H4
+H8 HK H2 D6
+H9 HJ H5 D7
+S4 HT H6 S6
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q53.A5.763.A8762 KJT7.J9.KT5.QT93 842.KQT63.42.K54 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1D Pass 1S Pass
+2D Pass 3D Pass
+3S Pass Pass Pass
+[Play "N"]
+HA H9 HK H2
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q53.A5.763.A8762 KJT7.J9.KT5.QT93 842.KQT63.42.K54 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1D Pass 1S Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ6.AKQ753.QJ76.JT752 2.J85.A843.983 JT64.AT974.K."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1H Pass 3D Pass
+3S Pass 4C Pass
+6H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ6.AKQ753.QJ76.JT752 2.J85.A843.983 JT64.AT974.K."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1C Pass 2C Pass
+2D Pass 3D X
+3S Pass 4C Pass
+6H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K54.A53.J82.T842 9832.86.QT64.Q96 JT7.Q974.AK3.K53 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1C X 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K54.A53.J82.T842 9832.86.QT64.Q96 JT7.Q974.AK3.K53 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1D X 1S
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT2.AJ63.7.AQJ63 QJ.KQ.KJ532.K984 A98643.87.AQT9.5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 2S Pass
+3S Pass 4C Pass
+4D Pass 4H Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT2.AJ63.7.AQJ63 QJ.KQ.KJ532.K984 A98643.87.AQT9.5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 3C Pass
+3D Pass 3H Pass
+3S Pass 4C Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 432.J865.J92.AQ4 K75.T943.QT63.K2 JT96.AQ2.87.J986 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1N Pass 2C Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 432.J865.J92.AQ4 K75.T943.QT63.K2 JT96.AQ2.87.J986 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1N Pass Pass 2C
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J953.AKQ.K53.864 A642.J6.QJ876.J7 KT.98542.92.AT95 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1C Pass 1H Pass
+1N Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J953.AKQ.K53.864 A642.J6.QJ876.J7 KT.98542.92.AT95 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9872.T54.653.Q97 Q4.QJ8.8742.A632 AKJT.K632.A9.T85 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9872.T54.653.Q97 Q4.QJ8.8742.A632 AKJT.K632.A9.T85 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT84.5.AT976.952 7.J84.J843.KQ873 AJ53.KQ962.2.J64 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1H Pass 1S Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT84.5.AT976.952 7.J84.J843.KQ873 AJ53.KQ962.2.J64 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1H 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9.Q73.QT632.J764 A765.82.KJ75.QT5 KT82.AJ965.84.A9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1C Pass 1D X
+Pass 1H 1S 2H
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9.Q73.QT632.J764 A765.82.KJ75.QT5 KT82.AJ965.84.A9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1C Pass 1S 2H
+2S 3H Pass Pass
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A95.T95.76.QT953 KQ87.QJ43.J5.J42 T432.A76.T843.AK "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A95.T95.76.QT953 KQ87.QJ43.J5.J42 T432.A76.T843.AK "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass Pass 1D Pass
+1N Pass Pass 2D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT74.A98.J43.765 K.J765.K5.KJT843 J32.KT43.Q97.A92 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass Pass 1S Pass
+1N Pass 2D Pass
+2N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT74.A98.J43.765 K.J765.K5.KJT843 J32.KT43.Q97.A92 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass Pass 1S Pass
+1N Pass 2D Pass
+2N Pass 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT63.KT872.K96.Q 975.A654.QJ54.KT Q82.J3.AT732.AJ5 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass Pass 1H Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT63.KT872.K96.Q 975.A654.QJ54.KT Q82.J3.AT732.AJ5 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1D Pass 1H Pass
+1N Pass 2C Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A972.K76.QT87.52 KQJT6.82.53.AKT8 854.AQJ.AJ6.QJ96 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass Pass 1S Pass
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A972.K76.QT87.52 KQJT6.82.53.AKT8 854.AQJ.AJ6.QJ96 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass Pass 1S X
+Pass 1N 2C X
+Pass Pass 2S Pass
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJT864.AJ643.4.7 AQ53.Q5.QJ3.A865 7.K97.AK8765.QJ9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1S Pass 2D Pass
+2H Pass 2N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJT864.AJ643.4.7 AQ53.Q5.QJ3.A865 7.K97.AK8765.QJ9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1S 1N X XX
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 Vanderbilt"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Freeman R"]
+[North "Smith Ron"]
+[East "Nickell N"]
+[South "Willenken C"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: JT.K5.QT93.AK874 8653.T73.A864.T9 A74.AQ962.KJ2.Q5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Pavlicek"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1N Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+

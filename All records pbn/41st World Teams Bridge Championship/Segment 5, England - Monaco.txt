@@ -1,0 +1,937 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ43.T83.Q95.KJ3 K8.9764.T63.T942 Q952.AQJ5.42.Q86 T76.K2.AKJ87.A75 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "N"]
+1H 1N X Pass
+Pass Pass
+[Play "S"]
+H3 H6 HJ HK
+D5 D3 D4 DA
+D9 D6 D2 DK
+DQ DT S2 DJ
+HT H4 H5 H2
+H8 H9 HQ S6
+SJ H7 HA C5
+C3 C4 C6 CA
+S3 C2 S5 D8
+S4 C9 C8 D7
+CJ CT CQ C7
+SA S8 S9 S7
+CK SK SQ ST
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ43.T83.Q95.KJ3 K8.9764.T63.T942 Q952.AQJ5.42.Q86 T76.K2.AKJ87.A75 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "N"]
+1C 1N X Pass
+Pass 2D Pass Pass
+X Pass Pass Pass
+[Play "S"]
+H3 H4 HA H2
+D5 D3 D4 DA
+S4 SK S5 S7
+SJ S8 S2 S6
+SA D6 S9 ST
+D9 DT D2 DK
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9.QT8654.JT4.KQ9 Q84.7.98765.JT64 7.K93.AKQ3.87532 AKJT6532.AJ2.2.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "E"]
+2C Pass 2H Pass
+4S Pass Pass Pass
+[Play "S"]
+CK C4 C5 CA
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9.QT8654.JT4.KQ9 Q84.7.98765.JT64 7.K93.AKQ3.87532 AKJT6532.AJ2.2.A "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "E"]
+2C Pass 2D Pass
+2S Pass 2N Pass
+3S Pass 4H Pass
+6S Pass Pass Pass
+[Play "S"]
+H5 H7 HK HA
+S9 S4 S7 SA
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8.KT92.KQ6432.T7 T7532.QJ.A95.A65 AK64.A876.JT.QJ4 QJ9.543.87.K9832 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "S"]
+Pass Pass 1N Pass
+3S Pass 4H Pass
+Pass Pass
+[Play "E"]
+H2 HQ HA H3
+S8 S2 SA S9
+C7 S3 SK SJ
+D2 D9 DJ D8
+DQ DA DT D7
+H9 S5 S4 SQ
+HK HJ H6 H4
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8.KT92.KQ6432.T7 T7532.QJ.A95.A65 AK64.A876.JT.QJ4 QJ9.543.87.K9832 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "S"]
+1D 1S X 2S
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+S8 S2 SA S9
+C7 S7 SK SJ
+D6 D5 DT D7
+HK HJ H6 H3
+H2 HQ HA H4
+DK DA DJ D8
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK3.J862.KQJ73.Q T754.AK54.6.T875 Q62.Q73.T9542.A9 J98.T9.A8.KJ6432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK3.J862.KQJ73.Q T754.AK54.6.T875 Q62.Q73.T9542.A9 J98.T9.A8.KJ6432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 2C X 2D
+3C X Pass 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ.Q97.A8.KQJT72 K96542.84.52.943 Q87.AT6.T743.865 T3.KJ532.KQJ96.A "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "N"]
+Pass 1H 2C 2S
+Pass 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ.Q97.A8.KQJT72 K96542.84.52.943 Q87.AT6.T743.865 T3.KJ532.KQJ96.A "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "N"]
+Pass 1H X 2S
+Pass Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKT.AQT72.A6.972 J93.KJ4.KQ52.Q84 7654.93.J743.J65 Q82.865.T98.AKT3 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "E"]
+Pass 1H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKT.AQT72.A6.972 J93.KJ4.KQ52.Q84 7654.93.J743.J65 Q82.865.T98.AKT3 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "E"]
+Pass 1H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A75.93.A85.AT964 9862.K7.KT963.87 K3.JT8642.J7.QJ2 QJT4.AQ5.Q42.K53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "S"]
+1C Pass 1H 1S
+Pass 2H Pass 2N
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A75.93.A85.AT964 9862.K7.KT963.87 K3.JT8642.J7.QJ2 QJT4.AQ5.Q42.K53 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "S"]
+1C Pass 2D Pass
+2H Pass Pass X
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT2.J73.Q765.T63 Q85.KQT862.K92.8 764.A54.AT83.QJ2 AK93.9.J4.AK9754 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "W"]
+2H Pass 3C Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT2.J73.Q765.T63 Q85.KQT862.K92.8 764.A54.AT83.QJ2 AK93.9.J4.AK9754 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "W"]
+1H Pass 2C Pass
+2H Pass 2S Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T54.876.9532.A65 J832.KQJ54.J874.A96 A32.AKQJ4.Q3.KQ7 T9.T876.KT92."]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "N"]
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T54.876.9532.A65 J832.KQJ54.J874.A96 A32.AKQJ4.Q3.KQ7 T9.T876.KT92."]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "N"]
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKQ84.Q3.Q6.A432 T62.K8.AT43.J987 3.T9765.K872.T65 J975.AJ42.J95.KQ "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "E"]
+Pass 1S Pass Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKQ84.Q3.Q6.A432 T62.K8.AT43.J987 3.T9765.K872.T65 J975.AJ42.J95.KQ "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "E"]
+1D X 1N Pass
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 954.92.QT85.AJ75 QJ87.J63.A76.964 K6.K854.K93.KQ83 AT32.AQT7.J42.T2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "S"]
+Pass Pass 1C X
+2C 2S Pass Pass
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 954.92.QT85.AJ75 QJ87.J63.A76.964 K6.K854.K93.KQ83 AT32.AQT7.J42.T2 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 1S Pass Pass
+2C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 632.74.AKJT92.K7 7.AQT9.864.98653 AKJT8.KJ83.75.AJ Q954.652.Q3.QT42 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "W"]
+Pass 1S Pass 2D
+Pass 2H Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 632.74.AKJT92.K7 7.AQT9.864.98653 AKJT8.KJ83.75.AJ Q954.652.Q3.QT42 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "W"]
+Pass 1S Pass 2D
+Pass 2H Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT8654.AQ6.AJ52.A9 A9742.K932.76.Q72 KQT3.84.K983.K3 J865.JT75.QT4."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "N"]
+Pass Pass 1S X
+XX 2H Pass Pass
+2S X Pass 3H
+Pass Pass 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT8654.AQ6.AJ52.A9 A9742.K932.76.Q72 KQT3.84.K983.K3 J865.JT75.QT4."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "N"]
+Pass Pass 1S Pass
+2D Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQT9.6543.J92.T6 J.KT97.AQ653.AQ4 A865.2.KT84.J982 7432.AQJ8.7.K753 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 3S Pass
+4N Pass 5D Pass
+6H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQT9.6543.J92.T6 J.KT97.AQ653.AQ4 A865.2.KT84.J982 7432.AQJ8.7.K753 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H 1S 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 843.J2.T972.9854 AKQJ6.94.85.K763 52.KT87.KQJ63.AQ T97.AQ653.A4.JT2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "S"]
+Pass 1S X Pass
+2C 2S Pass 3C
+Pass 3S Pass 4C
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 843.J2.T972.9854 AKQJ6.94.85.K763 52.KT87.KQJ63.AQ T97.AQ653.A4.JT2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "S"]
+Pass 1S X XX
+Pass Pass 2D 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "41st World Teams Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "FORRESTER"]
+[North "HELGEMO"]
+[East "ROBSON"]
+[South "HELNESS"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 5.Q4.J9874.K9764 AQ9.AJ72.KQT.T85 T2.98653.A63.AQ2 KJ87643.KT.52.J3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MONACO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ENGLAND"]
+[Auction "W"]
+1N Pass 4D Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+

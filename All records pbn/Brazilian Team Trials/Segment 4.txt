@@ -1,0 +1,932 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 86.AK.KT542.J432 J7542.T63.J86.KQ AK.Q9872.973.A65 QT93.J54.AQ.T987 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+1H Pass 2D Pass
+2H Pass 3C Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+S6 S2 SA ST
+DK D6 D3 DQ
+D2 D8 D9 DA
+C2 CK CA CT
+HA HT H2 H4
+HK H6 H7 H5
+C3 CQ C5 C9
+S8 S5 SK S3
+D4 H3 HQ HJ
+D5 S4 H9 S9
+DT S7 H8 SQ
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 86.AK.KT542.J432 J7542.T63.J86.KQ AK.Q9872.973.A65 QT93.J54.AQ.T987 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+1H Pass 1S Pass
+2C Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+S8 S4 SA S3
+D4 D6 D3 DA
+S6 S2 SK ST
+HA H3 H2 H4
+HK H6 H7 HJ
+C4 CQ CA C7
+D2 HT HQ H5
+C2 D8 H9 SQ
+C3 S5 H8 DQ
+DK DJ D9 S9
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKT853.Q754.A75.J T9854.AT83.T98.Q964 732.K962.43.72 AKQJ6.J.KQJ62."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+1H 1S 4H 4S
+5H 5S Pass Pass
+6H Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKT853.Q754.A75.J T9854.AT83.T98.Q964 732.K962.43.72 AKQJ6.J.KQJ62."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+1H 1S 4H 4S
+5H 5S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ732.J53.954.87 AQ64.K.QJT763.A3 T9.942.A8.QJT964 85.AQT876.K2.K52 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+Pass 1D 3C 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ732.J53.954.87 AQ64.K.QJT763.A3 T9.942.A8.QJT964 85.AQT876.K2.K52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S 2C 3C
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A3.AJ97.A932.K94 KQT.86.KQT76.A86 J76542.Q.4.QJT72 98.KT5432.J85.53 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A3.AJ97.A932.K94 KQT.86.KQT76.A86 J76542.Q.4.QJT72 98.KT5432.J85.53 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+1N Pass 2D Pass
+2H 2S Pass 3H
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T.T9.7642.KQ9653 QJ7652.7.AQT9.J2 943.AQ83.K853.A4 AK8.KJ6542.J.T87 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+Pass Pass Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T.T9.7642.KQ9653 QJ7652.7.AQT9.J2 943.AQ83.K853.A4 AK8.KJ6542.J.T87 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+1D 1H 2D 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT932.J.Q64.JT54 AJ84.K9742.32.72 5.QT6.AKT9.AKQ86 Q76.A853.J875.93 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1S Pass 2D
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT932.J.Q64.JT54 AJ84.K9742.32.72 5.QT6.AKT9.AKQ86 Q76.A853.J875.93 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1S Pass 2D
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJT6.KQ764.KQ.93 532.A953.65.AT62 AK4.2.AJ942.KJ75 987.JT8.T873.Q84 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+1H Pass 2D Pass
+2H Pass 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJT6.KQ764.KQ.93 532.A953.65.AT62 AK4.2.AJ942.KJ75 987.JT8.T873.Q84 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+1H Pass 2D Pass
+2H Pass 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A7.QJ53.QJT3.KJ9 KT96.62.AK2.7642 J83.KT94.9754.Q5 Q542.A87.86.AT83 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1H Pass 2H
+X Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A7.QJ53.QJT3.KJ9 KT96.62.AK2.7642 J83.KT94.9754.Q5 Q542.A87.86.AT83 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1H X 2H
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ43.Q983.Q53.QJ 85.AT62.A982.K62 KJ96.J754.KT4.53 T72.K.J76.AT9874 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ43.Q983.Q53.QJ 85.AT62.A982.K62 KJ96.J754.KT4.53 T72.K.J76.AT9874 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H 2C 2H 3C
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T74.A2.KT87.AK94 AKQ653.QT6.AJ2.2 9.984.Q9654.J875 J82.KJ753.3.QT63 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+Pass 1C X 2C
+2H 3C 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T74.A2.KT87.AK94 AKQ653.QT6.AJ2.2 9.984.Q9654.J875 J82.KJ753.3.QT63 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+Pass 1C X Pass
+1H Pass 1S Pass
+3S Pass 4C Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT63.KJ3.54.AT87 AK97.AQT4.K92.J4 Q52.86.AQ876.K95 84.9752.JT3.Q632 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT63.KJ3.54.AT87 AK97.AQT4.K92.J4 Q52.86.AQ876.K95 84.9752.JT3.Q632 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K65.KQ43.A4.KQ92 T94.AT86.J95.A83 QJ32.7.QT762.JT4 A87.J952.K83.765 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K65.KQ43.A4.KQ92 T94.AT86.J95.A83 QJ32.7.QT762.JT4 A87.J952.K83.765 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT8632.82.93.QJ7 75.AKJ643.KQ7.A8 AQJ9.Q95.AJ2.542 4.T7.T8654.KT963 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+1C Pass 1S 2H
+2S Pass Pass X
+Pass 3D 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT8632.82.93.QJ7 75.AKJ643.KQ7.A8 AQJ9.Q95.AJ2.542 4.T7.T8654.KT963 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+1C Pass 1S 2H
+2S Pass Pass X
+Pass 3D 3S Pass
+Pass 4C Pass 4D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 432.863.AKJT.KJ9 AT6.QT7.865.T764 KQJ7.AK95.Q94.Q5 985.J42.732.A832 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1N Pass 2D
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 432.863.AKJT.KJ9 AT6.QT7.865.T764 KQJ7.AK95.Q94.Q5 985.J42.732.A832 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1N Pass 2D
+Pass 2H Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 86.764.AKT74.A84 AK.AKT5.Q652.Q95 QJ5.QJ92.3.KJT62 T97432.83.J98.73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+1D 1N X 2H
+Pass 2S 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 86.764.AKT74.A84 AK.AKT5.Q652.Q95 QJ5.QJ92.3.KJT62 T97432.83.J98.73 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+1D X XX 1S
+Pass 1N X 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "VILASBOAS"]
+[North "ADRIANO"]
+[East "CHAGAS"]
+[South "MELLO"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q3.KQ73.87432.Q4 KT854.864.T65.K2 AJ92.J5.AJ9.AJ73 76.AT92.KQ.T9865 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "P BRUM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,445 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT76.KQ94.AJ873.AKJ9 8.QJ65.KQ95.8542 J753.AT32.2.3 AT62.K9874.T64."]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "N"]
+Pass Pass 1C 1S
+X Pass 2H Pass
+Pass Pass
+[Play "W"]
+S2 S3 S6 SA
+H3 H2 H9 H8
+CA C5 C2 C6
+H5 C4 C3 C9
+DA D4 S7 D5
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKT2.QJ3.5.AKJ75 Q87.AKT984.A7.84 J5.765.8632.Q962 9643.2.KQJT94.T3 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "E"]
+2D X 2H Pass
+2S 3C 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K.A976.742.JT963 AQ643.K52.J6.K72 JT952.J.AKQ5.Q84 87.QT843.T983.A5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 642.J732.J86.A87 AJ98.65.AQT2.JT3 K3.KQT8.73.96542 QT75.A94.K954.KQ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "W"]
+1D Pass 1S Pass
+2S Pass 2N Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T9865.Q7.AQ.A975 A432.A5.K97654.4 KJT642.T32.K632. KQJ7.983.J8.QJT8 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "N"]
+2H Pass Pass 3D
+Pass 3H X 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ.843.K8743.QT8 653.KJ5.QT2.AK64 A84.QT9762.A.975 KT972.A.J965.J32 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "E"]
+Pass Pass 1C 1H
+1S Pass 1N Pass
+2C 2H 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ86.52.QT7.K532 AQT72.Q97.J9.T96 53.JT4.AK65432.A 94.AK863.8.QJ874 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "S"]
+Pass Pass 1D 1H
+X 2D 3D X
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT3.AKT3.K72.876 KJ8.QJ864.86.J42 4.972.QJT4.KQT93 Q97652.5.A953.A5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "W"]
+Pass Pass 1S X
+2S 3C 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9.KJT7.T764.6543 AQJT62.6.K952.KT K73.Q984.AJ.A987 854.A532.Q83.QJ2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "N"]
+1C Pass Pass 1S
+Pass 2S X 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A6.T8.A9.AQ97532 KQJ42.K962.Q653.T97 543.JT84.KJ8. 853.AQJ7.K72.T64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "E"]
+Pass 1C X Pass
+2H 3C 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJT943.AKQ.6.KT2 K2.9654.K92.QJ87 76.J2.AQJT7543.4 A85.T873.8.A9653 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "S"]
+1S Pass 5D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 753.J74.8654.952 AQ8.Q983.J32.T76 9642.AT6.A7.AKQ8 KJT.K52.KQT9.J43 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K94.QT.642.AK653 JT53.J96.Q5.QT94 72.A8543.KJ87.82 AQ86.K72.AT93.J7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KT5.KQ.AQ.JT9832 J84.3.T9765.AKQ4 Q963.T6542.KJ.75 A72.AJ987.8432.6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Campeonato Sudamericano"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "C. Branco"]
+[North "M. Caracci"]
+[East "D. Brenner"]
+[South "J. Robles"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 7.87432.AQ85.T94 AKQT95.A6.T2.Q75 83.KT95.K7.AK832 J642.QJ.J9643.J6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chile"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Brazil"]
+[Auction "S"]
+Pass 1S X 3S
+4H 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+

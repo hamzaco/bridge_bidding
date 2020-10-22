@@ -1,0 +1,335 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ.T754.T6.QJ932 Q76.3.Q9873.AK75 8543.Q82.AKJ52.6 KT92.AKJ96.4.T84 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "N"]
+Pass Pass 1C 1D
+1S 2H Pass Pass
+Pass
+[Play "S"]
+CQ CA C6 C8
+H4 H3 H2 HJ
+H5 D3 H8 HA
+H7 S6 HQ HK
+SJ SQ S3 S2
+SA S7 S4 SK
+C3 C5 D5 CT
+HT D7 S5 ST
+DT D8 DJ D4
+*
+
+
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T52.65.KT7.JT943 KJ974.72.Q8652.K 6.AKJT98.A.A8652 AQ83.Q43.J943.Q7 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "E"]
+Pass Pass Pass 1H
+1S Pass 4S 5C
+Pass 6C Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 73.AQ.KQT86.AK75 Q92.JT854.J75.86 K85.K7632.A4.QJ9 AJT64.9.932.T432 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "S"]
+1D Pass 1H Pass
+3C Pass 3S Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 73.AQ.KQT86.AK75 Q92.JT854.J75.86 K85.K7632.A4.QJ9 AJT64.9.932.T432 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "S"]
+1C Pass 1H Pass
+1N Pass 2H Pass
+3H Pass 3N Pass
+4D Pass 5C Pass
+6H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K952.JT63.87.KQ5 QJ6.98542.A64.J8 T83.AQ7.J92.9742 A74.K.KQT53.AT63 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 2C Pass
+2D Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K952.JT63.87.KQ5 QJ6.98542.A64.J8 T83.AQ7.J92.9742 A74.K.KQT53.AT63 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "W"]
+1H Pass 2C Pass
+2D Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT3.A92.T963.A85 876542.K5.Q5.Q96 AKJ.Q64.742.KT42 9.JT873.AKJ8.J73 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "N"]
+1C Pass 1D Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT3.A92.T963.A85 876542.K5.Q5.Q96 AKJ.Q64.742.KT42 9.JT873.AKJ8.J73 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ2.AJ5.KJ73.A54 AT98743.K9.T.986 QT32.A98654.KJ2. J65.8764.Q2.QT73 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "E"]
+Pass 1D 3S 4S
+Pass 6N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ2.AJ5.KJ73.A54 AT98743.K9.T.986 QT32.A98654.KJ2. J65.8764.Q2.QT73 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "E"]
+Pass 1C 3S 4D
+Pass 4S Pass 5C
+Pass 6D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Finnish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "JLinstedt"]
+[North "Juuri - Oj"]
+[East "KLinstedt"]
+[South "Kiema"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKQ96.AKT43.4.A8 743.J.Q75.KQ9763 J5.752.A832.T542 T82.Q986.KJT96.J "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lindstedt"]
+[Auction "S"]
+2C Pass 2D Pass
+2S Pass 2N Pass
+3H Pass 3S Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+

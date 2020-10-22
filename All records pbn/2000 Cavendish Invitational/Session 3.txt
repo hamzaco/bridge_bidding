@@ -1,0 +1,786 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K854.Q974.A94.A8 T3.2.J8752.J9742 AQ972.KJ6.63.Q65 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S 2H 2N Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+DA D2 D3 DK
+SK ST S2 S6
+S4 S3 SA SJ
+H4 H2 HK HA
+H7 C2 HJ H3
+H9 C4 H6 H5
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 762.AQ53.KJT6.Q9 QT.742.AQ975.KJ2 A543.T86.42.A874 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "None"]
+DJ D7 D2 D8
+S6 ST S3 SJ
+DK DA D4 D3
+S7 SQ S4 SK
+HQ H2 H6 HJ
+S2 D5 SA S8
+D6 C2 S5 S9
+CQ CK CA C6
+C9 CJ C4 C3
+DT DQ H8 C5
+H3 D9 HT CT
+HA H4 C7 H9
+H5 H7 C8 HK
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ96.86.AKQT6.Q3 AKT4.K952.J82.82 83.AT743.95.A754 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "W"]
+CQ C8 C4 CJ
+D6 DJ D5 D3
+C3 C2 C5 C6
+H6 H2 H4 HQ
+H8 H5 HA HJ
+S6 S4 CA C9
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ9853.T76.6.987 A.AKJ2.74.JT6432 T642.Q84.AQJ98.5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C 1D 3N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ8.KJ874.J.QT98 T6.A9652.AQ87.63 KQ9532.QT.T65.K5 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J73.A6.KQJ84.J86 95.KJ753.A952.94 AT64.T4.T76.AQT2 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 4S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJT642.976.872.8 K97.KJ432.JT653. 853.T85.9.K76543 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 2C
+2S 3H Pass 4C
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK64.AQT76.Q5.A3 T83.J92.83.T9872 75.K53.AKT74.Q65 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1D 1S 2H
+Pass 3H Pass 4N
+Pass 5H Pass 5N
+Pass 6D Pass 7H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K94.53.A8742.A84 QT73.KT876.Q9.KQ A86.A94.KJT5.T97 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D Pass 2D Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 987.A932.K753.J4 A54.J87.Q92.AQ93 KJT.4.AJ864.K752 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C 1D
+X 2D Pass Pass
+2H 3D Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ973.QJ7.Q4.765 K542.9.K9862.Q42 JT6.6543.A753.K9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 2S 3H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 7.AT7642.843.T65 QJ864.AQT75.742.KT92 QJ98.K62.93."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2S Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A96.J2.T982.J954 Q7532.83.A73.A76 KT4.QT965.QJ4.K2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T.A53.9542.KJ965 9753.T9.AQJT6.43 AJ6.J8642.K.AT87 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1S Pass
+3H Pass 3S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 72.AQ76543.762.Q KQ84.T9.98.AK532 AJT.82.QJ3.JT984 "]
+[Declarer "S"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+3H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "16,BOARD 16"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AK754.J72.2.J742 J82.Q63.KJ76.953 QT96.A954.T4.AT8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1D 2S
+Pass 2N 3D Pass
+Pass 3S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "17,BOARD 17"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ32.A2.765432.T 765.Q4.KQT9.A972 KJ98.J9875.J.K63 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N Pass Pass
+2C X 2S 3C
+Pass Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "18,BOARD 18"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ6.A86.T874.A75 KT72.J74.KQ.T984 983.KQ92.AJ92.KQ "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "19,BOARD 19"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K3.J43.AK85.J965 9872.752.62.KQT2 J54.AQ6.QJ743.84 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 2D Pass
+2N Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "20,BOARD 20"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ642.Q84.A95.96 K3.JT53.K6.AJ875 AT.K6.QJ732.KQT3 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D 1N Pass 2H
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "21,BOARD 21"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A832.J95432.A84.KQJ73 54.AQ6.732.A865 Q.KT87.KQ95."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C 2H 3D Pass
+4H Pass 6D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "22,BOARD 22"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 64.AJ875.97.J963 AQJT98.632.A.KT5 K752.QT9.J65.874 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1S Pass
+3D Pass 3S Pass
+3N Pass 4D Pass
+4H Pass 4S Pass
+4N Pass 6D Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "23,BOARD 23"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 85.KJT653.54.T74 KJT4.Q87.Q2.KQJ3 63.942.KT9863.82 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2S Pass 4C
+Pass 4S Pass 6S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "24,BOARD 24"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K943.763.43.T864 T86.AQ.AK95.AQ92 Q2.KJ984.76.K753 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D 1H X Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "25,BOARD 25"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K874.J.AT9732.A4 AQJT6.AQ2.J.KQJ9 932.K964.85.T763 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1D X
+Pass 1H 2D X
+Pass 2H Pass 2S
+Pass 2N Pass 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2000 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "26,BOARD 26"]
+[West "Hamman"]
+[North "Branco"]
+[East "Meckstroth"]
+[South "Chagas"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A82.JT42.A8.K852 975.Q87.KQ75.Q76 QT.53.T93.AJT943 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S X 2S 3C
+3S 4C Pass Pass
+Pass
+[Play "None"]
+*
+
+

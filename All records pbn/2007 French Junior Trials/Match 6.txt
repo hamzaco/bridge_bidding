@@ -1,0 +1,394 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A73.KJ6.Q862.AJ2 T52.AT9532.T.T63 64.Q4.K74.KQ9854 KQJ98.87.AJ953.7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "N"]
+Pass 1S X 2S
+3C 3S Pass Pass
+4C Pass Pass Pass
+[Play "E"]
+SA S2 S6 SK
+C2 C3 CK C7
+CA C6 C5 S8
+H6 HA H4 H8
+D2 DT D4 DA
+S3 S5 S4 SQ
+D6 CT D7 D3
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q83.8753.KQ65.J9 9654.732.AKQ643.AKT AQJT9.A84.82.J72 K642.JT9.T75."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "E"]
+Pass Pass 3N X
+4C Pass Pass X
+Pass 4H Pass Pass
+Pass
+[Play "None"]
+C9 CA C2 C5
+CJ CK C8 C7
+D9 DK D2 D4
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J74.A76.T5.K8743 KT863.Q54.Q762.J Q95.K3.AJ9843.A2 A2.JT982.K.QT965 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "S"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A9.J95.AQT864.KQ 73.K6432.53.JT75 QT642.T8.A98432.KJ85 AQ7.KJ972.6."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "W"]
+Pass 2S an !s
+Pass 4S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQ632.A.9872.T75 AJ975.Q2.KJ.A932 T8.KJ9875.AQT5.J 4.T643.643.KQ864 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "N"]
+1H Pass 1S Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J7.T6.QJT64.AKJ8 Q842.4.AK953.T73 KT93.KJ98753.2.Q A65.AQ2.87.96542 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2C Pass 3H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQJT92.QT7.7.832 73.82.Q962.AQ954 A854.A964.AKJ8.7 6.KJ53.T543.KJT6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "S"]
+2D an mu Pass
+2N Pass 3D an
+!s Pass 3S an
+fo Pass 4D Pass
+4N Pass 5D Pass
+6S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQJ93.A8.J7.A942 A8765.JT2.AK.KQJ 42.Q96.86432.T63 T.K7543.QT95.875 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "W"]
+1S Pass 1N Pass
+2N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ73.JT86.95.AJ4 T8.AKQ9742.Q.T75 A5.3.KJ87632.K98 J9642.5.AT4.Q632 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "N"]
+1D Pass 1H 2H
+Pass Pass X Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ762.AT9842.Q9.AQ 7.A8432.AKJT4.T985 3.KJT75.532.43 KQJ65.Q96.876."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "E"]
+Pass 1S 2N 3S
+Pass Pass X Pass
+4H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQJ85.QJ96.AT73.T97 AK87.42.K753.K3 T2.KJ9865.QJ4. 642.543.Q.AT9862 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "S"]
+1S Pass 1N an
+fo Pass 2H Pass
+2N Pass 3D Pass
+5D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A63.Q32.A75.AQ92 T852.7.QJT4.KT63 97.AJ985.K63.J84 KQJ4.KT64.982.75 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "W"]
+Pass Pass 1S X
+3S 4H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2007 French Junior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bessis"]
+[North "Seguineau"]
+[East "Bessis"]
+[South "Vinay"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K984.K3.QJT9.732 AJ75.A642.A42.A9 T62.J9875.8765.Q Q3.QT.K3.KJT8654 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "VINAY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BESSIS"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 2C Pass 2S
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

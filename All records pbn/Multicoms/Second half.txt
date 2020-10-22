@@ -1,0 +1,891 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 962.QT54.Q2.T864 QJT7.AK6.8654.J7 K54.873.KT97.KQ2 A83.J92.AJ3.A953 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "N"]
+1N an 10 Pass
+Pass Pass
+[Play "E"]
+HT HK H3 H9
+S2 SQ S4 S3
+S6 ST SK SA
+S9 SJ S5 S8
+C4 S7 D7 C5
+DQ D8 DT DJ
+C6 C7 CQ CA
+HQ HA H8 HJ
+D2 D4 D9 DA
+H4 H6 H7 H2
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 962.QT54.Q2.T864 QJT7.AK6.8654.J7 K54.873.KT97.KQ2 A83.J92.AJ3.A953 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1N Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A87.J6.J53.K9432 KT9432.Q943.872.Q5 KT72.A9.AQT87. J6.A85.KQT64.J65 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "E"]
+Pass Pass 2S X
+3S X Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A87.J6.J53.K9432 KT9432.Q943.872.Q5 KT72.A9.AQT87. J6.A85.KQT64.J65 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "6"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "E"]
+Pass Pass 2S X
+3D 3S 4D 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK4.KQ.KQ7654.J5 QJ63.A86.AJ82.Q9 7.542.T9.KT76432 T9852.JT973.3.A8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "S"]
+1D Pass Pass 1S
+2D 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK4.KQ.KQ7654.J5 QJ63.A86.AJ82.Q9 7.542.T9.KT76432 T9852.JT973.3.A8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "S"]
+1D Pass 1N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q4.KT8.AT9643.T4 KT6.Q97.QJ8.J853 J872.A6432.K75.Q A953.J5.2.AK9762 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "W"]
+Pass Pass 1C 1D
+1N 2C 3C Pass
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q4.KT8.AT9643.T4 KT6.Q97.QJ8.J853 J872.A6432.K75.Q A953.J5.2.AK9762 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "W"]
+3C Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ94.J6.8653.T97 32.A753.AQ74.A83 T8765.K.JT.J6542 AQ.QT9842.K92.KQ "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "N"]
+Pass 1H Pass 2N
+Pass 3D Pass 4C
+an na Pass 4N
+Pass 5C Pass 6C
+Pass 6D Pass 6H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ94.J6.8653.T97 32.A753.AQ74.A83 T8765.K.JT.J6542 AQ.QT9842.K92.KQ "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "N"]
+Pass 1H Pass 2D
+Pass 2N Pass 3H
+Pass 4C Pass 4H
+Pass 4N Pass 5C
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJT76.T74.AJT9.5 K952.52.K642.A97 83.A9863.Q3.Q432 A4.KQJ.875.KJT86 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "E"]
+1N 2S 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJT76.T74.AJT9.5 K952.52.K642.A97 83.A9863.Q3.Q432 A4.KQJ.875.KJT86 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "E"]
+1C 1S 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J9532.KT5.KJ8.AJ KT4.QJ4.A97.6542 A6.82.542.KQT983 Q87.A9763.QT63.7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "S"]
+1S Pass 3C an
+10 Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J9532.KT5.KJ8.AJ KT4.QJ4.A97.6542 A6.82.542.KQT983 Q87.A9763.QT63.7 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "S"]
+1S Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 963.Q94.QT73.T72 QJ84.AK2.6.AKQJ8 AK7.J63.AJ942.54 T52.T875.K85.963 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "W"]
+1C 1D 1H 2D
+X Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 963.Q94.QT73.T72 QJ84.AK2.6.AKQJ8 AK7.J63.AJ942.54 T52.T875.K85.963 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "W"]
+1C 1D Pass Pass
+X Pass 1H Pass
+1S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 5.QJ93.K6.AKT976 AQ3.KT7.A852.542 KT76.A6542.973.J J9842.8.QJT4.Q83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "N"]
+2H an 4! Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 5.QJ93.K6.AKT976 AQ3.KT7.A852.542 KT76.A6542.973.J J9842.8.QJT4.Q83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K72.43.QJ95.A742 9643.7652.74.KJ8 Q8.KQ98.AT6.Q963 AJT5.AJT.K832.T5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass Pass X
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K72.43.QJ95.A742 9643.7652.74.KJ8 Q8.KQ98.AT6.Q963 AJT5.AJT.K832.T5 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "E"]
+1D Pass Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KT8.J862.K42.K87 J43.KT974.A.9643 A.Q.JT987653.QT5 Q97652.A53.Q.AJ2 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "S"]
+1N an 10 Pass
+3C an !X 3S
+Pass 4S 5D X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KT8.J862.K42.K87 J43.KT974.A.9643 A.Q.JT987653.QT5 Q97652.A53.Q.AJ2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "S"]
+Pass Pass 4D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q65.J764.A96.AQ7 AJ9.A9.KQ532.842 KT873.KQT2.84.KT 42.853.JT7.J9653 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "W"]
+1N 2C Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q65.J764.A96.AQ7 AJ9.A9.KQ532.842 KT873.KQT2.84.KT 42.853.JT7.J9653 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "W"]
+1D 1S Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJT.AJT97.AKJT8.2 8.Q7643.K97653.KQ98765 Q6.2.QJ2. 43.K5432.95.AT84 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "N"]
+3S Pass 7S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJT.AJT97.AKJT8.2 8.Q7643.K97653.KQ98765 Q6.2.QJ2. 43.K5432.95.AT84 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "N"]
+1S Pass 2D Pass
+2S Pass 3S Pass
+4S Pass 6S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 9876432.J.A93.Q5 KT9864.Q82.9763.AK5 A2.KT7654.AK. QJT.Q753.J.JT842 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "E"]
+Pass Pass 2H X
+4H 4S Pass 4N
+Pass 5D Pass 5H
+Pass 6S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 9876432.J.A93.Q5 KT9864.Q82.9763.AK5 A2.KT7654.AK. QJT.Q753.J.JT842 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "E"]
+Pass Pass 2H X
+4H 4S Pass 6S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT92.KQ43.87.876 A74.AT82.KQ53.K3 QJ8653.J9.J2.J94 .765.AT964.AQT52 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "S"]
+Pass 1N Pass 2S
+Pass 3C Pass 3D
+Pass 4D Pass 4S
+Pass 4N Pass 5N
+Pass 7D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Sussel"]
+[North "Multon"]
+[East "Soulet"]
+[South "Zimmermann"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT92.KQ43.87.876 A74.AT82.KQ53.K3 QJ8653.J9.J2.J94 .765.AT964.AQT52 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "LEVY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SOULET"]
+[Auction "S"]
+Pass 1N Pass 2S
+Pass 3C Pass 3D
+Pass 4D Pass 4S
+Pass 4N Pass 5N
+Pass 6C Pass 7D
+Pass Pass Pass
+[Play "S"]
+*
+
+

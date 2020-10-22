@@ -1,0 +1,286 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Brogeland"]
+[North "Fisher"]
+[East "Salisminde"]
+[South "Hampson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T7.JT85.AKQ64.Q6 Q982.K97.J8.T732 A64.Q64.973.A954 KJ53.A32.T52.KJ8 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "KATZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Gillis"]
+[Auction "N"]
+Pass 1C 1D 1S
+2D 2S Pass Pass
+Pass
+[Play "N"]
+DQ D8 D9 D2
+DK DJ D7 D5
+DA S2 D3 DT
+S7 S8 S4 SK
+ST SQ SA S3
+D6 S9 S6 S5
+C6 C3 C4 CK
+CQ C2 C5 C8
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Brogeland"]
+[North "Fisher"]
+[East "Salisminde"]
+[South "Hampson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 765.K854.J974.65 94.J763.AT6.AKJT J32.Q92.KQ53.Q73 AKQT8.AT.82.9842 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "KATZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Gillis"]
+[Auction "E"]
+1S Pass 2C Pass
+3C an No Pass
+3N Pass Pass Pass
+[Play "W"]
+D4 D6 DK D2
+DJ DT D3 D8
+D9 DA D5 HT
+S5 S4 S2 SA
+C5 CK C3 C9
+S6 S9 S3 SK
+S7 H6 SJ SQ
+H5 H7 H2 ST
+H4 H3 H9 S8
+C6 CA C7 C2
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Brogeland"]
+[North "Fisher"]
+[East "Salisminde"]
+[South "Hampson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A32.Q942.J9874.9 QJT8.J6.KQ.AQ875 964.T873.3.JT642 K75.AK5.AT652.K3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "KATZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Gillis"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1S Pass 2H
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+H2 H6 H3 HA
+S2 SQ S9 S5
+SA S8 S6 SK
+H4 HJ H7 H5
+S3 SJ S4 S7
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Brogeland"]
+[North "Fisher"]
+[East "Salisminde"]
+[South "Hampson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 76542.QT3.JT6.96 3.J8742.KQ93.T75 Q.A96.A842.KQJ43 AKJT98.K5.75.A82 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "KATZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Gillis"]
+[Auction "W"]
+Pa an co Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Brogeland"]
+[North "Fisher"]
+[East "Salisminde"]
+[South "Hampson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ432.AT8.T.KQJT 76.KQ976.Q42.972 KT98.J2.AJ96.654 A5.543.K8753.A83 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "KATZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Gillis"]
+[Auction "N"]
+Pass Pass 1S Pass
+2C Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Brogeland"]
+[North "Fisher"]
+[East "Salisminde"]
+[South "Hampson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ54.K4.T2.9763 72.A7.AJ954.QJT2 9.QT98532.KQ6.A4 JT863.J6.873.K85 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "KATZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Gillis"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 2S Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Brogeland"]
+[North "Fisher"]
+[East "Salisminde"]
+[South "Hampson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQ3.9876.K63.J65 A98542.T5.AJ82.Q 7.KQJ3.QT954.T97 JT6.A42.7.AK8432 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "KATZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Gillis"]
+[Auction "S"]
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Brogeland"]
+[North "Fisher"]
+[East "Salisminde"]
+[South "Hampson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J62.T97.KT97.KQT A874.AQ.J8632.A5 T93.K3.AQ.J97642 KQ5.J86542.54.83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "KATZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Gillis"]
+[Auction "W"]
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Brogeland"]
+[North "Fisher"]
+[East "Salisminde"]
+[South "Hampson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ76.KJT.87.KQT2 A92.Q9.KJ9543.A8 T8.A764.Q62.J964 J543.8532.AT.753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "KATZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Gillis"]
+[Auction "N"]
+Pass Pass 1N an
+14 X Pass Pass
+Pass
+[Play "W"]
+*
+
+

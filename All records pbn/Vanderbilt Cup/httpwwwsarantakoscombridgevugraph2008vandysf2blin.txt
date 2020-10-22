@@ -1,0 +1,939 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT543.J6.Q752.82 Q872.A9.A43.AT65 AJ96.QT87.K9.KJ4 .K5432.JT86.Q973 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+1N Pass 2H Pass
+2S Pass Pass Pass
+[Play "E"]
+D2 D4 DK DJ
+HJ HA H7 H4
+H6 H9 HQ HK
+C2 S2 HT H3
+C8 CA C4 C3
+D5 DA D9 D6
+S3 C5 CJ CQ
+SK S7 S6 H2
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT543.J6.Q752.82 Q872.A9.A43.AT65 AJ96.QT87.K9.KJ4 .K5432.JT86.Q973 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+1N Pass 2H Pass
+2S Pass Pass Pass
+[Play "E"]
+D2 D4 DK DJ
+SK S2 SJ H4
+S3 S7 S9 H2
+HJ HA H7 H3
+C2 C5 CJ CQ
+D5 D3 D9 DT
+DQ DA S6 D8
+H6 H9 HQ HK
+C8 CA C4 C3
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.AKT96.Q8.AT942 KT76.QJ.AJ954.Q8 J432.732.7.KJ753 Q985.854.KT632.6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2C Pass 2H
+Pass 3C Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.AKT96.Q8.AT942 KT76.QJ.AJ954.Q8 J432.732.7.KJ753 Q985.854.KT632.6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass 1C 1D Pass
+3D 3H an 5!
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK52.T72.5.AKJ87 QT96.J43.943.Q95 J873.Q986.AK76.3 4.AK5.QJT82.T642 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+1C Pass 1H Pass
+1S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK52.T72.5.AKJ87 QT96.J43.943.Q95 J873.Q986.AK76.3 4.AK5.QJT82.T642 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+1C Pass 1H Pass
+1S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJT752.Q9763.Q9.AKT843 A63.84.T6.J95 984.J52.J854.Q762 K.AKT.AK732."]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+1S Pass 2C 3H
+3S Pass 4D Pass
+4H Pass 4N Pass
+5C an 0- Pass
+7S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJT752.Q9763.Q9.AKT843 A63.84.T6.J95 984.J52.J854.Q762 K.AKT.AK732."]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+1S Pass 3C 3H
+3S Pass 4N Pass
+5C Pass 5S Pass
+6S Pass 7S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT752.K543.A2.AT Q6.Q97.973.J7653 943.2.KQJT64.Q42 AK8.AJT86.85.K98 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT752.K543.A2.AT Q6.Q97.973.J7653 943.2.KQJT64.Q42 AK8.AJT86.85.K98 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+Pass 1N Pass Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AJT2.9862.AJ532.9865 KJ73.4.KJ53.K73 AQT4.Q6.AT98. Q4.5.KT987.Q7642 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2H Pass 2N
+Pass 4C Pass 4N
+Pass 5H Pass 6H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AJT2.9862.AJ532.9865 KJ73.4.KJ53.K73 AQT4.Q6.AT98. Q4.5.KT987.Q7642 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2H Pass 2N
+an na Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 5.98.KJT43.J6432 AT873.AQT7.Q9.87 KQ9.KJ42.A75.KT5 J642.653.862.AQ9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+Pass 1S 1N 2S
+3D 3S Pass Pass
+4C Pass 4D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 5.98.KJT43.J6432 AT873.AQT7.Q9.87 KQ9.KJ42.A75.KT5 J642.653.862.AQ9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+Pass 1S 1N 2S
+2N Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJ7.A64.9.AQ985 9862.85.KJ72.J72 QT5.KJ72.AQ3.643 43.QT93.T8654.KT "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2N Pass 3S
+Pass 3N Pass 4H
+an Pa Pass 5C
+Pass 5N Pass 6N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJ7.A64.9.AQ985 9862.85.KJ72.J72 QT5.KJ72.AQ3.643 43.QT93.T8654.KT "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+Pass 1N an 12
+Pass 2C Pass 2H
+Pass 2S an F 
+Pass 3C Pass 3D
+an si Pass 3N
+Pass 4N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 86.AK92.AT4.A984 Q54.T8.Q9753.KQ2 AJT93.J7543.6.J3 K72.Q6.KJ82.T765 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2H Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 86.AK92.AT4.A984 Q54.T8.Q9753.KQ2 AJT93.J7543.6.J3 K72.Q6.KJ82.T765 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+2D an 4+ Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K5.652.Q97542.Q7 7632.J8743.JT.A8 AQJ84.AK6.KJ964.T9 AKQT9.83.T532."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass Pass Pass 1S
+2H 2S 3H 4H
+Pass 5D Pass 5N
+Pass 6D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K5.652.Q97542.Q7 7632.J8743.JT.A8 AQJ84.AK6.KJ964.T9 AKQT9.83.T532."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+2H Pass 2N 4H
+an !S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K6.KQ9.J9752.T93 AJT2.AT3.84.AKJ4 Q8753.72.AT.Q852 94.J8654.KQ63.76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+Pass 1N Pass 2D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K6.KQ9.J9752.T93 AJT2.AT3.84.AKJ4 Q8753.72.AT.Q852 94.J8654.KQ63.76 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T87.K632.J93.QJ9 64.Q74.AQ85.7532 AKQ2.AJ9.KT764.T J953.T85.2.AK864 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+Pass 1D 2C Pass
+2N X Pass 3C
+an al Pass 3S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T87.K632.J93.QJ9 64.Q74.AQ85.7532 AKQ2.AJ9.KT764.T J953.T85.2.AK864 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ86.QJT82.Q3.J6 J32.964.AJT2.K84 A975.K75.K87.972 T4.A3.9654.AQT53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S X 2S an
+4  3D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ86.QJT82.Q3.J6 J32.964.AJT2.K84 A975.K75.K87.972 T4.A3.9654.AQT53 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+Pass Pass 1H Pass
+2C X 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQJ8632.6.T2.K76 K94.KJ975.97.Q98 75.QT4.K643.AJ32 T.A832.AQJ85.T54 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+1D 1S 2H an
+no Pass 3H 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQJ8632.6.T2.K76 K94.KJ975.97.Q98 75.QT4.K643.AJ32 T.A832.AQJ85.T54 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass 4S Pass Pass
+X Pass 5H X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 4.AQ83.QT76.KT83 KQ73.J94.J92.Q54 AT96.K.A543.A762 J852.T7652.K8.J9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 1S Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 4.AQ83.QT76.KT83 KQ73.J94.J92.Q54 AT96.K.A543.A762 J852.T7652.K8.J9 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 2H Pass
+3H Pass 4D Pass
+4H Pass 4S Pass
+5D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Gierulski"]
+[North "Helgemo"]
+[East "Skrzypczak"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 5.T743.AQ9763.Q7 AQT862.A8.J82.J3 43.KJ652.K4.A842 KJ97.Q9.T5.KT965 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Meltzer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "W"]
+1S Pass 3C 3D
+Pass Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+

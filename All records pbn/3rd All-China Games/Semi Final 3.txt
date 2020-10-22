@@ -1,0 +1,927 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T75.76.642.J8543 KQJ82.AQ843.K3.9 A4.92.QJ985.Q762 963.KJT5.AT7.AKT "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "N"]
+Pass 1N Pass 2D
+X 2H Pass 2S
+Pass 2N Pass 3H
+Pass 3S Pass 4C
+Pass 4D Pass 4N
+Pass 5D Pass 6H
+Pass Pass Pass
+[Play "S"]
+D2 D3 DJ DA
+H6 H3 H2 HT
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T75.76.642.J8543 KQJ82.AQ843.K3.9 A4.92.QJ985.Q762 963.KJT5.AT7.AKT "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "N"]
+Pass 1N Pass 2H
+Pass 2S Pass 3H
+Pass 4C Pass 4N
+Pass 5D Pass 6H
+Pass Pass Pass
+[Play "N"]
+D4 DK DJ D7
+H6 HA H2 H5
+H7 H3 H9 HT
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ95.T42.854.Q95 T6.KJ865.AT76.K4 A843.93.J3.A8632 Q72.AQ7.KQ92.JT7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "E"]
+1N Pass 2C Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "N"]
+D8 D6 DJ DK
+H2 H5 H3 HA
+H4 H6 H9 HQ
+HT HJ C2 H7
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ95.T42.854.Q95 T6.KJ865.AT76.K4 A843.93.J3.A8632 Q72.AQ7.KQ92.JT7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "E"]
+1D Pass 1H Pass
+1N Pass 2C X
+2H Pass Pass Pass
+[Play "N"]
+D8 DT D3 D2
+H2 H5 H3 HA
+HT H6 H9 HQ
+H4 HK C3 H7
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T94.KT.975.KT652 AQJ8.J72.K63.Q83 73.A9864.AQ8.J74 K652.Q53.JT42.A9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "S"]
+Pass Pass 1H Pass
+1N X Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T94.KT.975.KT652 AQJ8.J72.K63.Q83 73.A9864.AQ8.J74 K652.Q53.JT42.A9 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "S"]
+Pass 1C 1H X!
+XX 1S Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 852.KT93.QT3.Q43 Q97.AJ6.A976.J76 AT3.4.J82.AKT985 KJ64.Q8752.K54.2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "W"]
+1D 2C X 3C
+Pass Pass X Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 852.KT93.QT3.Q43 Q97.AJ6.A976.J76 AT3.4.J82.AKT985 KJ64.Q8752.K54.2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "W"]
+1D 2C X XX
+Pass Pass 2H Pass
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 5.AKT982.AK3.762 QT984.QJ5.762.84 732.4.QJT9.AKT53 AKJ6.763.854.QJ9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "N"]
+Pass Pass 1H Pass
+1N Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 5.AKT982.AK3.762 QT984.QJ5.762.84 732.4.QJT9.AKT53 AKJ6.763.854.QJ9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "N"]
+Pass Pass 1H Pass
+1N Pass 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ72.752.K75.J87 K85.J9.QT42.9532 JT963.A43.AJ8.KQ 4.KQT86.963.AT64 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ72.752.K75.J87 K85.J9.QT42.9532 JT963.A43.AJ8.KQ 4.KQT86.963.AT64 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "E"]
+Pass 1N Pass 2H
+X 2S Pass 3H
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q863.QJ76.532.K2 AJT.KT.KQJ94.T76 K4.A9852.T7.A543 9752.43.A86.QJ98 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q863.QJ76.532.K2 AJT.KT.KQJ94.T76 K4.A9852.T7.A543 9752.43.A86.QJ98 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A3.T75.A84.A8732 KJ85.KQ43.JT3.KQ Q976.AJ96.K2.JT6 T42.82.Q9765.954 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A3.T75.A84.A8732 KJ85.KQ43.JT3.KQ Q976.AJ96.K2.JT6 T42.82.Q9765.954 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "4"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q5.QJ98.QJ97.932 KT76432.K6.83.64 98.A7.KT62.AQJT8 AJ.T5432.A54.K75 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "N"]
+1N Pass 2D Pass
+2H Pass 2S X
+Pass Pass 2N Pass
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q5.QJ98.QJ97.932 KT76432.K6.83.64 98.A7.KT62.AQJT8 AJ.T5432.A54.K75 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "N"]
+1D 1H 1N 2S
+3C Pass 3D Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q76.AJ3.KJ97.AK2 AT85.72.A3.JT853 932.KT9864.T642. KJ4.Q5.Q85.Q9764 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2N Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q76.AJ3.KJ97.AK2 AT85.72.A3.JT853 932.KT9864.T642. KJ4.Q5.Q85.Q9764 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1N Pass 4D
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A9873.K64.Q7.T82 42.J32.9863.Q765 Q6.QT875.T54.AK9 KJT5.A9.AKJ2.J43 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "S"]
+Pass Pass 1H X
+XX 1N Pass Pass
+2H Pass Pass X
+Pass 2N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A9873.K64.Q7.T82 42.J32.9863.Q765 Q6.QT875.T54.AK9 KJT5.A9.AKJ2.J43 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "S"]
+Pass Pass 1H X
+2D Pass 2H X
+XX 2N Pass 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 973.A652.Q32.A83 T854.4.JT84.KQ76 6.QT7.A765.T9542 AKQJ2.KJ983.K9.J "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "W"]
+Pass Pass 1C Pass
+1D Pass 1S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 973.A652.Q32.A83 T854.4.JT84.KQ76 6.QT7.A765.T9542 AKQJ2.KJ983.K9.J "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "W"]
+Pass Pass 1S Pass
+3S Pass 4C Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJT53.QJ3.AQT3.3 92.6542.J854.T98 Q86.KT98.K6.AK75 K74.A7.972.QJ642 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "N"]
+1N Pass 2H Pass
+2S Pass 3C Pass
+3S Pass 4D Pass
+4H Pass 4N Pass
+5C Pass 5S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJT53.QJ3.AQT3.3 92.6542.J854.T98 Q86.KT98.K6.AK75 K74.A7.972.QJ642 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "N"]
+1N Pass 2H Pass
+2S Pass 2N Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K8742.KQJ6.AKJ.4 A653.A932.752.86 Q9.T7.Q964.K9753 JT.854.T83.AQJT2 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "E"]
+Pass 1S Pass 1N
+2C X! Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K8742.KQJ6.AKJ.4 A653.A932.752.86 Q9.T7.Q964.K9753 JT.854.T83.AQJT2 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "E"]
+Pass 1C Pass 1D
+2C X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ7.QJ63.QT32.K6 J963.9.AK987.A98 KT42.K874.64.Q75 85.AT52.J5.JT432 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "S"]
+1D Pass 1H Pass
+2H X Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ7.QJ63.QT32.K6 J963.9.AK987.A98 KT42.K874.64.Q75 85.AT52.J5.JT432 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Wu SJ"]
+[North "Kang Meng"]
+[East "Liu HT"]
+[South "Li XY"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KQJT98.AQ4.K6.T6 65.986.AQ42.J754 A743.KJT5.J3.AK9 2.732.T9875.Q832 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Beijing"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhongjian"]
+[Auction "W"]
+Pass 1N Pass 2H
+Pass 2S Pass 3D
+Pass 3H Pass 4C
+Pass 4S Pass 4N
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "E"]
+*
+
+

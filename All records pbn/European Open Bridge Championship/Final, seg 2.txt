@@ -1,0 +1,915 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T753.AJT964.952.AKJ982 5.AKT87.Q.6 Q87.QJ43.K8763.Q4 K32.9652.AJT4."]
+[Declarer "W"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "N"]
+Pass Pass 3H 4H
+Pass 4N Pass 6D
+Pass Pass Pass
+[Play "N"]
+H4 H5 HQ H2
+D7 H8 H3 H9
+D3 D2 H6 DA
+S6 SQ S3 S2
+S5 SK D4 S4
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T753.AJT964.952.AKJ982 5.AKT87.Q.6 Q87.QJ43.K8763.Q4 K32.9652.AJT4."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "N"]
+Pass Pass 3H 4S
+5H 5S Pass Pass
+Pass
+[Play "N"]
+HA H5 HQ HK
+HJ S8 H7 H2
+S6 SQ S3 S2
+S5 SA C3 S4
+H8 H3 S7 SK
+C6 C4 ST SJ
+D3 D2 H4 DA
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A54.Q6.T972.QJ87 J9862.982.KJ6.65 3.JT543.Q43.AK43 KQT7.AK7.A85.T92 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "E"]
+1N Pass 2H Pass
+2N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A54.Q6.T972.QJ87 J9862.982.KJ6.65 3.JT543.Q43.AK43 KQT7.AK7.A85.T92 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "E"]
+1N Pass 2H Pass
+2N Pass 3H Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K5.A654.T875.KQ4 Q43.8.J943.JT652 T8762.QT9.K.9873 AJ9.KJ732.AQ62.A "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "S"]
+1C Pass 1D an
+XX X Pa 1S
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K5.A654.T875.KQ4 Q43.8.J943.JT652 T8762.QT9.K.9873 AJ9.KJ732.AQ62.A "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "S"]
+1C Pass 1D 1H
+Pass Pass 1S X!
+Pass 2C Pass 2D
+Pass Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 987.T94.J984.AK6 AK8652.AK63.T87.AKJ42 Q7.52.Q942. QT653.J3.QT7.J53 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "W"]
+1H 1S Pass 2S
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 987.T94.J984.AK6 AK8652.AK63.T87.AKJ42 Q7.52.Q942. QT653.J3.QT7.J53 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "W"]
+1H 1S Pass 2S
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ.864.9863.KQ42 A982.K7.AQT754.9 Q4.T952.KJ.AT763 T7653.AQJ3.2.J85 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 2H Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ.864.9863.KQ42 A982.K7.AQT754.9 Q4.T952.KJ.AT763 T7653.AQJ3.2.J85 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 2H Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ952.AQJ32.K94.T4 876.K96.AQ632.AKQ953 AT3.T85.8.J8762 Q4.74.JT75."]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2D Pass 3C
+Pass 3D Pass 3H
+Pass 3N Pass 4C
+Pass 4D Pass 4H
+Pass 4N Pass 5H
+Pass 6H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ952.AQJ32.K94.T4 876.K96.AQ632.AKQ953 AT3.T85.8.J8762 Q4.74.JT75."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2D Pass 3C
+Pass 3D Pass 3H
+Pass 3S an sh
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A8763.AK6.Q2.A75 T95.T5.AK987.KT8 K2.J874.J53.Q943 QJ4.Q932.T64.J62 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "S"]
+1S Pass 1N Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A8763.AK6.Q2.A75 T95.T5.AK987.KT8 K2.J874.J53.Q943 QJ4.Q932.T64.J62 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q4.K85.T42.AQT95 KT2.AQ6.9863.J74 J983.T7.KQJ.K862 A765.J9432.A75.3 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "W"]
+Pass Pass 1H Pass
+2C Pass 2H Pass
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q4.K85.T42.AQT95 KT2.AQ6.9863.J74 J983.T7.KQJ.K862 A765.J9432.A75.3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "W"]
+Pass Pass 1H Pass
+2C Pass 2H an
+we Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q653.KQJ862.A9.2 KT4.A54.T62.JT97 A2.9.KQJ54.AQ863 J987.T73.873.K54 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "N"]
+1D Pass 1S Pass
+2C Pass 2S Pass
+3D Pass 3H Pass
+6C Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q653.KQJ862.A9.2 KT4.A54.T62.JT97 A2.9.KQJ54.AQ863 J987.T73.873.K54 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "N"]
+1D Pass 1H Pass
+3C Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 532.875.AQT643.Q 94.T6432.2.87652 AK6.KQ9.KJ75.KT9 QJT87.AJ.98.AJ43 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "E"]
+1S Pass Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 532.875.AQT643.Q 94.T6432.2.87652 AK6.KQ9.KJ75.KT9 QJT87.AJ.98.AJ43 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "E"]
+1S Pass Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K.T95.A8763.Q863 AJ42.K63.K2.K954 Q853.Q72.Q9.AT72 T976.AJ84.JT54.J "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K.T95.A8763.Q863 AJ42.K63.K2.K954 Q853.Q72.Q9.AT72 T976.AJ84.JT54.J "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q54.AK76.AK.KQ93 J7.J3.Q654.T7652 AKT863.Q.T873.84 92.T98542.J92.AJ "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "W"]
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q54.AK76.AK.KQ93 J7.J3.Q654.T7652 AKT863.Q.T873.84 92.T98542.J92.AJ "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "W"]
+Pass 2D Pass 2N
+Pass 3C Pass 3D
+Pass 3H Pass 3S
+Pass 4H Pass 6S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J93.AJ94.AKJT83.AJ87 AKQ4.T752.Q.9432 T6.K63.6542.KQT65 8752.Q8.97."]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "N"]
+Pass Pass 2C X
+3C 3S 5C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J93.AJ94.AKJT83.AJ87 AKQ4.T752.Q.9432 T6.K63.6542.KQT65 8752.Q8.97."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "N"]
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K852.JT43.T74.A5 A964.K765.95.KJT T7.A82.AQ83.Q872 QJ3.Q9.KJ62.9643 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "E"]
+Pass Pass 1C Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K852.JT43.T74.A5 A964.K765.95.KJT T7.A82.AQ83.Q872 QJ3.Q9.KJ62.9643 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "E"]
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK32.AT86.A4.QT6 QT8.K953.987.A73 J75.J74.QJT32.K5 964.Q2.K65.J9842 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "S"]
+1N Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK32.AT86.A4.QT6 QT8.K953.987.A73 J75.J74.QJT32.K5 964.Q2.K65.J9842 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "S"]
+1C Pass 1N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Kowalski"]
+[North "Jansma"]
+[East "Tuszynski"]
+[South "Verhees Jr"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: JT6.T9872.A74.85 A987.AJ.J82.KJT9 K543.53.K653.Q32 Q2.KQ64.QT9.A764 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team Orange 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Miroglio"]
+[Auction "W"]
+1N Pass 2C Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

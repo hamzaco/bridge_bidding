@@ -1,0 +1,931 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J752.95.T93.KQ86 AKQT3.T873.K.AJ7 94.A64.QJ84.9432 86.KQJ2.A7652.T5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1N Pass 2D
+an FG Pass 2H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+CK CA C4 C5
+S2 SA S4 S6
+S5 SK S9 S8
+S7 SQ H6 CT
+C6 C7 C3 H2
+D3 DK D4 D5
+SJ S3 HA D6
+CQ CJ C2 HJ
+D9 ST D8 DA
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J752.95.T93.KQ86 AKQT3.T873.K.AJ7 94.A64.QJ84.9432 86.KQJ2.A7652.T5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 1N Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+DT DK DJ D2
+H5 H3 H4 HK
+H9 H7 HA HQ
+C6 H8 H6 HJ
+S2 SA S4 S6
+S5 SK S9 S8
+S7 SQ C2 D5
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K86432.5.6543.AJ AQT.72.AKQT.T973 J7.AQJ9.J987.542 95.KT8643.2.KQ86 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "E"]
+2D an We Pass
+2N Pass 3S Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K86432.5.6543.AJ AQT.72.AKQT.T973 J7.AQJ9.J987.542 95.KT8643.2.KQ86 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "E"]
+2H Pass 2N Pass
+3D Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A742.KQ43.Q54.75 QJT63.98.A862.KT K85.AJT72.9.QJ64 9.65.KJT73.A9832 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2D Pass 4D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A742.KQ43.Q54.75 QJT63.98.A862.KT K85.AJT72.9.QJ64 9.65.KJT73.A9832 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "S"]
+1N Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T843.A852.82.543 7652.4.T65.QJ976 A.KJT7.KJ973.AK2 KQJ9.Q963.AQ4.T8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "W"]
+Pass 1C an Pa
+X! an S+ Pass
+2S X 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T843.A852.82.543 7652.4.T65.QJ976 A.KJT7.KJ973.AK2 KQJ9.Q963.AQ4.T8 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "W"]
+Pass 1C X Pass
+2S X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T7.AJ72.J4.JT874 85.K43.T9532.K63 AJ9.T6.K86.AQ952 KQ6432.Q985.AQ7."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "N"]
+Pass 2H Pass 2S
+Pass 3C X XX
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T7.AJ72.J4.JT874 85.K43.T9532.K63 AJ9.T6.K86.AQ952 KQ6432.Q985.AQ7."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "N"]
+1N 2C Pass 2D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK.753.52.987652 J8763.K42.AT3.AJ QT92.AQ6.9874.K3 54.JT98.KQJ6.QT4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK.753.52.987652 J8763.K42.AT3.AJ QT92.AQ6.9874.K3 54.JT98.KQJ6.QT4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q96532.T82.A542.J74 AKT52.A4.KQJ.AKT J984.QJ96.63.8 Q763.K753.T987."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "S"]
+Pass 1N an 16
+Pass Pass 2D 2H
+2S 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q96532.T82.A542.J74 AKT52.A4.KQJ.AKT J984.QJ96.63.8 Q763.K753.T987."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "S"]
+2H X 3H Pass
+3S 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKQJ62.AQ.J96.87 54.K8764.872.QT9 97.JT93.K54.AKJ6 T83.52.AQT3.5432 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1N Pass 2C
+an F Pass 2H
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKQJ62.AQ.J96.87 54.K8764.872.QT9 97.JT93.K54.AKJ6 T83.52.AQT3.5432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1S Pass 2C
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K8.KT862.T6.T975 7643.J.K7532.QJ2 T.Q95.AQJ98.K643 AQJ952.A743.4.A8 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "N"]
+1D X 1H an
+4+ 1S 2H 6S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K8.KT862.T6.T975 7643.J.K7532.QJ2 T.Q95.AQJ98.K643 AQJ952.A743.4.A8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "N"]
+1D X XX 1S
+X 3D Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QJ5.J9.AKQ92.432 876.K74.75.KJ876 A42.653.JT64.AT5 KT93.AQT82.83.Q9 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "E"]
+1H Pass 2H Pass
+Pass X Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QJ5.J9.AKQ92.432 876.K74.75.KJ876 A42.653.JT64.AT5 KT93.AQT82.83.Q9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "E"]
+1H X 2H X
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKQJ.96.KJ8.KQJ4 9873.KT83.Q543.5 T64.J75.T7.98762 52.AQ42.A962.AT3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "S"]
+2N an 19 Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKQJ.96.KJ8.KQJ4 9873.KT83.Q543.5 T64.J75.T7.98762 52.AQ42.A962.AT3 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "S"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ32.8.AT943.AJ8 98.AJT42.K8.T653 4.KQ63.QJ7.KQ942 AJT765.975.652.7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "W"]
+Pass 2C Pass 2D
+an F Pass 2H
+Pass 2N Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ32.8.AT943.AJ8 98.AJT42.K8.T653 4.KQ63.QJ7.KQ942 AJT765.975.652.7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "W"]
+Pass 2C Pass 2D
+2H X Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J52.Q876.K.J5432 T97.943.A4.AKT98 K843.AJ52.J986.6 AQ6.KT.QT7532.Q7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "N"]
+Pass 1D Pass 2N
+an in Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J52.Q876.K.J5432 T97.943.A4.AKT98 K843.AJ52.J986.6 AQ6.KT.QT7532.Q7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "N"]
+Pass 1D Pass 2C
+Pass 2D Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK643.3.8.KJT973 72.KJ9765.J96.42 Q8.AQ42.AQ432.A5 JT95.T8.KT75.Q86 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 3C Pass 4N
+Pass 5S Pass 6N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK643.3.8.KJT973 72.KJ9765.J96.42 Q8.AQ42.AQ432.A5 JT95.T8.KT75.Q86 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K65.QJT.9432.KJ4 7432.98732.J7.T2 T98.A64.K85.Q963 AQJ.K5.AQT6.A875 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K65.QJT.9432.KJ4 7432.98732.J7.T2 T98.A64.K85.Q963 AQJ.K5.AQT6.A875 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "S"]
+Pass Pass Pass 2N
+Pass 3C Pass 3D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Chinese National League Finals"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "JiangTong"]
+[North "Liu Chuan"]
+[East "Zhang XF"]
+[South "Zhou QH"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 63.Q76.KT93.KQT6 KJ8.J982.Q52.974 AQT972.AK54.84.3 54.T3.AJ76.AJ852 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jin Ying"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zhong Jian"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 2H Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+

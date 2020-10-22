@@ -1,0 +1,933 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T752.832.KQ.8762 AJ9843.Q.T9854.K Q6.JT965.73.T954 K.AK74.AJ62.AQJ3 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass 1C Pass 2D
+Pass 2N Pass 3N
+Pass 4H Pass 4S
+Pass 6S Pass Pass
+Pass
+[Play "N"]
+H2 HQ HJ H4
+S2 S3 S6 SK
+H8 S4 H6 H7
+S5 SA SQ D2
+S7 SJ H5 D6
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T752.832.KQ.8762 AJ9843.Q.T9854.K Q6.JT965.73.T954 K.AK74.AJ62.AQJ3 "]
+[Declarer "W"]
+[Contract "7"]
+[Result "11"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass 2C Pass 2N
+Pass 3C Pass 3S
+Pass 3N Pass 4D
+Pass 4H Pass 6D
+Pass 7D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T.QT3.942.AQ7642 K986.K95.K7.KJ85 AQJ5.A876.QJT5.9 7432.J42.A863.T3 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+Pass Pass 1C X
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T.QT3.942.AQ7642 K986.K95.K7.KJ85 AQJ5.A876.QJT5.9 7432.J42.A863.T3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+Pass Pass 1N an
+12 2C an !s
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ73.KQJ3.A532.A 9842.65.KJ9.K854 65.AT97.T87.Q632 AQT.842.Q64.JT97 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+1D Pass 1H Pass
+2S Pass 2N Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ73.KQJ3.A532.A 9842.65.KJ9.K854 65.AT97.T87.Q632 AQT.842.Q64.JT97 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+1C an AR Pass
+1D an RE Pass
+1N an 17 Pass
+2D an 4+ Pass
+4H an ! Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T9.K87642.65.KJ5 J76432.5.QT432.2 KQ8.QT93.K9.9843 A5.AJ.AJ87.AQT76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+Pass Pass 1C Pass
+2C Pass 2D Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T9.K87642.65.KJ5 J76432.5.QT432.2 KQ8.QT93.K9.9843 A5.AJ.AJ87.AQT76 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+Pass Pass 2N Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T87.64.AQ942.T76 AQJ62.A85.J7.QJ9 543.KJ932.83.K54 K9.QT7.KT65.A832 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T87.64.AQ942.T76 AQJ62.A85.J7.QJ9 543.KJ932.83.K54 K9.QT7.KT65.A832 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass 1N an 12
+Pass 2H Pass 2S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ9873.J.J62.J65 AJ6.Q953.K43.AT3 T52.A86.Q98.9842 4.KT742.AT75.KQ7 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+1H 2S 3S Pass
+4C Pass 4D 4H
+4S Pass 4N Pass
+5H Pass 6H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ9873.J.J62.J65 AJ6.Q953.K43.AT3 T52.A86.Q98.9842 4.KT742.AT75.KQ7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+1H 2S 4C an
+Ga Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T2.J6.K4.AKJT763 AK95.Q94.J5.Q952 QJ7.AK72.QT872.8 8643.T853.A963.4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+1C Pass 1D Pass
+2C Pass 2H Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T2.J6.K4.AKJT763 AK95.Q94.J5.Q952 QJ7.AK72.QT872.8 8643.T853.A963.4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+1C an BA Pass
+1D an RE Pass
+2C Pass 2N an
+  Pass 3N an
+  Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J54.752.5.JT9763 97.KQ4.AJ762.AK4 KT82.AT863.94.52 AQ63.J9.KQT83.Q8 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+1N Pass 2C Pass
+2D Pass 3D Pass
+4C Pass 4N Pass
+5S X 6D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J54.752.5.JT9763 97.KQ4.AJ762.AK4 KT82.AT863.94.52 AQ63.J9.KQT83.Q8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+1D 1H X 2H
+2N Pass 3H X
+an Xo 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 652.Q3.JT864.AJ9 AT.J9754.AK72.QT 8743.K82.Q5.6532 KQJ9.AT6.93.K874 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1S Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 652.Q3.JT864.AJ9 AT.J9754.AK72.QT 8743.K82.Q5.6532 KQJ9.AT6.93.K874 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ63.732.AKJT.82 AKT9.964.AKQT54.94 QJ86.Q753.963. KQT8752.54.82.J7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ63.732.AKJT.82 AKT9.964.AKQT54.94 QJ86.Q753.963. KQT8752.54.82.J7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+3S Pass 3N Pass
+Pass X 4C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 7653.A9.AT9876.3 KQ82.QJ87.JT965.AJT9 52.Q432.A84.4 KT643.KJ5.KQ72."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+Pass Pass 1S X
+2N X 3S 4H
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 7653.A9.AT9876.3 KQ82.QJ87.JT965.AJT9 52.Q432.A84.4 KT643.KJ5.KQ72."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+Pass Pass 1S an
+no X 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q.A42.T87542.Q98 J853.KQ83.6.AJ53 T762.T97.J9.KT74 AK94.J65.AKQ3.62 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+1C Pass 1D Pass
+1S Pass 2H Pass
+3H Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q.A42.T87542.Q98 J853.KQ83.6.AJ53 T762.T97.J9.KT74 AK94.J65.AKQ3.62 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 1N an
+15 Pass 2D an
+fg Pass 2H Pass
+2N Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 5.AQT43.A95.QJ82 AQ976.K862.T732.JT82 J7.Q6.AT543. K43.95.KJ84.K976 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass Pass 1H 1S
+1N 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 5.AQT43.A95.QJ82 AQ976.K862.T732.JT82 J7.Q6.AT543. K43.95.KJ84.K976 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass Pass 1H 1S
+1N 2H Pass 2S
+Pass Pass X an
+T/ Pass 3C an
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 652.KQJT.Q7.AJ65 8.7654.J9532.KQ8 KQJ3.983.T84.974 AT974.A2.AK6.T32 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+1S Pass 1N Pass
+2C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 652.KQJT.Q7.AJ65 8.7654.J9532.KQ8 KQJ3.983.T84.974 AT974.A2.AK6.T32 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+1S X Pass 2C
+an 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK975.T6542.8.T6 JT.A3.AQ32.J8543 6.KJ87.KJT9654.K Q8432.Q9.7.AQ972 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+2D Pass 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK975.T6542.8.T6 JT.A3.AQ32.J8543 6.KJ87.KJT9654.K Q8432.Q9.7.AQ972 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+Pass 1N 3D X
+an ne Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Yeh Bros Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Bakkeren"]
+[North "Katz"]
+[East "Bertens"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 6.Q64.JT98762.AJ AQT42.AK53.Q3.85 J987.T97.AK54.K4 K53.J82.QT97632."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "USA I"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+1S Pass 2S Pass
+2N Pass 3C Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+

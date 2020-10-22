@@ -1,0 +1,949 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T2.K76.AJ87.8643 87653.52.93.AKJ9 QJ9.JT93.6542.T7 AK4.AQ84.KQT.Q52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2N Pass 3C
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "S"]
+H6 H2 H9 HQ
+S2 S3 S9 SA
+ST S5 SJ SK
+HK S6 SQ S4
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T2.K76.AJ87.8643 87653.52.93.AKJ9 QJ9.JT93.6542.T7 AK4.AQ84.KQT.Q52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "N"]
+Pass 2N Pass 3H
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "S"]
+D7 D3 D2 DT
+S2 S3 S9 SA
+ST S5 SJ SK
+D8 S6 SQ S4
+HK H2 HJ HQ
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K.KT.AK86.K98432 876542.A96.QJ.J5 T93.J8754.43.Q76 AQJ.Q32.T9752.AT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "E"]
+1D 2C X Pass
+2D Pass Pass 3C
+Pass Pass 3D Pass
+Pass Pass
+[Play "S"]
+C2 C5 CQ CA
+CK CJ C6 CT
+C4 DJ C7 H2
+D6 DQ D3 D2
+SK S2 S3 SA
+DK S4 D4 D9
+C3 S5 H8 D5
+D8 S6 ST SQ
+C9 H6 H5 D7
+DA S7 S9 SJ
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K.KT.AK86.K98432 876542.A96.QJ.J5 T93.J8754.43.Q76 AQJ.Q32.T9752.AT "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "E"]
+1D 2C X Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+DK DJ D3 D7
+DA DQ D4 D5
+D6 C5 S3 D9
+C2 CJ C6 CA
+C3 S2 C7 CT
+SK S4 S9 SA
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ987.Q95.K5.765 K.A72.AT7643.K92 Q542.JT8.J8.JT84 T63.K643.Q92.AQ3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "S"]
+Pass 1D Pass 1H
+1S X! an 3 
+3S X Pass 4D
+Pass Pass Pass
+[Play "N"]
+SA SK S2 S3
+S8 D6 S4 S6
+C5 C2 C4 CQ
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ987.Q95.K5.765 K.A72.AT7643.K92 Q542.JT8.J8.JT84 T63.K643.Q92.AQ3 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "S"]
+Pass 1D Pass 1H
+1S X 3S X
+Pass 4D Pass 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9652.Q4.KJ952.Q9 A73.A85.876.8632 JT8.T92.Q3.AK754 KQ4.KJ763.AT4.JT "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "W"]
+Pass Pass 1H Pass
+2H an li Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 9652.Q4.KJ952.Q9 A73.A85.876.8632 JT8.T92.Q3.AK754 KQ4.KJ763.AT4.JT "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "W"]
+Pass Pass 1H Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJT9865.Q.A9.J95 AKT964.KQJ6.863.A7432 3.T72.KQT4. Q.J8752.8543.A72 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "N"]
+Pass Pass 3S 4H
+4S 5H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJT9865.Q.A9.J95 AKT964.KQJ6.863.A7432 3.T72.KQT4. Q.J8752.8543.A72 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "N"]
+Pass Pass 3S 4H
+4S 5H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ85.T43.94.J76 T432.AQ762.K7.K9 J96.J5.AQT53.T42 7.K98.J862.AQ853 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "E"]
+Pass Pass 1H Pass
+2C an DX 2S
+Pass Pass 3C Pass
+3H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ85.T43.94.J76 T432.AQ762.K7.K9 J96.J5.AQT53.T42 7.K98.J862.AQ853 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "E"]
+Pass Pass 2D Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J32.JT9.AT65.Q86 KQT854.K852.K.J7 976.Q6.QJ9872.43 A.A743.43.AKT952 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "S"]
+Pass 2S an So
+Pass 2N Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J32.JT9.AT65.Q86 KQT854.K852.K.J7 976.Q6.QJ9872.43 A.A743.43.AKT952 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2S Pass 3C
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ74.KQJ8764.Q2.Q965 32.J3.K6542.T8 T5.KT75.QJT97. A32.A9.A9864.A83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "W"]
+Pass Pass 1N 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ74.KQJ8764.Q2.Q965 32.J3.K6542.T8 T5.KT75.QJT97. A32.A9.A9864.A83 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "W"]
+Pass Pass 1N 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ8.J4.98764.862 QT6.96.KQJ5.Q543 972.A8753.T32.T7 A543.KQT2.A.AKJ9 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 2S Pass 3C
+Pass 3N Pass 5C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ8.J4.98764.862 QT6.96.KQJ5.Q543 972.A8753.T32.T7 A543.KQT2.A.AKJ9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "N"]
+Pass 1C Pass 1N
+Pass 2S Pass 3C
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT85.KT984.J9.K3 J73.A53.6.T98762 Q642.QJ762.Q5.J5 A9.AKT87432.AQ4."]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "E"]
+2C Pass 2H Pass
+3D Pass 3N Pass
+4D Pass 4H Pass
+5D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT85.KT984.J9.K3 J73.A53.6.T98762 Q642.QJ762.Q5.J5 A9.AKT87432.AQ4."]
+[Declarer "W"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "E"]
+2C Pass 2D Pass
+3D Pass 3N Pass
+4D Pass 4H Pass
+6D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9543.K5.T53.AT54 J76.T.J4.KQJ9632 AQT8.AQJ932.987. K2.8764.AKQ62.87 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "S"]
+Pass 3C 3H Pass
+3N Pass 4C Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9543.K5.T53.AT54 J76.T.J4.KQJ9632 AQT8.AQJ932.987. K2.8764.AKQ62.87 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "S"]
+Pass 3C X 3D
+Pass Pass 3H Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J.62.A9753.A9862 KT62.KJT95.Q6.75 A943.AQ7.K42.K43 Q875.843.JT8.QJT "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "W"]
+Pass 1N Pass 2S
+Pass 2N Pass 3D
+Pass 3H Pass 4C
+Pass 4S Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J.62.A9753.A9862 KT62.KJT95.Q6.75 A943.AQ7.K42.K43 Q875.843.JT8.QJT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "W"]
+Pass 1N Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 76.AK654.J93.Q53 J932.J9872.T7.T2 AQT4.T.852.AK874 K85.Q3.AKQ64.J96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "N"]
+1C 1D 1H Pass
+1S Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 76.AK654.J93.Q53 J932.J9872.T7.T2 AQT4.T.852.AK874 K85.Q3.AKQ64.J96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "N"]
+1C 1D X! Pass
+1S Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 6.Q84.JT982.KQ64 Q753.K976.AQ.T95 AK82.T53.65.A732 JT94.AJ2.K743.J8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "E"]
+Pass Pass 1H Pass
+2C Pass 2H Pass
+Pass 2N Pass 3C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 6.Q84.JT982.KQ64 Q753.K976.AQ.T95 AK82.T53.65.A732 JT94.AJ2.K743.J8 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQJT6.KT3.J7.A32 872.QJ76.6.J9876 A5.A852.AKT854.4 943.94.Q932.KQT5 "]
+[Declarer "S"]
+[Contract "7"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "S"]
+1N Pass 2C Pass
+2S Pass 3D Pass
+3S Pass 4C X
+XX Pass 4N Pass
+5S Pass 5N Pass
+6H Pass 7C Pass
+7S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQJT6.KT3.J7.A32 872.QJ76.6.J9876 A5.A852.AKT854.4 943.94.Q932.KQT5 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "S"]
+1S Pass 2D Pass
+2N Pass 3H Pass
+3S Pass 5S Pass
+6C Pass 6D Pass
+6H Pass 6S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "KAMIL"]
+[North "ZIA"]
+[East "FLEISHER"]
+[South "ROSENBERG"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KJ742.A7.5.J9874 A953.JT3.942.AT2 T.986542.KJT76.6 Q86.KQ.AQ83.KQ53 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bramley"]
+[Auction "W"]
+Pass 2D an mu
+2N 3H an Pa
+X! an ca Pass
+Pass Pass
+[Play "W"]
+*
+
+

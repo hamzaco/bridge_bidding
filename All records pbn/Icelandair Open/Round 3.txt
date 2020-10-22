@@ -1,0 +1,333 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sandqvist"]
+[North "Villi Jr."]
+[East "Malinowsk"]
+[South "Danni"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ3.4.T65.Q87432 QT76.KT9632.9.95 A2.QJ5.AKQJ874.K 9854.A87.32.AJT6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Villi Jr."]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Janet De Botton"]
+[Auction "N"]
+1D Pass Pass 1H
+3N Pass Pass Pass
+[Play "E"]
+C2 C9 CK CA
+SJ SQ SA S8
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sandqvist"]
+[North "Villi Jr."]
+[East "Malinowsk"]
+[South "Danni"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K95.AK65.9.KQT64 7.JT832.AQ85.732 QT863.97.743.A98 AJ42.Q4.KJT62.J5 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Villi Jr."]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Janet De Botton"]
+[Auction "E"]
+1D X 2N Pass
+3D Pass Pass 3S
+X Pass Pass Pass
+[Play "W"]
+D9 DA D4 DJ
+S5 D5 D7 DT
+SK S7 S3 S2
+S9 C2 S6 SJ
+H5 D8 D3 D6
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sandqvist"]
+[North "Villi Jr."]
+[East "Malinowsk"]
+[South "Danni"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ6.K84.QT5.A964 AKT7.Q6.J73.KJT2 2.AT9752.AK986.Q 98543.J3.42.8753 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Villi Jr."]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Janet De Botton"]
+[Auction "S"]
+1C 1S 2H 3S
+Pass Pass 4D Pass
+4H Pass 4N Pass
+5H Pass 6H Pass
+Pass Pass
+[Play "E"]
+SQ SK S2 S8
+S6 SA H2 S3
+HK H6 H5 H3
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sandqvist"]
+[North "Villi Jr."]
+[East "Malinowsk"]
+[South "Danni"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT87.J7.6542.AK3 J.QT9653.K873.T6 9543.82.QJ.QJ754 AQ62.AK4.AT9.982 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Villi Jr."]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Janet De Botton"]
+[Auction "W"]
+2D Pass 2N Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "E"]
+CA C6 C4 C2
+CK CT C5 C8
+C3 D3 CQ C9
+S7 H3 CJ S2
+HJ D7 C7 DT
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sandqvist"]
+[North "Villi Jr."]
+[East "Malinowsk"]
+[South "Danni"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT92.Q9432.K9.A8 J86.AKJ876.7.973 AQ53.A6432.QJT4.74 T5.QJT85.K652."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Villi Jr."]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Janet De Botton"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 4S Pass
+Pass Pass
+[Play "E"]
+C8 C3 C4 C2
+S2 S6 SQ S4
+SK S8 S3 S7
+CA C9 CT C5
+S9 SJ SA D5
+CK ST C7 CQ
+DK D7 D2 D8
+D9 H6 DA DT
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sandqvist"]
+[North "Villi Jr."]
+[East "Malinowsk"]
+[South "Danni"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT83.AJ3.AJT98.Q J.875.Q7532.AT74 A72.962.K64.J953 Q9654.KQT4.K862."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Villi Jr."]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Janet De Botton"]
+[Auction "E"]
+Pass 1D Pass 1N
+X Pass 2C X
+Pass Pass Pass
+[Play "E"]
+D8 D2 D4 C2
+S3 SJ SA S4
+D9 D3 DK C6
+S8 C4 S2 S5
+DT D5 D6 C8
+ST C7 S7 S6
+HA H5 H9 HK
+CQ CT C3 CK
+H3 H7 H2 HQ
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sandqvist"]
+[North "Villi Jr."]
+[East "Malinowsk"]
+[South "Danni"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT5.654.Q63.T943 KJ42.KQ32.842.Q5 9763.JT9.KT75.62 Q8.A87.AJ9.AKJ87 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Villi Jr."]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Janet De Botton"]
+[Auction "S"]
+Pass Pass Pass 1C
+an Tw Pa 1D
+an Ga Pass 2D
+an Co Pass 2S
+an Ma Pass 2N
+an Re Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+C3 C5 C2 C8
+C4 CQ C6 C7
+SA S2 S3 SQ
+D3 D2 DK DA
+CT D4 HJ CA
+C9 D8 HT CK
+H6 S4 D5 CJ
+S5 SJ S6 S8
+ST SK S7 D9
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sandqvist"]
+[North "Villi Jr."]
+[East "Malinowsk"]
+[South "Danni"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T9.QJ84.QT762.96 53.A95.AKJ98.Q85 KQJ72.T7.43.T742 A864.K632.5.AKJ3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Villi Jr."]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Janet De Botton"]
+[Auction "W"]
+1N Pass 2C Pass
+2D Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+S9 S3 SK S4
+ST S5 SQ SA
+D2 DJ D3 D5
+C6 C5 C2 CA
+C9 CQ C4 C3
+D6 C8 C7 CK
+H4 H5 CT CJ
+HJ HA H7 H2
+D7 DA D4 H3
+DT DK S2 S6
+H8 H9 HT HK
+*
+
+
+[Event "Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sandqvist"]
+[North "Villi Jr."]
+[East "Malinowsk"]
+[South "Danni"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9643.2.QJ73.QJ75 AT5.A97.KT98643.KQ2 QJT8653.96.2.J87 K4.AKT8542.A."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Villi Jr."]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Janet De Botton"]
+[Auction "N"]
+3H 3N Pass 6C
+Pass Pass Pass
+[Play "E"]
+S7 S6 SA SK
+C2 CA C5 C3
+D3 S5 D6 DA
+D9 DK D7 ST
+C8 HQ D2 DQ
+C7 CK H3 D4
+H5 D5 CJ CT
+S3 C4 S2 S8
+H6 D8 CQ C6
+S9 C9 SQ SJ
+H2 H7 H8 HK
+*
+
+

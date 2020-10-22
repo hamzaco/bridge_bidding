@@ -1,0 +1,684 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A97.97.K875.AT74 KQT5.Q863.J6.832 J43.AT5.T43.J965 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2H Pass 3H
+Pass Pass Pass
+[Play "S"]
+H7 H3 H5 HK
+H9 H6 HA HJ
+CA C2 C6 CK
+C4 C8 CJ CQ
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A97.97.K875.AT74 KQT5.Q863.J6.832 J43.AT5.T43.J965 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT9532.K3.A72.95 AK.J2.KQJT654.T8 Q84.T9854.9.AQ42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+Pass 2S 2N 3S
+X Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT9532.K3.A72.95 AK.J2.KQJT654.T8 Q84.T9854.9.AQ42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+Pass 2S 2N 3S
+X Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT62.T9.K82.JT98 K9.K73.96543.Q54 873.AJ854.AJ7.62 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 2C Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT62.T9.K82.JT98 K9.K73.96543.Q54 873.AJ854.AJ7.62 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+Pass Pass 1H X
+Pass 2D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K75.63.J642.A872 J92.T85.A8.QJ543 AT84.AKJ4.T753.9 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "W"]
+Pass 1D Pass 2D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K75.63.J642.A872 J92.T85.A8.QJ543 AT84.AKJ4.T753.9 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "W"]
+Pass 1D Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 75.KQ962.A973.94 Q82.A7.KQJ8.QT87 J96.JT853.T.A632 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+Pass 1S Pass 2N
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 75.KQ962.A973.94 Q82.A7.KQJ8.QT87 J96.JT853.T.A632 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 3C Pass 4C
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A86.JT6.KT9.QT62 T9732.4.J7653.K9 Q54.AKQ9832.Q2.8 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+2C Pass 2S 3H
+3S 4H 4S 5H
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A86.JT6.KT9.QT62 T9732.4.J7653.K9 Q54.AKQ9832.Q2.8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+1N Pass 2H 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 76.QJ975.Q.JT973 AQ8532.A.J8765.2 KT9.T62.K94.AK64 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2D Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 76.QJ975.Q.JT973 AQ8532.A.J8765.2 KT9.T62.K94.AK64 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+Pass 1S X XX
+2H 3D Pass 3N
+Pass 4S Pass Pass
+5C X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQJ842.82.K8.976 K7.KT7643.A4.AQJ 9653.A.J976.8432 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "W"]
+1H Pass 3C 3S
+4C 4S Pass Pass
+4N X Pass Pass
+5H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQJ842.82.K8.976 K7.KT7643.A4.AQJ 9653.A.J976.8432 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "W"]
+1C Pass 2D 2S
+3H 4S 5H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A96.T63.KJ83.A32 KQ.K95.765.98764 J75432.J2.T94.J5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A96.T63.KJ83.A32 KQ.K95.765.98764 J75432.J2.T94.J5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1N Pass 3C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 32.J8762.T5.JT63 AQJ8.43.9842.A54 975.AQ5.KQ3.Q982 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+1D Pass 1S Pass
+2S Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 32.J8762.T5.JT63 AQJ8.43.9842.A54 975.AQ5.KQ3.Q982 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "E"]
+1N Pass 3C Pass
+3D Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A4.AT74.JT86.QT7 QT7.98.AK2.J9832 K9865.KQ6.Q973.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+Pass Pass 1S Pass
+1N Pass 2D Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A4.AT74.JT86.QT7 QT7.98.AK2.J9832 K9865.KQ6.Q973.6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "S"]
+Pass Pass 1S Pass
+1N Pass 2D Pass
+2N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2002 IOC Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "F Karwur"]
+[North "R Freeman"]
+[East "D Sacul"]
+[South "N Nickell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J8732.J543.97.T6 A96.A87.T64.K982 QT54.KQ92.QJ753."]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "USA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1520"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Indonesia"]
+[Auction "W"]
+Pass Pass 1C Pass
+1N Pass 2D Pass
+2N Pass 3D Pass
+3H Pass 4C Pass
+4S Pass 4N Pass
+5C Pass 7N Pass
+Pass Pass
+[Play "N"]
+*
+
+

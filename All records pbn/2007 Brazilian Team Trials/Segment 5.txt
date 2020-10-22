@@ -1,0 +1,919 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q652.AQT74.A753.K94 Q96.632.J962.J73 KJ7543.J5.Q8.AT8 AT82.K98.KT4."]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+D7 D2 DJ DK
+HK H2 C3 HQ
+D5 D9 DT D6
+DA D3 H3 D8
+H4 CT DQ C2
+C6 S3 ST D4
+C8 C4 CA C9
+CJ CQ CK C5
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q652.AQT74.A753.K94 Q96.632.J962.J73 KJ7543.J5.Q8.AT8 AT82.K98.KT4."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass 1C 1D 2C
+2H Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 74.Q976.86.76543 A.J84.KT732.AKT8 KQJ9653.A3.Q94.Q T82.KT52.AJ5.J92 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass 1D 1S
+X Pass 3C 3S
+5D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 74.Q976.86.76543 A.J84.KT732.AKT8 KQJ9653.A3.Q94.Q T82.KT52.AJ5.J92 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass 1D 3S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K85.A742.Q984.KJ AJ7432.KJ93.32.A T9.T.AJT65.Q7654 Q6.Q865.K7.T9832 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+1D 1S 2S X
+2N 3H Pass Pass
+5D X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K85.A742.Q984.KJ AJ7432.KJ93.32.A T9.T.AJT65.Q7654 Q6.Q865.K7.T9832 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+1D 1S 5D Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A63.T65.A.K87653 K84.A7.Q87.AT942 QT75.QJ84.942.QJ J92.K932.KJT653."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1C Pass 1H Pass
+1N Pass 2C an
+Pa Pass 2D Pass
+3D Pass 3H Pass
+4D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A63.T65.A.K87653 K84.A7.Q87.AT942 QT75.QJ84.942.QJ J92.K932.KJT653."]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1C Pass 1H Pass
+1N Pass 2C an
+2w Pass 2D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ5.K98.Q63.QJ62 JT63.AQ762.T.K54 K974.53.KJ985.A3 82.JT4.A742.T987 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ5.K98.Q63.QJ62 JT63.AQ762.T.K54 K974.53.KJ985.A3 82.JT4.A742.T987 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass Pass 1C 1H
+X Pass 1N Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 965.J752.T732.A8 KJ2.Q84.KJ96.T42 T43.K96.Q.KQ7653 AQ87.AT3.A854.J9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 965.J752.T732.A8 KJ2.Q84.KJ96.T42 T43.K96.Q.KQ7653 AQ87.AT3.A854.J9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 9862.QT9.8.AJ973 54.K86543.J9.K42 AQT3.72.QT76542. KJ7.AJ.AK3.QT865 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass 2D X
+Pass 3H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 9862.QT9.8.AJ973 54.K86543.J9.K42 AQT3.72.QT76542. KJ7.AJ.AK3.QT865 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass 2D 2N
+Pass 3D an !H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KT.QT54.AJ3.6532 9863.AJ986.Q2.KQ AJ542.7.T8754.84 Q7.K32.K96.AJT97 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1H Pass 2C an
+XX  X Pass 2H
+an =4 Pass 2N
+Pass 3C an mi
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KT.QT54.AJ3.6532 9863.AJ986.Q2.KQ AJ542.7.T8754.84 Q7.K32.K96.AJT97 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1H Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.T97.9.KQJ96432 Q.AQJ3.AKJT82.T5 KJ985432.8.75.A7 AT6.K6542.Q643.8 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+4S Pass Pass 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.T97.9.KQJ96432 Q.AQJ3.AKJT82.T5 KJ985432.8.75.A7 AT6.K6542.Q643.8 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+4S Pass Pass 5D
+Pass 6D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J9.AK972.KQ6.J76 KQ653.Q.JT9.KQ85 A874.J83.A843.AT T2.T654.752.9432 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass 1H 1S 2S
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J9.AK972.KQ6.J76 KQ653.Q.JT9.KQ85 A874.J83.A843.AT T2.T654.752.9432 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass 1H 1S 2S
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A3.QT542.J976.K4 KJT7.J83.QT.QJ82 Q8.AK.A43.T97653 96542.976.K852.A "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass 1C 1S
+2H 3H X 3S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A3.QT542.J976.K4 KJT7.J83.QT.QJ82 Q8.AK.A43.T97653 96542.976.K852.A "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A.8765.AT987.AQ4 J62.QT32.Q63.J63 QT875.K.J2.K9852 K943.AJ94.K54.T7 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+Pass Pass 1C 1D
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A.8765.AT987.AQ4 J62.QT32.Q63.J63 QT875.K.J2.K9852 K943.AJ94.K54.T7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1S Pass 2D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T63.AQ87.JT9732.K87 954.AKQJ754.AJ5.KJT2 K854.96..Q942 63.AQ6.T832."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1D Pass 1H 2C
+2H X 4D 5C
+X Pass 5D Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T63.AQ87.JT9732.K87 954.AKQJ754.AJ5.KJT2 K854.96..Q942 63.AQ6.T832."]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1D Pass 1H 2C
+2H 3C 4H 5C
+Pass Pass 5D 6C
+X Pass Pass Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J8732.KQ9874.K2.Q9 J.J976.AJT863.K4 AT63.AQT53.K9. AT65.52.84.Q7542 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass 3C X
+4C 5C Pass 5D
+Pass 5H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J8732.KQ9874.K2.Q9 J.J976.AJT863.K4 AT63.AQT53.K9. AT65.52.84.Q7542 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1H 2C 3H
+5C 6H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 963.J952.A974.94 T84.QT.T8.AK7632 AQJ2.A7.QJ652.J8 K75.K8643.K3.QT5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass 3C X 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 963.J952.A974.94 T84.QT.T8.AK7632 AQJ2.A7.QJ652.J8 K75.K8643.K3.QT5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Figueiredo"]
+[North "M Amaral"]
+[East "Brenner"]
+[South "P Branco"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQ2.J3.AK987.953 J9754.AT97.Q4.T8 863.KQ8654.32.74 KT.2.JT65.AKQJ62 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Camacho"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+Pass 2H 3C 4H
+X Pass 4N X
+5C Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+

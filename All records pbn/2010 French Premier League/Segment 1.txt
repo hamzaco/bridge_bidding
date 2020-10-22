@@ -1,0 +1,770 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKJ765.JT9.AQ.73 9.AQ75.KT862.AJ4 QT82.832.753.K65 43.K64.J94.QT982 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+1D Pass 1N 2S
+X 3S Pass Pass
+Pass
+[Play "S"]
+DQ D2 D3 DJ
+SK S9 S2 S3
+DA D6 D5 D4
+S5 D8 S8 S4
+S6 DT D7 D9
+HJ HQ H2 H4
+H9 HA H3 H6
+HT H7 H8 HK
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKJ765.JT9.AQ.73 9.AQ75.KT862.AJ4 QT82.832.753.K65 43.K64.J94.QT982 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+1D Pass 1N 2S
+X Pass 3C Pass
+Pass Pass
+[Play "W"]
+SA S9 S8 S3
+HJ H5 H2 HK
+S6 C4 S2 S4
+C3 CA C5 C2
+C7 CJ C6 CQ
+DA D2 D3 DJ
+SK D6 ST C8
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 74.T932.AKJ43.T8 AKJT8.Q7.75.J632 653.KJ64.Q92.KQ4 Q92.A85.T86.A975 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+Pass Pass 2D an
+ 6 2S X an
+  3D Pass an
+  3S Pass Pass
+Pass
+[Play "S"]
+S4 ST S3 S2
+DJ D5 D2 D6
+H9 HQ HK H5
+S7 S8 S5 S9
+C8 CJ CK C5
+D3 SA S6 SQ
+CT C2 C4 C7
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 74.T932.AKJ43.T8 AKJT8.Q7.75.J632 653.KJ64.Q92.KQ4 Q92.A85.T86.A975 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+Pass 1N an 10
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "S"]
+DA D5 D2 D6
+S4 S8 S5 S9
+H3 HQ HK H5
+DJ D7 DQ D8
+S7 ST S3 S2
+CT C2 C4 C9
+DK SA D9 DT
+D3 SK S6 SQ
+C8 C3 CQ CA
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q.AT86542.42.J53 K62.7.K83.AQT986 J8753.QJ9.AQT.74 AT94.K3.J9765.K2 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q.AT86542.42.J53 K62.7.K83.AQT986 J8753.QJ9.AQT.74 AT94.K3.J9765.K2 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+1D 3H 4C 4H
+Pass Pass 5C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q642.J54.T2.KJ73 T3.K872.985.QT82 9.QT9.AKJ763.A54 AKJ875.A63.Q4.96 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+Pass Pass 1D 1S
+1N Pass 2D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q642.J54.T2.KJ73 T3.K872.985.QT82 9.QT9.AKJ763.A54 AKJ875.A63.Q4.96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+Pass Pass 1D 1H
+Pass Pass 2D 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q9732.985.AJ7.A9 A84.KJ3.KQ2.T753 J5.AQT6.8653.K86 KT6.742.T94.QJ42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+1C Pass 1D 1S
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q9732.985.AJ7.A9 A84.KJ3.KQ2.T753 J5.AQT6.8653.K86 KT6.742.T94.QJ42 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+1C Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 643.AT65.Q8.AQ96 AKQJ9.J.A53.T832 2.9874.KJT7642.5 T875.KQ32.9.KJ74 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+3D Pass Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 643.AT65.Q8.AQ96 AKQJ9.J.A53.T832 2.9874.KJT7642.5 T875.KQ32.9.KJ74 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+Pass Pass 1C 1S
+3D 4S 5C X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK7.AJ.QJ93.AQJ9 8632.8643.AKT85.QJT9 KT7.74.K732. 54.Q952.62.T8654 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass 2N Pass 3C
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK7.AJ.QJ93.AQJ9 8632.8643.AKT85.QJT9 KT7.74.K732. 54.Q952.62.T8654 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+Pass 2C Pass 2D
+Pass 2N Pass 3C
+Pass 3N Pass 4D
+Pass 4H Pass 4S
+Pass 4N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 4.J763.654.AKJ97 AQ53.84.AK83.832 762.QT2.QJ72.T54 KJT98.AK95.T9.Q6 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+Pass 1D Pass 1S
+X 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 4.J763.654.AKJ97 AQ53.84.AK83.832 762.QT2.QJ72.T54 KJT98.AK95.T9.Q6 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "3"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 7.T9732.QJ9.AJ76 T4.865.6432.KQ95 AQ8532.A4.KT8.T2 KJ96.KQJ.A75.843 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+Pass 1S an  
+Pass 1N an  
+Pass 2S Pass 2N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 7.T9732.QJ9.AJ76 T4.865.6432.KQ95 AQ8532.A4.KT8.T2 KJ96.KQJ.A75.843 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 2S X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ54.QJT5.J.JT87 7.642.9543.A9654 AT32.K87.AKQ7.K3 Q986.A93.T862.Q2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+1C an   Pass
+1D an !h Pass
+2H an   Pass
+2S an   Pass
+2N Pass 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ54.QJT5.J.JT87 7.642.9543.A9654 AT32.K87.AKQ7.K3 Q986.A93.T862.Q2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "N"]
+1D Pass 1H Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T65.Q3.AT974.432 J94.A72.J8532.T6 AKQ82.K6.K.KQ875 73.JT9854.Q6.AJ9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+2D Pass 2H X
+Pass 3D 3H 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T65.Q3.AT974.432 J94.A72.J8532.T6 AKQ82.K6.K.KQ875 73.JT9854.Q6.AJ9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "E"]
+2D Pass 2S Pass
+3H Pass Pass 4H
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ32.QT2.K732.95 KJ7.AK65.984.AJT T84.J84.KQ87632.965 973.AQJT65.4."]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+Pass 1N Pass 2N
+an   Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ32.QT2.K732.95 KJ7.AK65.984.AJT T84.J84.KQ87632.965 973.AQJT65.4."]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 1N Pass 2D
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 French Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Gautret"]
+[North "Nunes"]
+[East "Cabanes"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AT8.872.Q8765.64 KJ7.Q53.32.AJT85 943.AKJT64.AT4.Q Q652.9.KJ9.K9732 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DELFOUR"]
+[Auction "W"]
+1C 1H 1S 2H
+Pass 2S 3C 3D
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,909 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J32.AQT963.J5.K4 AK65.J542.3.JT65 QT8.87.AKQT8.Q83 974.K.97642.A972 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "N"]
+1D Pass 1H 1S
+1N 2S 4H Pass
+Pass Pass
+[Play "W"]
+S2 SA S8 S4
+S3 SK ST S7
+CK CJ C3 CA
+D5 D3 D8 D4
+HA H2 H7 HK
+C4 C5 CQ C2
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J32.AQT963.J5.K4 AK65.J542.3.JT65 QT8.87.AKQT8.Q83 974.K.97642.A972 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "N"]
+1D Pass 1H Pass
+1N Pass 2D an
+gf Pass 3D Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T2.A83.QT9.KT932 QJ8.K62.A864.J87 9765.QJ94.KJ532. AK43.T75.7.AQ654 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "E"]
+1C Pass 1D Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T2.A83.QT9.KT932 QJ8.K62.A864.J87 9765.QJ94.KJ532. AK43.T75.7.AQ654 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "E"]
+1S Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K8632.97.J84.K85 J.JT6542.K95.T97 T75.A8.T632.J643 AQ94.KQ3.AQ7.AQ2 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "S"]
+Pass 2D Pass 2N
+Pass 3H Pass 6N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K8632.97.J84.K85 J.JT6542.K95.T97 T75.A8.T632.J643 AQ94.KQ3.AQ7.AQ2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D Pass 1H
+Pass 2C Pass 2D
+Pass 2S Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K943.AJ6.74.AJ65 Q7.QT9.KT98.T843 T652.K543.65.K92 AJ8.872.AQJ32.Q7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "W"]
+Pass Pass 1D X
+2D X 3D Pass
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K943.AJ6.74.AJ65 Q7.QT9.KT98.T843 T652.K543.65.K92 AJ8.872.AQJ32.Q7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "W"]
+Pass Pass 1D X
+Pass 1H Pass Pass
+1N 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT9643.6.98.AT92 Q2.AQJ5.J632.KJ7 K8.932.AKQT754.3 A75.KT874.Q8654."]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "N"]
+1D 1H 1S 4H
+5D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT9643.6.98.AT92 Q2.AQJ5.J632.KJ7 K8.932.AKQT754.3 A75.KT874.Q8654."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "N"]
+1D 2N Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T.J962.AK7.J8643 Q986.AKT5.T43.QT K.874.9865.K9752 AJ75432.Q3.QJ2.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "E"]
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T.J962.AK7.J8643 Q986.AKT5.T43.QT K.874.9865.K9752 AJ75432.Q3.QJ2.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "E"]
+1S Pass 3D Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q84.A43.T8742.95 K975.QT5.AJ5.QJT 2.K872.KQ63.AK82 AJT63.J96.9.7643 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "S"]
+Pass 1S X 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q84.A43.T8742.95 K975.QT5.AJ5.QJT 2.K872.KQ63.AK82 AJT63.J96.9.7643 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "S"]
+Pass 1N Pass 2H
+Pass 2S X Pass
+2N Pass 3C Pass
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 75.652.T6532.Q32 643.AT.AQ9.KJT75 KQT98.J9874.K.A6 AJ2.KQ3.J874.984 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "W"]
+1C 1S 1N Pass
+Pass 2H 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 75.652.T6532.Q32 643.AT.AQ9.KJT75 KQT98.J9874.K.A6 AJ2.KQ3.J874.984 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "W"]
+1N 2C 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ3.JT864.Q62.JT A84.K952.A3.9873 96.AQ.KJT975.Q64 QT752.73.84.AK52 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "N"]
+1D Pass 1H Pass
+2D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ3.JT864.Q62.JT A84.K952.A3.9873 96.AQ.KJT975.Q64 QT752.73.84.AK52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "N"]
+1D 1S X XX
+2D Pass Pass 2S
+3D Pass Pass 3S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKJT7.J4.K764.AQ 9432.KT.QT92.K53 5.Q8652.A83.JT74 Q86.A973.J5.9862 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKJT7.J4.K764.AQ 9432.KT.QT92.K53 5.Q8652.A83.JT74 Q86.A973.J5.9862 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T7.AK8542.T43.98 QJ82.AQ62.AQT32.K96 Q3.KJ97.KJ76.A543 JT976.85.54."]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "S"]
+2H X Pass 2S
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T7.AK8542.T43.98 QJ82.AQ62.AQT32.K96 Q3.KJ97.KJ76.A543 JT976.85.54."]
+[Declarer "E"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "S"]
+2D X 2H Pass
+Pass X Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T97652.K3.72.Q96 QJ8.742.T6.AJT53 K3.AQJ965.K94.K7 A4.T8.AQJ853.842 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "W"]
+Pass 1H 2D X
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T97652.K3.72.Q96 QJ8.742.T6.AJT53 K3.AQJ965.K94.K7 A4.T8.AQJ853.842 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "W"]
+Pass 1H 2D X
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ987.AK83.A9.AT Q6.QJ7652.KJ5.54 A.T94.QT4.987632 T5432.87632.KQJ."]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "N"]
+Pass Pass 1S Pass
+1N Pass 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ987.AK83.A9.AT Q6.QJ7652.KJ5.54 A.T94.QT4.987632 T5432.87632.KQJ."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "N"]
+Pass Pass 1S Pass
+1N Pass 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q7653.AKT2.2.J42 AKJ4.96.A3.AK987 8.Q875.QT9865.Q3 T92.J43.KJ74.T65 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "E"]
+Pass Pass 1C 2D
+Pass Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q7653.AKT2.2.J42 AKJ4.96.A3.AK987 8.Q875.QT9865.Q3 T92.J43.KJ74.T65 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "E"]
+Pass Pass 1C 2D
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQJT753.8.AQT.Q7 6.AJ3.KJ8.J96543 84.K654.765432.2 K92.QT972.9.AKT8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "S"]
+1S Pass Pass 2H
+3S 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQJT753.8.AQT.Q7 6.AJ3.KJ8.J96543 84.K654.765432.2 K92.QT972.9.AKT8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "S"]
+1S Pass Pass 2H
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Australian Senior Playoffs"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Wyer"]
+[North "Chadwick"]
+[East "Brown"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AKQ753.J.AT.AJT7 J9.Q642.J96432.Q 62.AT875.KQ7.K43 T84.K93.85.98652 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Chadwick"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Neill"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 1N Pass 3S
+Pass 4S Pass 4N
+Pass 5C Pass 5N
+Pass 6S Pass Pass
+Pass
+[Play "W"]
+*
+
+

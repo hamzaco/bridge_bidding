@@ -1,0 +1,805 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K863.AKQ853.T73.92 J9.8642.AKT83.Q754 T72.K.Q9762. AJT.64.AQJ95.J54 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "5"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -500"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+Pass 1D 1H 2D
+2H 3D 4H X
+Pass Pass Pass
+[Play "E"]
+C2 C4 H3 CK
+D3 D4 DK DA
+H2 H6 HA H9
+D7 D2 H7 DQ
+C5 H5 C3 C6
+DT D6 HT D5
+C8 C7 CJ H8
+HK HJ S4 H4
+S3 S9 SQ SA
+HQ D8 S5 DJ
+SK S2 S7 ST
+S6 CT C9 SJ
+CA CQ D9 S8
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ963.T4.A54.853 2.KJ9.K63.J97642 A854.AQ83.T97.AQ KT7.7652.QJ82.KT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass 1S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+C3 C6 CQ CK
+C5 C2 CA CT
+DA D3 D7 D8
+H4 H9 HQ H5
+HT HK HA H2
+S3 HJ H3 H6
+C8 C9 S4 S7
+SQ C4 H8 H7
+S6 S2 SA ST
+S9 C7 S5 SK
+D4 D6 D9 DQ
+D5 DK DT D2
+SJ CJ S8 DJ
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T9652.T95.A85.42 J7.864.K43.KQ876 Q.KQ.QJT762.AT95 AK843.AJ732.9.J3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+[Play "E"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T9652.T95.A85.42 J7.864.K43.KQ876 Q.KQ.QJT762.AT95 AK843.AJ732.9.J3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass Pass 1D 1S
+2D Pass 3D 3H
+Pass 4S 5D Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+H5 H4 HK HA
+H9 H6 HQ H7
+C2 C6 CA C3
+C4 C7 CT CJ
+HT H8 D2 HJ
+DA C8 C5 D9
+S2 SJ SQ SK
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT.Q93.Q87.Q8532 A764.AKJ42.K9.JT Q8.76.AJ532.AK64 J9532.T85.T64.97 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+[Play "N"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT.Q93.Q87.Q8532 A764.AKJ42.K9.JT Q8.76.AJ532.AK64 J9532.T85.T64.97 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+1H Pass Pass Pass
+[Play "E"]
+C3 CJ CA C7
+C8 CT CK C9
+ST SA SQ S2
+H3 HA H6 H5
+H9 HK H7 H8
+SK S4 S8 S9
+HQ H2 D2 HT
+D7 DK DA D4
+DQ D9 D3 D6
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J92.KQ.A8432.K75 Q43.T985.T95.T92 AK765.763.6.AQ83 T8.AJ42.KQJ7.J64 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+[Play "N"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J92.KQ.A8432.K75 Q43.T985.T95.T92 AK765.763.6.AQ83 T8.AJ42.KQJ7.J64 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+1S X XX Pass
+Pass 2D X 2H
+Pass Pass 4S Pass
+Pass Pass
+[Play "N"]
+DA D5 D6 DK
+HQ H5 H3 HA
+D2 D9 S5 DQ
+HK H8 H6 H2
+C5 C2 CA C4
+S2 H9 H7 H4
+CK C9 C3 C6
+C7 CT CQ CJ
+S9 S3 SA S8
+SJ SQ C8 D7
+D3 HT S6 HJ
+D4 S4 SK ST
+D8 DT S7 DJ
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 943.A82.86.AK652 KQT.KT7.Q975.T43 AJ62.64.AT43.Q87 875.QJ953.KJ2.J9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+[Play "E"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 943.A82.86.AK652 KQT.KT7.Q975.T43 AJ62.64.AT43.Q87 875.QJ953.KJ2.J9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 2N
+Pass Pass Pass
+[Play "E"]
+D6 D5 D3 DK
+H2 HK H4 HQ
+H8 HT H6 H3
+HA H7 S2 H9
+CA C3 C7 C9
+C5 C4 CQ CJ
+CK CT C8 S5
+C6 ST D4 S7
+C2 D7 DT S8
+S3 SQ SA H5
+S4 SK S6 HJ
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 74.T973.AQ97.Q75 Q9.AK2.K842.K962 J853.J5.JT53.T84 AKT62.Q864.6.AJ3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+[Play "W"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 74.T973.AQ97.Q75 Q9.AK2.K842.K962 J853.J5.JT53.T84 AKT62.Q864.6.AJ3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass 1N Pass 2H
+Pass 2S Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+DA D2 D3 D6
+D7 DK D5 C3
+S4 SQ S3 S2
+S7 S9 S5 SA
+C7 D4 S8 SK
+H3 HA H5 H4
+H7 HK HJ H6
+H9 H2 C8 HQ
+C5 C2 C4 CA
+CQ CK CT CJ
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 8.A8764.QJT4.852 T952.T.K962.J976 AK764.KQ5.83.T43 QJ3.J932.A75.AKQ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+[Play "N"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 8.A8764.QJT4.852 T952.T.K962.J976 AK764.KQ5.83.T43 QJ3.J932.A75.AKQ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+Pass 1S 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K5.T.AQJ8.KQT754 A8632.KJ6.94.J83 QT94.Q92.T652.92 J7.A87543.K73.A6 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+[Play "N"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K5.T.AQJ8.KQT754 A8632.KJ6.94.J83 QT94.Q92.T652.92 J7.A87543.K73.A6 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+Pass 1H 2C 2H
+Pass Pass X Pass
+2S 3H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J2.KQ9.AQT9.T863 A843.765.K873.AQ KT95.T82.2.KJ952 Q76.AJ43.J654.74 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+[Play "W"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J2.KQ9.AQT9.T863 A843.765.K873.AQ KT95.T82.2.KJ952 Q76.AJ43.J654.74 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 8542.T96.J75.752 KQ.AJ75.T863.K93 AT93.3.AQ42.AJ86 J76.KQ842.K9.QT4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+[Play "N"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 8542.T96.J75.752 KQ.AJ75.T863.K93 AT93.3.AQ42.AJ86 J76.KQ842.K9.QT4 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2H X! 4H
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQT95.72.AJ4.T42 J74.864.KQ85.AQ9 832.AJT9.96.8653 A6.KQ53.T732.KJ7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+[Play "N"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQT95.72.AJ4.T42 J74.864.KQ85.AQ9 832.AJT9.96.8653 A6.KQ53.T732.KJ7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "W"]
+1D Pass 1H 1S
+X! Pass 2S Pass
+3H Pass 4D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T85.T654.K.QT843 KJ6.QJ9872.QJ.95 A72.A3.AT962.AJ6 Q943.K.87543.K72 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+[Play "S"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T85.T654.K.QT843 KJ6.QJ9872.QJ.95 A72.A3.AT962.AJ6 Q943.K.87543.K72 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "N"]
+1D Pass 1H Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q865.J962.T8.K43 92.74.7654.J9765 J743.AKQ853.AT2.AKT T.AKQJ932.Q8."]
+[Declarer "N"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "E"]
+2C Pass 2D 2H
+3D 3H 4D 4H
+4N Pass 5C Pass
+5D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Adamson"]
+[North "Finegan"]
+[East "Martin"]
+[South "O'Neill"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT8.A86.J986.T93 A953.QT32.K7.QJ4 7642.K9754.T4.A8 KQ.J.AQ532.K7652 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Scotland"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1N Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

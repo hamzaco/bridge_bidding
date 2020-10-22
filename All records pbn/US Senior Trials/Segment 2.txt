@@ -1,0 +1,831 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T73.Q84.Q983.J93 AKJ2.T.AKJ62.A74 Q54.AK973.KQT86.986 J652.T754.52."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "W"]
+[Play "None"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.QJ9764.AJ3.T95 KQ9852.5.KT.KJ84 A643.AK2.652.762 T7.T83.Q9874.AQ3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "N"]
+Pass Pass 1H 4S
+X Pass Pass Pass
+[Play "W"]
+H6 H5 HA H3
+H7 S2 HK H8
+C5 C4 C2 CA
+SJ SK S3 ST
+DA DT D2 DQ
+HQ S5 H2 HT
+C9 CK C6 C3
+H4 S9 SA S7
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.QJ9764.AJ3.T95 KQ9852.5.KT.KJ84 A643.AK2.652.762 T7.T83.Q9874.AQ3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "N"]
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q964.T97.KQ954.3 K72.J632.JT32.J2 JT8.K5.86.AQT984 A53.AQ84.A7.K765 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "E"]
+1C 1D 1H 1N
+X Pass 2H Pass
+4H Pass Pass Pass
+[Play "W"]
+D9 D3 D8 DA
+DQ D2 D6 D7
+C3 C2 CA C5
+H7 CJ C4 CK
+D4 DT HK HA
+H9 HJ H5 H4
+HT H2 C8 HQ
+D5 H3 C9 C6
+S4 S2 S8 SA
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q964.T97.KQ954.3 K72.J632.JT32.J2 JT8.K5.86.AQT984 A53.AQ84.A7.K765 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8743.AK53.JT63.Q AK.Q642.AK.JT852 JT62.JT8.Q2.AK73 Q95.97.98754.964 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "S"]
+Pass 1C Pass Pass
+X 1H 1S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8743.AK53.JT63.Q AK.Q642.AK.JT852 JT62.JT8.Q2.AK73 Q95.97.98754.964 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "S"]
+1D 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K9653.95.KQ4.JT6 A7.AT876.JT3.K98 JT84.K4.9872.Q73 Q2.QJ32.A65.A542 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "W"]
+1H Pass 2S Pass
+2N Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K9653.95.KQ4.JT6 A7.AT876.JT3.K98 JT84.K4.9872.Q73 Q2.QJ32.A65.A542 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "W"]
+1H Pass 3C an
+al Pass 3D an
+al Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK2.QT9653.AQ83.QT97 82.T.AQ9752.J6 AJ4.J9654.KJ4. 8543.K7.K72.T863 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "N"]
+Pass Pass 1H 2C
+3C X 3D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK2.QT9653.AQ83.QT97 82.T.AQ9752.J6 AJ4.J9654.KJ4. 8543.K7.K72.T863 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "N"]
+1D an al Pass
+1H 2C Pass 3C
+3H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K.KT6.KQJ98.KT74 865.QJ752.A7.983 T42.A843.53.AQJ6 AQJ973.9.T642.52 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "E"]
+2S 3D 3S X
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K.KT6.KQJ98.KT74 865.QJ752.A7.983 T42.A843.53.AQJ6 AQJ973.9.T642.52 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "E"]
+2S 3D 3S X!
+Pass 4C Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQJ7.A94.A4.K742 KT.J.J9765.AT986 8432.KT752.K8.J5 965.Q863.QT32.Q3 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "S"]
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQJ7.A94.A4.K742 KT.J.J9765.AT986 8432.KT752.K8.J5 965.Q863.QT32.Q3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "S"]
+1C an al Pass
+1H an al Pass
+1N Pass 2C Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J2.Q85.43.KJT974 95.KJ43.AT652.65 AKT8743.AT.K.Q32 Q6.9762.QJ987.A8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J2.Q85.43.KJT974 95.KJ43.AT652.65 AKT8743.AT.K.Q32 Q6.9762.QJ987.A8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "W"]
+Pass 1C an al
+1D X! 4D 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 94.KQ74.J865.QJ9 AT8762.T83.7.KT5 J.A62.AKQT93.A72 KQ53.J95.42.8643 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "N"]
+1D Pass 1H 1S
+X 2H 3D Pass
+3S X Pass Pass
+XX Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 94.KQ74.J865.QJ9 AT8762.T83.7.KT5 J.A62.AKQT93.A72 KQ53.J95.42.8643 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "N"]
+1C Pass 1H 1S
+2D 2S 3H Pass
+4S an al Pass
+5C Pass 5D Pass
+6D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K87652.2.J74.T84 AQ.K843.AK9653.9 T43.A76.8.AQ7653 J9.QJT95.QT2.KJ2 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H 1S 4C 4S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K87652.2.J74.T84 AQ.K843.AK9653.9 T43.A76.8.AQ7653 J9.QJT95.QT2.KJ2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "E"]
+Pass Pass 1C 2C
+2H Pass an al
+4C Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K873.QT9873.Q.43 AJ9.J652.KJ76.65 T62.AK4.T2.QJ872 Q54.A98543.AKT9."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "S"]
+Pass Pass 1C 1D
+1H 2C Pass 3C
+3H 3N Pass 4H
+Pass 6D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K873.QT9873.Q.43 AJ9.J652.KJ76.65 T62.AK4.T2.QJ872 Q54.A98543.AKT9."]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "S"]
+2H Pass 3H X
+Pass 4D Pass 5D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 864.JT6543.JT87.JT932 A54.K.K652.AQ7 KJ862.A.Q943.K5 QT973.Q9872.A."]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "W"]
+1S 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 864.JT6543.JT87.JT932 A54.K.K652.AQ7 KJ862.A.Q943.K5 QT973.Q9872.A."]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "W"]
+1S 1N X Pass
+2C 2H X 3D
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 765.AKJ765.Q87.7 AKQ932.QT93.K6.6 JT8.42.J2.AQT843 4.8.AT9543.KJ952 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "N"]
+Pass Pass 1H 1S
+Pass 2D 2H 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 765.AKJ765.Q87.7 AKQ932.QT93.K6.6 JT8.42.J2.AQT843 4.8.AT9543.KJ952 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "N"]
+Pass Pass 1H 1S
+2C 2D Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "passell"]
+[North "meltzer"]
+[East "hayden"]
+[South "bates"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ73.T4.K96.QT62 J9852.KQ5.AQ73.K A4.J62.JT5.A9853 T6.A9873.842.J74 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Lynch"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Metzler"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2D Pass
+Pass Pass
+[Play "N"]
+*
+
+

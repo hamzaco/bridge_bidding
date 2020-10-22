@@ -1,0 +1,75 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Cavendish pairs and teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "NGartagani"]
+[North "Carruthers"]
+[East "JGartagani"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T6.AJ843.QJT42.5 7432.K9652.K6.A2 QJ98.875.QJT864.AK5 QT7.A93.K973."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 1N
+2H 3N Pass Pass
+Pass
+[Play "S"]
+DQ D6 D5 DA
+H3 H2 CQ HT
+HA H5 C4 HQ
+D4 DK D8 D3
+S6 S4 S8 SA
+H9 C6 H7 H4
+ST S2 S9 SK
+*
+
+
+[Event "Cavendish pairs and teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "NGartagani"]
+[North "Carruthers"]
+[East "JGartagani"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T74.9874.Q72.J87 K86.J.J96543.QT9 QJ53.AKQT2.K432.A92 653.AKT8.A65."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1H X Pass
+2C an tX X
+2D 2H 3D Pass
+Pass Pass
+[Play "None"]
+H9 HJ HQ H3
+H4 D3 HA H5
+D2 D4 S3 DA
+H7 D5 H2 H6
+D7 D6 C2 DK
+DQ D9 HT D8
+*
+
+

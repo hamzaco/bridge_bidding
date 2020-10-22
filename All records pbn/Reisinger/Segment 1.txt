@@ -1,0 +1,1515 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ93.QT9.QJ863.Q 5.K43.K7.JT97432 K862.J876.A54.AK QT74.A52.T92.865 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+1N Pass 2C 3C
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+CQ C3 CK C5
+HQ HK H7 H2
+D3 CJ CA C6
+S9 S5 S6 S4
+HT H3 H6 HA
+H9 H4 H8 H5
+S3 C4 S8 S7
+D6 C2 S2 C8
+D8 DK DA D2
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ93.QT9.QJ863.Q 5.K43.K7.JT97432 K862.J876.A54.AK QT74.A52.T92.865 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+1N Pass 2C Pass
+2H Pass 3C X
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J5.2.AK732.QJT62 832.QJ7.JT985.74 A7.AKT8643.4.853 KQT964.95.Q6.AK9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+1S Pass 2S 3H
+4S X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J5.2.AK732.QJT62 832.QJ7.JT985.74 A7.AKT8643.4.853 KQT964.95.Q6.AK9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+1S Pass 1N an
+se 3H 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 3.AQ7642.J.AKT94 AJ94.J983.AK2.Q6 87652.QT98753.J.KQT KT5.64.87532."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+1H 1N 2D 2N
+3C Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 3.AQ7642.J.AKT94 AJ94.J983.AK2.Q6 87652.QT98753.J.KQT KT5.64.87532."]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+1H 1N 3D 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK653.A2.K53.Q32 T.Q643.QT942.A75 Q72.K8.J8.KJT864 J984.JT975.A76.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK653.A2.K53.Q32 T.Q643.QT942.A75 Q72.K8.J8.KJT864 J984.JT975.A76.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K52.J943.642.543 J98.K.Q875.AJ862 T743.8762.JT93.T AQ6.AQT5.AK.KQ97 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+Pass 2C Pass 2D
+an wa Pass 2N
+an 22 Pass 3S
+an fo Pass 3N
+Pass 4H an mi
+ l Pass 4S Pass
+6N Pass 7C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K52.J943.642.543 J98.K.Q875.AJ862 T743.8762.JT93.T AQ6.AQT5.AK.KQ97 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+Pass 2C Pass 2D
+Pass 2N Pass 3S
+Pass 4C Pass 4H
+Pass 4N Pass 5D
+an 1 Pass 7C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K52.JT742.T842.4 43.AQ86.3.KJT876 QT97.K9.Q65.AQ32 AJ86.53.AKJ97.95 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+1D Pass 1H X
+1S Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K52.JT742.T842.4 43.AQ86.3.KJT876 QT97.K9.Q65.AQ32 AJ86.53.AKJ97.95 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+1D an 4+ Pass
+1H X 1S Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 8652.T762.JT3.74 QT9.AK985.A65.Q6 A3.Q4.KQ842.AKT3 KJ74.J3.97.J9852 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+Pass 1N X Pass
+2C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 8652.T762.JT3.74 QT9.AK985.A65.Q6 A3.Q4.KQ842.AKT3 KJ74.J3.97.J9852 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q5.KQJ984.Q32.K5 AJT9843.53.A54.6 K72.T6.T987.T832 6.A72.KJ6.AQJ974 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "W"]
+1S Pass 2C 2H
+2S Pass 3C Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q5.KQJ984.Q32.K5 AJT9843.53.A54.6 K72.T6.T987.T832 6.A72.KJ6.AQJ974 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "W"]
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KT6.K64.AJ2.AQ94 Q7.QJ92.K8.KT876 A954.85.QT965.J3 J832.AT73.743.52 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KT6.K64.AJ2.AQ94 Q7.QJ92.K8.KT876 A954.85.QT965.J3 J832.AT73.743.52 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 2N Pass
+3H an !S Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQJ.AK8632.J.984 T86.JT754.AQ652.A9754 9.AKT986.K.32 Q.Q75432.JT73."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+Pass 1H Pass 2D
+Pass 2H Pass 2S
+Pass 3C Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQJ.AK8632.J.984 T86.JT754.AQ652.A9754 9.AKT986.K.32 Q.Q75432.JT73."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+Pass 1H Pass 2D
+Pass 2H an 6 
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT643.A7.972.K93 97.KQ9842.KQ5.J4 Q82.T3.A643.Q752 KJ5.J65.JT8.AT86 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+1S 2H 2S 3H
+Pass Pass 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT643.A7.972.K93 97.KQ9842.KQ5.J4 Q82.T3.A643.Q752 KJ5.J65.JT8.AT86 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQJ.KT6.AT93.AQ7 97642.J72.KJ5.J4 T853.9854.Q84.95 K.AQ3.762.KT8632 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "W"]
+Pass Pass 2C an
+na X Pass 2S
+Pass 2N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQJ.KT6.AT93.AQ7 97642.J72.KJ5.J4 T853.9854.Q84.95 K.AQ3.762.KT8632 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "W"]
+Pass Pass 2C an
+!C X Pass 2H
+Pass 2N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q86.A85.QJ43.742 A.QJT4.A7652.AJ3 JT72.932.K.KQT65 K9543.K76.T98.98 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+Pass Pass Pass 1D
+an Pa Pass 1S
+Pass 2H Pass 2S
+Pass 2N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q86.A85.QJ43.742 A.QJT4.A7652.AJ3 JT72.932.K.KQT65 K9543.K76.T98.98 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1S Pass 2D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ643.5.JT92.KQ6 T52.K9843.5.A752 K9.AT62.AKQ.T983 Q87.QJ7.87643.J4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+Pass 1S Pass 2C
+an mi Pass 2D
+Pass 3N an 15
+ b Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ643.5.JT92.KQ6 T52.K9843.5.A752 K9.AT62.AKQ.T983 Q87.QJ7.87643.J4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+Pass 1S Pass 2C
+an co Pass 2D
+Pass 3N an st
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q84.KJ54.A7.AJT3 KJT3.A97.5432.KQ 9762.QT32.Q.8764 A5.86.KJT986.952 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "4"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q84.KJ54.A7.AJT3 KJT3.A97.5432.KQ 9762.QT32.Q.8764 A5.86.KJT986.952 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+1N an 14 Pass
+2C 2D 2H 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9.AKT8743.J5.A97 Q84.J5.AKT73.K86 J53.Q962.9.QT543 AKT762.Q8642.J2."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+Pass 1S 4H X
+5H 5S Pass 6S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9.AKT8743.J5.A97 Q84.J5.AKT73.K86 J53.Q962.9.QT543 AKT762.Q8642.J2."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+Pass 2S an 5!
+4H Pass Pass X
+an go Pass 4S
+5H Pass Pass X
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9854.5.52.AJ854 2.J876.KQ93.9632 AKQJ6.KT93.A8.Q7 73.AQ42.JT764.KT "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+Pass Pass 1D X
+1H 1S Pass 4S
+5D 5S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9854.5.52.AJ854 2.J876.KQ93.9632 AKQJ6.KT93.A8.Q7 73.AQ42.JT764.KT "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+Pass Pass Pass 1S
+X 4S 4N X
+5D Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q976.KT4.A97.983 K854.2.KQ432.AQ4 T3.9753.JT5.T762 AJ2.AQJ86.86.KJ5 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2N Pass 3C
+Pass 4C Pass 4H
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q976.KT4.A97.983 K854.2.KQ432.AQ4 T3.9753.JT5.T762 AJ2.AQJ86.86.KJ5 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+Pass 1D Pass 1H
+an cl Pass 1S
+Pass 2C Pass 2D
+an Tu Pass 2N
+an GF Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K82.AQJ73.8.AK96 Q.K95.Q9742.T742 T95.862.AJT5.Q53 AJ7643.T4.K63.J8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "W"]
+Pass Pass 2S X
+Pass 2N an Le
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K82.AQJ73.8.AK96 Q.K95.Q9742.T742 T95.862.AJT5.Q53 AJ7643.T4.K63.J8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "W"]
+Pass Pass 2S 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J4.AQ9865.4.9653 AT7.J.7632.QJT84 K95.7432.AKJT8.2 Q8632.KT.Q95.AK7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+1D 1S X 1N
+an cl 2H 2S
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J4.AQ9865.4.9653 AT7.J.7632.QJT84 K95.7432.AKJT8.2 Q8632.KT.Q95.AK7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+Pass 1S 2H 2S
+4D an fi Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQJ8.96.T9.A9875 K764.Q3.QJ74.KJ4 T95.J852.A853.T3 32.AKT74.K62.Q62 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+1H 1S X 2S
+an we Pass Pass
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQJ8.96.T9.A9875 K764.Q3.QJ74.KJ4 T95.J852.A853.T3 32.AKT74.K62.Q62 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+1H 1S X 2S
+Pass Pass X Pass
+3C Pass 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ98.9.KQ5.AK982 64.75.JT864.QT63 KT32.K842.A32.J4 A75.AQJT63.97.75 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+1C Pass 1H 2H
+an NA X an
+ex Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ98.9.KQ5.AK982 64.75.JT864.QT63 KT32.K842.A32.J4 A75.AQJT63.97.75 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+1D Pass 1H 2H
+Pass Pass 2S Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 5.AT3.KJ854.KQT3 QJ8.Q96.AQ6.A985 KT974.J8542.73.4 A632.K7.T92.J762 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "W"]
+1N an 14 Pass
+Pass 2N an mi
+Pass 3D X an
+Ta Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 5.AT3.KJ854.KQT3 QJ8.Q96.AQ6.A985 KT974.J8542.73.4 A632.K7.T92.J762 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "W"]
+1C an cl 2D
+an al 3C X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 984.KJ76.T82.986 K63.Q54.643.KQJ2 AQ75.A98.AQ75.AT JT2.T32.KJ9.7543 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 984.KJ76.T82.986 K63.Q54.643.KQJ2 AQ75.A98.AQ75.AT JT2.T32.KJ9.7543 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "N"]
+1C Pass 1D Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 764.A4.J6.QJ8743 J2.KJ965.AK84.A5 AKQT953.73.Q7.K9 8.QT82.T9532.T62 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+Pass Pass 1H 1S
+1N Pass 2N Pass
+3H Pass Pass 3S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 764.A4.J6.QJ8743 J2.KJ965.AK84.A5 AKQT953.73.Q7.K9 8.QT82.T9532.T62 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "E"]
+Pass Pass 1H 1S
+3H 3S 4D 4S
+5H Pass Pass 5S
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Reisinger"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Smirnov"]
+[North "Shugart"]
+[East "Piekarek"]
+[South "Robson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 93.KJT875.2.K865 AKT862.A2.KT73.T 54.63.QJ64.AQ973 QJ7.Q94.A985.J42 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Changes"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Also Changes"]
+[Auction "S"]
+2H 2S Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

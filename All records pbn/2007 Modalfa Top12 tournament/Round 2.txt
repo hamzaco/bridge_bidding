@@ -1,0 +1,381 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K96.962.AKT2.973 J753.K7.8653.K52 AQ82.J853.J94.J4 T4.AQT4.Q7.AQT86 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "E"]
+C3 C2 C4 CQ
+C7 CK CJ C6
+C9 C5 S2 CA
+S6 S3 H3 CT
+H6 D3 DJ C8
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9.K643.KQ853.A74 J53.Q87.764.QJ83 AT.AT92.T92.KT92 KQ87642.J5.AJ.65 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1S an
+!h 3S Pass Pass
+3N Pass 4H Pass
+Pass Pass
+[Play "None"]
+S9 S3 SA S8
+D5 D4 DT DA
+H3 S5 ST SQ
+HK H7 H2 H5
+H4 H8 H9 HJ
+DK D7 D2 DJ
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9.K643.KQ853.A74 J53.Q87.764.QJ83 AT.AT92.T92.KT92 KQ87642.J5.AJ.65 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1H 1S
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+S9 S5 SA SK
+DK D4 D2 DJ
+D3 D6 DT DA
+C4 CJ CK C5
+HK H7 H2 H5
+H3 H8 H9 HJ
+CA C3 C2 C6
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J8.AQ92.Q762.843 K652.K8763.9.KQT AQ97.54.JT54.J92 T43.JT.AK83.A765 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2C Pass
+2S Pass 2N Pass
+3C an 4- Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "None"]
+D6 D9 DT DA
+HA H3 H4 HJ
+D2 S2 DJ DK
+HQ HK H5 HT
+H9 H8 CJ S4
+S8 SK SA S3
+SJ S5 SQ ST
+C8 S6 S9 C5
+C4 H6 S7 C6
+DQ CT D4 D8
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J8.AQ92.Q762.843 K652.K8763.9.KQT AQ97.54.JT54.J92 T43.JT.AK83.A765 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2C Pass
+2H Pass 2S an
+XX Pass 3D Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q85.J83.AJ865.72 AKJ2.KT4.KT.AQ96 T643.75.9432.KT8 97.AQ962.Q7.J543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 2N
+Pass 3D X 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q85.J83.AJ865.72 AKJ2.KT4.KT.AQ96 T643.75.9432.KT8 97.AQ962.Q7.J543 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 2N
+Pass 3D X 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K97543.87.95.K84 AQ.T9432.AKT8.QT JT62.AKJ.Q7.A653 8.Q65.J6432.J972 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1H 1N
+2H 3H Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K97543.87.95.K84 AQ.T9432.AKT8.QT JT62.AKJ.Q7.A653 8.Q65.J6432.J972 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 2H X 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A82.Q98762.543.2 3.54.QT87.AJT986 JT654.3.AJ2.KQ43 KQ97.AKJT.K96.75 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A82.Q98762.543.2 3.54.QT87.AJT986 JT654.3.AJ2.KQ43 KQ97.AKJT.K96.75 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2D Pass 2H 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Modalfa Top12 tournament"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Westra"]
+[North "Jansma"]
+[East "Ramondt"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K932.K7.A83.QJ42 Q7.J32.9542.AK53 AJ5.QT95.T76.976 T864.A864.KQJ.T8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1D Pass 1H
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+

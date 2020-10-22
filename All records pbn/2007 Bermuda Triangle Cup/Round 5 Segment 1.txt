@@ -1,0 +1,442 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ2.Q82.T64.9862 Q6.T97543.J87.KT A7543.AKJ6.532.4 T98.AKQ9.AQJ753."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "N"]
+1S 2C 2S Pass
+Pass 3D Pass 4C
+Pass Pass Pass
+[Play "S"]
+SK S6 S7 S8
+H2 H3 HA C3
+S2 SQ SA S9
+H8 H4 H6 C5
+SJ CT S3 ST
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ2.Q82.T64.9862 Q6.T97543.J87.KT A7543.AKJ6.532.4 T98.AKQ9.AQJ753."]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "N"]
+1S X 2S 3H
+Pass 4C Pass 4H
+X 4N Pass 5C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 6.QJ7.JT632.JT87 KT97.2.K5.AQ9653 QJ85.A854.A874.K A432.KT963.Q9.42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "E"]
+2C an tw Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 6.QJ7.JT632.JT87 KT97.2.K5.AQ9653 QJ85.A854.A874.K A432.KT963.Q9.42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "E"]
+Pass Pass 2C X
+Pass 2D 2S Pass
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9842.AK985.4.QT2 AQ765.7.AQ97.A96 JT.4.K853.KJ8543 K3.QJT632.JT62.7 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "S"]
+Pass 1S 2C 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9842.AK985.4.QT2 AQ765.7.AQ97.A96 JT.4.K853.KJ8543 K3.QJT632.JT62.7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2C Pass 2H
+Pass 2N Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q32.J42.A942.A64 KJ965.965.J8.KQ5 74.AT.KT653.9732 AT8.KQ873.Q7.JT8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "W"]
+Pass Pass 1H Pass
+1S Pass Pass 1N
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q32.J42.A942.A64 KJ965.965.J8.KQ5 74.AT.KT653.9732 AT8.KQ873.Q7.JT8 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "W"]
+Pass Pass 1H Pass
+1S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q85.K62.KQT5.Q43 9742.A3.97.A8762 AKT3.J84.J84.T95 J6.QT975.A632.KJ "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H 1S X 2C
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q85.K62.KQT5.Q43 9742.A3.97.A8762 AKT3.J84.J84.T95 J6.QT975.A632.KJ "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 74.T832.AQ953.KQ KJ3.97.K872.JT54 AT86.A6.T64.A762 Q952.KQJ54.J.983 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "E"]
+2C Pass 2D Pass
+2H Pass Pass X
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 74.T832.AQ953.KQ KJ3.97.K872.JT54 AT86.A6.T64.A762 Q952.KQJ54.J.983 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "E"]
+Pass Pass Pass 1C
+1H X Pass 1N
+Pass 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q954.AKT7.Q53.85 K.J52.AJ974.A432 A76.8.KT2.KQJT76 JT832.Q9643.86.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "S"]
+1C 1D 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q954.AKT7.Q53.85 K.J52.AJ974.A432 A76.8.KT2.KQJT76 JT832.Q9643.86.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "S"]
+Pass 1D 2C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Bermuda Triangle Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Buras"]
+[North "Kwiecien"]
+[East "Narkiewicz"]
+[South "Jagniewski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 2.642.AQ72.AKJ95 98.AT875.653.732 J543.KQ93.K84.T6 AKQT76.J.JT9.Q84 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "KOWALSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAZY"]
+[Auction "W"]
+Pass Pass 1S 2C
+Pass Pass Pass
+[Play "W"]
+*
+
+

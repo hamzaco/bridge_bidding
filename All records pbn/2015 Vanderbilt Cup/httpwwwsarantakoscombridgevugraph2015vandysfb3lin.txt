@@ -1,0 +1,880 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.843.A3.KJT9654 Q87.KJT52.J85.Q8 A32.6.QT9742.A73 KT9654.AQ97.K6.2 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+2C 2S 3D 3S
+4D 4S 5C Pass
+Pass Pass
+[Play "E"]
+SJ SQ SA S4
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.843.A3.KJT9654 Q87.KJT52.J85.Q8 A32.6.QT9742.A73 KT9654.AQ97.K6.2 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 1S 3C Pass
+3S Pass 5C Pass
+Pass Pass
+[Play "W"]
+SJ S7 SA S4
+H3 H2 H6 HA
+C4 S8 S2 SK
+CK C8 C3 C2
+C5 CQ CA S6
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J98.KQT52.73.A76 AQT3.A986.A86.98 K7.J74.KQJT5.J53 6542.3.942.KQT42 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass Pass 1N Pass
+2S an Ra Pass
+2N an Lo Pass
+3C Pass Pass Pass
+[Play "S"]
+HK HA H7 H3
+C7 C8 C3 CQ
+S9 ST SK S4
+S8 SA S7 S5
+CA C9 C5 CK
+D3 D6 DJ D9
+D7 DA DK D4
+H5 H6 HJ C2
+C6 D8 CJ C4
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J98.KQT52.73.A76 AQT3.A986.A86.98 K7.J74.KQJT5.J53 6542.3.942.KQT42 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass Pass 1C 1D
+2C 2H Pass Pass
+2S Pass 3D Pass
+3S Pass Pass Pass
+[Play "S"]
+HQ HA H4 H3
+H2 H6 H7 S2
+CA C8 C5 CK
+D7 DA D5 D4
+H5 H8 HJ S4
+C6 C9 C3 CQ
+C7 ST CJ C4
+S8 SA S7 S5
+HT H9 SK D9
+D3 D6 DK D2
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 87543.T652.53.KT AK9.AQJ87.JT842.QT2 43.A97.QJ943. J6.K9.KQ6.A87652 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2D Pass 3C
+Pass 3N Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 87543.T652.53.KT AK9.AQJ87.JT842.QT2 43.A97.QJ943. J6.K9.KQ6.A87652 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass 1H Pass 2C
+an ! Pass 2D
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J52.K93.AT7.T975 QT8763.AJ4.KQ.82 K94.Q2.J942.AK64 A.T8765.8653.QJ3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1S Pass 1N Pass
+2C Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J52.K93.AT7.T975 QT8763.AJ4.KQ.82 K94.Q2.J942.AK64 A.T8765.8653.QJ3 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1S Pass 1N Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 87.KQT93.KT6.Q94 92.6.A87.AKT7653 KJT654.J752.Q94. AQ3.A84.J532.J82 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass Pass Pass 1C
+2S 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 87.KQT93.KT6.Q94 92.6.A87.AKT7653 KJT654.J752.Q94. AQ3.A84.J532.J82 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+2S Pass Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ9874.T.9.AQ73 652.AKQ732.KQ.86 T.J9.T876.KJ9542 A3.8654.AJ5432.T "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1S 2H Pass
+3S 4S 5H Pass
+6H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ9874.T.9.AQ73 652.AKQ732.KQ.86 T.J9.T876.KJ9542 A3.8654.AJ5432.T "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1S 2H Pass
+2S 4S Pass Pass
+4N X Pass Pass
+5H Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q.AJ952.J92.8762 JT62.Q74.KT43.AQ A95.T6.Q765.KT43 K8743.K83.A8.J95 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2S Pass 3C
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q.AJ952.J92.8762 JT62.Q74.KT43.AQ A95.T6.Q765.KT43 K8743.K83.A8.J95 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J654.QJT543.K96.73 KQT832.2.Q532.AJ962 A9.A87.J87.KQT854 7.K96.AT4."]
+[Declarer "N"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+2H 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J654.QJT543.K96.73 KQT832.2.Q532.AJ962 A9.A87.J87.KQT854 7.K96.AT4."]
+[Declarer "N"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+2H 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q8.AK97.J542.KJ2 J652.T85.T976.A9 AK9.62.KQ3.QT853 T743.QJ43.A8.764 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1C an 2+ Pass
+1H Pass 1N an
+14 Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q8.AK97.J542.KJ2 J652.T85.T976.A9 AK9.62.KQ3.QT853 T743.QJ43.A8.764 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1C an 14  !
+Pass 2C Pass 2D
+Pass 2H an !
+Pass 2S Pass 2N
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 65.532.Q.AQT9874 KQ8.QT9.T9763.KJ AT4.AJ86.854.653 J9732.K74.AKJ2.2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1S 3C 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 65.532.Q.AQT9874 KQ8.QT9.T9763.KJ AT4.AJ86.854.653 J9732.K74.AKJ2.2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1S 3C X Pass
+3D Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A643.52.K8.KQ653 KQT75.AJ8.J43.J8 98.Q63.AQ7652.T4 J2.KT974.T9.A972 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1N an 10 Pass
+2N an !X Pass
+3C Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A643.52.K8.KQ653 KQT75.AJ8.J43.J8 98.Q63.AQ7652.T4 J2.KT974.T9.A972 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1C 1S 2C an
+ta  n Pass 3C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJ987.K97.AT.QJ3 A4.Q42.K9743.A52 62.853.QJ862.T94 QT53.AJT6.5.K876 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1D Pass 1H 1S
+X! an Su Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJ987.K97.AT.QJ3 A4.Q42.K9743.A52 62.853.QJ862.T94 QT53.AJT6.5.K876 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1D an ! Pass
+1H 1S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKQT8.A3.KQ6.942 J.QT9872.T5.JT85 7543.KJ64.92.K73 962.5.AJ8743.AQ6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 1D X Pass
+1H Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKQT8.A3.KQ6.942 J.QT9872.T5.JT85 7543.KJ64.92.K73 962.5.AJ8743.AQ6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 1D X Pass
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J832.Q654.83.T85 AKQT5.KT7.KJT4.J 964.A832.A62.KQ2 7.J9.Q975.A97643 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2C an
+Ga Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J832.Q654.83.T85 AKQT5.KT7.KJT4.J 964.A832.A62.KQ2 7.J9.Q975.A97643 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2C an
+! Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Duboin"]
+[North "Smirnov"]
+[East "Zia"]
+[South "Piekarek"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J964.Q.AKJ32.764 KT52.JT2.9854.J2 A87.98543.Q7.KQ5 Q3.AK76.T6.AT983 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team Assael"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1D Pass 1H 2C
+Pass Pass 2N Pass
+Pass Pass
+[Play "E"]
+*
+
+

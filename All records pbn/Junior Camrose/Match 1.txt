@@ -1,0 +1,576 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ9.KJ983.963.A3 QT3.AQ7.KQ852.54 A876.62.T.KJT876 542.T54.AJ74.Q92 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "N"]
+Pass Pass 1H Pass
+2C Pass 2H Pass
+Pass Pass
+[Play "N"]
+D3 DK DT D4
+CA C5 C6 C9
+D6 D2 H2 D7
+SK S3 S6 S2
+D9 D5 H6 DJ
+SJ SQ S7 S4
+H3 D8 C7 DA
+HJ HQ C8 H4
+H8 DQ S8 S5
+HK HA CT H5
+C3 C4 CK C2
+S9 ST SA HT
+H9 H7 CJ CQ
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J5.T.AQJT84.9742 K83.J7532.93.KQJ A962.AQ64.K.AT83 QT74.K98.7652.65 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "E"]
+Pass 2D Pass 2N
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+C2 CK CA C6
+DA D3 DK D2
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J5.T.AQJT84.9742 K83.J7532.93.KQJ A962.AQ64.K.AT83 QT74.K98.7652.65 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "E"]
+Pass 2D Pass 2N
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A86543.982.K652.QJ A853.AKQ5.AQ3.KT972 T.JT763.97. KQJ97642.4.JT84."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "S"]
+2S X 4S 5H
+Pass 6H 6S Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A86543.982.K652.QJ A853.AKQ5.AQ3.KT972 T.JT763.97. KQJ97642.4.JT84."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "S"]
+2S X 5S 6H
+Pass Pass 6S Pass
+Pass 7H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ.A97.J76.J9762 T3.K2.AKT832.K85 A9754.Q86.AQT43.Q862 JT543.Q954."]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "W"]
+1D X 1H Pass
+2D X 3D 4C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 92.J752.KT83.J82 AK83.Q4.A652.A75 QJ7.KT6.QJ97.643 T654.A983.4.KQT9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2C Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 92.J752.KT83.J82 AK83.Q4.A652.A75 QJ7.KT6.QJ97.643 T654.A983.4.KQT9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1H Pass 1N
+Pass 2C Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK.Q852.K96.QT87 542.KJ93.53.AK65 T98763.A7.QJ72.2 QJ.T64.AT84.J943 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "E"]
+Pass 1C Pa 1S
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK.Q852.K96.QT87 542.KJ93.53.AK65 T98763.A7.QJ72.2 QJ.T64.AT84.J943 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "E"]
+Pass 1N Pass 2H
+Pa 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 843.65.AT862.A98 2.AKT94.975.Q543 K9765.Q72.KQJ4.T AQJT.J83.3.KJ762 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "S"]
+Pass Pass 1S Pass
+2C Pa 2D Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 843.65.AT862.A98 2.AKT94.975.Q543 K9765.Q72.KQJ4.T AQJT.J83.3.KJ762 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "S"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT32.T98.AJ72.75 KQ976.A.964.T942 54.QJ65432.T5.K8 A8.K7.KQ83.AQJ63 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "W"]
+2S Pa 2N Pass
+3H Pa 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT32.T98.AJ72.75 KQ976.A.964.T942 54.QJ65432.T5.K8 A8.K7.KQ83.AQJ63 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "W"]
+2S 3H 4C Pass
+5C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9.QJ.AK643.AJ863 QJ65.T632.982.T9 KT2.9.QJT5.KQ754 A8743.AK8754.7.2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "N"]
+1D 1H 3C Pa
+5C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K7432.93.J976.Q9 J8.A42.AQ5.K6532 A9.T765.KT82.J74 QT65.KQJ8.43.AT8 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "E"]
+1C Pass 2C Pa
+2H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT.AKJ9.KQ854.J 97543.T8.J76.Q43 K6.Q7542.AT9765.Q82 63.AT932.K82."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "S"]
+1D Pa 1H Pass
+4C Pass 4S Pass
+4N Pass 5C Pass
+5D Pass 5S Pass
+6H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT.AKJ9.KQ854.J 97543.T8.J76.Q43 K6.Q7542.AT9765.Q82 63.AT932.K82."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "S"]
+1D Pass 1H Pass
+3S Pass 4C Pass
+4N Pass 5C Pass
+6H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Junior Camrose"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Synott"]
+[North "Jones"]
+[East "O'Connor"]
+[South "Bell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK.QT9.QT4.Q8752 QJT76.AJ8.75.AT6 832.654.J982.K94 954.K732.AK63.J3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "England"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ireland"]
+[Auction "W"]
+1S Pass 2D Pass
+2S Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+

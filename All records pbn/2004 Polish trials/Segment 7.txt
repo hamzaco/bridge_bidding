@@ -1,0 +1,591 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ4.A92.AQ974.QT Q.765.K853.AJ742 K86.QJ84.6.K9865 T97532.KT3.JT2.3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+CT C4 C5 C3
+CQ C2 C6 S2
+H2 H6 HQ HK
+DQ DK D6 D2
+SA SQ S6 S3
+D7 D3 C8 DT
+DA D5 C9 DJ
+D9 D8 CK S5
+D4 H5 H4 H3
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ4.A92.AQ974.QT Q.765.K853.AJ742 K86.QJ84.6.K9865 T97532.KT3.JT2.3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+3N Pass Pass Pass
+[Play "W"]
+CT C4 C5 C3
+CQ CA C6 S5
+S4 SQ SK S2
+D4 C2 CK S3
+D7 CJ C8 H3
+D9 C7 C9 S9
+HA H6 HQ HK
+SA D3 S6 S7
+SJ H5 S8 ST
+H2 H7 H8 HT
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K7.K92.K9543.QJ7 QT98.AQT653.QT.5 432.87.A82.AK862 AJ65.J4.J76.T943 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D 1H 1S
+X Pass 2H X
+Pass 2S Pass 3D
+Pass Pass Pass
+[Play "S"]
+CQ C5 C2 C9
+D3 DT DA D7
+DK DQ D2 D6
+CJ H3 C6 C3
+C7 H5 CA C4
+H2 H6 CK CT
+H9 HT C8 HJ
+SK S8 S2 S5
+S7 S9 S3 S6
+D4 SQ S4 SJ
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K7.K92.K9543.QJ7 QT98.AQT653.QT.5 432.87.A82.AK862 AJ65.J4.J76.T943 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D 1H 1S
+Pass 1N 2H 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ987.T97.J76.3 T6543.A4.KQ932.K Q2.Q65.AQT98754. KJ832.AT854.J62."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2D Pass 3C Pa
+3H Pass 3S Pass
+4S X 5C X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ987.T97.J76.3 T6543.A4.KQ932.K Q2.Q65.AQT98754. KJ832.AT854.J62."]
+[Declarer "S"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 2C Pass
+2S Pass 2N Pass
+3H Pass 3S Pass
+4C Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 84.AQ.AKJ732.AKQ 65.K9432.T98762.QJ7 875.QT854.J3.AKT932 JT6.96.54."]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1S X
+Pass 1N 2S 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 84.AQ.AKJ732.AKQ 65.K9432.T98762.QJ7 875.QT854.J3.AKT932 JT6.96.54."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1S X
+Pass 2D Pass 2S
+Pass 2N Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 94.AT95.T964.AT4 KJT32.843.Q9862.AQ7 762.QJ53.J73.865 KQJ.AK872.K5."]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N Pass 2H
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 94.AT95.T964.AT4 KJT32.843.Q9862.AQ7 762.QJ53.J73.865 KQJ.AK872.K5."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ5.AK6.J98.AQ72 2.J98.KQ75432.T9 8643.Q754.A.K654 KJT97.T32.T6.J83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C Pass 1H
+1S X! Pass 2C
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ5.AK6.J98.AQ72 2.J98.KQ75432.T9 8643.Q754.A.K654 KJT97.T32.T6.J83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 1D X
+1S X 2D 2H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 5.AQJ53.AKQ87.J4 AKQ984.74.3.Q832 JT632.92.J96.K65 7.KT86.T542.AT97 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 1S Pass Pass
+X 2S Pass Pass
+3D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 5.AQJ53.AKQ87.J4 AKQ984.74.3.Q832 JT632.92.J96.K65 7.KT86.T542.AT97 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 1S Pass Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 3.Q86.Q8754.AT97 764.J432.J9.K632 AQJT8.K75.KT6.84 K952.AT9.A32.QJ5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 3.Q86.Q8754.AT97 764.J432.J9.K632 AQJT8.K75.KT6.84 K952.AT9.A32.QJ5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K643.93.QT98.A62 AJ8652.765.J987.Q87 KQ.AK432.KQ3. AJT952.T74.J.T54 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C 2S Pass Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K643.93.QT98.A62 AJ8652.765.J987.Q87 KQ.AK432.KQ3. AJT952.T74.J.T54 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C 1S X 2H
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2004 Polish trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Buras"]
+[North "Kowalski"]
+[East "Narkiewicz"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QJ973.A3.AT53.J9 K82.872.Q72.K743 A5.KQT654.J.A652 T64.J9.K9864.QT8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 2S Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+

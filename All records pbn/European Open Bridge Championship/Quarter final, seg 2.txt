@@ -1,0 +1,799 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ95.832.A97.AQ3 742.QT65.KQJT.95 QT3.974.32.KT864 A86.AKJ.8654.J72 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "S"]
+1C Pass 3C Pass
+Pass Pass
+[Play "W"]
+DA DK D2 D8
+CA C5 C4 C2
+CQ C9 C6 C7
+C3 H5 CK CJ
+H2 H6 H4 HK
+H3 HT H7 HA
+D9 DT D3 D4
+H8 HQ H9 HJ
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ95.832.A97.AQ3 742.QT65.KQJT.95 QT3.974.32.KT864 A86.AKJ.8654.J72 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "S"]
+1N Pass Pass X
+Pass Pass 2C Pass
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+DA DT D3 D4
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A3.652.AKQ94.A98 K74.AKQJ4.8.QJ63 T965.T9.J62.KT42 QJ82.873.T753.75 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "W"]
+1H Pass Pass 2D
+X an t/ Pass
+2H 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A3.652.AKQ94.A98 K74.AKQJ4.8.QJ63 T965.T9.J62.KT42 QJ82.873.T753.75 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "W"]
+1H Pass Pass X
+Pass 1S Pass 2D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 752.AJ4.752.T865 KJT4.95.A986.J72 863.KT83.JT4.A94 AQ9.Q762.KQ3.KQ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 752.AJ4.752.T865 KJT4.95.A986.J72 863.KT83.JT4.A94 AQ9.Q762.KQ3.KQ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "N"]
+Pass 2D Pass 3C
+Pass 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK743.J983.J7.85 J5.QT5.AK4.KQJ72 QT86.K64.T32.T64 92.A72.Q9865.A93 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D 1S X 2S
+3S Pass 4C Pass
+5C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK743.J983.J7.85 J5.QT5.AK4.KQJ72 QT86.K64.T32.T64 92.A72.Q9865.A93 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "E"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A42.652.JT2.J642 T3.AKJT7.AK4.T95 KJ9876.83.53.KQ8 Q5.Q94.Q9876.A73 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "S"]
+Pass 1H 2S 3H
+3S 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A42.652.JT2.J642 T3.AKJT7.AK4.T95 KJ9876.83.53.KQ8 Q5.Q94.Q9876.A73 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "S"]
+Pass 1H 3S 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J4.87.Q6542.AJ62 QT9.AJ952.KJ7.T3 AK87652.43.3.Q74 3.KQT6.AT98.K985 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "W"]
+1H 3S 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J4.87.Q6542.AJ62 QT9.AJ952.KJ7.T3 AK87652.43.3.Q74 3.KQT6.AT98.K985 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "W"]
+1H 2S 3S Pass
+3N Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q9732.4.A632.432 J.T653.85.QJT865 AKT864.KJ98.K9.A 5.AQ72.QJT74.K97 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "N"]
+1S X 3N Pass
+4C Pass 4D Pass
+4N Pass 5D Pass
+6S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q9732.4.A632.432 J.T653.85.QJT865 AKT864.KJ98.K9.A 5.AQ72.QJT74.K97 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "N"]
+1S X 4S Pass
+4N Pass 5C X
+6S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQT82.J2.Q7654.A J9.K98543.9.KQT7 A4.AT6.KJT.98542 7653.Q7.A832.J63 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "E"]
+Pass 1S Pass 2N
+Pass 3D Pass 3H
+Pass 4C Pass 4S
+Pass 5D Pass 6D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQT82.J2.Q7654.A J9.K98543.9.KQT7 A4.AT6.KJT.98542 7653.Q7.A832.J63 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 87.AJT963.95.AJ9 KQT9532.872.J.62 AJ.K5.AKQ76.T754 64.Q4.T8432.KQ83 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "S"]
+2H 2S 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 87.AJT963.95.AJ9 KQT9532.872.J.62 AJ.K5.AKQ76.T754 64.Q4.T8432.KQ83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "S"]
+1H 3S 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQJT6.T83.43.QJT 842.A9.A86.A8732 975.KQ754.T5.K64 A3.J62.KQJ972.95 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQJT6.T83.43.QJT 842.A9.A86.A8732 975.KQ754.T5.K64 A3.J62.KQJ972.95 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "W"]
+1C 1H 2D 2N
+3D 3S 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K42.KJ532.A95.A4 QJ753.A9876.T75.T86 QT.KJT32.J83.A9 4.Q8764.KQ962."]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "N"]
+2D an we Pass
+2N an Fo Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K42.KJ532.A95.A4 QJ753.A9876.T75.T86 QT.KJT32.J83.A9 4.Q8764.KQ962."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "N"]
+Pass 1D 1H X
+2H 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ9.AJT7.97.KQ98 75432.4.AQ.AT543 6.K63.KJT54.J762 AJT8.Q9852.8632."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ9.AJT7.97.KQ98 75432.4.AQ.AT543 6.K63.KJT54.J762 AJT8.Q9852.8632."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "E"]
+Pass 1C 1S 2S
+4C X 4S Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q.KT942.AKJT8.K2 K863.8.Q976.AQ63 AJ.AQ765.32.T854 T97542.J3.54.J97 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "S"]
+1H X 2N Pass
+4H Pass Pass 4S
+5H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q.KT942.AKJT8.K2 K863.8.Q976.AQ63 AJ.AQ765.32.T854 T97542.J3.54.J97 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "S"]
+1H X 2N Pass
+3H Pass 3S Pass
+3N Pass 4S Pass
+4N Pass 5S Pass
+6H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Hecht"]
+[North "Jacobs"]
+[East "Blakset"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ3.A865.KT875.7 5.QJ73.AQJ964.T5 K9862.K4.A98642.AT74 T92.32.KQJ3."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hecht"]
+[Auction "W"]
+Pass 1C 1S X
+2D Pass Pass Pass
+[Play "N"]
+*
+
+

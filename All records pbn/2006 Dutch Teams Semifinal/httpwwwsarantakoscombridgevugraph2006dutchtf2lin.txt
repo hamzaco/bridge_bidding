@@ -1,0 +1,932 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.AK932.52.Q9853 AT93.T65.A74.JT2 Q7542.87.J93.AK4 K86.QJ4.KQT86.76 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "N"]
+Pass 1D 1H X
+Pass 1N 2C Pass
+Pass Pass
+[Play "W"]
+C3 CJ CA C6
+C5 C2 CK C7
+HA H5 H7 H4
+HK H6 H8 HJ
+H2 HT C4 HQ
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.AK932.52.Q9853 AT93.T65.A74.JT2 Q7542.87.J93.AK4 K86.QJ4.KQT86.76 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+H2 H5 H8 HQ
+D5 D4 D3 DK
+D2 DA D9 D6
+C8 D7 DJ DQ
+C3 C2 S2 DT
+C5 S3 C4 D8
+SJ SA S5 S6
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 6.K853.QJ6.JT983 KQ52.T742.K5.752 AT84.Q96.A4.AKQ4 J973.AJ.T98732.6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "E"]
+Pass Pass 2C 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 6.K853.QJ6.JT983 KQ52.T742.K5.752 AT84.Q96.A4.AKQ4 J973.AJ.T98732.6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "E"]
+Pass Pass 1S X
+3S Pass Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J873.KQJT32.K65.K965 J654.84.T98.T4 AKT987.A6.732.AQ2 Q32.975.AQJ4."]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "S"]
+1D Pass 1H X
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J873.KQJT32.K65.K965 J654.84.T98.T4 AKT987.A6.732.AQ2 Q32.975.AQJ4."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "S"]
+1D Pass 1S an
+=H Pass 2D Pass
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKT6.8.AK984.J82 J983.J32.53.QT64 Q74.AKQ9.Q7.A753 52.T7654.JT62.K9 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1S Pass 2H
+Pass 2S Pass 2N
+Pass 3N Pass 4H
+Pass 5D Pass 6D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKT6.8.AK984.J82 J983.J32.53.QT64 Q74.AKQ9.Q7.A753 52.T7654.JT62.K9 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "W"]
+Pass 1C an 2+
+Pass 1S Pass 1N
+an 15 Pass 2S
+Pass 2N Pass 3D
+Pass 3H Pass 4C
+Pass 4D Pass 4H
+Pass 4N Pass 5D
+Pass 6N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 83.AKJT9.82.K842 A6.Q54.AK74.AT76 QT95.76.QJ96.J53 KJ742.832.T53.Q9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "N"]
+Pass Pass 1H 1N
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 83.AKJT9.82.K842 A6.Q54.AK74.AT76 QT95.76.QJ96.J53 KJ742.832.T53.Q9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "N"]
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A6.QJ5.QJ5.AQT93 KT943.T73.32.K84 J87.986.8764.752 Q52.AK42.AKT9.J6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "E"]
+1N Pass 2H Pass
+2N Pass 3C an
+ga Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A6.QJ5.QJ5.AQT93 KT943.T73.32.K84 J87.986.8764.752 Q52.AK42.AKT9.J6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "E"]
+1N Pass 2H an
+ma Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ5.AK3.T54.J742 AQ842.AK973.T63.T 752.QJ862.KQ95.9763 QJT9864.A8."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 3D Pass 3S
+Pass 4D Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ5.AK3.T54.J742 AQ842.AK973.T63.T 752.QJ862.KQ95.9763 QJT9864.A8."]
+[Declarer "W"]
+[Contract "6"]
+[Result "8"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "S"]
+Pass 1S Pass 4D
+an sP X! Pass
+Pass 4S Pass 4N
+Pass 5C Pass 6S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A73.J4.65.AK8543 QJ9854.AQ6.KT98.T6 K872.AQJ32.Q9. K2.T953.74.JT762 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "W"]
+1S X Pass 2S
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A73.J4.65.AK8543 QJ9854.AQ6.KT98.T6 K872.AQJ32.Q9. K2.T953.74.JT762 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "W"]
+1S X Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 32.K9432.K95.KJ3 QJT987.A6.A8.964 K5.JT75.Q7642.Q5 A64.Q8.JT3.AT872 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "N"]
+Pass 1C 1H 1S
+an 5+ 3H Pass
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 32.K9432.K95.KJ3 QJT987.A6.A8.964 K5.JT75.Q7642.Q5 A64.Q8.JT3.AT872 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "N"]
+Pass Pass 1H 1S
+2H 2S Pass 2N
+4H 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ73.AKJT96.974.QT52 A97542.5.J2.86 QT83.Q842.A65.A94 KJ6.73.KQT83."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "E"]
+1C 1D 1H 3D
+Pass 4D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ73.AKJT96.974.QT52 A97542.5.J2.86 QT83.Q842.A65.A94 KJ6.73.KQT83."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "E"]
+1C 1D X! an
+=h 3D Pass Pass
+X Pass 3H Pass
+4H Pass Pass 5D
+Pa Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT76.62.K.KQT75 9.KQJT954.QT.J42 Q43.A3.A9863.963 K852.87.J7542.A8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "S"]
+1S 3H 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT76.62.K.KQT75 9.KQJT954.QT.J42 Q43.A3.A9863.963 K852.87.J7542.A8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "S"]
+1S 3H 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K8765.92.Q8.KJ32 T.KQJ.J9542.AQ65 AQ92.T865.A7.874 J43.A743.KT63.T9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "W"]
+1D Pass 1H 1S
+X an su 3D
+X 3S 4C Pass
+4D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K8765.92.Q8.KJ32 T.KQJ.J9542.AQ65 AQ92.T865.A7.874 J43.A743.KT63.T9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "W"]
+1D X 1H 2S
+X Pass 4D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T752.K7.KJT6.J94 863.T96.Q7543.Q8 KJ9.AQ53.A2.AK32 AQ4.J842.98.T765 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "N"]
+1C Pass 1D Pass
+1H an 19 Pass
+2D Pass 2H Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T752.K7.KJT6.J94 863.T96.Q7543.Q8 KJ9.AQ53.A2.AK32 AQ4.J842.98.T765 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "N"]
+2N Pass 3C Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT83.J7.AT865.A2 965.T4.Q974.Q865 AKQ72.962.32.KJ7 4.AKQ853.KJ.T943 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "E"]
+1H Pass Pass 1S
+2H 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT83.J7.AT865.A2 965.T4.Q974.Q865 AKQ72.962.32.KJ7 4.AKQ853.KJ.T943 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "E"]
+1H Pass Pass 1S
+2H 3H Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 6.7.AKQ93.AKJ632 A72.984.J84.T854 K954.KQ53.762.97 QJT83.AJT62.T5.Q "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "S"]
+1C Pass 1D X!
+2C Pass 2S X
+4D Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 6.7.AKQ93.AKJ632 A72.984.J84.T854 K954.KQ53.762.97 QJT83.AJT62.T5.Q "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "S"]
+1C Pass 1D an
+=h 1S 2D 2S
+3N Pass 4D Pass
+5D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Dutch Teams Semifinal"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Brüggemann"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q432.AK.3.KJT972 JT65.8752.AQ52.A AK7.43.KJT864.43 98.QJT96.97.Q865 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "BC de Lombard 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC Star"]
+[Auction "W"]
+1D Pass 1H 2C
+2H X! 3H 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+

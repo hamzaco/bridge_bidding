@@ -1,0 +1,73 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Woolsey"]
+[North "Rosenberg"]
+[East "Stewart"]
+[South "Henner"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT8.J54.AQ9653.5 K74.A976.T.QJ732 A932.KQT83.K7.AT J65.2.J842.K9864 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1H Pass 1N
+Pass 2N Pass 4H
+Pass Pass Pass
+[Play "E"]
+D3 DT DK D4
+C5 C7 CA C6
+H4 C2 CT C4
+H5 H6 HK H2
+HJ H7 H3 C9
+SQ SK SA S6
+DA H9 D7 D2
+D5 CQ H8 CK
+S8 S4 S2 S5
+ST S7 S3 SJ
+D6 CJ HT C8
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Woolsey"]
+[North "Rosenberg"]
+[East "Stewart"]
+[South "Henner"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKQJ53.T87.K9.K7 9764.J.542.J9642 T2.KQ62.JT873.A5 8.A9543.AQ6.QT83 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1H 1S Pass
+1N 2C 3N 4C
+Pass Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+

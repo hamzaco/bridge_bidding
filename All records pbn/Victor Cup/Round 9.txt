@@ -1,0 +1,441 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQT62.732.JT72.Q J.KQJ4.865.AKT74 K984.65.AQ94.J95 753.AT98.K3.8632 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "N"]
+Pass Pass 2S X
+3D 3H Pass Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+CQ CK C5 C2
+H2 HK H5 HT
+H7 HQ H6 H9
+D2 D8 DQ DK
+S6 C4 C9 C3
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQJ6.T96.J8752.A 3.K854.AK964.J92 KT9754.AQ2.T.K75 82.J73.Q3.QT8643 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 543.K9862.T.QT75 JT6.A53.AKJ98.98 K8.QJT7.Q73.AK62 AQ972.4.6542.J43 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "S"]
+Pass 1N X an
+Pa XX an si
+Pass 2D Pass 3D
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ932.9.JT76.964 74.KJ8742.A9.AJ7 AT6.QT653.K82.K8 J85.A.Q543.QT532 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "W"]
+1H Pass 1N Pass
+2H Pass Pass 2S
+3C Pass 4C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q98.JT6.A94.J983 AK2.Q53.T872.A64 J64.AK87.KJ3.752 T753.942.Q65.KQT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "N"]
+1C Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 52.82.AKT5.KT874 864.QT76.J9762.J QT7.A93.Q43.A953 AKJ93.KJ54.8.Q62 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "E"]
+1S Pass Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT54.JT843.T85.9 AQ.752.QJ3.AQJ86 962.AQ.AK96.T543 J873.K96.742.K72 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "S"]
+Pass 1C 1D X
+2D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J5.75.KQJ864.T86 73.862.975.AQJ32 Q8.AQJ943.T3.754 AKT9642.KT.A2.K9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "W"]
+Pass 2H 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: JT.KT3.AQJ7.AJ93 Q3.A76.KT94.Q862 9872.QJ8.8632.54 AK654.9542.5.KT7 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "N"]
+Pass 2C an we
+2N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T732.J752.Q6.K64 84.T63.AJ43.AJ82 AK65.A94.T752.T5 QJ9.KQ8.K98.Q973 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT.KJ9.K852.J76 K.A8632.QT973.K5 Q986542.T754.Q8.73 Q.AJ64.AT9432."]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "S"]
+1D 1H 1S 2C
+2S 3C 4S Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 7432.3.AK9863.J6 KQJT.A9.QT4.AT43 965.KJT8754.J.K5 A8.Q62.752.Q9872 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "W"]
+1C 3H Pass Pass
+X Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K94.J72.87654.QT 85.83.AQT3.KJ752 AJT7632.95.A984.Q AKQT64.KJ92.63."]
+[Declarer "N"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "N"]
+4S 5H Pass Pass
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q3.AJ82.J7.KT975 AKT764.KQT.AT8.8 52.9765.KQ943.A6 J98.43.652.QJ432 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "E"]
+Pass 1C X 1D
+Pass 1H 1S 2H
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Victor Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "S.Smith"]
+[North "J.Haffer"]
+[East "D.Moir"]
+[South "A.Kanetka"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K8642.AQ.T75.KJ5 AQT7.652.Q862.98 JT9874.AJ943.A4. J953.K3.K.QT7632 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ware"]
+[Auction "S"]
+1S Pass 2H Pass
+2S Pass 3D Pass
+3N Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+

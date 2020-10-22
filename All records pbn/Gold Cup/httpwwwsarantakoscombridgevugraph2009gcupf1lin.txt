@@ -1,0 +1,483 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 8632.J642.T95.75 J5.AQT853.K8.T92 K94.K7.Q764.AQ63 AQT7.9.AJ32.KJ84 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "N"]
+1N 2C Pass 2H
+Pass 2S Pass 3H
+Pass Pass Pass
+[Play "N"]
+D5 D8 D4 DJ
+H2 H3 HK H9
+C7 C9 CA C4
+C5 C2 C3 CK
+D9 DK D6 D2
+H4 HA H7 C8
+H6 HQ C6 CJ
+S3 SJ S4 SQ
+DT CT D7 DA
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 8632.J642.T95.75 J5.AQT853.K8.T92 K94.K7.Q764.AQ63 AQT7.9.AJ32.KJ84 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "N"]
+1N 2D Pass 2H
+Pass 2N Pass Pass
+Pass
+[Play "S"]
+H2 HA H7 H9
+C5 CT C3 C4
+C7 C9 CA C8
+D5 D8 D4 DJ
+D9 DK D6 D2
+S2 SJ SK SA
+S3 S5 S4 SQ
+S6 H3 S9 ST
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J2.QJ75.QT742.Q7 AKQ864.A4.A5.AK5 95.T983.63.T9842 T73.K62.KJ98.J63 "]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "E"]
+Pass Pass 2C Pass
+2D an so Pass
+2S Pass 3S Pass
+4C Pass 4D Pass
+4N Pass 5D Pass
+5N Pass 6C Pass
+7S Pass Pass Pass
+[Play "N"]
+SJ SK S5 S3
+S2 SA S9 S7
+H5 SQ C2 ST
+D2 S6 C4 C3
+C7 S4 C8 C6
+D4 DA D3 D8
+D7 D5 D6 DK
+DT S8 H3 D9
+H7 HA H8 H2
+HJ H4 H9 HK
+CQ CA C9 CJ
+HQ CK CT H6
+DQ C5 HT DJ
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J2.QJ75.QT742.Q7 AKQ864.A4.A5.AK5 95.T983.63.T9842 T73.K62.KJ98.J63 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "E"]
+Pass Pass 1C Pass
+1N Pass 2S Pass
+2N Pass 3C Pass
+3S Pass 4C Pass
+4S Pass 5C Pass
+5D Pass 5H Pass
+5S Pass 6S Pass
+Pass Pass
+[Play "N"]
+DT DA D6 D8
+S2 SA S5 S3
+SJ SK S9 S7
+D2 D5 D3 DK
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J6.AKQ6.KJ976.53 543.85.AQ2.J8762 AT982.9742.T54.K KQ7.JT3.83.AQT94 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "S"]
+1D Pass 1S Pass
+2D an 4! Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J6.AKQ6.KJ976.53 543.85.AQ2.J8762 AT982.9742.T54.K KQ7.JT3.83.AQT94 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "S"]
+1N Pass 2H Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJT6.Q754.83.J65 AK74.6.KQJ6.AQ74 2.AKT832.AT975.K 9853.J9.42.T9832 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "W"]
+1C 1H Pass 2H
+X 4D Pass 4H
+X Pass 4S X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJT6.Q754.83.J65 AK74.6.KQJ6.AQ74 2.AKT832.AT975.K 9853.J9.42.T9832 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "W"]
+1C 1N Pass 2C
+X 2H Pass Pass
+2S 3D 3S 4H
+Pass Pass 4S X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A2.AT53.82.Q9875 Q985.QJ72.A75.32 T74.K986.QT4.T64 KJ63.4.KJ963.AKJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A2.AT53.82.Q9875 Q985.QJ72.A75.32 T74.K986.QT4.T64 KJ63.4.KJ963.AKJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "N"]
+Pass 1C Pass 1N
+Pass 2C Pass 2H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ63.7.T94.AK952 Q72.Q.AKJ875.Q43 AT985.KT8.Q63.JT 4.AJ965432.2.876 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "E"]
+3H X XX 4S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ63.7.T94.AK952 Q72.Q.AKJ875.Q43 AT985.KT8.Q63.JT 4.AJ965432.2.876 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "E"]
+3H X Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJT865.65.A.A983 Q42.T32.T3.KJT65 KQJ9874.9742.42. K973.A.KQJ865.Q7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "S"]
+1S Pass 1N 2D
+2S Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJT865.65.A.A983 Q42.T32.T3.KJT65 KQJ9874.9742.42. K973.A.KQJ865.Q7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "S"]
+1S Pass 1N 2D
+2S Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Robson"]
+[North "Patterson"]
+[East "Allfrey"]
+[South "Collins"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 6.A97542.J32.952 AK73.T.AT8.KJT83 T9.KQJ63.Q97.Q64 QJ8542.8.K654.A7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Collins"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Allfrey"]
+[Auction "W"]
+1C 1H X 4H
+4S Pass Pass Pass
+[Play "N"]
+*
+
+

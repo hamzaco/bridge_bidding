@@ -1,0 +1,912 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ53.AT943.K4.52 AT62.J85.QT3.T84 94.62.J9752.KJ97 K87.KQ7.A86.AQ63 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ53.AT943.K4.52 AT62.J85.QT3.T84 94.62.J9752.KJ97 K87.KQ7.A86.AQ63 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1C 1H 1S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ53.K6.K763.QJ6 2.QJ852.Q984.974 A64.A743.JT2.K83 QT987.T9.A5.AT52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1H Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ53.K6.K763.QJ6 2.QJ852.Q984.974 A64.A743.JT2.K83 QT987.T9.A5.AT52 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 1N Pass 2C
+an ! Pass 2D
+an ! Pass 2H
+Pass 2S Pass 2N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q8754.KT4.J9.A82 KJ93.A863.A876.Q A2.J72.Q4.KT7543 T6.Q95.KT532.J96 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 1D 2C 2H
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q8754.KT4.J9.A82 KJ93.A863.A876.Q A2.J72.Q4.KT7543 T6.Q95.KT532.J96 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 1D 2C 2D
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT9.J96.AJ87.A76 Q732.Q3.QT9.J843 A6.K8752.K642.T9 J854.AT4.53.KQ52 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT9.J96.AJ87.A76 Q732.Q3.QT9.J843 A6.K8752.K642.T9 J854.AT4.53.KQ52 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 2D an !
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T.KT6.K765.T9643 K982.A93.AT.AQ52 AQ43.J7.QJ2.KJ87 J765.Q8542.9843."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+1C Pass 1D 1N
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T.KT6.K765.T9643 K982.A93.AT.AQ52 AQ43.J7.QJ2.KJ87 J765.Q8542.9843."]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+1N Pass Pass X
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J9873.QT53.T74.9 QT542.K.53.KQ762 AK.98642.K862.54 6.AJ7.AQJ9.AJT83 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1C Pass 1D Pass
+1S Pass 1N Pass
+2S Pass 2N Pass
+3C Pass 3D Pass
+3H Pass 3S Pass
+4C Pass 4D Pass
+4S Pass 6C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J9873.QT53.T74.9 QT542.K.53.KQ762 AK.98642.K862.54 6.AJ7.AQJ9.AJT83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1C Pass 1S Pass
+2D Pass 2H Pass
+2N Pass 3C Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT3.J2.QT952.KT7 J84.K87.J843.AQ4 9765.9654.98532.AQ2 AQT3.AK76.J6."]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT3.J2.QT952.KT7 J84.K87.J843.AQ4 9765.9654.98532.AQ2 AQT3.AK76.J6."]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ.A75.KQ.AQT743 AT73.T.J862.KJ86 J65.K96.AT954.52 9842.QJ8432.73.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass Pass 2H 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ.A75.KQ.AQT743 AT73.T.J862.KJ86 J65.K96.AT954.52 9842.QJ8432.73.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass Pass Pass 2C
+an ! Pass 2D
+an ! Pass 2N
+Pass 3C an !
+Pass 3N an !
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ5432.Q73.A65.6 6.AKT82.JT98.AKJ AJ987.4.KQ.T9432 T.J965.7432.Q875 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+2H Pass 2N 3H
+Pass 4H 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ5432.Q73.A65.6 6.AKT82.JT98.AKJ AJ987.4.KQ.T9432 T.J965.7432.Q875 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+2H an ! Pass
+3H an ! Pass
+3S an ! Pass
+4S X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 2.J8754.A862.AT4 A875.KQT.J3.9862 K96.932.Q754.Q53 QJT43.A6.KT9.KJ7 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 2.J8754.A862.AT4 A875.KQT.J3.9862 K96.932.Q754.Q53 QJT43.A6.KT9.KJ7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1S Pass 3D an
+! Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJT52.J8742.A.52 764.KQ.K743.AJT8 98.A965.Q9862.94 AQ3.T3.JT5.KQ763 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+2D Pass 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJT52.J8742.A.52 764.KQ.K743.AJT8 98.A965.Q9862.94 AQ3.T3.JT5.KQ763 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+2S an ! Pass
+3H an ! Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ964.Q.3.KQJ632 AJT3.J532.T98.87 82.T874.AK74.A54 75.AK96.QJ652.T9 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass 1C 1H 1S
+3H Pass Pass 4C
+Pass 5C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ964.Q.3.KQJ632 AJT3.J532.T98.87 82.T874.AK74.A54 75.AK96.QJ652.T9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass 1N 2C an
+! X 3H Pass
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJT853.Q652.A94.6 K97.T76.AQ9742.9 A43.J85.JT8653. AQ742.JT8.KQ32.K "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1C 2S 3C
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJT853.Q652.A94.6 K97.T76.AQ9742.9 A43.J85.JT8653. AQ742.JT8.KQ32.K "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 84.QJT765.743.AJ AT.A8.AKQJT.T965 KQJ72.942.98.K83 9653.K3.652.Q742 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H 2H 3D Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 84.QJT765.743.AJ AT.A8.AKQJT.T965 KQJ72.942.98.K83 9653.K3.652.Q742 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 2D an !
+X 2H an !
+Pass Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT3.Q876.A84.A94 A52.KT542.95.K85 Q974.J.KQ6.T7632 K86.A93.JT732.QJ "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT3.Q876.A84.A94 A52.KT542.95.K85 Q974.J.KQ6.T7632 K86.A93.JT732.QJ "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 2D an !
+Pass 2H an !
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Prescott"]
+[North "Klinger"]
+[East "Marston"]
+[South "Ebery"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 52.QJ8542.65.AJT AK7.K9.QJT432.92 J943.AT6.K7.K875 QT86.73.A98.Q643 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Haughie"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1S Pass 3C Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+

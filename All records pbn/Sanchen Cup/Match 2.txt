@@ -1,0 +1,937 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT86.J96.AK654.A3 AQT942.82.QT3.Q7 K853.KQ754.72.9542 J76.AT3.J98."]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "N"]
+Pass Pass 1S 2H
+2N Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+H6 C4 HA H3
+H5 HJ C5 HT
+HQ HK H7 C6
+SA SQ S2 S6
+H9 H8 S9 D6
+S5 D9 H4 D4
+DJ H2 D5 S4
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT86.J96.AK654.A3 AQT942.82.QT3.Q7 K853.KQ754.72.9542 J76.AT3.J98."]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "N"]
+Pass Pass 1S 2H
+X Pass 3C 3H
+Pass Pass Pass
+[Play "N"]
+S3 SQ S2 S8
+S4 ST SA S7
+DA D6 D2 D5
+HJ C6 H4 HK
+DK D3 D9 D8
+DJ H2 D7 DT
+CK CQ C2 C8
+SK H9 D4 S5
+C3 C7 CJ CA
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ.J742.75.KQ876 K54.A85.QT94.J92 8763.KT3.A2.AT54 QT92.Q96.KJ863.3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1H Pass Pass
+1S 2C 2S 3C
+Pass Pass Pass
+[Play "W"]
+SA S4 S6 SQ
+CK C2 C4 C3
+C6 C9 CA D3
+CQ CJ C5 D6
+H4 H5 HT HQ
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ.J742.75.KQ876 K54.A85.QT94.J92 8763.KT3.A2.AT54 QT92.Q96.KJ863.3 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 92.Q873.98753.KT AJ74.KJ4.KQ62.95 K865.65.AT.AQ762 QT3.AT92.J4.J843 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 92.Q873.98753.KT AJ74.KJ4.KQ62.95 K865.65.AT.AQ762 QT3.AT92.J4.J843 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 974.AK.KQ76.AJT2 KJ85.T87543.T5.8 A6.Q6.A9843.Q743 QT32.J92.J2.K965 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "W"]
+Pass 1D Pass 2D
+Pass 3C Pass 3H
+Pass 3N Pass 4C
+Pass 4D an !
+Pass 4H Pass 4S
+Pass 6C Pass 6D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 974.AK.KQ76.AJT2 KJ85.T87543.T5.8 A6.Q6.A9843.Q743 QT32.J92.J2.K965 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "W"]
+Pass 1D Pass 2C
+Pass 3C Pass 3D
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT83.JT86.AQ85.Q 5.K7.KJ764.AT543 K.Q9542.32.98762 QJ97642.A3.T9.KJ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "N"]
+Pass 1S Pass 2D
+Pass 2S Pass 3C
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT83.JT86.AQ85.Q 5.K7.KJ764.AT543 K.Q9542.32.98762 QJ97642.A3.T9.KJ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2S Pass 2N
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ87.QJ.AQ.KQ96 J5.K873.K93.T873 T92.A92.T7654.42 643.T654.J82.AJ5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 2S Pass 3S
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ87.QJ.AQ.KQ96 J5.K873.K93.T873 T92.A92.T7654.42 643.T654.J82.AJ5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 2.AKJ54.AQ9532.A AQ8743.3.J4.8765 J5.762.T86.QJ932 KT96.QT98.K7.KT4 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "S"]
+1C 2S Pass 3S
+X Pass 4C Pass
+4D Pass 5D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 2.AKJ54.AQ9532.A AQ8743.3.J4.8765 J5.762.T86.QJ932 KT96.QT98.K7.KT4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "S"]
+1C 2S Pass 3S
+X Pass 4C Pass
+4D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 72.AT6.AK74.AT73 KT64.985.T3.Q965 A85.Q73.J985.K84 QJ93.KJ42.Q62.J2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 72.AT6.AK74.AT73 KT64.985.T3.Q965 A85.Q73.J985.K84 QJ93.KJ42.Q62.J2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 2C Pass 2D
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J95.9653.J92.KJ6 T62.JT.AT6.A9843 K43.A742.K843.T7 AQ87.KQ8.Q75.Q52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "N"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J95.9653.J92.KJ6 T62.JT.AT6.A9843 K43.A742.K843.T7 AQ87.KQ8.Q75.Q52 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "N"]
+Pass 1C Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 4.Q2.AKT653.AKJ8 A75.KJ984.74.QT2 QT632.65.982.954 KJ98.AT73.QJ.763 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "E"]
+Pass 1C 1H Pass
+1N an ! 2D
+Pass Pass 2H 3C
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 4.Q2.AKT653.AKJ8 A75.KJ984.74.QT2 QT632.65.982.954 KJ98.AT73.QJ.763 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "E"]
+Pass 1C 1H Pass
+3H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J9864.965.AT64.Q AK32.A7.QJ9.KJ64 Q.KJT82.7532.T98 T75.Q43.K8.A7532 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "S"]
+Pass 1C Pass 1N
+Pass 2C Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J9864.965.AT64.Q AK32.A7.QJ9.KJ64 Q.KJT82.7532.T98 T75.Q43.K8.A7532 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "S"]
+Pass 1C 1H 1N
+2H X Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J.Q63.Q963.QJ862 Q9.KJT952.JT.AK4 AK7652.74.A85.T7 T843.A8.K742.953 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "W"]
+1H 1S Pass 1N
+2H 2S 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J.Q63.Q963.QJ862 Q9.KJT952.JT.AK4 AK7652.74.A85.T7 T843.A8.K742.953 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "W"]
+1H 1S Pass Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK874.3.K53.KQT8 9652.7.J862.J643 QT3.QJT954.QT.52 J.AK862.A974.A97 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "N"]
+2D an h/ 2H
+X Pass Pass 2N
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK874.3.K53.KQT8 9652.7.J862.J643 QT3.QJT954.QT.52 J.AK862.A974.A97 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "N"]
+Pass 1C 1S Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 542.Q4.QJT7.AKQ9 K963.93.A83.T862 J8.AKT86.K96.J74 AQT7.J752.542.53 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2N Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 542.Q4.QJT7.AKQ9 K963.93.A83.T862 J8.AKT86.K96.J74 AQT7.J752.542.53 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J8.QT652.743.A63 976.A973.A2.QJT4 AKQT42.KJ8.J86.8 53.4.KQT95.K9752 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "S"]
+Pass 1D 1S 3D
+Pass Pass X Pass
+3H Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J8.QT652.743.A63 976.A973.A2.QJT4 AKQT42.KJ8.J86.8 53.4.KQT95.K9752 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "S"]
+Pass 1D 1S 4D
+Pass Pass 4S Pass
+Pass 5D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Sanchen Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Sun Ming"]
+[North "Li Rui"]
+[East "Wang Hongl"]
+[South "Sun Miao"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 865.A753.9753.T5 974.KQ982.AJ.J92 AQJT.JT6.T86.Q84 K32.4.KQ42.AK763 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Sanchen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Huayuan"]
+[Auction "W"]
+1H Pass 2C Pass
+2H Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+

@@ -1,0 +1,966 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J84.Q7.Q7532.K75 AT96.AJT5.4.AJ42 K75.K962.K9.QT98 Q32.843.AJT86.63 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "N"]
+1N an 10 Pass
+Pass 2C an bo
+Pass 2D an Ch
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+CK CA CT C3
+C7 C2 C8 C6
+D2 D4 DK DA
+S4 ST SK S2
+S8 S6 S5 SQ
+D3 H5 D9 D6
+C5 C4 C9 H3
+D5 CJ H2 DJ
+SJ SA S7 S3
+HQ S9 CQ H8
+DQ HT HK DT
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J84.Q7.Q7532.K75 AT96.AJT5.4.AJ42 K75.K962.K9.QT98 Q32.843.AJT86.63 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "4"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "N"]
+Pass Pass 1D X
+1H Pass Pass X
+1N Pass Pass Pass
+[Play "E"]
+S4 SA S5 S3
+S8 S6 S7 SQ
+SJ S9 SK S2
+C5 CJ CT C6
+D2 ST H2 D6
+D3 D4 DK DA
+H7 HT HK H3
+CK CA C8 C3
+HQ HA H6 H4
+D5 HJ H9 H8
+D7 H5 D9 D8
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A54.7642.A.JT752 K.Q985.KQT432.Q9 972.KJ3.9876.K86 QJT863.AT.J5.A43 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "E"]
+1S Pass 2D Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "N"]
+CT CQ C8 C3
+S4 SK S2 S3
+DA D2 D7 DJ
+C2 C9 CK CA
+S5 DT D6 D5
+H7 DQ D8 C4
+H2 DK D9 S6
+H4 D3 S7 S8
+H6 D4 H3 ST
+C5 H5 HJ HA
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A54.7642.A.JT752 K.Q985.KQT432.Q9 972.KJ3.9876.K86 QJT863.AT.J5.A43 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "E"]
+2S an    Pass
+2N Pass 3S Pass
+Pass Pass
+[Play "S"]
+DA D2 D9 D5
+CJ C9 C6 C3
+S4 SK S2 S3
+C7 CQ C8 CA
+SA H5 S7 SJ
+H7 H8 HJ HA
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A92.Q9.AQT965.62 JT83.743.K4.A853 Q76.AKT85.J87.KJ K54.J62.32.QT974 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "S"]
+1D an na Pass
+1H Pass 1N Pass
+2D an GF Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "W"]
+SA SJ SQ SK
+DA DK D7 D3
+D5 D4 DJ D2
+DQ C5 D8 C4
+DT C3 S6 S5
+D9 H3 S7 C7
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A92.Q9.AQT965.62 JT83.743.K4.A853 Q76.AKT85.J87.KJ K54.J62.32.QT974 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "S"]
+1D Pass 1H Pass
+2D Pass 2S Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT64.T83.9875.AQ AKQ5.Q2.Q4.K9652 8732.KJ9654.K.J7 9.A7.AJT632.T843 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "W"]
+1N 2H 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT64.T83.9875.AQ AKQ5.Q2.Q4.K9652 8732.KJ9654.K.J7 9.A7.AJT632.T843 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "W"]
+1N Pass 3C Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK9843.87.842.94 QT52.42.QJT975.7 J6.AJT63.A3.AT86 7.KQ95.K6.KQJ532 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "N"]
+1H 2C 2S Pass
+2N Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK9843.87.842.94 QT52.42.QJT975.7 J6.AJT63.A3.AT86 7.KQ95.K6.KQJ532 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "N"]
+1H 2C X Pass
+2N Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQJ54.A93.QT6.J9 K973.Q.J73.AKQ82 862.765.A95.T653 T.KJT842.K842.74 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "E"]
+2H 2S 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQJ54.A93.QT6.J9 K973.Q.J73.AKQ82 862.765.A95.T653 T.KJT842.K842.74 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "E"]
+2D an    X
+an Mu Pass 2H
+an XX Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ3.QT752.A7.T74 Q2.4.JT96432.952 65.AJ863.K8.AQJ6 AT9874.K9.Q5.K83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "S"]
+Pass Pass 1N 2S
+X Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ3.QT752.A7.T74 Q2.4.JT96432.952 65.AJ863.K8.AQJ6 AT9874.K9.Q5.K83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "S"]
+Pass Pass 1H 2S
+an   3S Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A2.QT83.AK6.T853 J3.K5.T97432.KJ7 KQT98765.A764.J. 4.J92.Q85.AQ9642 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "W"]
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A2.QT83.AK6.T853 J3.K5.T97432.KJ7 KQT98765.A764.J. 4.J92.Q85.AQ9642 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2S Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ7.A42.J8.KQJ84 5.KQ863.Q76.T752 A642.T97.A53.A93 KT983.J5.KT942.6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "N"]
+1N an 10 Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ7.A42.J8.KQJ84 5.KQ863.Q76.T752 A642.T97.A53.A93 KT983.J5.KT942.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "N"]
+1C 1S 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 852.J87.A8.QJ862 A97.K2.T743.K743 T63.9654.QJ65.A5 KQJ4.AQT3.K92.T9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 852.J87.A8.QJ862 A97.K2.T743.K743 T63.9654.QJ65.A5 KQJ4.AQT3.K92.T9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJ7.A98643.Q4.A4 T852.J7.T97.T875 AQ943.KT5.AK3.93 6.Q2.J8652.KQJ62 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "S"]
+1H Pass 1S 2C
+2H Pass 3D Pass
+3S Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJ7.A98643.Q4.A4 T852.J7.T97.T875 AQ943.KT5.AK3.93 6.Q2.J8652.KQJ62 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "S"]
+1H Pass 1S X
+XX an  3 Pass
+Pass 2C 2H Pass
+3C Pass 3D Pass
+3H Pass 3N Pass
+4D Pass 4S Pass
+5H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A4.KT3.AKJ2.AKJT Q9762.A842.7.974 KT83.97.QT854.Q8 J5.QJ65.963.6532 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "W"]
+Pass Pass Pass 2D
+an 22 Pass 2H
+Pass 2N Pass 3C
+an st Pass 3D
+an no Pass 4D
+an na Pass 4H
+an cu Pass 4S
+an cu Pass 4N
+Pass 5C Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A4.KT3.AKJ2.AKJT Q9762.A842.7.974 KT83.97.QT854.Q8 J5.QJ65.963.6532 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +720"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "W"]
+Pass Pass Pass 2C
+Pass 2D Pass 2N
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q53.K8.A97542.74 A7.T97653.QT.JT5 JT8642.4.83.A862 K9.AQJ2.KJ6.KQ93 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "N"]
+2D an mu 2N
+Pass 3D an tX
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q53.K8.A97542.74 A7.T97653.QT.JT5 JT8642.4.83.A862 K9.AQJ2.KJ6.KQ93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "N"]
+Pass 1C 1D 1H
+1S 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQJT2.AQ5.7.K983 753.K8764.T84.62 JT932.A532.AQ54.A9864 .KQJ96.JT7."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "E"]
+1S Pass Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQJT2.AQ5.7.K983 753.K8764.T84.62 JT932.A532.AQ54.A9864 .KQJ96.JT7."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "E"]
+1S Pass 1N X
+2D 2S Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK864.T543.A4.J7 JT72.862.J5.K942 Q3.AK7.Q87632.63 95.QJ9.KT9.AQT85 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "S"]
+1S Pass 2D Pass
+2H Pass 3C X
+Pass Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK864.T543.A4.J7 JT72.862.J5.K942 Q3.AK7.Q87632.63 95.QJ9.KT9.AQT85 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "S"]
+1S Pass 2D Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Coupe de France"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Suard"]
+[North "Maillard"]
+[East "Rau"]
+[South "Pelisson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A6.T6.J82.AKQ852 KJ92.J743.T54.97 Q854.AKQ8.A96.T3 T73.952.KQ73.J64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Gerber"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rau"]
+[Auction "W"]
+Pass 1C an  1
+Pass 1S an !X
+Pass 1N an 15
+Pass 2S an !c
+Pass 3C Pass 4N
+Pass Pass Pass
+[Play "E"]
+*
+
+

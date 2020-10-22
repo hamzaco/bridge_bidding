@@ -1,0 +1,912 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 7.KT432.A853.J64 QJT3.5.T972.Q875 K52.A986.KQ64.32 A9864.QJ7.J.AKT9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "N"]
+1D 1S 2H 3S
+4H 4S Pass Pass
+Pass
+[Play "S"]
+H2 H5 HA H7
+D3 D2 DK DJ
+D5 D7 D4 S4
+HK SQ H6 HQ
+S7 SJ S2 S6
+H3 S3 S5 S8
+D8 ST SK SA
+C4 C5 C2 CA
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 7.KT432.A853.J64 QJT3.5.T972.Q875 K52.A986.KQ64.32 A9864.QJ7.J.AKT9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "N"]
+1D X 2H 2S
+4H 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A98765.9.J976.J2 KT2.Q752.5.AQ653 QJ43.AK83.QT3.94 .JT64.AK842.KT87 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "E"]
+1D 2S X! 3S
+4H Pass Pass 4S
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A98765.9.J976.J2 KT2.Q752.5.AQ653 QJ43.AK83.QT3.94 .JT64.AK842.KT87 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "E"]
+1D Pass 1H Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K9.A87.K72.KT876 T6.Q932.AT53.J43 AJ742.KT.Q964.Q5 Q853.J654.J8.A92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "S"]
+1C Pass 1S Pass
+1N Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K9.A87.K72.KT876 T6.Q932.AT53.J43 AJ742.KT.Q964.Q5 Q853.J654.J8.A92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "S"]
+1C Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ5.K9852.AJ82.3 64.AT76.K97.AQT5 KQ732.QJ3.KJ984.T98 4.QT6543.762."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "W"]
+1C 1S Pass 2C
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ5.K9852.AJ82.3 64.AT76.K97.AQT5 KQ732.QJ3.KJ984.T98 4.QT6543.762."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "W"]
+1H 1S Pass 2H
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ53.J853.A4.J53 K64.A762.753.987 T9.KQ94.KQJ98.A4 A872.T.T62.KQT62 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "N"]
+1D Pass 1H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ53.J853.A4.J53 K64.A762.753.987 T9.KQ94.KQJ98.A4 A872.T.T62.KQT62 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "N"]
+1N 2C X Pass
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A9.K653.Q6.AQJT7 K54.T2.A875.9862 QT6.AQ87.J94.K54 J8732.J94.KT32.3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A9.K653.Q6.AQJT7 K54.T2.A875.9862 QT6.AQ87.J94.K54 J8732.J94.KT32.3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K8.AK852.Q4.AQ97 63.QT7.A76.J8532 AJT9542.J6.92.64 Q7.943.KJT853.KT "]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "S"]
+1H Pass 1S Pass
+2C Pass 2S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K8.AK852.Q4.AQ97 63.QT7.A76.J8532 AJT9542.J6.92.64 Q7.943.KJT853.KT "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "S"]
+1H Pass 1S Pass
+2N Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K965.KT642.AK.74 42.QJ53.986.9852 A3.987.T43.AQT63 QJT87.A.QJ752.KJ "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "W"]
+Pass Pass 1S Pass
+Pass 2C Pass 2H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K965.KT642.AK.74 42.QJ53.986.9852 A3.987.T43.AQT63 QJT87.A.QJ752.KJ "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "W"]
+Pass Pass 1S Pass
+Pass X Pass 2S
+Pass 3C Pass 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A3.AQJ.KQ84.AK82 J2.K742.T962.T63 T85.T963.J.QJ974 KQ9764.85.A753.5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "N"]
+Pass 2S X Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A3.AQJ.KQ84.AK82 J2.K742.T962.T63 T85.T963.J.QJ974 KQ9764.85.A753.5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "N"]
+Pass Pass 2C Pass
+2H 2S Pass Pass
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQT.A.A942.AQT42 J93.KJ65.KJ.K873 K75.97.T8753.J96 8642.QT8432.Q6.5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "E"]
+Pass 1C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQT.A.A942.AQT42 J93.KJ65.KJ.K873 K75.97.T8753.J96 8642.QT8432.Q6.5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "E"]
+Pass 1C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 84.T5.QJ8.K76532 AQT.Q8.K9643.T94 652.J7642.T72.AJ KJ973.AK93.A5.Q8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 2C Pass 2H
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 84.T5.QJ8.K76532 AQT.Q8.K9643.T94 652.J7642.T72.AJ KJ973.AK93.A5.Q8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 1N Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q82.T65.AK965.72 AJ3.A9872.7.K983 K75.KQ43.T84.AQ4 T964.J.QJ32.JT65 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "W"]
+1H Pass 1S Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q82.T65.AK965.72 AJ3.A9872.7.K983 K75.KQ43.T84.AQ4 T964.J.QJ32.JT65 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "W"]
+1H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K75.A8.A954.A974 Q93.QJ65.QT.JT63 84.T97432.K8632. AJT62.K.J7.KQ852 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "N"]
+Pass 1S Pass 2S
+Pass 3C Pass 3D
+Pass 3H Pass 3S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K75.A8.A954.A974 Q93.QJ65.QT.JT63 84.T97432.K8632. AJT62.K.J7.KQ852 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "N"]
+Pass 1S 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A.AQ9.K97643.J65 953.8432.QT.T974 KQ72.KJT6.AJ2.Q3 JT864.75.85.AK82 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2H Pass 2N
+an as Pass 3D
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A.AQ9.K97643.J65 953.8432.QT.T974 KQ72.KJT6.AJ2.Q3 JT864.75.85.AK82 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +720"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "E"]
+Pass 1D Pass 1H
+X XX Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K9874.K874.A2.74 6.J952.7654.K963 JT532.AT3.K98.85 AQ.Q6.QJT3.AQJT2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "S"]
+Pass Pass Pass 1C
+1S 2C 3C 3D
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K9874.K874.A2.74 6.J952.7654.K963 JT532.AT3.K98.85 AQ.Q6.QJT3.AQJT2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "S"]
+Pass Pass Pass 1C
+X Pass 2D Pass
+2H Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 HCL Open"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "R.Tewari"]
+[North "Anil P"]
+[East "Prabhakar"]
+[South "Sunil M"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q98.A98.K93.KJT6 J6543.Q75.JT6.54 AK.63.752.AQ9873 T72.KJT42.AQ84.2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sunil Machar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TexanAces"]
+[Auction "W"]
+Pass 1C 1H 2H
+X 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+

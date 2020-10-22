@@ -1,0 +1,961 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T762.AQ.AQT3.972 AJ3.T832.974.T53 KJ9765.65.KQJ84. KQ9854.4.KJ82.A6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "N"]
+1C 1S X 2S
+4H 4S X Pass
+Pass Pass
+[Play "S"]
+S2 S3 H6 S4
+SJ H5 S5 S6
+DT D9 D6 D2
+S7 SA H7 S8
+DQ D4 D5 D8
+C7 C3 CJ CA
+H2 C4 SK ST
+D7 H9 DK DA
+C9 CT CQ C6
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T762.AQ.AQT3.972 AJ3.T832.974.T53 KJ9765.65.KQJ84. KQ9854.4.KJ82.A6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "N"]
+2H 2S 3D Pass
+3S X 4H Pass
+Pass Pass
+[Play "E"]
+S3 H5 SK S2
+HA H2 H6 H4
+HQ H3 H7 S4
+C2 C3 CK CA
+S6 SA H9 SQ
+S5 D3 H8 HK
+D2 DT HT HJ
+C6 C7 C5 CQ
+S8 C9 CT CJ
+S9 S7 D4 C8
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 873.76.T963.AQ93 AQJT42.J.AKJ74.4 K95.983.Q8.KT652 6.AKQT542.52.J87 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "E"]
+4H Pass Pass Pass
+[Play "S"]
+DT DA D8 D2
+S3 SA S5 S6
+S7 SQ SK H5
+H6 HJ H3 HA
+H7 D4 H8 HK
+D3 D7 H9 HQ
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 873.76.T963.AQ93 AQJT42.J.AKJ74.4 K95.983.Q8.KT652 6.AKQT542.52.J87 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "E"]
+3H Pass 3S Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "N"]
+D3 DA DQ D2
+H6 HJ H3 HA
+H7 C4 H8 HK
+S3 SQ SK S6
+S7 ST H9 HQ
+S8 SA S5 H2
+C3 SJ S9 H4
+D6 DK D8 D5
+D9 DJ C2 H5
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q832.QT3.QJ.AK83 KJ9764.A2.K6.654 T.J864.8542.QJT2 A5.K975.AT973.97 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "S"]
+1C 1S Pass 2D
+Pass 2S Pass 3S
+Pass Pass Pass
+[Play "N"]
+C8 C6 CQ C7
+S2 SJ ST S5
+DQ DK D2 D3
+DJ D6 D5 DA
+S3 S4 D4 SA
+H3 HA H4 H7
+S8 SK D8 C9
+HT H2 H6 HK
+SQ C4 C2 DT
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q832.QT3.QJ.AK83 KJ9764.A2.K6.654 T.J864.8542.QJT2 A5.K975.AT973.97 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "S"]
+1C 1S Pass 2D
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+C8 C4 CQ C7
+S2 SJ ST S5
+CK C5 C2 C9
+S3 S4 CJ SA
+DJ DK D2 D7
+DQ D6 D4 DA
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T92.Q.KJ84.AKQ53 KJ43.98762.A9.JT A87.KT5.Q7.98764 Q65.AJ43.T6532.2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1N Pass 2C
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T92.Q.KJ84.AKQ53 KJ43.98762.A9.JT A87.KT5.Q7.98764 Q65.AJ43.T6532.2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1N Pass 2C
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T863.AQJ9.74.KJ8 K.K76.QJ965.T432 Q942.T52.K82.976 AJ75.843.AT3.AQ5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T863.AQJ9.74.KJ8 K.K76.QJ965.T432 Q942.T52.K82.976 AJ75.843.AT3.AQ5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2S Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT74.AQJ6.QT543.K98753 A8.AJ653.AK83.T4 J92.QT87..J9652 2.K76.K942."]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "E"]
+Pass 1D 1H X
+Pass 1S 2C 2S
+Pass Pass 3C X
+Pass 3S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT74.AQJ6.QT543.K98753 A8.AJ653.AK83.T4 J92.QT87..J9652 2.K76.K942."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "E"]
+Pass 1D 1H X
+Pass 1S 2C 2S
+3C 3S 5C X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T943.QT4.AT4.964 A652.AJ763.975.Q 8.K95.QJ2.KJ8732 KQJ7.82.K863.AT5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "S"]
+Pass 1H 2C X
+Pass 2S Pass 3C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T943.QT4.AT4.964 A652.AJ763.975.Q 8.K95.QJ2.KJ8732 KQJ7.82.K863.AT5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H Pass 1S
+Pass 4C Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJT7543.8.82.J82 982.54.AQ9753.KQ 6.QJT9632.T.A953 KQ.AK7.KJ64.T764 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "W"]
+Pass 3H 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJT7543.8.82.J82 982.54.AQ9753.KQ 6.QJT9632.T.A953 KQ.AK7.KJ64.T764 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "W"]
+1D 3H 3N Pass
+Pass 4H X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ8.54.K764.AK83 T954.KQ72.9532.2 AK72.AT9.J.QJT96 63.J863.AQT8.754 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "N"]
+1C Pass 1D Pass
+1S Pass 2H X
+XX Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ8.54.K764.AK83 T954.KQ72.9532.2 AK72.AT9.J.QJT96 63.J863.AQT8.754 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "N"]
+1C Pass 2C Pass
+3D X 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQ.AQ.K9532.Q643 J72.9762.7.KJ975 KT54.KT83.QJT8.T 9863.J54.A64.A82 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 3C
+Pass 3D Pass 3H
+Pass 3N Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQ.AQ.K9532.Q643 J72.9762.7.KJ975 KT54.KT83.QJT8.T 9863.J54.A64.A82 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K985.T43.874.QT2 T43.AQ982.T63.98 J762.5.J2.AJ7654 AQ.KJ76.AKQ95.K3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "S"]
+Pass Pass Pass 2C
+Pass 2H Pass 2N
+Pass 3D Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K985.T43.874.QT2 T43.AQ982.T63.98 J762.5.J2.AJ7654 AQ.KJ76.AKQ95.K3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "S"]
+Pass Pass Pass 2N
+Pass 3D Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K85.KT84.Q2.7642 AQ643.J652.A87.9 T7.AQ97.K9.AKQ83 J92.3.JT6543.JT5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "W"]
+1S X 2S Pass
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K85.KT84.Q2.7642 AQ643.J652.A87.9 T7.AQ97.K9.AKQ83 J92.3.JT6543.JT5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "W"]
+1S X 3S Pass
+Pass X Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T7.986.AKQ76.Q83 J95.Q7532.542.AK KQ84.A.JT93.T975 A632.KJT4.8.J642 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "N"]
+Pass Pass 1D 1H
+X 4H Pass Pass
+5D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T7.986.AKQ76.Q83 J95.Q7532.542.AK KQ84.A.JT93.T975 A632.KJT4.8.J642 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2D Pass
+3D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J3.J75.9832.J975 K5.KT8632.T.AKQ8 Q92.Q4.AKQ7.T632 AT8764.A9.J654.4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "E"]
+2S Pass 2N Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J3.J75.9832.J975 K5.KT8632.T.AKQ8 Q92.Q4.AKQ7.T632 AT8764.A9.J654.4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "E"]
+Pass Pass 1H Pass
+1S Pass 2C Pass
+2S Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J843.QT654.AT4.9 AT97.9.J952.8764 Q5.KJ72.876.AK52 K62.A83.KQ3.QJT3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "S"]
+Pass Pass 1C 1N
+2H 2S 3H 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J843.QT654.AT4.9 AT97.9.J952.8764 Q5.KJ72.876.AK52 K62.A83.KQ3.QJT3 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "S"]
+Pass Pass 1C 1N
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Egyptian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Nadim"]
+[North "Wahdan"]
+[East "Heshmat"]
+[South "Rony"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T7.K96.8762.8652 53.QJT542.J43.KT AQJ6.A3.KQ9.AQ73 K9842.87.AT5.J94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "El Ahly Club (A)"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "El Rabwa Club (A)"]
+[Auction "W"]
+2D 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

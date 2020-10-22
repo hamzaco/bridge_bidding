@@ -1,0 +1,942 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T9754.Q8.J2.K983 A.T943.Q865.JT52 J83.AJ652.K43.Q6 KQ62.K7.AT97.A74 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "N"]
+Pass 1C Pass 1D
+an !h Pass 1N
+an 17 Pass 2C
+an !X Pass 2D
+Pass 2N Pass Pass
+Pass
+[Play "S"]
+ST SA S3 S6
+C3 CJ CQ CA
+D2 D5 D4 DA
+DJ DQ D3 DT
+S5 D6 DK D9
+H8 H3 H5 HK
+S4 D8 S8 SK
+S7 C2 SJ SQ
+C8 H4 C6 D7
+CK C5 H2 C7
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T9754.Q8.J2.K983 A.T943.Q865.JT52 J83.AJ652.K43.Q6 KQ62.K7.AT97.A74 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+S5 SA S3 S2
+D2 D5 D3 DA
+DJ DQ DK D9
+S4 C2 SJ SK
+C3 D6 D4 DT
+C8 D8 H5 D7
+C9 C5 C6 CA
+S7 H3 S8 SQ
+S9 H4 H2 S6
+CK CT CQ C4
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ964.T.A32.9752 JT52.K75.JT95.A6 A873.A843.KQ4.K4 .QJ962.876.QJT83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "E"]
+Pass Pass 1S 1N
+2H 3H X 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ964.T.A32.9752 JT52.K75.JT95.A6 A873.A843.KQ4.K4 .QJ962.876.QJT83 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "E"]
+2H an 5! Pass
+3H Pass Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A632.A5.975.KT72 75.KJ82.QT8.QJ54 QT4.T763.A62.986 KJ98.Q94.KJ43.A3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D Pass 1H
+X Pass 1N 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A632.A5.975.KT72 75.KJ82.QT8.QJ54 QT4.T763.A62.986 KJ98.Q94.KJ43.A3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 2C Pass 2S
+Pass 2N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQJ943.4.973.T94 K2.AKT753.6.J752 T85.J92.KQJ5.K83 76.Q86.AT842.AQ6 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "W"]
+1H Pass 4H 4S
+5H 5S X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQJ943.4.973.T94 K2.AKT753.6.J752 T85.J92.KQJ5.K83 76.Q86.AT842.AQ6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "W"]
+1H Pass 2N an
+gf 3S Pass 4S
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q98532.T3.K42.42 AKT6.K8754.J6.KJ 74.QJ6.A875.T853 J.A92.QT93.AQ976 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "N"]
+Pass 1C Pass 1D
+an !h Pass 1H
+1S X an TO
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q98532.T3.K42.42 AKT6.K8754.J6.KJ 74.QJ6.A875.T853 J.A92.QT93.AQ976 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ83.K65.QJ98.T7 75.32.KT643.9852 J9.AJ984.7.AQ643 KT642.QT7.A52.KJ "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "E"]
+1S Pass Pass 2H
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ83.K65.QJ98.T7 75.32.KT643.9852 J9.AJ984.7.AQ643 KT642.QT7.A52.KJ "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "E"]
+1S Pass Pass 2S
+Pass 2N Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQT6.K96.A742.AK KJ2.A32.J85.J954 5.QJ875.KQT9.T83 98743.T4.63.Q762 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "S"]
+1C an st Pass
+1H Pass 1N Pass
+2D Pass 2H Pass
+2S Pass 2N an
+XX Pass 3H an
+1- Pass 3S an
+!H Pass 4C an
+0  Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQT6.K96.A742.AK KJ2.A32.J85.J954 5.QJ875.KQT9.T83 98743.T4.63.Q762 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "S"]
+2N Pass 3D an
+tX Pass 3H Pass
+4D Pass 4S Pass
+5D Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ5.J9752.K76.K7 AK4.AKQ84.AT.532 972.T3.J8432.J84 T863.6.Q95.AQT96 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "W"]
+2N Pass 3C Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ5.J9752.K76.K7 AK4.AKQ84.AT.532 972.T3.J8432.J84 T863.6.Q95.AQT96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "W"]
+1C an Pa Pass
+1S Pass 2D an
+aX Pass 2H Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K2.Q7.AKQT942.T7 AJ9874.A.86.AJ64 653.KJ986.J7.Q95 QT.T5432.53.K832 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "N"]
+Pass Pass 3N an
+ga Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K2.Q7.AKQT942.T7 AJ9874.A.86.AJ64 653.KJ986.J7.Q95 QT.T5432.53.K832 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "N"]
+Pass Pass 1D 1S
+X Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 83.A97542.Q2.A82 AJ654.T.J86.KJ54 KQ9.Q63.A975.QT6 T72.KJ8.KT43.973 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 83.A97542.Q2.A82 AJ654.T.J86.KJ54 KQ9.Q63.A975.QT6 T72.KJ8.KT43.973 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "E"]
+Pass Pass 1S Pass
+2S 3H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ9.932.763.K982 A43.75.KQT9.QT54 JT75.AKQ8.82.763 862.JT64.AJ54.AJ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "S"]
+Pass 1C 1H 1S
+an <4 2H X
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ9.932.763.K982 A43.75.KQT9.QT54 JT75.AKQ8.82.763 862.JT64.AJ54.AJ "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "S"]
+Pass Pass 1H Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 5.KQJ98.JT64.K95 QJ3.754.AK52.842 K7642.A63.8.T763 AT98.T2.Q973.AQJ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "W"]
+1C Pass 1H an
+!S Pass 1S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 5.KQJ98.JT64.K95 QJ3.754.AK52.842 K7642.A63.8.T763 AT98.T2.Q973.AQJ "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "W"]
+Pass Pass 1C an
+Pa 1H 1S 2H
+Pass Pass X Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J9842.6432.A9.K2 3.AJ9.J75.J98653 QT7.KQ75.KT843.Q AK65.T8.Q62.AT74 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "N"]
+1D 1S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J9842.6432.A9.K2 3.AJ9.J75.J98653 QT7.KQ75.KT843.Q AK65.T8.Q62.AT74 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "N"]
+1D Pass 1S Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A962.T9842.J8.K4 K3.Q763.AKT3.AQ7 J8.J.Q97652.T852 QT754.AK5.4.J963 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "E"]
+1S Pass 2C an
+cX Pass 3C Pass
+3D Pass 3N Pass
+4N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A962.T9842.J8.K4 K3.Q763.AKT3.AQ7 J8.J.Q97652.T852 QT754.AK5.4.J963 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "E"]
+1S Pass 2C Pass
+2S Pass 2N an
+st  a Pass 3C
+an 5!  4 Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K964.K96.KJ54.J6 8.T852.96.QT9432 A753.AJ43.AQT7.8 QJT2.Q7.832.AK75 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "S"]
+Pass 3C X 4C
+X Pass 4H Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K964.K96.KJ54.J6 8.T852.96.QT9432 A753.AJ43.AQT7.8 QJT2.Q7.832.AK75 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "S"]
+Pass Pass 1D 1S
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Welland"]
+[North "Dubinin"]
+[East "Glubok"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A854.75.A62.Q764 6.T9632.AJT9853.Q72 AKJ.KT943.K2.KJT93 Q84.QJ875."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Welland"]
+[Auction "W"]
+3C X Pass Pass
+Pass
+[Play "N"]
+*
+
+

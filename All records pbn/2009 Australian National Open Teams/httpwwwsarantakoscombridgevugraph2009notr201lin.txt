@@ -1,0 +1,912 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 952.JT2.T6.AT975 JT7.AQ63.Q74.QJ2 A863.K9.AK98.K63 KQ4.8754.J532.84 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "N"]
+1D Pass 1N Pass
+2N Pass Pass Pass
+[Play "W"]
+S2 SJ S3 SQ
+S5 S7 SA SK
+C5 C2 CK C4
+C9 CJ C3 C8
+H2 H3 H9 H4
+CA CQ C6 H8
+CT D7 HK H5
+C7 H6 D8 D3
+DT D4 DA D2
+D6 DQ DK D5
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 952.JT2.T6.AT975 JT7.AQ63.Q74.QJ2 A863.K9.AK98.K63 KQ4.8754.J532.84 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "N"]
+1D Pass 1H Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K.75.52.AKJT9652 AJT732.4.A84.Q43 Q95.QJT862.KJ.87 864.AK93.QT9763."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "E"]
+1C an 4+ 2C
+2S Pass 3S 4C
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K.75.52.AKJT9652 AJT732.4.A84.Q43 Q95.QJT862.KJ.87 864.AK93.QT9763."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "E"]
+1D 3D 3S 3N
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ73.Q7.K8.AJ953 KT5.JT943.A7.K74 986.A865.JT63.62 A42.K2.Q9542.QT8 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "S"]
+1C 1H Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ73.Q7.K8.AJ953 KT5.JT943.A7.K74 986.A865.JT63.62 A42.K2.Q9542.QT8 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT92.KQ84.75.853 6.652.AKQJ864.96 KJ875.A.2.AKJT42 Q43.JT973.T93.Q7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "W"]
+1S an 10 X
+2C an Pa 3C
+3D 4C Pass 4H
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT92.KQ84.75.853 6.652.AKQJ864.96 KJ875.A.2.AKJT42 Q43.JT973.T93.Q7 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "W"]
+3N 4C 4H X
+Pass Pass 4S X
+5D 5S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J643.752.AT62.J3 A9.T964.KJ93.865 T72.KQJ.85.AKQT9 KQ85.A83.Q74.742 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "N"]
+1N Pass Pass X
+an 18 Pass 2C
+Pass 2D X 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J643.752.AT62.J3 A9.T964.KJ93.865 T72.KQJ.85.AKQT9 KQ85.A83.Q74.742 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "N"]
+1C Pass 1H an
+al Pass 1S an
+al Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q987.983.T75.Q72 AT6.A72.J43.A543 5.KQ64.A982.T986 KJ432.JT5.KQ6.KJ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "E"]
+1N an 11 Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q987.983.T75.Q72 AT6.A72.J43.A543 5.KQ64.A982.T986 KJ432.JT5.KQ6.KJ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 2.AQT753.K84.T98 KJ8.K64.Q62.QJ54 QT9763.98.J5.A62 A54.J2.AT973.K73 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "S"]
+2H Pass Pass X
+Pass 2N Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 2.AQT753.K84.T98 KJ8.K64.Q62.QJ54 QT9763.98.J5.A62 A54.J2.AT973.K73 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "S"]
+1H Pass 1S Pass
+2C an al Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q98763.K2.QJ.A53 KJ42.A3.AKT74.92 A.T84.86532.KQ74 T5.QJ9765.9.JT86 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "W"]
+1D an 4+ Pass
+1H an 0  Pass
+2D an ca Pass
+2H an Na Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q98763.K2.QJ.A53 KJ42.A3.AKT74.92 A.T84.86532.KQ74 T5.QJ9765.9.JT86 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "W"]
+1D Pass 1H 1S
+1N Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J642.AK985.J2.Q3 KQ.T64.A9753.765 AT73.J32.T.KJ942 985.Q7.KQ864.AT8 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "N"]
+Pass 1N an 11
+Pass Pass X an
+!C Pass an Xe
+2H an Pa Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J642.AK985.J2.Q3 KQ.T64.A9753.765 AT73.J32.T.KJ942 985.Q7.KQ864.AT8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "N"]
+Pass 1D 1H 3D
+4C Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J94.AJ92.A86.A65 AK72.K7543.Q92.Q QT.T6.K753.T9843 8653.Q8.JT4.KJ72 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "E"]
+Pass Pass X Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J94.AJ92.A86.A65 AK72.K7543.Q92.Q QT.T6.K753.T9843 8653.Q8.JT4.KJ72 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "E"]
+Pass 1C X 3C
+an al Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A973.QT832.J7.Q8 QT82.KJ5.KT9.642 9.AQ432.AJT9753. KJ654.A764.865.K "]
+[Declarer "N"]
+[Contract "4"]
+[Result "4"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "S"]
+Pass 1H an 7 
+2C X an ta
+2H 2S 3D 3S
+3N Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A973.QT832.J7.Q8 QT82.KJ5.KT9.642 9.AQ432.AJT9753. KJ654.A764.865.K "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "S"]
+2C an al Pass
+3C an al Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ87.83.AK73.JT3 6.AQJ942.T8.K987 JT532.K6.Q94.AQ2 K94.T75.J652.654 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "W"]
+1C an 4+ 1S
+Pass 2C Pass 2N
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ87.83.AK73.JT3 6.AQJ942.T8.K987 JT532.K6.Q94.AQ2 K94.T75.J652.654 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "W"]
+1H 1S 2H 3H
+X 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT5.K93.82.AJT92 AK642.T864.43.K3 J7.AJ52.AT976.Q5 983.Q7.KQJ5.8764 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "N"]
+1D Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT5.K93.82.AJT92 AK642.T864.43.K3 J7.AJ52.AT976.Q5 983.Q7.KQJ5.8764 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "N"]
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ86.84.T2.KQJT5 J97.QT53.9874.43 T5432.K2.KQ53.A2 A.AJ976.AJ6.9876 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "E"]
+1C an 4+ Pass
+3H an 2  Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ86.84.T2.KQJT5 J97.QT53.9874.43 T5432.K2.KQ53.A2 A.AJ976.AJ6.9876 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "E"]
+1H 2C Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K53.Q7.AQJ942.J9 2.KJT9643.K3.KQ5 JT9.A852.765.A82 AQ8764.T8.T7643."]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "S"]
+1D 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K53.Q7.AQJ942.J9 2.KJT9643.K3.KQ5 JT9.A852.765.A82 AQ8764.T8.T7643."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "S"]
+1D 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Ware"]
+[North "Perley"]
+[East "McManus"]
+[South "Genc"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J3.AJ965.T97652.T T98765.T432.K3.Q8732 KQ42.K.QJ8.AKJ9654 A.Q87.A4."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Burrows"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milne"]
+[Auction "W"]
+Pa an 0  1C
+an si 1S 2C
+an Pa Pass Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+

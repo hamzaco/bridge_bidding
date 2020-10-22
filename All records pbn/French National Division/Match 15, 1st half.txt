@@ -1,0 +1,609 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT2.2.J98762.Q3 4.QJT983.53.AK82 87653.A.AQT4.J96 AQ9.K7654.K.T754 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 3C Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+D6 D5 DA DK
+S2 S4 S3 SA
+ST HQ S5 S9
+D2 D3 D4 H4
+SK H8 S6 SQ
+C3 CA C6 C4
+H2 H3 HA H5
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT2.2.J98762.Q3 4.QJT983.53.AK82 87653.A.AQT4.J96 AQ9.K7654.K.T754 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "N"]
+1S Pass 4S Pass
+Pass Pass
+[Play "E"]
+C3 CK C6 C7
+CQ CA C9 C4
+H2 HQ HA H4
+SK S4 S3 S9
+SJ H3 S5 SQ
+S2 H8 S6 SA
+ST H9 D4 H5
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ654.2.J542.K92 K982.AQ9876.9.43 A.KJT3.AK8.J8765 T73.54.QT763.AQT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "E"]
+Pass Pass 1H Pass
+1N Pass 2H Pass
+Pass 2S Pass 2N
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+C2 C4 C5 CA
+D2 D9 DK D3
+D4 H7 DA D6
+CK C3 C6 CT
+H2 HA H3 H5
+S4 S2 SA S3
+C9 H6 HK H4
+D5 H8 C7 CQ
+SQ SK D8 S7
+DJ S8 C8 D7
+SJ S9 HT ST
+S5 H9 HJ DT
+S6 HQ CJ DQ
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ654.2.J542.K92 K982.AQ9876.9.43 A.KJT3.AK8.J8765 T73.54.QT763.AQT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "E"]
+Pass Pass 1H Pass
+1N Pass 2H Pass
+Pass 2S Pass Pass
+3H Pass Pass X
+Pass Pass Pass
+[Play "N"]
+D4 D9 DA D3
+S4 S2 SA S3
+D2 H6 DK D6
+C2 C4 C5 CA
+D5 C3 D8 DQ
+SJ SK H3 S7
+CK H7 C6 CT
+SQ S8 C7 ST
+S5 S9 HT D7
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ986.KQ.K.9874 J.A872.J94.AKQT2 53.J6543.QT87.J3 T742.T9.A6532.65 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "S"]
+1S X Pass 2D
+2S X Pass 3D
+3S Pass Pass Pass
+[Play "W"]
+C7 CA C3 C6
+SA SJ S3 S2
+HK HA H3 HT
+HQ H2 H4 H9
+DK D4 D7 DA
+C8 CQ CJ C5
+C4 CK S5 S7
+SQ H7 H5 S4
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ986.KQ.K.9874 J.A872.J94.AKQT2 53.J6543.QT87.J3 T742.T9.A6532.65 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "S"]
+1S X Pass 2D
+2S Pass Pass Pass
+[Play "W"]
+C8 CA C3 C6
+SA SJ S3 S2
+HQ H8 H3 HT
+C4 CQ CJ C5
+HK HA H4 H9
+C7 CK S5 S7
+DK D4 D7 DA
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T.AT7.AJT9752.54 85.KQ8632.84.Q32 KJ7643.954.K.T87 AQ92.J.Q63.AKJ96 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "W"]
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T.AT7.AJT9752.54 85.KQ8632.84.Q32 KJ7643.954.K.T87 AQ92.J.Q63.AKJ96 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "W"]
+2D Pass 2N an
+Xe 4D Pass Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKT8653.8.AQ976.2 AK754.KQ732.53.QJ4 QJ63.9654.82.97 T982.AJT.KJT4."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "N"]
+Pass Pass 4S 4N
+Pass 6C X 6D
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKT8653.8.AQ976.2 AK754.KQ732.53.QJ4 QJ63.9654.82.97 T982.AJT.KJT4."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "N"]
+Pass Pass 1S 3C
+an !X Pass 4H
+4S Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 8743.Q974.T8.762 QJT652.53.KJ762.9 AKJT2.954.J985. AK.86.AQ3.AKQT43 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "E"]
+2D Pass 2H X
+3C 3H 3S Pass
+4C Pass 4D Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 8743.Q974.T8.762 QJT652.53.KJ762.9 AKJT2.954.J985. AK.86.AQ3.AKQT43 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "E"]
+2C an fo Pass
+2D an an 2H
+3C 4H 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 962.T654.KQJ982.QJ876 K5.Q972.T7.T5432 J4.AK8.A63.AK9 AQT873.J3.54."]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "S"]
+Pass Pass 1S 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 962.T654.KQJ982.QJ876 K5.Q972.T7.T5432 J4.AK8.A63.AK9 AQT873.J3.54."]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "S"]
+Pass Pass 1S 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ842.JT732.5.A3 T3.8.AT864.KQ652 K6.AK54.KJ7.J987 A975.Q96.Q932.T4 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "W"]
+Pass 1N Pass 2H
+Pass 2S Pass 4H
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ842.JT732.5.A3 T3.8.AT864.KQ652 K6.AK54.KJ7.J987 A975.Q96.Q932.T4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "W"]
+Pass 1C Pass 1H
+an tX Pass 1S
+an 3+ Pass 2H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT52.K.32.AJT764 87.T8.AKJT97.832 K93.QJ97654.6.95 QJ64.A32.Q854.KQ "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "N"]
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT52.K.32.AJT764 87.T8.AKJT97.832 K93.QJ97654.6.95 QJ64.A32.Q854.KQ "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "N"]
+3H X 4H 5D
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French National Division"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Lévy"]
+[North "de Sainte Marie"]
+[East "Mouiel"]
+[South "Toffier"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q843.J873.AJT4.7 A72.965.63.AJ653 T95.A42.975.QT42 KJ6.KQT.KQ82.K98 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Blummental"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zimmermann"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+

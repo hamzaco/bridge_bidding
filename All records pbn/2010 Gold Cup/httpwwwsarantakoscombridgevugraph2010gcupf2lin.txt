@@ -1,0 +1,463 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K9.Q854.5.AJT854 QJ52.JT97.KT.973 A84.K2.AJ9843.Q6 T763.A63.Q762.K2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "N"]
+1D Pass 1H Pass
+2D Pass 2N an
+F1 Pass 3N Pass
+Pass Pass
+[Play "W"]
+HQ HJ H2 H6
+C5 C7 CQ CK
+H4 H7 HK HA
+H5 H9 D3 H3
+H8 HT D4 S6
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K9.Q854.5.AJT854 QJ52.JT97.KT.973 A84.K2.AJ9843.Q6 T763.A63.Q762.K2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "N"]
+1D Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+S9 SJ SA S7
+CA C3 CQ CK
+CJ C9 C6 C2
+CT C7 D3 D7
+C8 DT D8 H3
+C5 S2 S4 S3
+C4 S5 D9 H6
+H4 H7 HK HA
+SK SQ S8 S6
+D5 DK DA D2
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K.9532.AJ64.7643 T842.QT876.KQ85.AQJ76 K.T.AKQJT8. 953.AJ4.9732.952 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "E"]
+Pass Pass 1H 2H
+X 2N Pass 3H
+Pass 4H Pass 6C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K.9532.AJ64.7643 T842.QT876.KQ85.AQJ76 K.T.AKQJT8. 953.AJ4.9732.952 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "E"]
+Pass Pass Pass 2C
+Pass 2D Pass 3C
+Pass 4C Pass 5C
+Pass 6C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 76.K963.KQJ752.9 AKJT5.AQJ.AT.Q74 Q842.T5.83.J8652 93.8742.964.AKT3 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "S"]
+2D X Pass 2H
+Pass 3S Pass 4C
+Pass 4H Pass 4S
+Pass 5D Pass 5S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 76.K963.KQJ752.9 AKJT5.AQJ.AT.Q74 Q842.T5.83.J8652 93.8742.964.AKT3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "S"]
+Pass 2C Pass 2D
+3D Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 52.K43.KQ876.QT8 QJT7.9.AJ.KJ9763 AK64.65.T9542.A2 983.AQJT872.3.54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "W"]
+1C Pass 1H Pass
+2C X 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 52.K43.KQ876.QT8 QJT7.9.AJ.KJ9763 AK64.65.T9542.A2 983.AQJT872.3.54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A763.652.T74.K62 Q954.A7.KQ6.7543 2.QT43.J985.AQ98 KJT8.KJ98.A32.JT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2H Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A763.652.T74.K62 Q954.A7.KQ6.7543 2.QT43.J985.AQ98 KJT8.KJ98.A32.JT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2S Pass 2N
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q42.KJ8.T762.AQ5 AK963.AT93.K98.6 87.Q6.A43.T98742 JT5.7542.QJ5.KJ3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "E"]
+Pass 1C X 3C
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q42.KJ8.T762.AQ5 AK963.AT93.K98.6 87.Q6.A43.T98742 JT5.7542.QJ5.KJ3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "E"]
+Pass 1N 2C Pass
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A975.K63.KQT98.Q 2.JT2.432.AT8754 KJ.A54.A76.KJ932 QT8643.Q987.J5.6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "S"]
+1N Pass 2S Pass
+2N Pass 4N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A975.K63.KQT98.Q 2.JT2.432.AT8754 KJ.A54.A76.KJ932 QT8643.Q987.J5.6 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "S"]
+1D Pass 3C Pass
+3D Pass 3N Pass
+4N Pass 6D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Gold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Jones"]
+[North "Zia"]
+[East "Watson"]
+[South "Bjornlund"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT2.Q9.A87.AKJ85 K987.J63.532.T32 A643.AT52.JT.Q94 J5.K874.KQ964.76 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gillis"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Stevens"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 2C Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+

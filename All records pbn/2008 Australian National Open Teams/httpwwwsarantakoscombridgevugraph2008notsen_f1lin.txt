@@ -1,0 +1,934 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J54.AJ94.Q75.J74 K9.K3.KJ43.AK632 T62.QT865.T2.Q95 AQ873.72.A986.T8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2C Pass 2D
+Pass 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+HA H3 H6 H2
+HJ HK H5 H7
+S4 SK S2 S3
+S5 S9 ST SA
+SJ C2 S6 SQ
+H9 C3 D2 S8
+C4 C6 DT S7
+C7 CK C5 C8
+D5 D3 H8 DA
+D7 DJ C9 D6
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J54.AJ94.Q75.J74 K9.K3.KJ43.AK632 T62.QT865.T2.Q95 AQ873.72.A986.T8 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 3D Pass 3H
+Pass 3S Pass 4H
+Pass 4S Pass 4N
+Pass 5H Pass 6D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ9832.62.985.75 J.AK7.AT4.J86432 K76.J53.KQJ73.QT T54.QT984.62.AK9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass Pass 1C an
+Po 1D 1H Pass
+2D Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ9832.62.985.75 J.AK7.AT4.J86432 K76.J53.KQJ73.QT T54.QT984.62.AK9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 2D Pass 2H
+Pass 2S 3C 3S
+4C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 5.Q72.AT97.JT763 KQ873.A54.KQJ3.8 J64.J6.2.AKQ9542 AT92.KT983.8654."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 1S 3C 4S
+5C Pass Pass 5H
+Pass 5S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 5.Q72.AT97.JT763 KQ873.A54.KQJ3.8 J64.J6.2.AKQ9542 AT92.KT983.8654."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 1S 2C 4S
+5C Pass Pass 5H
+Pass 5S 6C Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T83.AQ64.J.T8732 K97.T532.A632.Q9 AQ6.987.K854.K64 J542.KJ.QT97.AJ5 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1N Pass 2C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T83.AQ64.J.T8732 K97.T532.A632.Q9 AQ6.987.K854.K64 J542.KJ.QT97.AJ5 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJT642.J.KQJ4.A2 K953.Q92.T87.T96 Q.AK4.9652.KQJ85 87.T87653.A3.743 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+2C Pass 2D an
+Re Pass 2H Pass
+2S an Re Pass
+3D an 13 Pass
+3H an Re Pass
+3N Pass 4C an
+Re Pass 4D Pass
+4H an Re Pass
+4S Pass 5D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJT642.J.KQJ4.A2 K953.Q92.T87.T96 Q.AK4.9652.KQJ85 87.T87653.A3.743 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+1C 2H 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 3.J72.KQT97642.Q KQT.9854.5.K8632 A97.KQ6.A.AJT954 J86542.AT3.J83.7 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass Pass Pass 1C
+an St 1D an
+!s 2C an 8+
+ ! 2S Pa Pass
+3C Pass 3D Pass
+5D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 3.J72.KQT97642.Q KQT.9854.5.K8632 A97.KQ6.A.AJT954 J86542.AT3.J83.7 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 4D Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK4.A.AJ732.J852 QJ9863.T6.T4.943 T5.K5432.K9.AKT6 72.QJ987.Q865.Q7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1C an St 1D
+an !s 1N Pass
+2C Pass 2S Pass
+2N Pass 3D Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK4.A.AJ732.J852 QJ9863.T6.T4.943 T5.K5432.K9.AKT6 72.QJ987.Q865.Q7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1D Pass 1H Pass
+2C Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K8653.AT5.AT7.84 T74.KJ.KQ854.K62 9.98642.63.AQ975 AQJ2.Q73.J92.JT3 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1N Pass 2C Pass
+2D Pass 2S Pass
+2N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K8653.AT5.AT7.84 T74.KJ.KQ854.K62 9.98642.63.AQ975 AQJ2.Q73.J92.JT3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1C Pass 1H Pass
+1S 2C X Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q742.AK5.4.T9874 J9.JT862.AQT3.AJ AK53.4.J7652.632 T86.Q973.K98.KQ5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1N Pass 2C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q742.AK5.4.T9874 J9.JT862.AQT3.AJ AK53.4.J7652.632 T86.Q973.K98.KQ5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass Pass Pass 1H
+X 2N 3S Pass
+Pass 4H X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQJ65.A3.942.KQ3 T9874.T5.3.AJ865 A32.K98742.KQ7.2 .QJ6.AJT865.T974 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+3D 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQJ65.A3.942.KQ3 T9874.T5.3.AJ865 A32.K98742.KQ7.2 .QJ6.AJT865.T974 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "8"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 2N Pass 3S
+Pass 4C Pass 4D
+X 4H Pass 4N
+Pass 5N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A85.J32.A42.Q842 76432.97.53.KT96 KQJ.A854.Q876.73 T9.KQT6.KJT9.AJ5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1D Pass 1H Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A85.J32.A42.Q842 76432.97.53.KT96 KQJ.A854.Q876.73 T9.KQT6.KJT9.AJ5 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass Pass 1C 1H
+X Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ8.K973.QJT942.A982 J75.A8.K763.K543 K96.QJT52.8.QJT76 T432.64.A5."]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1N Pass 2H Pass
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ8.K973.QJT942.A982 J75.A8.K763.K543 K96.QJT52.8.QJT76 T432.64.A5."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1C 1D 1H 3S
+X 4D Pass 5D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ84.95.AJ42.J84 A52.QJ.9865.9765 T763.A762.Q3.KT2 J9.KT843.KT7.AQ3 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ84.95.AJ42.J84 A52.QJ.9865.9765 T763.A762.Q3.KT2 J9.KT843.KT7.AQ3 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 2.A972.JT863.J83 KJ8.J43.AK9.K642 T975.T85.742.AQT AQ643.KQ6.Q5.975 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 2.A972.JT863.J83 KJ8.J43.AK9.K642 T975.T85.742.AQT AQ643.KQ6.Q5.975 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1S Pass 2C Pass
+2N Pass 3C Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QJ92.J8.KQ2.T982 AT6.K76.T874.AKQ 875.AT9532.A53.4 K43.Q4.J96.J7653 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 1C an Po
+1H Pass 1N Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QJ92.J8.KQ2.T982 AT6.K76.T874.AKQ 875.AT9532.A53.4 K43.Q4.J96.J7653 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Noble"]
+[North "Lorentz"]
+[East "Bilski"]
+[South "Lester"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K987632.A.Q4.QT7 Q54.KJT.AJ872.J5 JT.94.KT65.K9842 A.Q876532.93.A63 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Lilley"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1N Pass 4H 4S
+Pass Pass 5H Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+*
+
+

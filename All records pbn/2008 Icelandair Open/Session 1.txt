@@ -1,0 +1,936 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.AT732.K9.96532 KQ842.K984.QJ3.J AT63.Q5.862.AK74 975.J6.AT754.QT8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 3C Pass
+Pass Pass
+[Play "E"]
+HA H4 H5 HJ
+C2 CJ CK C8
+C3 S2 CA CT
+SJ S4 SA S7
+C5 S8 S3 S5
+H2 HK HQ H6
+D9 DQ D2 DA
+C6 H8 C4 CQ
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A973.K94.T96.A97 J62.J7.AK72.KQ32 K54.AQ8632.J54.4 QT8.T5.Q83.JT865 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C 1H
+Pass 2C an .
+Pass 2H 3C 3H
+Pass Pass Pass
+[Play "None"]
+CA C3 C4 C5
+HK H7 H2 H5
+H4 HJ HA HT
+S9 SJ S5 S8
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT98.J753.84.KQT AQ754.4.J2.A9763 6.AKQT92.T93.542 K32.86.AKQ765.J8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S 3H 4S
+5C Pass 5H Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+D4 D2 D3 DA
+D8 DJ D9 DK
+CK CA C5 CJ
+S8 SA S6 S3
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J872.A.T98643.86 65.Q8542.K2.A974 AKQT93.9763.75.Q 4.KJT.AQJ.KJT532 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S X 4S
+X Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ2.86.QJ8763.Q3 8764.QT.54.AKT92 K5.KJ9743.AT.874 JT93.A52.K92.J65 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H Pass 1N Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ6.Q.KT8754.Q42 AQT42.9863.62.K5 3.JT754.AJ3.T873 9875.AK2.Q9.AJ96 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C 1D 1S 2D
+2S 2N 3S Pass
+Pass 4D Pass Pass
+X Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A5.KJ94.J654.A72 873.72.AKQ2.J985 KQT6.AQ6.T983.T4 J942.T853.7.KQ63 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1S Pass
+1N Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K6.932.AKQ98.AT3 Q8.KQT87.J.K9742 T7543.A65.62.J86 AJ92.J4.T7543.Q5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 1S 1N
+Pass Pass 2H 3D
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ92.JT2.AQJ63.4 A8.Q6.KT9542.Q97 T74.9843.7.AK632 Q653.AK75.8.JT85 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1D an
+. Pass 1H Pass
+1S 2D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J753.AQ82.AT3.J4 Q92.K.Q962.AKT53 KT64.963.87.Q862 A8.JT754.KJ54.97 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D an .
+2C Pass 2H Pass
+2N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT654.KJ7.J9862.K2 943.KQT53.Q85.AQ973 T82.7.AKJ4. 8.AQ65.A4.T97632 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2D an . Pass
+4H an . Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J874.763.T75.Q64 AT65.KJT5.8.AK83 KQ.94.AKJ432.J72 932.AQ82.Q96.T95 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C 1D 1H Pass
+3H Pass 3N Pass
+4H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 9.AQ964.A754.J54 KJ432.9832.Q982.Q65 753.KJT.AK76.AT87 KJT82.Q6.T3."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N 2C an .
+X 2H an .
+Pass Pass X 2S
+Pass Pass 3S X
+3N Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 543.54.J97.QT842 J976.Q963.AKQ.A7 T8.AKJT82.54.965 AKQ2.7.T8632.KJ3 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass 4C Pass
+4S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 762.T7.KQ753.Q87 A84.K85.AJ92.AJ9 Q93.J6432.T4.K65 KJT5.AQ9.86.T432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2D an .
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AK732.4.543.JT75 JT6.KQT952.Q2.Q9 Q4.AJ8.876.K6432 985.763.AKJT9.A8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2C 2S
+Pass Pass 4H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 876.Q54.7543.T76 KT53.AKJ8.AQ.954 AJ4.T32.KJ82.KJ3 Q92.976.T96.AQ82 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D Pass Pass X
+1N Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9854.Q954.A65.2 K73.863.93.KJ843 A6.AJ7.KQT2.AQ65 QJ2.KT2.J874.T97 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 2D
+an . Pass 2H
+Pass 2N Pass 3H
+an . Pass 3S
+an . Pass 4H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ84.A94.A95.85 2.KQT652.62.7432 J7653.873.T7.KQT T9.J.KQJ843.AJ96 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 2H an
+. 3D 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K63.5.QJ86542.T7 7.7642.K7.J96543 AQT852.Q83.9.Q82 J94.AKJT9.AT3.AK "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S X 2S
+3C Pass 3H Pass
+4H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT73.J2.T3.Q9865 K9.AK.8654.AKT73 65.QT76543.A72.4 AJ842.98.KQJ9.J2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2N an . Pass
+3C an . 3N
+Pass 4N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T3.KJ.AK73.AK872 A95.Q7432.986.Q3 J72.AT95.52.JT65 KQ864.86.QJT4.94 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C Pass 1H
+1S 2D Pass 3C
+Pass 3S X 4C
+Pass 5C Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT9864.6.AT3.A74 32.KQT742.987.J3 K7.983.KQ62.KQT5 QJ5.AJ5.J54.9862 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 2C Pass
+2S Pass 2N Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q854.84.J2.AQJ76 KT76.J2.AK84.T95 AJ93.KT96.76.432 2.AQ753.QT953.K8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N an . Pass
+2D an . Pass
+2H an . Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ842.76.AT3.964 KT96.53.97.AJ873 753.QJ94.Q864.T2 J.AKT82.KJ52.KQ5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1H 1S 1N
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 96543.T42.2.T872 AT87.AQ763.Q3.K3 QJ.J85.AJT74.J65 K2.K9.K9865.AQ94 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1H Pass
+2C Pass 2S an
+. Pass 3N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 73.QJT4.T9.K7543 AQ964.AK97.53.A2 J5.865.AKJ642.Q6 KT82.32.Q87.JT98 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pa 1S 2D 2S
+X 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J754.J7652.J.KQ3 82.Q43.T8432.754 QT63.A9.Q97.AJ98 AK9.KT8.AK65.T62 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C an .
+1N 2C an .
+Pass 2S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q4.63.98632.AJ63 AKJ762.A974.JT.4 3.QJT.AQ54.T9875 T985.K852.K7.KQ2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 2C an .
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A7.A983.Q873.AQ5 654.4.J652.KT872 T2.QJT76.T4.J643 KQJ983.K52.AK9.9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S X 2S 3H
+4S X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Sævar �orb"]
+[North "Páll Hjalt"]
+[East "Karl Sigur"]
+[South "Mary Pat"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT.Q742.KT8542.A K95.J9.AQ6.K8753 Q43.K5.J73.JT962 A8762.AT863.9.Q4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2D Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+

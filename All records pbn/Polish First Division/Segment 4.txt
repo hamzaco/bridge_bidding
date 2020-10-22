@@ -1,0 +1,690 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J75.AK87642.J5.6 KT43.T3.86.87432 A6.J95.K9732.AJ9 Q982.Q.AQT4.KQT5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+1D Pass 1H Pass
+1N Pass 4H Pass
+Pass Pass
+[Play "W"]
+S7 S3 S6 SQ
+C6 C8 CA CK
+HA H3 HJ HQ
+HK HT H5 S2
+D5 D6 DK DA
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J75.AK87642.J5.6 KT43.T3.86.87432 A6.J95.K9732.AJ9 Q982.Q.AQT4.KQT5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+1D Pass 1H Pass
+1N X 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+S5 S3 S6 SQ
+S7 S4 SA S8
+HK H3 H5 HQ
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T86.8432.A73.964 742.J5.T84.AKQJ5 Q5.KT976.J652.32 AKJ93.AQ.KQ9.T87 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+1C an 12  1
+ 1 Pass 3C Pass
+3N Pass Pass Pass
+[Play "S"]
+D7 D4 D2 D9
+S6 S2 S5 SA
+C4 CA C2 C8
+S8 S4 SQ SK
+DA D8 D5 DK
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T86.8432.A73.964 742.J5.T84.AKQJ5 Q5.KT976.J652.32 AKJ93.AQ.KQ9.T87 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+1C Pass 2S Pass
+3S Pass 4C Pass
+4D Pass 4S Pass
+4N Pass 5C Pass
+6N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T5.JT94.QT92.Q93 QJ874.K7.AK3.654 A2.Q832.J74.J872 K963.A65.865.AKT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T5.JT94.QT92.Q93 QJ874.K7.AK3.654 A2.Q832.J74.J872 K963.A65.865.AKT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass 1S Pass 2N
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 4.J8742.KT2.Q742 Q862.AQT3.A65.A6 AK97.K.QJ9.KJ853 JT53.965.8743.T9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "W"]
+1N X an 5m
+Pass 2C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 4.J8742.KT2.Q742 Q862.AQT3.A65.A6 AK97.K.QJ9.KJ853 JT53.965.8743.T9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "W"]
+1N X! an 5m
+Pass 2C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K8653.Q9.QT94.63 QJ972.J854.86.T2 4.AKT762.A2.QJ97 AT.3.KJ753.AK854 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+1H 2N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K8653.Q9.QT94.63 QJ972.J854.86.T2 4.AKT762.A2.QJ97 AT.3.KJ753.AK854 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+1H 2D Pass Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJT94.875.K8.A53 87652.AJ.QT53.KJ K.T432.9762.8764 Q3.KQ96.AJ4.QT92 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+1C 1S Pass Pass
+X Pass 2D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJT94.875.K8.A53 87652.AJ.QT53.KJ K.T432.9762.8764 Q3.KQ96.AJ4.QT92 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+1C 1S Pass Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ76.QJ94.98.JT9 83.K8632.KT3.AQ2 K92.AT7.A752.873 JT54.5.QJ64.K654 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ76.QJ94.98.JT9 83.K8632.KT3.AQ2 K92.AT7.A752.873 JT54.5.QJ64.K654 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "4"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ32.KT85.A7.K72 65.Q9743.K2.QT95 QT874.6.QJ53.J43 A9.AJ2.T9864.A86 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "W"]
+Pass Pass 1C X
+1H 1S X an
+ex 2S 3H 3S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ32.KT85.A7.K72 65.Q9743.K2.QT95 QT874.6.QJ53.J43 A9.AJ2.T9864.A86 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "W"]
+Pass Pass 1C X
+1D an !h 1S
+X! an 3! 2S
+3H 4S Pass Pass
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A874.J6.AKJ94.95 KQJ2.QT9875.8.T3 653.4.Q73.KQ8742 T9.AK32.T652.AJ6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+Pass 1C 1D 1H
+2C 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A874.J6.AKJ94.95 KQJ2.QT9875.8.T3 653.4.Q73.KQ8742 T9.AK32.T652.AJ6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+Pass 1C 1D X!
+an 4+ 2C 2H
+X 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJT83.42.T6.K96 A976.85.Q98.J752 2.AKQT.AK7543.A3 54.J9763.J2.QT84 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+Pass 2D Pass 3D
+an in Pass 4S
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJT83.42.T6.K96 A976.85.Q98.J752 2.AKQT.AK7543.A3 54.J9763.J2.QT84 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 2S Pass 3H
+Pass 3S Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 94.J754.AJ873.82 7.A98.KQ964.AKJ4 AKJ82.Q63.T2.Q65 QT653.KT2.5.T973 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass 1D 1S Pass
+Pass X Pass 1N
+Pass 2C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 94.J754.AJ873.82 7.A98.KQ964.AKJ4 AKJ82.Q63.T2.Q65 QT653.KT2.5.T973 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass 1D 1S Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Majdanski"]
+[North "Kowalski"]
+[East "Kupnicki"]
+[South "Tuszynski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK6.A942.K84.965 QT.JT76.T973.KQ2 542.KQ83.J52.AT7 J9873.5.AQ6.J843 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "PRATERM"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+

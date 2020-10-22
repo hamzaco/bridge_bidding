@@ -1,0 +1,922 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 985.QJ76.AJ7.875 A64.AK95.T2.AJ43 QT73.82.543.KQ96 KJ2.T43.KQ986.T2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+C5 CA CK C2
+D7 D2 D3 DK
+HQ HK H2 HT
+DJ DT D5 D6
+C8 C3 C6 CT
+H6 H9 H8 H3
+S5 S4 S7 SJ
+S8 S6 S3 SK
+S9 SA ST S2
+H7 HA D4 H4
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 985.QJ76.AJ7.875 A64.AK95.T2.AJ43 QT73.82.543.KQ96 KJ2.T43.KQ986.T2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1D Pass 1N
+Pass 2C Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A98654.853.AT9.3 T7.AKJT.K876.AJ4 K3.976.Q43.KQ752 QJ2.Q42.J52.T986 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "E"]
+Pass 2D an We
+Pass 2H Pass 2S
+X Pass 2N an
+Le Pass 3C X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A98654.853.AT9.3 T7.AKJT.K876.AJ4 K3.976.Q43.KQ752 QJ2.Q42.J52.T986 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "E"]
+Pass 2D an wk
+X 2H Pass 2S
+X Pass 3C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J987.Q3.QJ5.AQ54 T2.9876.942.KJ92 AKQ64.KT.AKT87.8 53.AJ542.63.T763 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "S"]
+1S Pass 4N Pass
+5D Pass 6S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J987.Q3.QJ5.AQ54 T2.9876.942.KJ92 AKQ64.KT.AKT87.8 53.AJ542.63.T763 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "S"]
+1N Pass 2H Pass
+2S Pass 3D Pass
+4S Pass 4N Pass
+5D Pass 6S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K5.53.T87543.K54 72.K62.Q62.AJ632 AQT843.Q9.A9.T97 J96.AJT874.KJ.Q8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "W"]
+Pass 1S 2H Pass
+2S an Go Pass
+3H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K5.53.T87543.K54 72.K62.Q62.AJ632 AQT843.Q9.A9.T97 J96.AJT874.KJ.Q8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "W"]
+Pass 1S 2H Pass
+2S Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 93.AQJ72.QT6.A32 AKQJ.KT.3.QT8765 T874.863.KJ872.J 652.954.A954.K94 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "N"]
+Pass Pass 1H 2C
+X 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 93.AQJ72.QT6.A32 AKQJ.KT.3.QT8765 T874.863.KJ872.J 652.954.A954.K94 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "N"]
+Pass Pass 1H X
+2H X Pass 3C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A72.T6.QJT7653.A T643.AK42.A84.95 KQJ.Q8753.2.Q632 985.J9.K9.KJT874 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A72.T6.QJT7653.A T643.AK42.A84.95 KQJ.Q8753.2.Q632 985.J9.K9.KJT874 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "E"]
+Pass 1D X 1H
+2C 2D Pass Pass
+3C 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T.A854.632.QJT85 AK9.9.AQJT9.A743 Q832.KT2.754.K62 J7654.QJ763.K8.9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2C Pass 2D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T.A854.632.QJT85 AK9.9.AQJT9.A743 Q832.KT2.754.K62 J7654.QJ763.K8.9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 2D Pass 2S
+Pass 3C Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK5.J863.T3.AQT7 2.AK74.AKQ8.K865 9643.92.9642.J43 QJT87.QT5.J75.92 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "W"]
+1D Pass 1S X
+XX 2C 2D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK5.J863.T3.AQT7 2.AK74.AKQ8.K865 9643.92.9642.J43 QJT87.QT5.J75.92 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "W"]
+2C Pass 2S Pass
+3C an sh Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: JT9.A7.T974.KQT5 743.KJT3.J63.642 652.Q9542.AK5.73 AKQ8.86.Q82.AJ98 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "N"]
+2H X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: JT9.A7.T974.KQT5 743.KJT3.J63.642 652.Q9542.AK5.73 AKQ8.86.Q82.AJ98 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 75.AK95.KJ8.A532 K86.62.T952.QJT7 A92.74.AQ74.K864 QJT43.QJT83.63.9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "E"]
+2H an we Pass
+Pass X Pass Pass
+2S Pass Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 75.AK95.KJ8.A532 K86.62.T952.QJT7 A92.74.AQ74.K864 QJT43.QJT83.63.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "E"]
+Pass 1C Pass 1D
+2D X 2S 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A952.K986.A.8752 JT7.J73.QT4.KQJT K63.T42.KJ98732. Q84.AQ5.65.A9643 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "S"]
+1H Pass 2D Pass
+2N Pass 3H Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A952.K986.A.8752 JT7.J73.QT4.KQJT K63.T42.KJ98732. Q84.AQ5.65.A9643 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "S"]
+Pass Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J64.A975.AT95.KQ AT8.K32.J742.653 972.QJT.863.JT92 KQ53.864.KQ.A874 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "W"]
+Pass Pass 1S X
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J64.A975.AT95.KQ AT8.K32.J742.653 972.QJT.863.JT92 KQ53.864.KQ.A874 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "W"]
+Pass Pass 1N an
+12 Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ832.987.KQ765.AJ3 Q75.J65.T984.KQ986 T94.Q42.A3.T7542 A6.AKT3.J2."]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "N"]
+2S Pass 3C an
+na  n Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ832.987.KQ765.AJ3 Q75.J65.T984.KQ986 T94.Q42.A3.T7542 A6.AKT3.J2."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "N"]
+Pass 1S 2S 3S
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T874.A63.Q98.AT7 A.T82.KJT754.Q94 KJ92.Q75.2.K8652 Q653.KJ94.A63.J3 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "E"]
+2H an Bo Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T874.A63.Q98.AT7 A.T82.KJT754.Q94 KJ92.Q75.2.K8652 Q653.KJ94.A63.J3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "E"]
+Pass Pass 1D Pass
+1N Pass 2C an
+mi Pass 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A2.AJT.AJ953.632 KQ765.Q92.K8.Q94 JT83.K8653.Q64.7 94.74.T72.AKJT85 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "S"]
+1N Pass 2C 3C
+Pass Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A2.AJT.AJ953.632 KQ765.Q92.K8.Q94 JT83.K8653.Q64.7 94.74.T72.AKJT85 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "S"]
+1N X Pa an
+as Pass XX 2S
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Brightling"]
+[North "Prescott"]
+[East "Thomson"]
+[South "Courtney"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q75.7.A9652.QJ94 AKT9.KJ6.KJ.7632 843.T9854.Q74.AT J62.AQ32.T83.K85 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Noble"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Thomson"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

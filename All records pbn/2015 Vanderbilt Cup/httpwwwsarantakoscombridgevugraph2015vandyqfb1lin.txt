@@ -1,0 +1,867 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT6.K954.T832.4 975.J863.9.QJ932 A.AT7.AQ76.AT875 Q8432.Q2.KJ54.K6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "N"]
+1C 1S Pass Pass
+X 2D Pass 2S
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+C4 C2 CA CK
+S6 C3 C8 C6
+HK H3 H7 H2
+H4 H6 HA HQ
+ST C9 CT D4
+H5 HJ HT D5
+SJ S5 SA S2
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT6.K954.T832.4 975.J863.9.QJ932 A.AT7.AQ76.AT875 Q8432.Q2.KJ54.K6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "N"]
+1C 1S Pass 2S
+X Pass Pass Pass
+[Play "S"]
+C4 C2 CA C6
+S6 S5 SA S2
+ST C3 C7 CK
+SK S7 C5 S3
+SJ S9 D6 SQ
+D3 D9 DQ D4
+D2 C9 D7 DK
+H9 H3 CT S8
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 4.AQT54.A4.K8542 K732.KJ72.QJ5.Q3 QJ986.9863.A976.AT5 KT987632.JT."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "E"]
+4D 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 4.AQT54.A4.K8542 K732.KJ72.QJ5.Q3 QJ986.9863.A976.AT5 KT987632.JT."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "E"]
+4D 4H 5D 5H
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 62.T42.J952.AKQ8 AKQT9.Q86.7.J432 J7543.5.T8643.97 8.AKJ973.AKQ.T65 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "S"]
+1N an 10 2S
+Pass 3H Pass 4H
+Pass 5D Pass 5H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 62.T42.J952.AKQ8 AKQT9.Q86.7.J432 J7543.5.T8643.97 8.AKJ973.AKQ.T65 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 3H Pass 3N
+Pass 4H Pass 5D
+Pass 5H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT73.KQJ9.A842.T QJ4.AT83.T76.983 A8652.542.Q93.K7 9.76.KJ5.AQJ6542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "W"]
+Pass Pass 1C X
+Pass 2S 3C 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT73.KQJ9.A842.T QJ4.AT83.T76.983 A8652.542.Q93.K7 9.76.KJ5.AQJ6542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "W"]
+Pass Pass 3C X
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T74.T76.5.T85432 Q863.K93.QJ87.KJ J9.A542.KT963.Q9 AK52.QJ8.A42.A76 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "N"]
+Pass 2D an !
+Pass 3C Pass 3D
+an ! Pass 3H
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T74.T76.5.T85432 Q863.K93.QJ87.KJ J9.A542.KT963.Q9 AK52.QJ8.A42.A76 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "N"]
+Pass 2D Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q53.T853.9432.97 AKJ76.2.AJ5.QJ85 T98.KQ76.Q87.KT6 42.AJ94.KT6.A432 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "E"]
+1C Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 3C Pass
+3D Pass 4C Pass
+4H Pass 6C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q53.T853.9432.97 AKJ76.2.AJ5.QJ85 T98.KQ76.Q87.KT6 42.AJ94.KT6.A432 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "E"]
+1C Pass 1S Pass
+1N Pass 3C Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT75.T973.KJ32.KJ874 AJ2.Q65.64.AQ9632 4.J842.75.T5 9863.AK.AQT98."]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "S"]
+Pass 1S Pass 2C
+2H Pass Pass X
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT75.T973.KJ32.KJ874 AJ2.Q65.64.AQ9632 4.J842.75.T5 9863.AK.AQT98."]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "S"]
+Pass Pass 2S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 92.AJ5.AQT32.AKT AQJ63.842.6.J632 K87.6.KJ94.Q9874 T54.KQT973.875.5 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "W"]
+Pass Pass 2H X
+4H X Pass 6D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 92.AJ5.AQT32.AKT AQJ63.842.6.J632 K87.6.KJ94.Q9874 T54.KQT973.875.5 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "W"]
+Pass Pass 3H 3N
+4H X Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 4.K2.JT95.K97543 AQT83.QJ94.872.2 9.AT7653.A43.AQJ KJ7652.8.KQ6.T86 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "N"]
+1H 1S X 4S
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 4.K2.JT95.K97543 AQT83.QJ94.872.2 9.AT7653.A43.AQJ KJ7652.8.KQ6.T86 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "N"]
+1H 1S X 4S
+X Pass 5C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 96.A74.KJT732.54 QJT.KQ632.954.87 K543.JT85.86.AK6 A872.9.AQ.QJT932 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "E"]
+1C 1D X XX
+1S 2D Pass Pass
+3C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 96.A74.KJT732.54 QJT.KQ632.954.87 K543.JT85.86.AK6 A872.9.AQ.QJT932 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "E"]
+1C 1D 1H X
+2C 2D Pass Pass
+3C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT.AJ65.Q972.KT3 653.KT.643.87652 Q742.Q842.85.AJ9 AK98.973.AKJT.Q4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT.AJ65.Q972.KT3 653.KT.643.87652 Q742.Q842.85.AJ9 AK98.973.AKJT.Q4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 42.K96.AK987.Q65 AT75.AT843.Q.A32 QJ963.Q.J64.KT87 K8.J752.T532.J94 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "W"]
+1H 1S 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 42.K96.AK987.Q65 AT75.AT843.Q.A32 QJ963.Q.J64.KT87 K8.J752.T532.J94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "W"]
+1H 1S 3H X
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT42.8.K84.A9754 Q96.AQ943.Q5.JT8 875.76.AJ72.K632 KJ3.KJT52.T963.Q "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "N"]
+Pass Pass 1C 1H
+1S an ! 3C
+an ! Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT42.8.K84.A9754 Q96.AQ943.Q5.JT8 875.76.AJ72.K632 KJ3.KJT52.T963.Q "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "N"]
+Pass Pass 1C 1H
+1S 4C Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K7.753.AJ8.KQT65 T42.KQJ4.KT42.97 98653.A86.3.AJ83 AQJ.T92.Q9765.42 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "E"]
+Pass 1N an !
+Pass 2H an 4+
+Pass 2S an ! 
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K7.753.AJ8.KQT65 T42.KQJ4.KT42.97 98653.A86.3.AJ83 AQJ.T92.Q9765.42 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 1N Pass 2C
+Pass 2D Pass 3C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Versace"]
+[North "Madala"]
+[East "Lauria"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 32.J52.AJ965.842 954.T9.K43.QT965 KT86.7643.T2.K73 AQJ7.AKQ8.Q87.AJ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Cayne"]
+[Auction "S"]
+Pass Pass Pass 2C
+Pass 2D Pass 2N
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+

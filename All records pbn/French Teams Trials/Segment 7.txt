@@ -1,0 +1,946 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ.A63.K9753.KJT 9852.KT82.Q.8643 63.QJ9754.J62.Q5 AJT74.AT84.A972."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+Pass 1S 1N 3S
+4H 4S Pass Pass
+Pass
+[Play "S"]
+HA H2 H5 S4
+D3 DQ D2 DA
+D5 S2 D6 D4
+H3 HK H4 C2
+H6 H8 H9 S7
+D9 S5 DJ D8
+CT C3 C5 CA
+DK S8 H7 DT
+CJ C4 CQ C7
+SQ S9 S3 SA
+SK HT S6 SJ
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ.A63.K9753.KJT 9852.KT82.Q.8643 63.QJ9754.J62.Q5 AJT74.AT84.A972."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+Pass 1S X 3S
+4H 4S Pass Pass
+5H X Pass Pass
+Pass
+[Play "E"]
+SQ S8 S6 SA
+SK S2 S3 S7
+CT C6 C5 C7
+CJ C3 CQ CA
+D3 DQ D2 DA
+D5 S9 H4 SJ
+H3 H2 HQ C2
+HA H8 H5 C9
+H6 HK H7 D4
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK72.42.QJT763.9 84.T.84.KJT87532 Q63.AK8753.952.4 JT95.QJ96.AK.AQ6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+1N X an ma
+2S an !C 3H
+3N Pass Pass 4D
+4N Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK72.42.QJT763.9 84.T.84.KJT87532 Q63.AK8753.952.4 JT95.QJ96.AK.AQ6 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+1N Pass 2S an
+!c Pass 2N an
+ma 3D 3N 4H
+X 4S 5C 5D
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT2.K.QT92.J7642 KJ9.QJ43.A8.AKT8 Q6.T87652.763.Q5 87543.A9.KJ54.93 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 2N Pass 3C
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT2.K.QT92.J7642 KJ9.QJ43.A8.AKT8 Q6.T87652.763.Q5 87543.A9.KJ54.93 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 2N Pass 3H
+an te Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q93.QJ76.JT4.AJT AK72.K52.AKQ5.K8 J.843.98763.Q743 T8654.AT9.2.9652 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+2D an GF Pass
+2H an no Pass
+2N Pass 3H Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q93.QJ76.JT4.AJT AK72.K52.AKQ5.K8 J.843.98763.Q743 T8654.AT9.2.9652 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+2C Pass 2D Pass
+2N Pass 3H Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 82.AJ.KQ8532.Q63 AT9543.9.J9.JT54 J6.85432.T764.82 KQ7.KQT76.A.AK97 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+Pass 1H 2D X
+Pass 3D Pass 3S
+Pass 4C Pass 4S
+Pass 4N Pass 5D
+Pass 6S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 82.AJ.KQ8532.Q63 AT9543.9.J9.JT54 J6.85432.T764.82 KQ7.KQT76.A.AK97 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+Pass 2C Pass 2D
+Pass 2H Pass 2S
+Pass 3S Pass 4S
+Pass 4N Pass 5D
+Pass 6S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 73.AK95.Q43.A852 T852.Q4.98.KJ764 AQJ6.T6.KT765.T9 K94.J8732.AJ2.Q3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+Pass 1D Pass 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 73.AK95.Q43.A852 T852.Q4.98.KJ764 AQJ6.T6.KT765.T9 K94.J8732.AJ2.Q3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1H Pass 1S
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A75.QJ5.JT75.KQ3 T6.942.K92.AT752 KQJ93.763.AQ43.J 842.AKT8.86.9864 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+1D Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A75.QJ5.JT75.KQ3 T6.942.K92.AT752 KQJ93.763.AQ43.J 842.AKT8.86.9864 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+1C Pass 1S Pass
+1N Pass 2C Pass
+2D an   Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 7.J876.KJ532.KQT AQT52.9.A9876.97 KJ93.AKQ2.4.A842 864.T543.QT.J653 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+1S Pass Pass X
+Pass 2S Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 7.J876.KJ532.KQT AQT52.9.A9876.97 KJ93.AKQ2.4.A842 864.T543.QT.J653 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+1S 1N Pass 2H
+an st Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ2.Q7.KT432.A74 KT874.J2.7.QT852 5.A63.AJ865.KJ63 J963.KT9854.Q9.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+1D Pass 2D an
+fo Pass 2H Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ2.Q7.KT432.A74 KT874.J2.7.QT852 5.A63.AJ865.KJ63 J963.KT9854.Q9.9 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+1D Pass 2C Pass
+3C Pass 3D Pass
+3H Pass 3S Pass
+4H Pass 4N Pass
+5S Pass 5N Pass
+6C Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 73.KT5.KQ87543.Q KJ82.QJ7432.J97.AT A9.AJT9.KT852.Q9654 86.62.A643."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+Pass 3D Pass 6D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 73.KT5.KQ87543.Q KJ82.QJ7432.J97.AT A9.AJT9.KT852.Q9654 86.62.A643."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT865.J3.AJ.Q53 Q97.AKQ.Q74.KT76 K3.T98742.KT5.42 42.65.98632.AJ98 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+1S 1N 2D Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT865.J3.AJ.Q53 Q97.AKQ.Q74.KT76 K3.T98742.KT5.42 42.65.98632.AJ98 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+1S X Pass 2D
+2S Pass Pass 3C
+Pass 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A632.T954.A.KQ52 84.K32.QT7654.AT KQ97.7.J92.J9763 JT5.AQJ86.K83.84 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+2S Pass 2N Pass
+3D Pass Pass X
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A632.T954.A.KQ52 84.K32.QT7654.AT KQ97.7.J92.J9763 JT5.AQJ86.K83.84 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+Pass Pass 1H Pass
+2C an XX Pass
+2D Pass 2H Pass
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 6.J982.AK.AQ6542 A9742.QT43.865.K KT5.A65.QJT4.983 QJ83.K7.9732.JT7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+Pass Pass 2H Pass
+2N Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 6.J982.AK.AQ6542 A9742.QT43.865.K KT5.A65.QJT4.983 QJ83.K7.9732.JT7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+Pass Pass 1C Pass
+2N Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T2.Q976.AT86.A83 9765.T82.QJ952.7 KJ.AKJ4.43.T9652 AQ843.53.K7.KQJ4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+1S Pass 3S an
+we Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T2.Q976.AT86.A83 9765.T82.QJ952.7 KJ.AKJ4.43.T9652 AQ843.53.K7.KQJ4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+1S Pass 1N Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 965.J6.KQJ98432.AKT8 AK732.AK9.A.Q73 Q98.Q842.T76.J42 JT654.T753.5."]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+2S 3C Pass 3H
+Pass 4C Pass 4H
+Pass 4N Pass 5C
+Pass 5D Pass 5H
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 965.J6.KQJ98432.AKT8 AK732.AK9.A.Q73 Q98.Q842.T76.J42 JT654.T753.5."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+5C X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Mejane"]
+[North "Izisel"]
+[East "Dumazet"]
+[South "Pilon "]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K7.QJ96542.65.A4 AJ42.83.K943.J53 3.T7.AJT2.KQT987 QT9865.AK.Q87.62 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+Pass 3C 3S 4H
+4S Pass Pass Pass
+[Play "S"]
+*
+
+

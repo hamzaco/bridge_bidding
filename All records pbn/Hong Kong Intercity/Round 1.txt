@@ -1,0 +1,892 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J83.KQJ5.QT9754.AQT2 Q764.T742.6.KJ63 AK52.A83.A8.98754 T9.96.KJ32."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "N"]
+1D Pass 2C Pass
+3N Pass Pass Pass
+[Play "E"]
+SQ SK S5 H3
+CA C2 C4 C6
+CT DT C8 C3
+D5 D7 DA D6
+DK D2 D8 D9
+DQ D4 D3 S4
+SA S3 CJ DJ
+HA H9 H8 H4
+HK HT HJ H6
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J83.KQJ5.QT9754.AQT2 Q764.T742.6.KJ63 AK52.A83.A8.98754 T9.96.KJ32."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "N"]
+1D Pass 3D Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K986432.Q.J64.T3 AQ.KJ652.KQT5.J6 T5.87.932.A98542 J7.AT943.A87.KQ7 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "E"]
+1H 2S 3S Pass
+4H Pass 4N Pass
+5H Pass 6H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K986432.Q.J64.T3 AQ.KJ652.KQT5.J6 T5.87.932.A98542 J7.AT943.A87.KQ7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "E"]
+1H Pass 2N Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T.AQT94.T82.JT98 654.J832.A64.AQ2 Q82.K765.QJ5.K63 AKJ973.K973.754."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "S"]
+Pass Pass 1C 2S
+3H 4S Pass Pass
+5C X 5H Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T.AQT94.T82.JT98 654.J832.A64.AQ2 Q82.K765.QJ5.K63 AKJ973.K973.754."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "S"]
+2H an !h Pass
+3H 3S Pass 4S
+5H Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q42.T96.AKJ5.A86 A65.AJ8.Q42.J754 KJT97.K75.T76.KT 83.Q432.983.Q932 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "W"]
+1C 1S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q42.T96.AKJ5.A86 A65.AJ8.Q42.J754 KJT97.K75.T76.KT 83.Q432.983.Q932 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "W"]
+1C 1S Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 3.2.QT864.AJ8654 65.AQT43.732.T32 KQJ8.J876.95.KQ7 AT9742.K95.AKJ.9 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "N"]
+1C 1S 5C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 3.2.QT864.AJ8654 65.AQT43.732.T32 KQJ8.J876.95.KQ7 AT9742.K95.AKJ.9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "N"]
+1C 1S 4C Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJT5.J9762.J8.AK AK86.K8.T96.QT74 3.A543.AKQ432.86 9742.QT.75.J9532 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "E"]
+Pass 1H X XX
+1S Pass Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJT5.J9762.J8.AK AK86.K8.T96.QT74 3.A543.AKQ432.86 9742.QT.75.J9532 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "E"]
+Pass 1H X XX
+1S Pass 2S 3S
+Pass 3N Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q65.K954.T4.A642 J8.A873.Q8632.K5 T974.Q2.AKJ7.QT8 AK32.JT6.95.J973 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ8.JT.KQJ64.963 T96532.73.8.A754 Q4.Q986.A52.KQJ8 A7.AK542.T973.T2 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "W"]
+Pass 1C 1H 2D
+Pass 3D Pass 3H
+3S 4D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ8.JT.KQJ64.963 T96532.73.8.A754 Q4.Q986.A52.KQJ8 A7.AK542.T973.T2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "W"]
+Pass 1C 1H 2D
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT8.A.A8653.7643 Q53.864.Q74.KJ95 J92.KJT2.92.AT82 K764.Q9753.KJT.Q "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 2C Pass
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT8.A.A8653.7643 Q53.864.Q74.KJ95 J92.KJT2.92.AT82 K764.Q9753.KJT.Q "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "N"]
+Pass 1H 2N an
+un X 4C Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T85.64.AK85.T732 AQ43.AT2.T976.QJ K762.KQJ8.Q3.965 J9.9753.J42.AK84 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "E"]
+Pass Pass 1D X
+1H 2C X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T85.64.AK85.T732 AQ43.AT2.T976.QJ K762.KQJ8.Q3.965 J9.9753.J42.AK84 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "E"]
+Pass Pass 1D X
+1H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 975.AT9854.532.K AJ64.K.T87.Q9872 Q.62.AKQJ9.JT643 KT832.QJ73.64.A5 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "S"]
+2H Pass Pass 2S
+Pass 3H Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 975.AT9854.532.K AJ64.K.T87.Q9872 Q.62.AKQJ9.JT643 KT832.QJ73.64.A5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "S"]
+Pass Pass 1D 1S
+2H 2S 3C Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K643.J632.A6.T74 AJT85.74.Q753.K9 7.AK9.J82.AQ8652 Q92.QT85.KT94.J3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "W"]
+Pass 1C Pass 1H
+1S X 2S Pass
+Pass 3C Pass 3N
+4S Pass Pass X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K643.J632.A6.T74 AJT85.74.Q753.K9 7.AK9.J82.AQ8652 Q92.QT85.KT94.J3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "W"]
+Pass 1C Pass 1H
+1S 2C 2S 3C
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT942.A43.74.952 Q6.98752.953.KQJ 85.Q6.KQT62.T763 KJ73.KJT.AJ8.A84 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "N"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT942.A43.74.952 Q6.98752.953.KQJ 85.Q6.KQT62.T763 KJ73.KJT.AJ8.A84 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "N"]
+Pass 1N Pass 2D
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 9843.864.AQ9.A82 7.Q732.843.KJ954 AQJ6.KJ95.KT62.Q KT52.AT.J75.T763 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1S Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 9843.864.AQ9.A82 7.Q732.843.KJ954 AQJ6.KJ95.KT62.Q KT52.AT.J75.T763 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ6.T972.Q82.A96 Q8542.KJ43.A.KJ5 973.Q65.T9654.73 KT.A8.KJ73.QT842 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ6.T972.Q82.A96 Q8542.KJ43.A.KJ5 973.Q65.T9654.73 KT.A8.KJ73.QT842 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Ashley Lun"]
+[North "Phoebe Lin"]
+[East "Vincent Li"]
+[South "Zoe Li"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K62.KQT932.T.Q52 9.AJ865.J65.AJ94 T854.4.K987.KT73 AQJ73.7.AQ432.86 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Ambassador"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "WinBridge"]
+[Auction "W"]
+1H Pass 1S Pass
+2C Pass 2D Pass
+2H Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+

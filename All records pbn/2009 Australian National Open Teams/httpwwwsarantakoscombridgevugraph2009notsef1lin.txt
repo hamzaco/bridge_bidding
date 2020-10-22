@@ -1,0 +1,929 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T85.A5.KQ9.K8654 A63.KQJT8763.Q2.KQJ2 94.J7632.JT.974 2.AT854.A973."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "N"]
+Pass Pass 1C 4H
+Pass Pass Pass
+[Play "N"]
+S4 S8 SA SK
+HA HK H4 H2
+H5 HQ H9 D4
+C4 HJ D6 C3
+C5 HT D2 S7
+S5 H8 S2 D5
+ST H7 CJ S9
+C6 H6 CT C7
+DQ H3 SQ D8
+C8 C2 D3 CA
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T85.A5.KQ9.K8654 A63.KQJT8763.Q2.KQJ2 94.J7632.JT.974 2.AT854.A973."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "N"]
+Pass Pass 1N 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J.QJ5.AQJT43.QJ8 7532.86.76.T9732 AKT986.K732.9.A4 Q4.AT94.K852.K65 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -70"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "E"]
+1D Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J.QJ5.AQJT43.QJ8 7532.86.76.T9732 AKT986.K732.9.A4 Q4.AT94.K852.K65 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "E"]
+1N 3D Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T87.72.JT3.A7653 952.QJ9.K875.984 AKQJ6.AKT4.Q4.T2 43.8653.A962.KQJ "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "S"]
+Pass Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T87.72.JT3.A7653 952.QJ9.K875.984 AKQJ6.AKT4.Q4.T2 43.8653.A962.KQJ "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "S"]
+Pass Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A97.9653.KJ64.J4 Q543.QT4.83.AT93 KJT862.J2.A97.76 .AK87.QT52.KQ852 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "W"]
+Pass 2S an al
+X 3S Pass Pass
+X Pass 4C Pass
+5C X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A97.9653.KJ64.J4 Q543.QT4.83.AT93 KJT862.J2.A97.76 .AK87.QT52.KQ852 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "W"]
+Pass 2D Pass 2S
+Pass Pass X Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQ92.A.AKJ753.76 J74.T653.92.KT32 AT3.KJ72.QT4.Q85 865.Q984.86.AJ94 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "N"]
+1C Pass 2C an
+al Pass 3C an
+al Pass 3D an
+al Pass 3S an
+al Pass 4S an
+al Pass 5C an
+al Pass 5D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQ92.A.AKJ753.76 J74.T653.92.KT32 AT3.KJ72.QT4.Q85 865.Q984.86.AJ94 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "N"]
+1N Pass 2S an
+ba Pass 2N an
+4 3 3 3
+Pass 3C an in
+Pass 3H an 4
+Pass 4D Pass 4S
+Pass 6D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT842.A874.Q9.A4 97.JT93.T843.863 AJ5.K2.AJ652.JT7 K63.Q65.K7.KQ952 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "E"]
+1C 1S Pass 2C
+an al Pass 2H
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT842.A874.Q9.A4 97.JT93.T843.863 AJ5.K2.AJ652.JT7 K63.Q65.K7.KQ952 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "E"]
+1N an ? 2C
+an ? Pass 2N
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQ.J74.965.AJ654 T864.KT985.4.Q72 A9532.Q6.T82.K83 J7.A32.AKQJ73.T9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "S"]
+1C Pass 1H an
+al 2D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQ.J74.965.AJ654 T864.KT985.4.Q72 A9532.Q6.T82.K83 J7.A32.AKQJ73.T9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "S"]
+Pass Pass Pass 1N
+an 15 Pass 2C
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 82.872.QJT764.63 J6.KQT43.83.QJ72 AT43.J95.K52.A95 KQ975.A6.A9.KT84 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "W"]
+Pass Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 82.872.QJT764.63 J6.KQT43.83.QJ72 AT43.J95.K52.A95 KQ975.A6.A9.KT84 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "W"]
+2H an we  5
+X Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J63.J6.Q8653.AT6 K9.AT4.J2.KQ9854 AQT54.532.AT97.7 872.KQ987.K4.J32 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "N"]
+1S Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J63.J6.Q8653.AT6 K9.AT4.J2.KQ9854 AQT54.532.AT97.7 872.KQ987.K4.J32 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "N"]
+Pass Pass Pass 2C
+an 11 2S Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q532.KJ4.A753.T8 976.A732.KT9.J95 AK84.Q965.4.7632 JT.T8.QJ862.AKQ4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "E"]
+1D Pass 1H Pass
+2C Pass 2D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q532.KJ4.A753.T8 976.A732.KT9.J95 AK84.Q965.4.7632 JT.T8.QJ862.AKQ4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "E"]
+1S an 5/ Pass
+3D an NF  b
+X Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q4.K9763.J64.654 AT5.AT85.2.KJ932 KJ8732.QJ42.A.T8 96.KQT98753.AQ7."]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "S"]
+Pass 1C 1S 2D
+Pass 2H Pass 2S
+X an Hx 3C
+Pass 5D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q4.K9763.J64.654 AT5.AT85.2.KJ932 KJ8732.QJ42.A.T8 96.KQT98753.AQ7."]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "S"]
+Pass 1D an 9-
+ 4 2S 5D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK98.743.QJ94.74 Q64.AQ6.AT6.AQT8 T.KJT95.K82.K632 J7532.82.753.J95 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "W"]
+1C 1H Pass 2C
+an al X 2H
+Pass Pass X Pass
+2S Pass Pass 3H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK98.743.QJ94.74 Q64.AQ6.AT6.AQT8 T.KJT95.K82.K632 J7532.82.753.J95 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "W"]
+1C an 15  D
+1H an H+ Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ86.Q95.QT852.6 T32.A82.3.AQJT94 K94.JT764.AK4.K8 Q75.K3.J976.7532 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "N"]
+1H Pass 1S 2C
+X 3C 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ86.Q95.QT852.6 T32.A82.3.AQJT94 K94.JT764.AK4.K8 Q75.K3.J976.7532 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "N"]
+1N Pass 2C 3C
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ92.AKT96.52.54 73.J754.84.KJ963 Q654.32.763.QT82 AT8.Q8.AKQJT9.A7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "E"]
+2D an al Pass
+2S an al Pass
+2N Pass 3C an
+al Pa 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ92.AKT96.52.54 73.J754.84.KJ963 Q654.32.763.QT82 AT8.Q8.AKQJT9.A7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "E"]
+X an 5- 2S
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A6543.8.AQT762.J K9.AJ6.KJ9.A8643 Q7.KQT42.853.Q75 JT82.9753.4.KT92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "S"]
+1D 1N X Pass
+2S Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A6543.8.AQT762.J K9.AJ6.KJ9.A8643 Q7.KQT42.853.Q75 JT82.9753.4.KT92 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "S"]
+1S 1N X Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "C Hughes"]
+[North "D Hoffman"]
+[East "P Buchen"]
+[South "R Klinger"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A8.J9862.AT6.QT6 QJT762.Q743.943.K9 AK5.K74.AKJ72.543 T.QJ98532.85."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "HOFFMAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NEWMAN"]
+[Auction "W"]
+Pass 2N Pass 3D
+an al Pass 3H
+Pass 4N Pass 6H
+Pass Pass Pass
+[Play "E"]
+*
+
+

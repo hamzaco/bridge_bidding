@@ -1,0 +1,547 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT984.87.AJ95.74 A63.K953.KT.AJ98 KJ2.AQ2.6432.KQT 75.JT64.Q87.6532 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "N"]
+1D Pass 1S X
+1N Pass 2D Pass
+Pass Pass
+[Play "E"]
+H7 HK HA H4
+D9 DT D2 D7
+H8 H9 HQ H6
+S4 S3 SK S5
+DA DK D3 D8
+S8 S6 SJ S7
+SQ SA S2 C6
+C4 CA CT C2
+C7 C8 CQ C3
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT984.87.AJ95.74 A63.K953.KT.AJ98 KJ2.AQ2.6432.KQT 75.JT64.Q87.6532 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "N"]
+1D Pass 1S X
+1N Pass 2C Pass
+2S Pass Pa Pass
+[Play "W"]
+S8 S3 S2 S7
+H8 H3 HQ H4
+S4 SA SK S5
+SQ S6 SJ HJ
+C7 C8 CK C2
+D9 DT D2 D8
+H7 HK HA H6
+DA DK D3 D7
+C4 CA CT C3
+S9 H5 H2 HT
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q98.AK87654.Q75.AJ32 J2.K984.J73.KT5 93.JT6.K9854. 764.QT.A32.AQT62 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "E"]
+1N 3H 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q98.AK87654.Q75.AJ32 J2.K984.J73.KT5 93.JT6.K9854. 764.QT.A32.AQT62 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "E"]
+1N 2D X! Pass
+Pass 2H X Pass
+3C 3H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 753.QJT9654.T9.K K84.K7.AQ83.AJ86 QT96.A.K7642.T42 AJ2.832.J5.Q9753 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "S"]
+3H X Pass 4C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 753.QJT9654.T9.K K84.K7.AQ83.AJ86 QT96.A.K7642.T42 AJ2.832.J5.Q9753 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "S"]
+2D 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK2.A92.QT2.Q762 J9543.K65.54.T94 86.T83.9863.AK83 QT7.QJ74.AKJ7.J5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "W"]
+Pass Pass 1N X
+XX an 5  2C
+an   Pass 2S
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK2.A92.QT2.Q762 J9543.K65.54.T94 86.T83.9863.AK83 QT7.QJ74.AKJ7.J5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "W"]
+Pass Pass 1N X
+2H Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT6.J9.962.J654 A9.T532.KQ43.A92 754.Q76.AJ75.K73 K832.AK84.T8.QT8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT6.J9.962.J654 A9.T532.KQ43.A92 754.Q76.AJ75.K73 K832.AK84.T8.QT8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK985.AJ974.J5.A J7642.653.2.9653 Q.82.AT73.QJT872 T3.KQT.KQ9864.K4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "E"]
+1D 2N Pass 3C
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK985.AJ974.J5.A J7642.653.2.9653 Q.82.AT73.QJT872 T3.KQT.KQ9864.K4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "E"]
+1D X Pass 2C
+Pass 2D Pass 2N
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A9754.6.KT87.532 63.AKJ83.95.KQ96 QT952.AQJ32.AJ4. KQJT82.74.64.T87 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "S"]
+Pass 1H 2D 2S
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A9754.6.KT87.532 63.AKJ83.95.KQ96 QT952.AQJ32.AJ4. KQJT82.74.64.T87 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "S"]
+Pass 1H 2D Pass
+2S Pass 2N Pass
+3D Pass Pass 3S
+4D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJT.AJT54.9.Q83 Q9762.96.T4.JT54 5.Q32.AQJ7632.A9 843.K87.K85.K762 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "W"]
+Pass 1D Pass 1H
+1N an SP 3D
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJT.AJT54.9.Q83 Q9762.96.T4.JT54 5.Q32.AQJ7632.A9 843.K87.K85.K762 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 2D Pass 2S
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQJ52.J5.85.KT97 83.QT973.AJ9.AQ8 AT97.62.KT62.632 64.AK84.Q743.J54 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "N"]
+Pass Pass 2S an
+Mu 3H 4S 5H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kahler"]
+[North "Chan"]
+[East "Mendick"]
+[South "Lusk"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQJ52.J5.85.KT97 83.QT973.AJ9.AQ8 AT97.62.KT62.632 64.AK84.Q743.J54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "SA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 2H 2S 3H
+3S 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+

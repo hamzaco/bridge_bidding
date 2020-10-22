@@ -1,0 +1,221 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 World University Championships"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "M Macura"]
+[North "P Madry"]
+[East "M Kopecky"]
+[South "Janiszewsk"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A853.J654.986.AT KQ94.3.54.876543 T62.AK872.QT2.92 J7.QT9.AKJ73.KQJ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Poland B"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Czech Republic"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1N Pass 2S
+Pass 2N Pass 3C
+Pass Pass Pass
+[Play "N"]
+H6 H3 HA H9
+H4 C3 HK HT
+CA C4 C2 CJ
+S3 S4 S6 S7
+CT C5 C9 CQ
+*
+
+
+[Event "2006 World University Championships"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "M Macura"]
+[North "P Madry"]
+[East "M Kopecky"]
+[South "Janiszewsk"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ72.Q972.QT973.84 AJ43.6532.K86.AJ63 KT6.KQJ9.54.T95 85.AT874.AJ2."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Poland B"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Czech Republic"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1H Pass 1S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+S2 S4 S6 S5
+C4 C2 CT CK
+SJ S9 S7 S8
+C3 C6 C5 CA
+D2 S3 ST SQ
+C8 H6 CJ CQ
+H2 H3 HK H5
+D6 DK DA SK
+*
+
+
+[Event "2006 World University Championships"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "M Macura"]
+[North "P Madry"]
+[East "M Kopecky"]
+[South "Janiszewsk"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKT9754.93.85.K9 J.A854.Q3.AJT853 Q832.KT2.KT62.Q2 6.QJ76.AJ974.764 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Poland B"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Czech Republic"]
+[Auction "S"]
+1S 1N X 2H
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 World University Championships"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "M Macura"]
+[North "P Madry"]
+[East "M Kopecky"]
+[South "Janiszewsk"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q3.J9652.65.T875 AJ5.T.AQT2.J9632 KT7.K83.KJ943.K4 98642.AQ74.87.AQ "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Poland B"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Czech Republic"]
+[Auction "W"]
+1C 1D X Pass
+1S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 World University Championships"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "M Macura"]
+[North "P Madry"]
+[East "M Kopecky"]
+[South "Janiszewsk"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKQJ.T832.K.9654 62.Q97.T965.8732 T754.KJ4.QJ82.AK 983.A65.A743.QJT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Poland B"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Czech Republic"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 2C Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 World University Championships"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "M Macura"]
+[North "P Madry"]
+[East "M Kopecky"]
+[South "Janiszewsk"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A85.KJT.KT85.Q73 K.Q5432.Q9643.J9 QJ76.986.2.KT864 T9432.A7.AJ7.A52 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Poland B"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Czech Republic"]
+[Auction "E"]
+1N X 2H 2S
+Pass Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 World University Championships"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "M Macura"]
+[North "P Madry"]
+[East "M Kopecky"]
+[South "Janiszewsk"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A63.9743.T76.873 K987.JT8.J54.AK6 QJT542.A52.K9.J2 .KQ6.AQ832.QT954 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Poland B"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Czech Republic"]
+[Auction "S"]
+Pass Pass 1S 2N
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+

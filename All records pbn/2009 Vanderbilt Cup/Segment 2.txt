@@ -1,0 +1,914 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T987542.983.5.J4 JT.Q87643.AT975.Q3 KQ4.AJT92.632. AKJ6.A7652.K.KQ8 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "N"]
+1D X Pass 2C
+Pass 2H Pass 3D
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "N"]
+D5 D3 DA DK
+S6 H3 D4 DJ
+H8 HT HQ HA
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKQJT83.K96.Q6.Q 76.AJT543.8743.T 9542.2.95.987432 .Q87.AKJT2.AKJ65 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "E"]
+1D 1S 2D 3S
+4H 4S 5H Pass
+Pass Pass
+[Play "S"]
+SK S6 S5 H7
+H6 H3 H2 HQ
+CQ CT C2 CK
+S3 S7 C3 CJ
+H9 HJ S2 H8
+HK HA C4 C5
+D6 D3 D9 DA
+DQ D4 D5 DK
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKQJT83.K96.Q6.Q 76.AJT543.8743.T 9542.2.95.987432 .Q87.AKJT2.AKJ65 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "E"]
+1D 4S 5D Pass
+5H Pass 6D Pass
+Pass Pass
+[Play "S"]
+SA S6 S2 D2
+D6 D3 D5 DA
+H6 HT H2 H8
+DQ D7 D9 DT
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ9865.A754.54.6 Q32.KQJ86.KT954.42 KJ986.AT73.A3. AQT73.T.92.QJ872 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "S"]
+Pass 1D 1H 1S
+an 5+ 2D Pass
+3D 4C Pass 5C
+X Pass Pass Pass
+[Play "S"]
+C6 C4 CA C2
+H2 H6 HT HA
+H4 H3 H8 C7
+S5 C5 C3 CQ
+D5 DK DA D2
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ9865.A754.54.6 Q32.KQJ86.KT954.42 KJ986.AT73.A3. AQT73.T.92.QJ872 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "S"]
+Pass 1D 1H 1S
+4H Pass Pass X
+Pass 5C Pass Pass
+Pass
+[Play "S"]
+H3 H6 HT HA
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQT2.52.Q763.QT8 63.AK97.K94.7543 A9854.QT64.A.K62 J7.J83.JT852.AJ9 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "W"]
+Pass 1S Pass 3D
+an Li Pass 4S
+Pass Pass Pass
+[Play "N"]
+D3 D4 DA DJ
+H2 H7 H4 H3
+ST S6 S4 S7
+H5 HA H6 H8
+SK S3 S8 SJ
+D6 D9 S5 D5
+S2 H9 HT HJ
+D7 DK S9 D2
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQT2.52.Q763.QT8 63.AK97.K94.7543 A9854.QT64.A.K62 J7.J83.JT852.AJ9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "W"]
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "E"]
+D3 D4 DA DJ
+SK S3 S5 S7
+H2 HK H4 H3
+C8 C3 CK CA
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T9.932.AT75.J962 K6.JT75.J842.873 AJ732.Q6.Q96.KQT Q854.AK84.K3.A54 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "N"]
+1S 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T9.932.AT75.J962 K6.JT75.J842.873 AJ732.Q6.Q96.KQT Q854.AK84.K3.A54 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "N"]
+1S 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K8.K874.95.KJ952 QJ4.QT.AT7.AQT63 952.A63.KQJ32.74 AT763.J952.864.8 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "E"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K8.K874.95.KJ952 QJ4.QT.AT7.AQT63 952.A63.KQJ32.74 AT763.J952.864.8 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "E"]
+Pass Pass 1N Pass
+2C X XX Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ832.KJ4.A73.A4 T96.T9652.96.T86 A74.Q7.QJ5.QJ973 Q5.A83.KT842.K52 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "S"]
+1S Pass 2C Pass
+3N an 15 Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ832.KJ4.A73.A4 T96.T9652.96.T86 A74.Q7.QJ5.QJ973 Q5.A83.KT842.K52 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q8.A2.62.AKQT732 AK3.KQ863.KQ54.5 J765.T97.AJT9.84 T942.J54.873.J96 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "W"]
+1H Pass Pass X
+XX 1S Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q8.A2.62.AKQT732 AK3.KQ863.KQ54.5 J765.T97.AJT9.84 T942.J54.873.J96 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "W"]
+1H Pass 1N an
+se 2C X Pass
+2H X Pass 2S
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK87.J9732.QJ75.Q942 Q.AK6.AT642.65 AK854.93.QJ97. JT3.T6.T842.K853 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "N"]
+Pass Pass 2D an
+4+  5  l X
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK87.J9732.QJ75.Q942 Q.AK6.AT642.65 AK854.93.QJ97. JT3.T6.T842.K853 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "N"]
+Pass Pass 1H X
+3C an al Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQJ.KQ92.QJ82.64 A8542.763.A96.Q5 T6.A854.4.KJ9872 973.JT.KT753.AT3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "E"]
+Pass 1D 1S X
+2S 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQJ.KQ92.QJ82.64 A8542.763.A96.Q5 T6.A854.4.KJ9872 973.JT.KT753.AT3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "E"]
+Pass 1D 1S X
+2S 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q97.98543.943.A4 J52.AKT.KT62.T98 AT63.6.AQ875.K72 K84.QJ72.J.QJ653 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+Pass 1N Pass 2C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q97.98543.943.A4 J52.AKT.KT62.T98 AT63.6.AQ875.K72 K84.QJ72.J.QJ653 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 84.QJT7.QJ.AK732 AQJ3.A842.5.T865 K953.876432.QJ9. KT97652.6.AKT9.4 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "W"]
+1C Pass 1S Pass
+2S Pass 4N Pass
+5S Pass 6S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 84.QJT7.QJ.AK732 AQJ3.A842.5.T865 K953.876432.QJ9. KT97652.6.AKT9.4 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "W"]
+1C Pass 1S Pass
+2S Pass 3D Pass
+3H Pass 4C Pass
+4D Pass 4N Pass
+5S Pass 6S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT53.T97.Q96.A87 7.Q654.543.K9432 AKJ8642.A8.JT8.Q 9.KJ32.AK72.JT65 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "N"]
+1S X 3S Pass
+4C Pass 5C Pass
+5S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT53.T97.Q96.A87 7.Q654.543.K9432 AKJ8642.A8.JT8.Q 9.KJ32.AK72.JT65 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "N"]
+1S X 2S 2N
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q43.AT965.Q852.3 T6.J8732.T93.975 AKJ9872.K.J7.J82 5.Q4.AK64.AKQT64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "E"]
+1C 1H Pass 2S
+X Pass 3C 3S
+4C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q43.AT965.Q852.3 T6.J8732.T93.975 AKJ9872.K.J7.J82 5.Q4.AK64.AKQT64 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "E"]
+1C 1H Pass 1S
+2D Pass 3C 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K5.J3.8764.AJ752 AJ98762.AKQ7.2.4 Q4.9842.AQJ.KQ93 T3.T65.KT953.T86 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "S"]
+Pass 1S Pass Pass
+1N 3S 3N Pass
+Pass 4H X 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K5.J3.8764.AJ752 AJ98762.AKQ7.2.4 Q4.9842.AQJ.KQ93 T3.T65.KT953.T86 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "S"]
+Pass 1S X 2C
+an xf X 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Faigenbaum"]
+[North "Jacobs"]
+[East "Pilon"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: JT82.A6.A83.T732 AQ653.72.K9.AKQ6 K94.KQJT4.JT62.J 7.9853.Q754.9854 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Katz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Zaleski NPC"]
+[Auction "W"]
+1S 2H Pass 2N
+Pass Pass Pass
+[Play "N"]
+*
+
+

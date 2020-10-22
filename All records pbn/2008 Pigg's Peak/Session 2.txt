@@ -1,0 +1,619 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 842.AT9.87643.J7 765.2.AKT2.QT853 KJT3.KJ87.QJ.962 AQ9.Q6543.95.AK4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1H Pass 1N
+Pass 2N Pass Pass
+Pass
+[Play "N"]
+S2 S5 S3 SQ
+C7 C3 C2 CA
+CJ C5 C6 CK
+D3 CQ C9 C4
+D4 CT H8 H3
+H9 C8 H7 H4
+S4 S6 SK SA
+D7 DK DJ D9
+D6 DA DQ D5
+D8 DT ST S9
+HT D2 HJ H5
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K983.K2.QJ86.AQ4 A6542.8653.A.T82 QJT.AQJT97.94.73 7.4.KT7532.KJ965 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D Pass 1H
+2C Pass Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+CA C2 C3 CK
+S3 SA ST S7
+CQ CT C7 C6
+S8 S2 SQ D3
+S9 S4 SJ D2
+HK H3 H7 H4
+SK S5 D4 D5
+H2 H5 HA C5
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 963.AQ854.A76.85 J85.7.QJ9842.QT9 QT7.KT632.KT3.K7 AK42.J9.5.AJ6432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1H 2C
+3C Pass 3H Pass
+Pass Pass
+[Play "W"]
+S3 S5 S7 SA
+S6 S8 ST SK
+C5 C9 C7 CA
+C8 CT CK C2
+HQ H7 H2 H9
+HA D2 H3 HJ
+S9 SJ SQ S2
+H4 D4 HK C3
+H5 D8 HT S4
+H8 CQ H6 C4
+DA D9 D3 D5
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT94.J86.74.AK97 62.K9.KT8.JT8432 853.T7532.J932.6 AKQ7.AQ4.AQ65.Q5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 2N Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K65.KQ6.9.KT8653 JT932.AJ73.432.A Q7.T842.J875.Q72 A84.95.AKQT6.J94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D 2C 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 965.A874.JT964.8 KQT4.K92.75.AKQ3 A32.QJT53.AK82.4 J87.6.Q3.JT97652 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1N 2H
+Pass Pass 2S Pass
+Pass 3H Pass Pass
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ3.KQJ95.J8652.K72 QT62.T83.KQ3.JT954 984.A7.AT9.AQ863 A75.642.74."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 2D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ6.AQ94.9864.J7 T9875.53.K.KT542 K3.T876.AQT753.Q Q42.KJ2.J2.A9863 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1D 2C X
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K2.953.QJ7.AQT94 AJ76.T876.K98.52 T53.KQJ2.54.J873 Q984.A4.AT632.K6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D 2C X
+3C 3S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKQ98.A85.AJ.AJ3 7652.KT.9854.872 43.Q9763.KQ762.6 JT.J42.T3.KQT954 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 2C Pass 2D
+Pass 2N Pass 3D
+Pass 3H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K3.J92.J9852.AKQ AQT2.T5.KQ76.J65 98654.Q874.T.983 J7.AK63.A43.T742 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D 1S Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q8764.9.A52.KQ63 KT3.AKJ543.JT9.5 952.Q72.Q764.T74 AJ.T86.K83.AJ982 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A5.AT86.K843.KT6 T97.J432.Q.QJ753 J6432.J9762.982.KQ8 KQ975.AT5.A4."]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1H Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A8.T932.98.AJT75 J93.AKJ65.J72.62 QT62.Q74.AQT54.Q K754.8.K63.K9843 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1H Pass Pass
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT8532.AK5.Q3.A4 J764.QJ83.654.85 A9.64.AKJT72.Q32 Q.T972.98.KJT976 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 2D Pass
+2N Pass 3D Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KQ98.T7.AK82.872 AJ65.AKJ93.43.A3 T742.Q85.T9.JT54 3.642.QJ765.KQ96 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2H X
+XX 2S 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQJ5.QT9.K5.QT32 KT3.K43.Q764.K64 976.AJ8.AJ83.J85 842.7652.T92.A97 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ987.A872.9.K32 AQ53.543.A7.Q987 64.K96.K832.JT54 T2.QJT.QJT654.A6 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S Pass 1N
+2D 2H Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J982.JT62.654.T9 QT65.A7.AQ97.AKQ K43.Q9.K82.J8632 A7.K8543.JT3.754 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N Pass 2D Pass
+3D Pass 3H Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Pigg's Peak"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Harris"]
+[North "Modlin"]
+[East "Marks"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A8743.5.T5.KJT85 2.KT986.AJ632.A9 JT65.AQ42.94.763 KQ9.J73.KQ87.Q42 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D 1S 2H
+2S 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+

@@ -1,0 +1,827 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT.J5.J87.Q8754 83.KQ73.AKQT5.AT AQ762.AT2.64.J96 954.9864.932.K32 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+Pass Pass Pass 1D
+1S Pass 2S X
+Pass 2N Pass 3D
+Pass Pass Pass
+[Play "N"]
+SJ S3 SA S4
+SK S8 S2 S5
+ST D5 S6 S9
+C5 CT CJ CK
+H5 HK HA H4
+CQ CA C9 C2
+D7 DK D4 D2
+D8 DA D6 D3
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJT.J5.J87.Q8754 83.KQ73.AKQT5.AT AQ762.AT2.64.J96 954.9864.932.K32 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+1S Pass 2S X
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+SJ S3 S6 S4
+C5 CT CJ CK
+H5 HK HA H9
+ST S8 SA S5
+C7 CA C6 C3
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q4.QJT93.93.AQT6 JT8.54.KQJ752.83 AK53.2.AT86.KJ54 9762.AK876.4.972 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+2D Pass Pass 2H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q4.QJT93.93.AQT6 JT8.54.KQJ752.83 AK53.2.AT86.KJ54 9762.AK876.4.972 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+Pass 1H 3D 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8753.AJT98.86.T8 QJ96.653.742.Q54 K2.Q4.AT53.AJ632 AT4.K72.KQJ9.K97 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass Pass 1N Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8753.AJT98.86.T8 QJ96.653.742.Q54 K2.Q4.AT53.AJ632 AT4.K72.KQJ9.K97 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+2H Pass Pass 2N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ864.T9.AQJ4.65 T73.753.9863.QJT AJ.QJ642.52.A743 952.AK8.KT7.K982 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2C Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ864.T9.AQJ4.65 T73.753.9863.QJT AJ.QJ642.52.A743 952.AK8.KT7.K982 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2C Pass 2D
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT.AQJT5.T86.65 K9853.K83.A2.T92 A64.7642.KJ3.K87 72.9.Q9754.AQJ43 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+Pass Pass 1H Pass
+2C 2N Pass 3C
+3H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT.AQJT5.T86.65 K9853.K83.A2.T92 A64.7642.KJ3.K87 72.9.Q9754.AQJ43 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+Pass 1D 1H 1S
+2D 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 92.T765.QJ95.J64 Q876.Q92.T42.982 AKJT4.83.7.QT753 53.AKJ4.AK863.AK "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1S Pass 2H Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 92.T765.QJ95.J64 Q876.Q92.T42.982 AKJT4.83.7.QT753 53.AKJ4.AK863.AK "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1D Pass Pass 1S
+2H Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT865.KJ6.KQ3.64 73.T9753.A872.53 AKQ2.AQ.J9.AQT72 94.842.T654.KJ98 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass Pass 2C Pass
+2D Pass 2N Pass
+6N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT865.KJ6.KQ3.64 73.T9753.A872.53 AKQ2.AQ.J9.AQT72 94.842.T654.KJ98 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+Pass Pass 2N Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A64.643.KJ543.J9 T752.QJT.87.AT64 QJ83.K872.AQ6.72 K9.A95.T92.KQ853 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass 1D Pass 2H
+Pass 3D Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K53.97.AQ9.KQJT6 QJT8.QT5.T76.932 A972.K8432.K5.A7 64.AJ6.J8432.854 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+1H Pass 2C Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ2.K9.JT762.AJ4 983.J7643.853.82 AQ.A82.AQ94.KQ75 T7654.QT5.K.T963 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+Pass 1D Pass 2D
+Pass 3D Pass 3H
+Pass 3N Pass 4C
+Pass 4H Pass 4N
+Pass 5C Pass 6D
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT632.AK4.7.9863 J8.765.AJT632.AQ KQ975.QJ.Q9.KJ74 4.T9832.K854.T52 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+1S 2D 3D 5D
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT632.AK4.7.9863 J8.765.AJT632.AQ KQ975.QJ.Q9.KJ74 4.T9832.K854.T52 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+1S 2D 3D 5D
+X Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ.JT543.AQT852.763 AQ987.9.JT76.KT98 K2.J7.AQ932. J542.6.K643.K854 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+2H X Pass 3H
+Pass 3S Pass 4D
+Pass 5C Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ.JT543.AQT852.763 AQ987.9.JT76.KT98 K2.J7.AQ932. J542.6.K643.K854 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+Pass 1C Pass 1D
+1H 1S Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 5.KJ3.QJT74.AKQT T97.AQ84.AK.8653 AQ86432.6.83.742 KJ.T9752.9652.J9 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 5.KJ3.QJT74.AKQT T97.AQ84.AK.8653 AQ86432.6.83.742 KJ.T9752.9652.J9 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "N"]
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT76.AJT3.AK64.3 K8542.74.JT98.85 3.Q9852.32.Q9764 QJ9.K6.Q75.AKJT2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1N X! 2H Pass
+2S Pass Pass 2N
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT76.AJT3.AK64.3 K8542.74.JT98.85 3.Q9852.32.Q9764 QJ9.K6.Q75.AKJT2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "E"]
+1N 2C Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A7.J.98742.AQ765 T6.AK32.AT53.K32 952.QT9654.KJ.J9 KQJ843.87.Q6.T84 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+1D 1H 1N 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A7.J.98742.AQ765 T6.AK32.AT53.K32 952.QT9654.KJ.J9 KQJ843.87.Q6.T84 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "S"]
+1D 1H Pass 1S
+Pass 1N Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Canadian NTC Final"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Grainger"]
+[North "Carruthers"]
+[East "Korbel"]
+[South "silver"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 83.A2.AJ92.KJ986 KJ42.K87653.K87.AQT95 T9.Q3.AQ72. 76.QJ4.T654.T543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "L'Ecuyer"]
+[Auction "W"]
+1H 1S Pass 2C
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+

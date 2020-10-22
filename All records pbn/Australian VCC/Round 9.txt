@@ -1,0 +1,960 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K.AKJ542.K983.AK J43.Q.QJ75.97632 762.T987.642.QJT AQT985.63.AT.854 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass 2S 4H 4S
+5H Pass Pass Pass
+[Play "W"]
+SK S3 S2 SA
+CA C7 CT C5
+HA HQ H7 H6
+H2 C2 H8 H3
+DK D5 D2 DT
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K.AKJ542.K983.AK J43.Q.QJ75.97632 762.T987.642.QJT AQT985.63.AT.854 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass 1S X 2S
+Pass 3S 4H Pass
+Pass Pass
+[Play "W"]
+SK S3 S2 SA
+D3 D7 D2 DA
+DK D5 D4 DT
+HA HQ H7 H3
+HK C2 H8 H6
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT87632.K.A62.T2 AJ.9543.K743.KJ9 AQJT86.JT95.A75. K954.72.Q8.Q8643 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass 2D Pass 2H
+Pass 2S Pass 3H
+Pass Pass Pass
+[Play "E"]
+CT CJ C5 C3
+HK H5 HA H7
+H2 S2 H4 HQ
+S3 H3 HJ S4
+S6 H9 HT C4
+DQ DA D4 DJ
+D2 D3 DT D8
+S5 D6 DK D9
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT87632.K.A62.T2 AJ.9543.K743.KJ9 AQJT86.JT95.A75. K954.72.Q8.Q8643 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+DA D3 DJ DQ
+HK H3 HA H2
+H7 C2 H4 HQ
+S6 H5 HJ S5
+CT CJ CA C3
+S7 H9 HT S4
+S3 SJ C5 S9
+D2 DK D5 D8
+D6 D4 D9 SK
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 96.T62.K732.QT98 Q8543.A8.JT65.63 T7.KJ53.Q.AKJ542 AKJ2.Q974.A984.7 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass Pass 1C X
+2C 2S Pass 4S
+Pass Pass 5C X
+Pass Pass Pass
+[Play "E"]
+S6 S8 ST SK
+S9 SQ S7 SA
+H2 HA H3 H4
+H6 H8 HK H7
+C8 C6 CA C7
+CQ C3 C4 S2
+D2 D5 DQ DA
+HT S4 H5 HQ
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 96.T62.K732.QT98 Q8543.A8.JT65.63 T7.KJ53.Q.AKJ542 AKJ2.Q974.A984.7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass Pass 1C X
+2C 2S 3C 3S
+Pass Pass Pass
+[Play "N"]
+C9 C3 CA C7
+D2 D5 DQ DA
+S6 S3 S7 SA
+S9 S4 ST SK
+DK D6 C5 D4
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T62.7.Q742.K9872 J5.AJ965.AT53.AT Q873.KQT83.8.J65 AK94.42.KJ96.Q43 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+1N Pass 2C Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "N"]
+H7 H9 H3 H4
+D2 HJ HQ H2
+CK CA CJ CQ
+D4 D3 D8 DK
+D7 DA C6 DJ
+DQ D5 S3 D9
+C2 CT C5 C3
+S2 SJ SQ SA
+C7 DT S7 D6
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T62.7.Q742.K9872 J5.AJ965.AT53.AT Q873.KQT83.8.J65 AK94.42.KJ96.Q43 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass 3C Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T6.AQ5432.QJ.K72 J75.JT6.K95.A653 AKQ98.AT87632.4.432 K987.4.QJT98."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2S Pass 3H Pass
+4D Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T6.AQ5432.QJ.K72 J75.JT6.K95.A653 AKQ98.AT87632.4.432 K987.4.QJT98."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 3C an
+4S Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT962.Q64.32.975 A5.K82.QJT65.KQ4 J74.J93.K9874.JT Q83.AT75.A.A8632 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+1C an Co Pass
+1S an De Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT962.Q64.32.975 A5.K82.QJT65.KQ4 J74.J93.K9874.JT Q83.AT75.A.A8632 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+1C 1S 2D 2S
+Pass Pass 3S an
+as Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A63.A95.QJ92.J32 T4.KQ874.87.AKT7 J97.J32.T6543.54 KQ852.T6.AK.Q986 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2C Pass 2D
+Pass 2H Pass 3C
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A63.A95.QJ92.J32 T4.KQ874.87.AKT7 J97.J32.T6543.54 KQ852.T6.AK.Q986 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+1N Pass Pass X
+an ba Pass Pass
+XX an as Pass
+2C Pass 2D X
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 5.AK962.AKQ9432.AQ96 KJ982.Q84.7.7542 AT43.JT.T65.KJT83 Q76.753.J8."]
+[Declarer "S"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+1H Pass 2H 2N
+3H Pass Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 5.AK962.AKQ9432.AQ96 KJ982.Q84.7.7542 AT43.JT.T65.KJT83 Q76.753.J8."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+1H Pass 1S 6C
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J3.4.J532.AKQ876 AK4.AQT732.K.J53 98752.KJ96.Q64.4 QT6.85.AT987.T92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+2H Pass 3C Pass
+an He Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J3.4.J532.AKQ876 AK4.AQT732.K.J53 98752.KJ96.Q64.4 QT6.85.AT987.T92 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass Pass 3C 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K4.KQ8.K8753.KT3 8.A93.AJ964.AQJ8 AQJ96.JT6.Q.7652 T7532.7542.T2.94 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass 1D 1N X
+2D X Pass Pass
+XX Pass 2H Pass
+Pass 2N Pass 3N
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K4.KQ8.K8753.KT3 8.A93.AJ964.AQJ8 AQJ96.JT6.Q.7652 T7532.7542.T2.94 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass 1N X 2S
+Pass Pass X Pass
+3H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q6.QJT4.AJ9.Q752 9743.8652.KT5.T6 AK5.A93.76.AJ943 JT82.K7.Q8432.K8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+1C Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q6.QJT4.AJ9.Q752 9743.8652.KT5.T6 AK5.A93.76.AJ943 JT82.K7.Q8432.K8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T972.KJ.AKT52.Q6 85.9753.J6.KJ953 KJ63.AT2.Q8.AT82 AQ4.Q864.9743.74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1N Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T972.KJ.AKT52.Q6 85.9753.J6.KJ953 KJ63.AT2.Q8.AT82 AQ4.Q864.9743.74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K742.A8764.A.J76 QJ96.Q5.943.A542 T5.T932.T8652.T9 A83.KJ.KQJ7.KQ83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass 1C an Co
+1H X an 4+
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K742.A8764.A.J76 QJ96.Q5.943.A542 T5.T932.T8652.T9 A83.KJ.KQJ7.KQ83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass 1C X 1S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ654.T95.Q864.K K873.A82.A52.QT5 9.KJ73.KJ3.AJ973 AT2.Q64.T97.8642 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass 2S an !S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ654.T95.Q864.K K873.A82.A52.QT5 9.KJ73.KJ3.AJ973 AT2.Q64.T97.8642 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass Pass 1N 2C
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J98.JT3.J952.A65 Q63.A2.A87.Q8742 AT52.K9754.KT4.K K74.Q86.Q63.JT93 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass 1C an Co
+X 1S an De
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J98.JT3.J952.A65 Q63.A2.A87.Q8742 AT52.K9754.KT4.K K74.Q86.Q63.JT93 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Del'Monte"]
+[North "Brightling"]
+[East "Fruewirth"]
+[South "Thomson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 962.AQ5.K6.J8432 KT.J93.A43.QT976 7543.K7642.972.K AQJ8.T8.QJT85.A5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Thomson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+1C an Co Pass
+1H Pass 1N an
+le Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

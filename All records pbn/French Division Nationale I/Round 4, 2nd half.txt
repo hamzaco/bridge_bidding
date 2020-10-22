@@ -1,0 +1,745 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A64.K953.Q62.AT8 KQ8732.AT86.T.Q5 T9.QJ72.A975.K43 J5.4.KJ843.J9762 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+1S Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "N"]
+SA S2 ST S5
+S4 SQ S9 SJ
+S6 SK C3 C2
+D2 DT D7 DK
+CA C5 C4 C6
+C8 CQ CK C7
+DQ S3 D5 D3
+H3 HA H2 H4
+H5 H6 H7 C9
+H9 H8 HQ D4
+HK HT HJ D8
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A64.K953.Q62.AT8 KQ8732.AT86.T.Q5 T9.QJ72.A975.K43 J5.4.KJ843.J9762 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+1S Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T65.QJ.K.AK98743 K842.KT843.JT2.2 J9.A762.Q75.QJ65 AQ73.95.A98643.T "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+Pass Pass 1C 1H
+1N X 2C Pass
+3C 3D 4C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T65.QJ.K.AK98743 K842.KT843.JT2.2 J9.A762.Q75.QJ65 AQ73.95.A98643.T "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+Pass 1D 2C X
+2N 3S X 4S
+5C X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ73.KQ973.T.92 A654.AJ842.QJT7.A98654 T2.K3.A65. T2.J8.Q9765.K843 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+Pass 1S X 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ73.KQ973.T.92 A654.AJ842.QJT7.A98654 T2.K3.A65. T2.J8.Q9765.K843 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+Pass 1S X XX
+2D Pass Pass 3D
+Pass 3H Pass 3S
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q5.QT92.974.9652 9863.AJ5.JT82.43 AJT4.K864.K3.J87 K72.73.AQ65.AKQT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 1S Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q5.QT92.974.9652 9863.AJ5.JT82.43 AJT4.K864.K3.J87 K72.73.AQ65.AKQT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1S Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK94.7543.K973.8 2.AQ96.AQ8652.52 J863.J82.T.A7643 QT75.KT.J4.KQJT9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+1D Pass 1S Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK94.7543.K973.8 2.AQ96.AQ8652.52 J863.J82.T.A7643 QT75.KT.J4.KQJT9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+1D Pass 1S Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T84.T98732.T.T53 J7.K6.AQJ53.KQ86 A9532.AQ5.K76.A4 KQ6.J4.9842.J972 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+1S Pass Pass X
+1N Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T84.T98732.T.T53 J7.K6.AQJ53.KQ86 A9532.AQ5.K76.A4 KQ6.J4.9842.J972 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+1S Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ9.AQ54.2.87632 AT2.T.QT854.K954 8543.K872.A6.AJT Q76.J963.KJ973.Q "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+Pass Pass Pass 1C
+1D X an 4!
+4D Pass Pass X
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ9.AQ54.2.87632 AT2.T.QT854.K954 8543.K872.A6.AJT Q76.J963.KJ973.Q "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+Pass 2C Pass 2D
+Pass 2H Pass 2N
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 85.9765.K987543.964 A972.AK84.AJ.K72 KQT63.QJT.Q2.AQJT853 J4.32.T6."]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "S"]
+Pass 1N Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 85.9765.K987543.964 A972.AK84.AJ.K72 KQT63.QJT.Q2.AQJT853 J4.32.T6."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "S"]
+3C X Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJT953.A75.JT42.87642 T2.AQ95.J9.Q K84.K7.AKT7654. A.QJ963.863.Q832 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+Pass 1C 1H 1S
+an 5! Pass 1N
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJT953.A75.JT42.87642 T2.AQ95.J9.Q K84.K7.AKT7654. A.QJ963.863.Q832 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+Pass 1C 1H 2H
+Pass 2S Pass 3D
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 74.KQT654.J92.86 6.J3.QT864.QJT43 T953.A8.K75.A972 AKQJ82.972.A3.K5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 74.KQT654.J92.86 6.J3.QT864.QJT43 T953.A8.K75.A972 AKQJ82.972.A3.K5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2N Pass 3C
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T32.AK7.AT54.T42 65.J853.873.K873 K87.Q42.62.QJ965 AQJ94.T96.KQJ9.A "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+1S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T32.AK7.AT54.T42 65.J853.873.K873 K87.Q42.62.QJ965 AQJ94.T96.KQJ9.A "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "E"]
+1S Pass 1N Pass
+2D Pass 2S Pass
+2N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T95.Q3.T8532.AJ7 A743.KJ98.A7.964 82.A72.Q96.KQT53 KQJ6.T654.KJ4.82 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T95.Q3.T8532.AJ7 A743.KJ98.A7.964 82.A72.Q96.KQT53 KQJ6.T654.KJ4.82 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "LEVY A."]
+[North "STRETZ F."]
+[East "MOUIEL H."]
+[South "MEYER J-P."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KJ973.Q2.52.AJ82 T86.985.KQJT643.542 AKJ63.97.Q54. AQ.T74.A8.KT9763 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZIMMERMANN"]
+[Auction "W"]
+3D Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+

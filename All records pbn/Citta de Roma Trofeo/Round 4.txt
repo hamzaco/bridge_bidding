@@ -1,0 +1,485 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK75.8.AQJ9.AQ97 964.AK9742.63.K6 QJ8.T63.8742.T32 T32.QJ5.KT5.J854 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "N"]
+Pass Pass 2D 2H
+Pass 3H X Pass
+Pass Pass
+[Play "N"]
+DJ D3 D8 DT
+SA S4 SQ S2
+S5 S6 SJ S3
+D9 D6 D4 D5
+SK S9 S8 ST
+DA H7 D2 DK
+H8 HA H3 H5
+C7 H2 H6 HJ
+S7 H4 HT HQ
+CA C6 C2 C4
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK75.8.AQJ9.AQ97 964.AK9742.63.K6 QJ8.T63.8742.T32 T32.QJ5.KT5.J854 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "N"]
+Pass Pass 1C 2H
+an we Pass 3H
+X Pass Pass Pass
+[Play "N"]
+H8 H9 H3 H5
+D9 H2 HT HJ
+C7 H4 H6 HQ
+CA C6 C2 C4
+SA S4 SQ S2
+S5 S9 SJ S3
+DJ D3 D8 D5
+SK S6 S8 ST
+DA D6 D2 DT
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ852.K7.AQ53.62 A76.62.K97.AQJ93 9.AQT843.J864.K7 QT43.J95.T2.T854 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 2S Pass 3H
+Pass Pass Pass
+[Play "E"]
+DA D7 D4 DT
+HK H2 H3 H5
+H7 H6 HA H9
+S2 C3 HQ HJ
+SJ SA S9 S3
+C2 CA C7 C8
+C6 CQ CK C4
+S5 S6 HT S4
+D3 DK DJ D2
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ852.K7.AQ53.62 A76.62.K97.AQJ93 9.AQT843.J864.K7 QT43.J95.T2.T854 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "E"]
+Pass 1S 1N 2D
+Pass 3D Pass 5D
+Pass Pass Pass
+[Play "E"]
+DA D7 D4 DT
+HK H2 H3 H5
+H7 H6 HA H9
+C2 D9 HQ HJ
+C6 CA C7 C4
+D3 DK D6 D2
+D5 CQ CK C5
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 653.765.A852.T87 AJ2.KQT982.J6.K6 KQ4.J43.KT94.A92 T987.A.Q73.QJ543 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+S6 SA SK S7
+H5 H2 H3 HA
+C7 CK C2 C3
+H6 HK H4 D3
+H7 HQ HJ C4
+S3 SJ SQ S8
+D5 D6 DK D7
+DA DJ D4 DQ
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 653.765.A852.T87 AJ2.KQT982.J6.K6 KQ4.J43.KT94.A92 T987.A.Q73.QJ543 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJT5.K8.AQJT72.J 9732.A52.K3.QT54 864.QJT7.65.A873 AK.9643.984.K962 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1H Pass 1S
+Pass 1N Pass 2D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJT5.K8.AQJT72.J 9732.A52.K3.QT54 864.QJT7.65.A873 AK.9643.984.K962 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1H Pass 1S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT9.QJ3.A854.T92 65.AT8654.KQ32.8 A2.972.JT96.A764 KJ8743.K.7.KQJ53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2C Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT9.QJ3.A854.T92 65.AT8654.KQ32.8 A2.972.JT96.A764 KJ8743.K.7.KQJ53 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "N"]
+Pass 1S Pass 2H
+Pass 3C Pass 3D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ82.76543.82.A7 965.QJ8.AT9.QJ42 JT7.T2.KQ5.98653 K43.AK9.J7643.KT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "E"]
+1D Pass 1N Pass
+Pass X Pass 2C
+Pass Pass X Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ82.76543.82.A7 965.QJ8.AT9.QJ42 JT7.T2.KQ5.98653 K43.AK9.J7643.KT "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "E"]
+1D Pass 1N Pass
+Pass 2D X Pass
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q743.Q3.J9.KQT63 852.84.K852.9875 K96.T97.AQT74.42 AJT.AKJ652.63.AJ "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass Pass 2D 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q743.Q3.J9.KQT63 852.84.K852.9875 K96.T97.AQT74.42 AJT.AKJ652.63.AJ "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass Pass 2D 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Citta de Roma Trofeo"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Paoluzi"]
+[North "Lanciano"]
+[East "Saccavini"]
+[South "Biondo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ.AK742.T98.K96 AT92.J5.KQJ63.T4 6543.Q863.5.AQJ2 K87.T9.A742.8753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LOY"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FIGB 2"]
+[Auction "W"]
+1D Pass 2D 2H
+3D 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+

@@ -1,0 +1,933 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ.T86.9643.Q986 T832.J43.K52.KT7 KJ4.KQ75.JT.AJ54 9765.A92.AQ87.32 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "N"]
+1N Pass 2N Pass
+Pass Pass
+[Play "E"]
+SQ S3 S4 S7
+H6 H3 HQ HA
+SA S2 SJ S5
+CQ CK CA C2
+H8 HJ H5 H2
+D3 D2 DJ DQ
+D4 DK DT D7
+D6 S8 SK S6
+HT H4 H7 H9
+C9 C7 C5 C3
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ.T86.9643.Q986 T832.J43.K52.KT7 KJ4.KQ75.JT.AJ54 9765.A92.AQ87.32 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "E"]
+SQ S3 S4 S7
+C6 C7 CJ C3
+C8 CT CA C2
+C9 CK C5 H9
+SA S2 SJ S5
+H6 H3 HQ HA
+D3 ST SK S9
+CQ S8 C4 D7
+HT HJ HK H2
+H8 H4 H5 D8
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q53.J2.AK854.943 KJT742.A974.97.8 A9.KQ853.T32.J76 86.T6.QJ6.AKQT52 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "E"]
+1C 1D 1S 2H
+3C Pass 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q53.J2.AK854.943 KJT742.A974.97.8 A9.KQ853.T32.J76 86.T6.QJ6.AKQT52 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "E"]
+1C 1D 1S X!
+2C Pass 2S 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J8.53.K753.AK863 QT32.KQJ987.T.72 K754.AT6.AQJ2.J4 A96.42.9864.QT95 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "S"]
+1C 2H X Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J8.53.K753.AK863 QT32.KQJ987.T.72 K754.AT6.AQJ2.J4 A96.42.9864.QT95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "S"]
+1C 1H X! Pass
+2D Pass 2H Pass
+3C Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K65.T5.KJ7.AT965 7.876.Q8532.KQ82 QT943.A.T94.J743 AJ82.KQJ9432.A6."]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "W"]
+Pass Pass 1H 2C
+2H 2S 4H Pass
+Pass 5C 5H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K65.T5.KJ7.AT965 7.876.Q8532.KQ82 QT943.A.T94.J743 AJ82.KQJ9432.A6."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "W"]
+Pass Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A742.JT.A854.QT5 Q95.K73.T3.AK842 KJT.A952.KQJ72.7 863.Q864.96.J963 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "N"]
+1D Pass 1S 2C
+X! an 3! Pass
+2D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A742.JT.A854.QT5 Q95.K73.T3.AK842 KJT.A952.KQJ72.7 863.Q864.96.J963 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "N"]
+1D Pass 1S 2C
+X! 3C 3D Pass
+4C Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q.QT753.AQ62.AQ7 J73.KJ8642.5.T82 T954.9.KT984.K53 AK862.A.J73.J964 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "E"]
+1S X 2S 2N
+an Mi 3S an
+to 4H X Pass
+Pass 5C Pass Pass
+X 5D Pass Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q.QT753.AQ62.AQ7 J73.KJ8642.5.T82 T954.9.KT984.K53 AK862.A.J73.J964 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "E"]
+1S 2H Pass Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 8542.A96.K8642.8 AT7.8432.5.KQJ93 K9.K75.AQT73.752 QJ63.QJT.J9.AT64 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S 2C Pass Pass
+2D Pass Pass 3C
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 8542.A96.K8642.8 AT7.8432.5.KQJ93 K9.K75.AQT73.752 QJ63.QJT.J9.AT64 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 1N Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T754.32.AQ2.KT32 KQ.AKJ76.T75.J96 AJ92.854.KJ93.A7 863.QT9.864.Q854 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T754.32.AQ2.KT32 KQ.AKJ76.T75.J96 AJ92.854.KJ93.A7 863.QT9.864.Q854 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "W"]
+1H X Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK98.AQ9.T98.Q96 JT64.T8632.732.4 75.KJ7.A54.JT832 Q32.54.KQJ6.AK75 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "N"]
+Pass 1N X 2H
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK98.AQ9.T98.Q96 JT64.T8632.732.4 75.KJ7.A54.JT832 Q32.54.KQJ6.AK75 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2D Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 62.Q53.JT643.Q92 T8743.KT6.Q52.83 AK.AJ87.AK98.A75 QJ95.942.7.KJT64 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "E"]
+Pass Pass Pass 2C
+X 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 62.Q53.JT643.Q92 T8743.KT6.Q52.83 AK.AJ87.AK98.A75 QJ95.942.7.KJT64 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "E"]
+Pass Pass Pass 2C
+Pass 2D Pass 2N
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T6.863.AQ6532.92 QJ7.52.KJ94.A864 K94.AQJT94.T7.KT A8532.K7.8.QJ753 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "S"]
+Pass Pass 1N 2S
+an !s 3D 3S
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T6.863.AQ6532.92 QJ7.52.KJ94.A864 K94.AQJT94.T7.KT A8532.K7.8.QJ753 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "S"]
+Pass 1C 1H 1S
+2D 2S 4H 4S
+5H X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q76.AK98.8632.85 KT52.4.K74.KQJ43 J94.QJ653.AT9.62 A83.T72.QJ5.AT97 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "W"]
+1C Pass 2C Pass
+3C an mi  u
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q76.AK98.8632.85 KT52.4.K74.KQJ43 J94.QJ653.AT9.62 A83.T72.QJ5.AT97 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "W"]
+1C Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ9.KQ72.A8752.A 84.AJ.KJT3.KJT65 AJT632.T654.Q6.4 75.983.94.Q98732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "N"]
+2D an mu Pass
+2N Pass 3C an
+Ma Pass 3D an
+As Pass 3H an
+!s Pass 4C an
+cu Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ9.KQ72.A8752.A 84.AJ.KJT3.KJT65 AJT632.T654.Q6.4 75.983.94.Q98732 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "N"]
+Pass Pass 1D 2C
+X 4C 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K872.AK974.T2.J7 JT532.3.AK98542.AJT43 6.AJ9874.6. Q965.Q8.KQ65.QT3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "E"]
+Pass 1H 4C 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K872.AK974.T2.J7 JT532.3.AK98542.AJT43 6.AJ9874.6. Q965.Q8.KQ65.QT3 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "E"]
+Pass 1H 3C 3D
+Pass 3H Pass 3S
+Pass 4S Pass 4N
+Pass 5H Pass 5S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 9862.QT65.QT63.T A.A432.942.KQ985 K754.KJ.J8.A7632 QJT3.987.AK75.J4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 2C Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 9862.QT65.QT63.T A.A432.942.KQ985 K754.KJ.J8.A7632 QJT3.987.AK75.J4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1H Pass 1S
+Pass 2C Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Sætre"]
+[North "Homme"]
+[East "Sundklakk"]
+[South "Kvangraven"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K762.Q.KJ6.AJT64 T83.T63.9872.K98 QJ94.KJ7.T543.52 A5.A98542.AQ.Q73 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Kristiansand BK"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sørreisa"]
+[Auction "W"]
+Pass Pass 1N 2S
+an 4  Pass Pass
+Pass
+[Play "W"]
+*
+
+

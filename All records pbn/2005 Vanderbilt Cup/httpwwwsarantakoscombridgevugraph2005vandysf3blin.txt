@@ -1,0 +1,906 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q2.AQ.J98743.JT5 T965.J75.KT6.K92 7.K9832.Q5.AQ764 AKJ843.T64.A2.83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "N"]
+1H 1S 2D 2S
+3C 3S Pass Pass
+Pass
+[Play "S"]
+CJ CK CA C3
+C5 C2 CQ C8
+CT C9 C4 S8
+S2 S5 S7 SA
+SQ S6 H2 SK
+HQ H5 H3 H6
+HA H7 H8 H4
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q2.AQ.J98743.JT5 T965.J75.KT6.K92 7.K9832.Q5.AQ764 AKJ843.T64.A2.83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "N"]
+1H 1S 2D 3H
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T42.AT96.AKT.T73 J83.KJ432.5.AQJ4 AK6.Q75.J9763.62 Q975.8.Q842.K985 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "E"]
+Pass Pass 1H Pass
+1S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T42.AT96.AKT.T73 J83.KJ432.5.AQJ4 AK6.Q75.J9763.62 Q975.8.Q842.K985 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "E"]
+Pass Pass 1H Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 864.K954.AQ63.98 Q32.AJT63.92.KJ3 K975.KJ87.Q6542.AJT Q872.T54.AT7."]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+2D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 864.K954.AQ63.98 Q32.AJT63.92.KJ3 K975.KJ87.Q6542.AJT Q872.T54.AT7."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "S"]
+Pass 1H X XX
+2D Pass Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T5.A9.T8532.AQJ5 432.KT83.7.KT763 AK9.J62.K96.9842 QJ876.Q754.AQJ4."]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "W"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T5.A9.T8532.AQJ5 432.KT83.7.KT763 AK9.J62.K96.9842 QJ876.Q754.AQJ4."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "W"]
+Pass Pass 1S Pass
+2S Pass Pass 2N
+Pass 3C 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 98.J94.KJ84.QT83 752.AKQT86.AT32.AKQT43 53.976.J6. J6.72.Q5.AK97542 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "N"]
+2S 3C Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 98.J94.KJ84.QT83 752.AKQT86.AT32.AKQT43 53.976.J6. J6.72.Q5.AK97542 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "N"]
+2S 3C Pass 3H
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK87.AT32.K7653.J T98753.K6.AQ94.43 AKJ642.987.82.QT9652 Q.QJ54.JT."]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "E"]
+Pass 1D Pass 1H
+1S 2C Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK87.AT32.K7653.J T98753.K6.AQ94.43 AKJ642.987.82.QT9652 Q.QJ54.JT."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "E"]
+Pass 1C 1H Pass
+1S X 2H X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q765.QJ6.K743.94 J983.J5.AQJT752.42 A7542.Q9862.6.AKT KT983.AT.K83."]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "S"]
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q765.QJ6.K743.94 J983.J5.AQJT752.42 A7542.Q9862.6.AKT KT983.AT.K83."]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "S"]
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A84.T94.62.J6542 K65.AK5.A54.A973 QJT92.J832.JT.T8 73.Q76.KQ9873.KQ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -520"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A84.T94.62.J6542 K65.AK5.A54.A973 QJT92.J832.JT.T8 73.Q76.KQ9873.KQ "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "W"]
+1C Pass 1D Pass
+2N Pass 4C Pass
+4D Pass 6N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK642.AT84.92.76 875.K65.AK75.A43 9.Q93.Q86.KQJ982 QJT3.J72.JT43.T5 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "N"]
+Pass Pass 1S X
+XX 2D 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK642.AT84.92.76 875.K65.AK75.A43 9.Q93.Q86.KQJ982 QJT3.J72.JT43.T5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "N"]
+1C Pass 1S X
+2C Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ6532.A7.Q.J543 AJ4.T62.AT3.AK62 T.843.KJ65.QT987 987.KQJ95.98742."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "E"]
+Pass 1S 1N Pass
+2D Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ6532.A7.Q.J543 AJ4.T62.AT3.AK62 T.843.KJ65.QT987 987.KQJ95.98742."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "E"]
+Pass 1S 1N Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q632.43.AKQT5.Q9 9754.K5.932.7432 KJT.QT762.84.AK5 A8.AJ98.J76.JT86 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q632.43.AKQT5.Q9 9754.K5.932.7432 KJT.QT762.84.AK5 A8.AJ98.J76.JT86 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ95.T82.K87.QT5 J743.A6.Q932.AKJ A2.KQ4.AT4.96432 T86.J9753.J65.87 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "W"]
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ95.T82.K87.QT5 J743.A6.Q932.AKJ A2.KQ4.AT4.96432 T86.J9753.J65.87 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "W"]
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K952.J9743.A8.92 JT63.K86.T743.76 A74.2.QJ92.AKQ43 Q8.AQT5.K65.JT85 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "N"]
+1C Pass 1H Pass
+2D Pass 2S Pass
+2N Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K952.J9743.A8.92 JT63.K86.T743.76 A74.2.QJ92.AKQ43 Q8.AQT5.K65.JT85 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "N"]
+1C Pass 1H Pass
+2C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 875.T983.A843.A9 T3.Q654.QJT6.K42 QJ92.7.K952.JT75 AK64.AKJ2.7.Q863 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "E"]
+1C Pass 1H Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 875.T983.A843.A9 T3.Q654.QJT6.K42 QJ92.7.K952.JT75 AK64.AKJ2.7.Q863 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "E"]
+1C Pass 1H Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ97.QJ7.AT53.65 QT65.T.J987.KJ43 K83.8.KQ642.AT92 42.AK965432.Q87."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "S"]
+1D Pass 3C an
+fo 3H 3N Pass
+Pass 4H X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ97.QJ7.AT53.65 QT65.T.J987.KJ43 K83.8.KQ642.AT92 42.AK965432.Q87."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "S"]
+1D Pass 2C 4H
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Coren"]
+[North "Onstott"]
+[East "Eisenberg"]
+[South "Robison"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AJ4.764.Q.T75432 Q952.95.K98.AJ98 KT8.A8.AJT764.KQ 763.KQJT32.532.6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eisenberg"]
+[Auction "W"]
+Pass 1D 1H Pass
+1N 2D 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+

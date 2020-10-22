@@ -1,0 +1,923 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q853.AJ9.632.K62 AKJ97.852.T.AJ73 2.3.AJ9754.QT985 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass 1H Pass 2S
+3D 4H Pass Pass
+5C Pass 5D X
+Pass Pass Pass
+[Play "E"]
+HA H2 H3 HK
+D2 DT DJ DQ
+S3 S9 S2 ST
+S8 SJ D7 S6
+D3 S7 DA D8
+CK CA C9 C4
+H9 H8 D5 H4
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q853.AJ9.632.K62 AKJ97.852.T.AJ73 2.3.AJ9754.QT985 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass 1H Pass 1S
+1N 2H Pass 3C
+Pass 3S Pass 4C
+Pass 4H Pass 5H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ4.KQ.KQ7.QJT54 T876.765.AJT9.A9 AK32.AJT32.3.762 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ4.KQ.KQ7.QJT54 T876.765.AJT9.A9 AK32.AJT32.3.762 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT3.AKJ95.J9875.K62 Q762.J52.Q32.AQ5 T84.K9864.K6."]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass Pass X
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT3.AKJ95.J9875.K62 Q762.J52.Q32.AQ5 T84.K9864.K6."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 1N Pass
+3C Pass 3H Pass
+4H Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 532.54.K8.A98542 J97.K7.AQ54.KQJT T86.AJT32.J632.6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 532.54.K8.A98542 J97.K7.AQ54.KQJT T86.AJT32.J632.6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+1N Pass 2C X
+XX Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ762.KJ94.A.J98 Q.AQ72.K87432.74 T943.T63.Q9.AKQT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1C Pass 1S X
+2C Pass 3D Pass
+3S Pass 4H Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ762.KJ94.A.J98 Q.AQ72.K87432.74 T943.T63.Q9.AKQT "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass Pass 1S 2D
+3D 4D 4S 5D
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J632.QT4.KQT4.64 AQ7.K763.973.Q82 95.852.AJ852.KT9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1S Pass 2C Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J632.QT4.KQT4.64 AQ7.K763.973.Q82 95.852.AJ852.KT9 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1C Pass 1H Pass
+1S Pass 2C Pass
+3H Pass 5C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J.KJ96432.98642.AJ75 Q54.AT.KT75.KQ963 KT876.AQJ."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+3D X Pass 3H
+Pass Pass X 3S
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J.KJ96432.98642.AJ75 Q54.AT.KT75.KQ963 KT876.AQJ."]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+3D X Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQ32.AKJ.AK93.Q8 75.42.J85.AT6532 T9864.QT87653.T."]
+[Declarer "N"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 3H Pass 4C
+X 4D 5C 5H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQ32.AKJ.AK93.Q8 75.42.J85.AT6532 T9864.QT87653.T."]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass Pass Pass 2C
+Pass 2D Pass 2N
+Pass 3C Pass 3S
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKQ7.932.8.A8765 92.Q7.AT963.KQT3 T83.KT5.KQ42.J42 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass Pass 1C 1D
+1N 2D 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKQ7.932.8.A8765 92.Q7.AT963.KQT3 T83.KT5.KQ42.J42 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass Pass 1C 1D
+1N 2C Pass 2D
+Pass Pass 2S Pass
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A963.653.AK98.76 QT2.82.J654.KQJ9 75.AJT97.QT.A542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A963.653.AK98.76 QT2.82.J654.KQJ9 75.AJT97.QT.A542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 643.AKT64.87.T75 QJ82.QJ9873.6.AK 975.52.AKJT53.J3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass 2D Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 643.AKT64.87.T75 QJ82.QJ9873.6.AK 975.52.AKJT53.J3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass 1H Pass 1N
+Pass 2H Pass 2S
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q975.QJ762.Q98.8 J86.T53.AJ764.T2 T43.A4.3.AQJ7654 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1C 1N 2C
+2D 2S 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q975.QJ762.Q98.8 J86.T53.AJ764.T2 T43.A4.3.AQJ7654 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1C 1N 2C
+2D 3C 3D Pass
+Pass 3S 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ.Q95.AJ98753.4 T985.J862.T4.K32 J3.T43.2.AQT9765 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+3C X Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ.Q95.AJ98753.4 T985.J862.T4.K32 J3.T43.2.AQT9765 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass 1S 2D 3S
+Pass Pass 4D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJT72.7543.K96.A Q9863.Q96.754.T5 A5.JT8.QJT32.J74 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1C 1D Pass Pass
+2C 2H 2S Pass
+3C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJT72.7543.K96.A Q9863.Q96.754.T5 A5.JT8.QJT32.J74 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1C 1S Pass 1N
+X Pass Pass 2D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKT8763.QJ.T.K97 9.A942.AK862.A54 J42.KT76.9753.Q8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1S X Pass 2C
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKT8763.QJ.T.K97 9.A942.AK862.A54 J42.KT76.9753.Q8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1S X 2S Pass
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16,BOARD 16"]
+[West "Soloway"]
+[North "Jacobs"]
+[East "Hamman"]
+[South "Katz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJ4.87632.QT75.8 T2.AJ5.AKJ84.653 A975.K94.3.AKQJ4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+1D X Pass 1H
+Pass 2D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+

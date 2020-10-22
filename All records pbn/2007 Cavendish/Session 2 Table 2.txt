@@ -1,0 +1,790 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ3.KQT42.J8.AJ8 AT6.753.Q932.K42 K985.J98.AK754.6 742.A6.T6.QT9753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2H Pass 2N Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "W"]
+H4 H5 H8 HA
+HQ H7 H9 H6
+SQ SA S5 S2
+H2 H3 HJ C5
+DJ DQ D4 D6
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q4.962.T64.AQJ54 K9872.Q5.J82.K92 J.AK873.KQ73.863 AT653.JT4.A95.T7 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 1H
+1S 2H 2N Pass
+3S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 96.AQT87.632.KQ3 AKQ854.2.KJ84.J9 J3.J53.AT95.A876 T72.K964.Q7.T542 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 1S X Pass
+2C 2S 3H 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKQ2.T92.J87.T52 J9.A854.QT64.863 87653.K76.A52.A7 T4.QJ3.K93.KQJ94 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1C Pass
+1D an he 1S
+X 2H Pass 3H
+Pass 3S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ.A753.J62.AJ98 T54.J9.KT87.K763 Q9.KQT862.954.Q5 A87632.4.AQ3.T42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2H 2S 2N 3S
+Pass Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ6.95.T732.7654 A7.64.AKQ.AKQT98 T985432.J73.J32.Q AKQT82.J98654."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+4H Pass 4N Pass
+5S Pass 7N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q2.KJ83.KQ87.J97 KJT873.Q6.J64.52 5.AT975.A95.T643 A964.42.T32.AKQ8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D 1S X 2D
+2H Pass 4H 4S
+Pass Pass 5H X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9.QJ42.AQT532.Q4 AQT8.973.6.97652 J7643.5.KJ74.A83 K52.AKT86.98.KJT "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1H 2D
+2H 3H X Pass
+4H 4S Pass 5D
+Pass Pass Pass an
+af
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q986.AJT954.962.A74 K732.JT43.T3.T3 86.KQ987.AQJ8.KJ52 Q.A652.K754."]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D Pass 1H Pass
+2C Pass 2H Pass
+Pass X Pass 2S
+Pass Pass X 3D
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q9864.Q3.JT6.JT2 K53.K87.AKQ3.K53 AT.96542.942.Q64 J72.AJT.875.A987 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1N an
+he  b 00  t
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q9432.985.A.K763 JT5.J7.JT964.AT8 AK.QT43.KQ.QJ952 876.AK62.87532.4 "]
+[Declarer "W"]
+[Contract "7"]
+[Result "14"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1550"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+3C Pass 4C Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A5.9753.T762.QT4 T94.QJT84.J43.K3 K7.K2.AKQ85.A762 QJ8632.A6.9.J985 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 2N Pass 3C
+Pass 3N an no
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q8.43.QT643.KT65 976542.K96.A9.A4 QJ852.J7.J98732. AKJT3.AT7.K852.Q "]
+[Declarer "S"]
+[Contract "5X"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S Pass 2N
+an sP Pass 3C
+an sh Pass 3S
+Pass 3N an se
+Pass 4C Pass 4D
+Pass 4H X XX
+Pass 4N Pass 5D
+Pass 5N Pass 6S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K2.A976.K86.AJ54 T96.K854.AQ952.8 AQ874.Q2.JT7.Q97 J53.JT3.43.KT632 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 1D 1S
+Pass 1N an st
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T64.QT953.T7432.K92 J.A865.KJT43.Q8753 762.Q9865..AJ AK84.KQJ9.A72."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C an ma
+Pass 1H Pass 1N
+Pa 2D an GF
+Pass 3C Pass 4D
+an RK Pass 4N
+an 2  Pass 6N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T8764.Q3.Q987.Q3 K952.952.5.AJ952 AJ3.AJT7.AKT6.64 Q.K864.J432.KT87 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C an st
+2C Pass 4S X
+4N X 5C X
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 32.KJT4.A932.KJ5 K65.Q753.65.AQT9 QJ4.A92.KT8.8432 AT987.86.QJ74.76 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1C Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 943.QJ.KJT76.T75 Q852.A652.A.QJ96 AKT76.983.Q943.K J.KT74.852.A8432 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C 1S
+X 2S 3H Pass
+4H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 4.973.AJT54.QJ62 KQT62.J85.K83.75 J98.AT.Q97.KT843 A753.KQ642.62.A9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+3D Pass 4D X
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 43.Q2.AQ9.AQJT43 KJT8652.8.T8753.97 KT9754.62.K75. AQ.AJ63.KJ4.9862 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+3S Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQJT76.J632.J4.3 K982.AQ54.AK5.94 543.T8.T2.AKJT82 .K97.Q98763.Q765 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+3C Pass Pass X
+Pass 5D Pass an
+th Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q93.J5.AJ642.642 4.KQ873.9853.A93 AT762.T6.KQT.K75 KJ85.A942.7.QJT8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C an ma 1D
+1S an sh X
+2H an 4  2S
+4H 4S X Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ2.AQ2.JT6.Q986 9864.5.Q987.KJ72 T53.T9843.AK4.53 KJ7.KJ76.532.AT4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 92.JT863.QT92.KT AJ73.AKQ7.K763.6 8654.942.QJ8742.KQT 5.AJ854.A953."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D Pass 2D an
+fo Pass 4C an
+sh Pass 4N Pass
+5D Pass 7D X
+7N Pass Pass X
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT5.KJ5.Q743.KT3 K762.AT9742.T2.9 Q4.Q86.AKJ6.8652 J983.3.985.AQJ74 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C an al Pass
+2N an al Pass
+3C an al Pa
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Giubilo"]
+[North "Casen"]
+[East "Versace"]
+[South "Krekorian"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q8.943.K932.7643 KJT962.KJ.Q7.K82 A753.AT85.J4.QT5 4.Q762.AT865.AJ9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2S Pass
+2N Pass Pass Pass
+[Play "None"]
+*
+
+

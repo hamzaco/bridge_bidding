@@ -1,0 +1,943 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT76.Q8.A9.AK963 A94.K943.QJ42.74 KJ.AT652.87.QJ52 8532.J7.KT653.T8 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "N"]
+1H Pass 1S Pass
+2C Pass 2N Pass
+3N Pass 4C Pass
+4H Pass 5C Pass
+Pass Pass
+[Play "E"]
+DA D2 D8 D3
+S6 SA SK S2
+D9 DQ D7 D6
+C3 C4 CQ C8
+C6 C7 CJ CT
+S7 S4 SJ S3
+CA S9 C5 S8
+SQ D4 H2 S5
+ST DJ H5 D5
+CK H3 C2 DT
+HQ HK HA H7
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q5.AT762.A8.KJ87 KT8.K43.KJ42.Q32 7632.Q5.T973.AT5 AJ94.J98.Q65.964 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "8"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2C Pass 2H
+Pass Pass Pass
+[Play "E"]
+D8 D4 D3 D5
+H2 HK H5 H8
+S5 S8 S2 SA
+DA D2 D7 D6
+H6 H4 HQ H9
+C7 CQ CT C4
+H7 DK D9 DQ
+HA H3 S3 HJ
+C8 C2 CA C6
+CJ C3 C5 C9
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT63.AKT94.K954.AKJ5 K98752.72.J.9832 Q.Q63.AQT86.QT764 A4.J85.732."]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "S"]
+1D 1H X Pass
+2C Pass 3C Pass
+Pass Pass
+[Play "W"]
+H6 H7 HQ HA
+CQ C3 C4 CJ
+C9 H9 C6 C2
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K963.975.QT7432.AQ8 AKT532.K83.6.JT7542 9.AQ6.KJ8. QJ8764.JT42.A95."]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "W"]
+1H 1S 3S an
+H   v 4S 4N
+Pass 5D an 1 
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T8.A742.AKJ62.JT AJ6432.8.Q8.Q752 Q75.KQJT3.T93.64 K9.965.754.AK983 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "N"]
+Pass Pass 1D 2S
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ.T83.A97542.85 84.J52.K.AKQT973 AQ7632.AQ6.JT.J4 T95.K974.Q863.62 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "E"]
+Pass Pass 3C 3S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A5.KJT852.54.Q85 K72.AQ.JT863.AT9 QJ943.73.AK7.J43 T86.964.Q92.K762 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "S"]
+2D an mu X
+XX Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J6.32.QJ632.6532 AQ32.QJ85.K94.K9 KT54.AK74.AQJ74.987 T96.AT875.T8."]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "W"]
+1H X Pass 2D
+X! an ta 2N
+Pass 3C Pass 5C
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKQ654.76.Q9.AJ8 T82.A.JT7532.975 J7.QJ84.A86.Q642 93.KT9532.K4.KT3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "N"]
+Pass 2D an mu
+2H an 12  5
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T8.A765.KQ75.876 AK754.84.T42.QJ3 Q3.Q93.J96.KT542 J962.KJT2.A83.A9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "E"]
+1N an 12 Pass
+2C X 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 8732.Q986.AT.T85 A9.AK.K982.QJ963 KQ4.543.QJ63.K72 JT65.JT72.754.A4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 2D an 20
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 9843.K4.A97.KQJ3 Q.97.QJ6532.T765 JT7.QJT86532.84.AK652 A.KT84.A92."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "W"]
+Pass Pass 1S Pass
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A874.K652.Q62.K2 Q.AQ873.A97.J865 JT.J94.KJT.AT743 K96532.T.8543.Q9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "N"]
+Pass 2D an mu
+Pa an we 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 72.K92.A9854.K87 KT983.JT843.Q.63 QJ654.AQ6.J72.95 A.75.KT63.AQJT42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "E"]
+1C 1D 1S Pass
+2C Pass Pass 2D
+2N Pass 3H Pass
+3N Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ6.K753.AJ7.JT2 Q852.4.KQ84.AQ87 K94.QJ82.63.9653 T73.AT96.T952.K4 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "S"]
+1C an Pa 1D
+Pass 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A54.AQT74.J3.A94 QJ3.96.K875.JT52 KT98.J832.Q8763.762 K5.AQT9642.K."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "W"]
+Pass Pass 1D 1H
+3D an 7-  4
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q7.AKJ865.JT76.J KT86.32.Q9.K8763 A9542.T97.AK4.92 J3.Q4.8532.AQT54 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "N"]
+1C Pass 1N an
+fo Pass 2C an
+12 X 2D 3C
+3S Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J764.A8.AQ3.Q987 AT853.QJ.KT864.A Q92.K432.J2.JT52 K.T9765.975.K643 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "E"]
+Pass 1C an Ro
+2C an 5- Pass
+2D an to Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ762.A.A863.QT T3.QT73.KQT.A653 985.K52.5.KJ8742 Q4.J9864.J9742.9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "S"]
+1S X Pass 2H
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQJ.J76.QT6.Q932 98754.KQ.AK72.K8 T63.T4.98.AJT764 K2.A98532.J543.5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "W"]
+1S Pass 2H Pass
+3N an 15  5
+ 2 Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A963.Q6.KQ53.QT2 K8.A985.976.J543 QJ5.JT4.JT82.K98 T742.K732.A4.A76 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "N"]
+Pass 1N an 12
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AJ6.T2.AJ65.T742 Q9874.K53.92.865 K2.AJ76.T73.KQJ3 T53.Q984.KQ84.A9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "E"]
+Pass Pass Pass 1C
+X 1S an 9-
+ 4 Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 854.T9.KJ87.8752 AJ2.752.AQ654.T9 Q76.AQJ864.92.KJ KT93.K3.T3.AQ643 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "S"]
+Pass 1N an 12
+2H X! an ta
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 5.JT952.KT74.986 J732.A84.Q532.KT A98.KQ7.96.QJ732 KQT64.63.AJ8.A54 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "W"]
+Pass 1C 1S Pass
+3C an in X
+an 14 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q97.QT.KT9762.53 J52.A875.A8.AQJ8 83.62.QJ543.KT72 AKT64.KJ943.964."]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "N"]
+Pass 1S 2D X!
+4D 4H Pass 4N
+5D 6H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A9.AJ6.AJT3.AT92 KJ64.73.952.6543 QT942.K876.KQJ7. QT87532.K85.Q4.8 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "E"]
+2D an mu 2N
+Pass 3C an as
+Pass 3D Pass 3H
+an 4+ Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 4.KJ72.A6543.Q73 J865.Q954.K7.842 AKT972.A8.JT2.T5 Q3.T63.Q98.AKJ96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "S"]
+Pass Pass 1S 2C
+2D Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K732.4.AJT9542.2 QT964.KT97.K73.4 5.AQJ65.86.KJT93 AJ8.832.Q.AQ8765 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "W"]
+Pass 1H 2C X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K74.QJ732.AK93.2 JT9862.6.J84.J63 3.K85.T62.AT9875 AQ5.AT94.Q75.KQ4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "N"]
+Pass 1H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ852.KT.A75.Q82 JT94.52.K862.J96 73.AQ864.T94.AK5 A6.J973.QJ3.T743 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Czech Open"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Kopriva"]
+[North "Krzeszowsk"]
+[East "Svoboda"]
+[South "Krzeszowsk"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 763.KQ62.865.A84 QJT985.A7.KJT4.6 AK4.JT84.932.J95 2.953.AQ7.KQT732 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Tulip"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Prapar"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+

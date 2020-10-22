@@ -1,0 +1,501 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A87.AQ752.962.J6 J63.KJ93.A43.A97 K94.T86.QJT87.54 QT52.4.K5.KQT832 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C 1H 3N
+Pass Pass Pass
+[Play "N"]
+D6 DA DQ D5
+C6 C7 C4 CK
+CJ CA C5 C2
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T5.A963.KJ94.J62 A932.KQ82.5.AQ97 J86.74.AQ872.T83 KQ74.JT5.T63.K54 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C 1D
+1S 2C 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q.T9532.K43.JT84 T86.J84.JT972.96 AK75432.KQ7.8.32 J9.A6.AQ65.AKQ75 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 4S 4N
+Pass 5D X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 85.AK42.AK3.AQ42 JT73.JT.Q986.J95 642.97.J7542.873 AKQ9.Q8653.T.KT6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1H X
+Pass 2D Pass 2H
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 6542.Q94.8653.JT AQ3.AK5.AK9.A863 87.8632.42.KQ942 KJT9.JT7.QJT7.75 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 2D
+Pass 2H Pass 2N
+Pass 3C Pass 3N
+Pass 4N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ965.AQJ4.3.AT AT74.65.K5.QJ983 32.K9872.T82.765 8.T3.AQJ9764.K42 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D X XX 1H
+2D 3H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT93.J7.KQ75.QJT J86.KT6.JT3.9875 K5.AQ54.A864.642 A742.9832.92.AK3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2D Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K32.K32.J7642.K5 A95.A5.AQT3.T983 J64.JT864.K5.642 QT87.Q97.98.AQJ7 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT3.KQ86.Q743.J4 86.AJ2.AT2.AT876 Q97.T9754.65.Q53 KJ542.3.KJ98.K92 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S X XX
+2H Pass Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T5.T973.AQ92.865 KQJ9873.K2.3.A94 A642.A854.85.T72 .QJ6.KJT764.KQJ3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1S Pass
+2C Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T.AT9842.T54.K54 QJ.KQ763.AJ873.T K9865.5.Q.J97632 A7432.J.K962.AQ8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2H Pass Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 8762.A54.K865.KQ 3.Q832.QJ974.A73 AK9.T976.2.J6542 QJT54.KJ.AT3.T98 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1S Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQT9.4.J843.T864 83.KQ9873.95.K32 KJ2.AT5.K7.AQJ95 7654.J62.AQT62.7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C Pass 1D 1H
+2N Pass 3S Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK92.J3.K874.AQ4 Q764.Q9.Q652.KT3 J53.AK62.A3.J876 T8.T8754.JT9.952 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ.76432.943.J94 AT852.AT98.T72.3 Q764.J5.AQ85.KT6 93.KQ.KJ6.AQ8752 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1D 1N
+Pass 2C Pass 2D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A973.QT62.K.QJ97 KJ4.K.AQJ73.T632 Q85.A4.T854.AK54 T62.J98753.962.8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N Pass 2D Pass
+2H Pass Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Olrud Easter Festival"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Homme"]
+[North "Berset"]
+[East "Homme"]
+[South "Paulsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A8752.875.A632.4 T963.J94.T8.T873 KQ4.Q63.Q9.KQJ95 J.AKT2.KJ754.A62 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N 2H X Pass
+3C Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+

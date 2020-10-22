@@ -1,0 +1,746 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K8.T.A95.K976543 J3.KJ987643.84.8 AQT42.Q5.KQJ6.Q2 9765.A2.T732.AJT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +710"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 2C 4H X
+Pass 5C Pass Pass
+Pass
+[Play "W"]
+S8 SJ SQ S7
+C4 C8 C2 CA
+HT H4 H5 HA
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K8.T.A95.K976543 J3.KJ987643.84.8 AQT42.Q5.KQJ6.Q2 9765.A2.T732.AJT "]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1C 4H X
+Pass 5C Pass Pass
+Pass
+[Play "E"]
+D9 D8 D6 D2
+SK S3 S2 S5
+S8 SJ SA S6
+HT C8 SQ S7
+DA D4 DJ D3
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ3.AQJT6.K2.KQ9 J752.953.Q75.JT7 T986.2.JT8.86532 K4.K874.A9643.A4 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1C Pass 1D Pass
+2N Pass 3C Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ3.AQJT6.K2.KQ9 J752.953.Q75.JT7 T986.2.JT8.86532 K4.K874.A9643.A4 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+2C Pass 2D Pass
+2N Pass 3C Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K976.KQT5.AQJ.T2 A8.9873.T32.QJ87 QT43.2.9854.K965 J52.AJ64.K76.A43 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+Pass Pass 1C X
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K976.KQT5.AQJ.T2 A8.9873.T32.QJ87 QT43.2.9854.K965 J52.AJ64.K76.A43 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+Pass Pass 1D an
+2+ 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 62.T8543.932.A65 J873.AK72.K6.K92 Q5.QJ6.AQJT4.Q73 AKT94.9.875.JT84 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1N 2S an 5!
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 62.T8543.932.A65 J873.AK72.K6.K92 Q5.QJ6.AQJT4.Q73 AKT94.9.875.JT84 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1D 1S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J6.62.AKQ.AQ9832 A8.KQT543.9754.7 T742.A98.JT82.T6 KQ953.J7.63.KJ54 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1C 1H Pass
+an ! 1S 2C
+2H 2S Pass 3C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J6.62.AKQ.AQ9832 A8.KQT543.9754.7 T742.A98.JT82.T6 KQ953.J7.63.KJ54 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1C 1H X
+1S 3C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT642.Q8.AQ63.Q9 Q985.T53.T92.J54 KJ42.J85.AKT832. AK73.A976.K74.76 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1S Pass 2C Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT642.Q8.AQ63.Q9 Q985.T53.T92.J54 KJ42.J85.AKT832. AK73.A976.K74.76 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass Pass 1C X
+XX 1S 2C 2S
+Pass Pass 3H Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A.AQJ42.AQ2.QT64 742.K87.J98.K752 KJT983.95.KT.AJ9 Q65.T63.76543.83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 2S Pass 2N
+Pass 3N Pass 4N
+Pass 6S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A.AQJ42.AQ2.QT64 742.K87.J98.K752 KJT983.95.KT.AJ9 Q65.T63.76543.83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 2S Pass 2N
+Pass 3S Pass 4C
+X 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9.JT862.AJT.7543 AJT7632.4.65.AT8 Q85.AK75.942.J92 K4.Q93.KQ873.KQ6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 1N Pass 2H
+an !s Pass 2S
+an ! Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9.JT862.AJT.7543 AJT7632.4.65.AT8 Q85.AK75.942.J92 K4.Q93.KQ873.KQ6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 1N Pass 2H
+an Xf Pass 2S
+Pass 4H an Mi
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T3.KQJ743.KQ2.QJ AK752.T8.J864.97 Q964.A2.AT3.T654 J8.965.975.AK832 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1H 1S 1N
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T3.KQJ743.KQ2.QJ AK752.T8.J864.97 Q964.A2.AT3.T654 J8.965.975.AK832 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1H 1S 1N
+Pass 2H Pass 2S
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T7.43.KJT8642.86 43.KT.AQ5.KQJ954 9862.AQJ965.7.32 AKQJ5.872.93.AT7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+3D 3N Pass 6N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T7.43.KJT8642.86 43.KT.AQ5.KQJ954 9862.AQJ965.7.32 AKQJ5.872.93.AT7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+3D 3N Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJT8.98.9542.742 Q62.Q32.KQJT.QJ8 743.AKT65.A.A965 K95.J74.8763.KT3 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1N an 10 X
+Pa Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJT8.98.9542.742 Q62.Q32.KQJT.QJ8 743.AKT65.A.A965 K95.J74.8763.KT3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1D an 2+ 1H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ875.A75.75.KJ3 94.J82.Q64.AT982 KJT.KQT96.KJ32.7 632.43.AT98.Q654 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1020"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ875.A75.75.KJ3 94.J82.Q64.AT982 KJT.KQT96.KJ32.7 632.43.AT98.Q654 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1H Pass 1S Pass
+2S Pass 2N an
+As Pass 3D an
+3  Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Madala"]
+[North "Greco"]
+[East "Bocchi"]
+[South "Hampson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J65.T7.K9642.A82 AQT84.J6.853.K54 K72.Q84.QJT.J763 93.AK9532.A7.QT9 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Diamond"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1H Pass 1S Pass
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+

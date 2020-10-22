@@ -1,0 +1,914 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ92.65.A9.A9876 A8653.84.854.KQT T74.QT73.QT72.54 Q.AKJ92.KJ63.J32 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "N"]
+Pass 1H X 1S
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "S"]
+CA CT C5 C3
+C7 CK C4 CJ
+H5 H4 H3 HJ
+H6 H8 H7 HA
+C9 D4 HT HK
+SK SA S4 SQ
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ92.65.A9.A9876 A8653.84.854.KQT T74.QT73.QT72.54 Q.AKJ92.KJ63.J32 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q64.JT54.A8654.4 AK9875.2.K3.KT72 J2.AKQ987.T7.AJ6 T3.63.QJ92.Q9853 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "E"]
+Pass Pass 1S X
+Pass 2H 2S 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q64.JT54.A8654.4 AK9875.2.K3.KT72 J2.AKQ987.T7.AJ6 T3.63.QJ92.Q9853 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "E"]
+Pass Pass 1S 2H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q.T82.9874.AKT92 KJ853.A3.QT6.J74 A974.K9754.A3.Q6 T62.QJ6.KJ52.853 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "S"]
+Pass Pass 1H Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q.T82.9874.AKT92 KJ853.A3.QT6.J74 A974.K9754.A3.Q6 T62.QJ6.KJ52.853 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "S"]
+Pass Pass 1H Pass
+2C an DX Pass
+2D an am Pass
+2H Pass 2S an
+na Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T9.AKT9432.T.KT8 AQ5432.J75.KJ2.4 876.Q6.Q97643.97 KJ.8.A85.AQJ6532 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "W"]
+1S Pass 2C 3H
+Pass Pass X an
+  Pass 3S Pass
+5C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T9.AKT9432.T.KT8 AQ5432.J75.KJ2.4 876.Q6.Q97643.97 KJ.8.A85.AQJ6532 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "W"]
+6C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ83.K5.JT5.AJ98 Q76.J632.AK987.4 A9.874.643.K7532 T542.AQT9.Q2.QT6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "N"]
+Pass Pass 1C 1D
+3C X Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ83.K5.JT5.AJ98 Q76.J632.AK987.4 A9.874.643.K7532 T542.AQT9.Q2.QT6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "N"]
+Pass Pass 1C 1D
+2C X Pass 2H
+Pass Pass 2S Pass
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT942.J75.32.QJ6 Q86.T98.AKJ.KT84 AJ73.2.Q8654.953 5.AKQ643.T97.A72 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "E"]
+1H Pass 2N an
+  Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT942.J75.32.QJ6 Q86.T98.AKJ.KT84 AJ73.2.Q8654.953 5.AKQ643.T97.A72 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "E"]
+1H 1S X 4S
+Pass Pass X Pass
+5H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 942.A63.AKQ8.982 AT3.K42.963.AKQ3 QJ.Q97.JT72.JT74 K8765.JT85.54.65 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "S"]
+1D X 1N 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 942.A63.AKQ8.982 AT3.K42.963.AKQ3 QJ.Q97.JT72.JT74 K8765.JT85.54.65 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "S"]
+1D X 1N 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 874.9.AKT5.T7432 T.Q8763.Q64.AJ96 KQJ962.52.J873.K A53.AKJT4.92.Q85 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "W"]
+Pass 2S 3H Pass
+3S Pass 3N Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 874.9.AKT5.T7432 T.Q8763.Q64.AJ96 KQJ962.52.J873.K A53.AKJT4.92.Q85 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "W"]
+Pass 1S 2H 2S
+4C 4S X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 64.KQ6.A93.QJ763 KT.T54.J652.T842 QJ9732.A.KQT8.A9 A85.J98732.74.K5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 64.KQ6.A93.QJ763 KT.T54.J652.T842 QJ9732.A.KQT8.A9 A85.J98732.74.K5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 3N Pass
+4N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 653.865.753.J972 A94.QT3.JT2.AKQ5 KT872.AKJ92.84.6 QJ.74.AKQ96.T843 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "E"]
+1D Pass 2C 2D
+Pass 2H 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 653.865.753.J972 A94.QT3.JT2.AKQ5 KT872.AKJ92.84.6 QJ.74.AKQ96.T843 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "E"]
+1D Pass 2C 2D
+3C Pass 3D Pass
+4C Pass 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT42.T.93.QJ752 K9765.9643.T5.AT 83.AQJ7.QJ862.94 Q.K852.AK74.K863 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "S"]
+Pass Pass 1D 1H
+1S 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT42.T.93.QJ752 K9765.9643.T5.AT 83.AQJ7.QJ862.94 Q.K852.AK74.K863 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass Pass X
+2C 2H Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q87432.Q9852.6.2 KT6.K7.KQ54.QT43 J95.64.J87.A9765 A.AJT3.AT932.KJ8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "W"]
+1D Pass 1H Pass
+1N Pass 2C Pass
+2D Pass 3C Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q87432.Q9852.6.2 KT6.K7.KQ54.QT43 J95.64.J87.A9765 A.AJT3.AT932.KJ8 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "W"]
+1D Pass 1H Pass
+1N Pass 6D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQT3.J.J764.AT93 J.Q843.KT9.KQ762 8754.AT6.AQ52.J8 K962.K9752.83.54 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2S Pass
+2N Pass 3C X
+3D Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQT3.J.J764.AT93 J.Q843.KT9.KQ762 8754.AT6.AQ52.J8 K962.K9752.83.54 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2S Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q95.Q53.KJT6.J98 AK8.AK97.A972.Q6 JT7632.4.Q3.AKT3 4.JT862.854.7542 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "E"]
+Pass Pass 2N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q95.Q53.KJT6.J98 AK8.AK97.A972.Q6 JT7632.4.Q3.AKT3 4.JT862.854.7542 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "E"]
+Pass Pass 2N Pass
+3D Pass 3H an
+XX Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ62.93.KT96.JT5 987.KQ764.Q8.K96 KT5.JT.AJ54.A843 Q43.A852.732.Q72 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ62.93.KT96.JT5 987.KQ764.Q8.K96 KT5.JT.AJ54.A843 Q43.A852.732.Q72 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Grenthe"]
+[North "Perez"]
+[East "Vanhoutte"]
+[South "Mohtashami"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K.AKT82.AQ653.Q6 QT532.J95.98.A72 AJ98.Q7.JT74.J85 764.643.K2.KT943 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Mohtashami"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grenthe"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 1S Pass 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+

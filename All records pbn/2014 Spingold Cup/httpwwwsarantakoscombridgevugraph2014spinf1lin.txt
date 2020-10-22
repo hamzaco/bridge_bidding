@@ -1,0 +1,955 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 7.AK653.A.K96532 QT542.T87.K84.Q8 AK6.QJ42.QJ762.A J983.9.T953.JT74 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1D Pass 2C Pass
+2H Pass 3H Pass
+3N Pass 4N Pass
+5S Pass 7H Pass
+Pass Pass
+[Play "E"]
+S7 SQ SA S8
+C2 C8 CA C4
+DA D4 D2 D5
+C3 CQ H2 C7
+H3 H8 HQ H9
+HA H7 H4 S3
+C5 S2 HJ CT
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 7.AK653.A.K96532 QT542.T87.K84.Q8 AK6.QJ42.QJ762.A J983.9.T953.JT74 "]
+[Declarer "S"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1D Pass 1H Pass
+4H Pass 4S an
+! Pass 5H an
+2  Pass 7H Pass
+Pass Pass
+[Play "W"]
+H3 H7 HQ H9
+C6 C8 CA C7
+HK HT H2 S9
+C2 CQ H4 C4
+DA D4 D2 D3
+C3 S2 HJ CT
+S7 S4 SA S3
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK2.T92.KJ964.T9 JT974.KJ7.7.AQ84 8.AQ8653.T5.K762 Q653.4.AQ832.J53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass Pass 1S 2H
+4D an !X X
+4S Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK2.T92.KJ964.T9 JT974.KJ7.7.AQ84 8.AQ8653.T5.K762 Q653.4.AQ832.J53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1D an !
+1S 2H an fo
+4S X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 3.KQJT962.T8.T94 AQJ865.A5.7.KJ75 T4.8743.J943.Q82 K972.AKQ652.A63."]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+4H 4S 5H 7S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 3.KQJT962.T8.T94 AQJ865.A5.7.KJ75 T4.8743.J943.Q82 K972.AKQ652.A63."]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+3H 4S Pass 7S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 5.QT754.J754.862 Q984.86.KT62.K73 J2.KJ32.98.QJ954 AKT763.A9.AQ3.AT "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 2S Pass
+3N an 4  Pass
+4C Pass 4D Pass
+4N Pass 5C Pass
+5N Pass 6C an
+!c Pass 6D an
+3X Pass 6S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 5.QT754.J754.862 Q984.86.KT62.K73 J2.KJ32.98.QJ954 AKT763.A9.AQ3.AT "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+Pass Pass 2C an
+st Pass 2D Pass
+2S Pass 3S Pass
+3N an bi Pass
+4C Pass 4D an
+! Pass 5D Pass
+5H Pass 6S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q87.Q5.A73.KJ952 KT95.942.JT96.T3 632.KT6.K82.A876 AJ4.AJ873.Q54.Q4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass 1H Pass 1N
+an F1 Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q87.Q5.A73.KJ952 KT95.942.JT96.T3 632.KT6.K82.A876 AJ4.AJ873.Q54.Q4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass 1N an 15
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9.KJ82.AKJ84.A84 KQT6.96.972.KJT2 AJ842.AQ75.T63.3 753.T43.Q5.Q9765 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2D Pass 2H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9.KJ82.AKJ84.A84 KQT6.96.972.KJT2 AJ842.AQ75.T63.3 753.T43.Q5.Q9765 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2D Pass 2H
+an ! Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A85.98.KQ964.KQ3 QT74.QJT5.JT.J87 J96.763.32.T9654 K32.AK42.A875.A2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1D Pass Pass X
+Pass 1S Pass 1N
+Pass 2N Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A85.98.KQ964.KQ3 QT74.QJT5.JT.J87 J96.763.32.T9654 K32.AK42.A875.A2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1D an ! Pass
+Pass X Pass 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9852.T64.542.K98 J4.QJ9873.9.QJ62 KT3.A52.J86.T753 AQ76.K.AKQT73.A4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+2H Pass 3D Pass
+3H Pass 3S Pass
+3N Pass 4C Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9852.T64.542.K98 J4.QJ9873.9.QJ62 KT3.A52.J86.T753 AQ76.K.AKQT73.A4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+3H Pass 4C an
+sl  X Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K82.K72.T8732.J6 T73.AQJ53.QJ.A98 QJ654.T4.95.KT42 A9.986.AK64.Q753 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "4"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -250"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+2S an !s Pass
+3C an Pa Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K82.K72.T8732.J6 T73.AQJ53.QJ.A98 QJ654.T4.95.KT42 A9.986.AK64.Q753 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ86.K92.T5.Q965 T743.QT4.98.J743 A952.A653.KJ72.2 J.J87.AQ643.AKT8 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1D Pass 1S Pass
+2C Pass Pass X
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ86.K92.T5.Q965 T743.QT4.98.J743 A952.A653.KJ72.2 J.J87.AQ643.AKT8 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1D Pass Pass 1N
+an ! Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A532.A.K853.AQT4 4.9876543.QT9.K2 KQJ98.KQJ.64.J65 T76.T2.AJ72.9873 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1D 2H X Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A532.A.K853.AQT4 4.9876543.QT9.K2 KQJ98.KQJ.64.J65 T76.T2.AJ72.9873 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1D Pass 1S Pass
+3H an sh  g
+Pass 3N an !
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKJ542.Q65.Q75.2 83.T942.J2.T9875 Q97.K73.AK6.KQJ4 T6.AJ8.T9843.A63 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+Pass 1C Pass 1H
+an !s Pass 2N
+Pass 3H an tX
+Pass 3S Pass 4C
+Pass 4D Pass 4S
+Pass 4N Pass 5H
+Pass 5S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKJ542.Q65.Q75.2 83.T942.J2.T9875 Q97.K73.AK6.KQJ4 T6.AJ8.T9843.A63 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+Pass 1N Pass 2H
+an !s Pass 2S
+Pass 4C Pass 4D
+an ! Pass 4S
+Pass 4N Pass 5H
+Pass 5S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T62.KQ6.Q975.965 QJ98.T.KJ83.AJ84 A753.AJ9874.4.73 K4.532.AT62.KQT2 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass 1D Pass 1S
+2H Pass 3H X
+XX 4C Pass 5D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T62.KQ6.Q975.965 QJ98.T.KJ83.AJ84 A753.AJ9874.4.73 K4.532.AT62.KQT2 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+2D an ! Pass
+2H X Pass 3H
+X 3S Pass 4C
+Pass 5C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q94.2.KT654.Q976 AT82.AJ8.9872.32 J65.QT954.AQJ.J8 K73.K763.3.AKT54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1C 1D 1S X
+XX Pass Pass 2D
+2H Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q94.2.KT654.Q976 AT82.AJ8.9872.32 J65.QT954.AQJ.J8 K73.K763.3.AKT54 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1C Pass 1S Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A732.K764.T9865.96 JT98764.AKQ4.KT84.9532 5.J732.QJ5.AQJT8 AKQ32."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass 4D Pass 5C
+Pass 5D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A732.K764.T9865.96 JT98764.AKQ4.KT84.9532 5.J732.QJ5.AQJT8 AKQ32."]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass 1D Pass 4C
+an vo Pass 4H
+Pass 4N Pass 5C
+an 0  Pass 6D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Graves"]
+[North "Zimmermann"]
+[East "Schwartz"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KT3.832.A.A76532 QJ6.AKT7.KQJ62.4 A8754.9654.T8.QT 92.QJ.97543.KJ98 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "4"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -250"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1D Pass 3D an
+3- Pass Pass X
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+

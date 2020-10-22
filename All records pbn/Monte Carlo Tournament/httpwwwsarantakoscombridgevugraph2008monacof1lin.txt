@@ -1,0 +1,925 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 752.J5.AKQ63.J54 3.AK982.875.K962 6.T743.J942.AQ83 AKQJT984.Q6.T.T7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "N"]
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "N"]
+DQ D5 D4 DT
+C4 CK CA C7
+C5 C2 CQ CT
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 752.J5.AKQ63.J54 3.AK982.875.K962 6.T743.J942.AQ83 AKQJT984.Q6.T.T7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "N"]
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+DA D5 D4 DT
+DK D7 D2 S4
+S2 S3 S6 SA
+S5 D8 D9 SK
+S7 C2 H3 SQ
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A863.J.83.KJ7532 KT42.T43.A52.A86 QJ5.K852.T64.Q94 97.AQ976.KQJ97.T "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "E"]
+1H Pass 3D Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A863.J.83.KJ7532 KT42.T43.A52.A86 QJ5.K852.T64.Q94 97.AQ976.KQJ97.T "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "E"]
+1H Pass 2S Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T76.JT98.AT92.A2 J3.7432.KQ5.K865 952.AKQ5.J764.J3 AKQ84.6.83.QT974 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "S"]
+Pass Pass 1H 2H
+2S 3H Pass 3S
+4H 5C Pass Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T76.JT98.AT92.A2 J3.7432.KQ5.K865 952.AKQ5.J764.J3 AKQ84.6.83.QT974 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "S"]
+Pass Pass 1H 2H
+an P+ 4H 4N
+Pass 5C X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ.Q9764.K8.J652 KT9542.J3.974.A9 87.KT8.J65.KQT83 J63.A52.AQT32.74 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "W"]
+2D Pass 2N Pass
+3H Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ.Q9764.K8.J652 KT9542.J3.974.A9 87.KT8.J65.KQT83 J63.A52.AQT32.74 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "W"]
+Pass Pass 1D Pass
+1S Pass Pass X
+2S 3C 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 963.T9753.K8.KQ2 KJ87.AJ42.53.T53 T54.T7642.J9874.AQ2 KQ86.AQJ9.A6."]
+[Declarer "E"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "N"]
+Pass 2C Pass 2S
+Pass 2N Pass 3C
+Pass 3H Pass 3S
+Pass 3N Pass 4H
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 963.T9753.K8.KQ2 KJ87.AJ42.53.T53 T54.T7642.J9874.AQ2 KQ86.AQJ9.A6."]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "N"]
+Pass 2D an MU
+Pass 4D Pass 4N
+Pass 5C Pass 5H
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ.K972.J5.KJT43 T97.Q8.A832.Q987 53.A6543.KQ64.65 AJ8642.JT.T97.A2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "E"]
+1S X 2H 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ.K972.J5.KJT43 T97.Q8.A832.Q987 53.A6543.KQ64.65 AJ8642.JT.T97.A2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "E"]
+Pass 1C Pass 1H
+1S 2H 2S 3H
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A843.AK7.Q62.742 T762.Q632.K.AT93 KJ95.JT854.73.J6 Q.9.AJT9854.KQ85 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "S"]
+1C Pass 1H 2D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A843.AK7.Q62.742 T762.Q632.K.AT93 KJ95.JT854.73.J6 Q.9.AJT9854.KQ85 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "S"]
+1C Pass 1H 4D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A7.T54.987.AJ864 K98.63.AJ654.T95 QJT2.AKQJ92.T.KQ 6543.87.KQ32.732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "W"]
+Pass 1H Pass 2N
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A7.T54.987.AJ864 K98.63.AJ654.T95 QJT2.AKQJ92.T.KQ 6543.87.KQ32.732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "W"]
+Pass 1H Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT.AT876.98.9875 J876.932.AJ2.JT6 Q42.J.KT743.KQ32 K953.KQ54.Q65.A4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "N"]
+1D X 1H 1S
+Pass Pass X Pass
+2C 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT.AT876.98.9875 J876.932.AJ2.JT6 Q42.J.KT743.KQ32 K953.KQ54.Q65.A4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "N"]
+Pass 1D 1H X
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 852.KJT63.A8732.AKJT74 4.965.743.93 Q982.KJ4.J652. Q6.A75.QT.AKQT98 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "E"]
+1C 1H 1S an
+5  2H X 3H
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 852.KJT63.A8732.AKJT74 4.965.743.93 Q982.KJ4.J652. Q6.A75.QT.AKQT98 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -520"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "E"]
+1C 1H X 3H
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8.K65.T3.J76432 AQ965.A84.A986.A KJ742.92.542.KQ9 3.QJT73.KQJ7.T85 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2N Pass 3D
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8.K65.T3.J76432 AQ965.A84.A986.A KJ742.92.542.KQ9 3.QJT73.KQJ7.T85 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2N Pass 3D
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J9.52.KJ42.KQT76 K43.AQ943.98.J42 Q652.K76.AT65.A3 AT87.JT8.Q73.985 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "W"]
+Pass 1D Pass 3C
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J9.52.KJ42.KQT76 K43.AQ943.98.J42 Q652.K76.AT65.A3 AT87.JT8.Q73.985 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "W"]
+Pass 1D Pass 2C
+Pass 2N Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 65.AQ6.KQ843.K93 AKJ73.KT2.T62.82 QT82.987.J75.J64 94.J543.A9.AQT75 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "N"]
+Pass 1C 1D 2H
+Pass 2S Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 65.AQ6.KQ843.K93 AKJ73.KT2.T62.82 QT82.987.J75.J64 94.J543.A9.AQT75 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "N"]
+Pass 1C 1D 1H
+Pass 1N Pass 2D
+Pass 2H Pass 2S
+Pass 3C Pass 3D
+X XX Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T82.AK8.QJ.AQT98 QJ532.KT862.J76.KQJ7643 4.K5432.A95.T9764 A9753.."]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "E"]
+Pass 1N Pass 2H
+2S Pass 4H 4S
+X Pass 4N 5S
+Pass Pass 5N Pass
+6D X 6H Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T82.AK8.QJ.AQT98 QJ532.KT862.J76.KQJ7643 4.K5432.A95.T9764 A9753.."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "E"]
+Pass 1N 2H 3H
+3S Pass Pass 4S
+5H X Pass 5S
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT6.AK5.9763.J84 AJ743.Q86.QJ8.76 K952.J4.A4.AT932 8.T9732.KT52.KQ5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "S"]
+Pass Pass 1C Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT6.AK5.9763.J84 AJ743.Q86.QJ8.76 K952.J4.A4.AT932 8.T9732.KT52.KQ5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "S"]
+Pass Pass 1C Pass
+1N Pass Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Quantin"]
+[North "Gaviard J"]
+[East "Bompis"]
+[South "Bessis O"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K753.KT6.52.K974 QJT42.Q72.AK87.A 98.953.QJT943.32 A6.AJ84.6.QJT865 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "FUNBRIDGE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "STARSBRIDGE"]
+[Auction "W"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+3N Pass 4C Pass
+4D Pass 4N Pass
+5H Pass 6C Pass
+Pass Pass
+[Play "S"]
+*
+
+

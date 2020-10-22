@@ -1,0 +1,469 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ873.AQ.J9.J652 KT9.K8643.KT2.AT 64.T7.A764.K9743 J52.J952.Q853.Q8 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+P P 1S P
+1N P P P
+[Play "E"]
+HQ HK H7 H2
+HA H4 HT H9
+C2 CT CK C8
+C5 CA C3 CQ
+S3 H3 D4 HJ
+S7 H6 D6 H5
+S8 H8 S4 S2
+D9 DK DA D3
+CJ S9 C4 D5
+C6 D2 C7 S5
+DJ DT C9 D8
+SQ SK S6 SJ
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ873.AQ.J9.J652 KT9.K8643.KT2.AT 64.T7.A764.K9743 J52.J952.Q853.Q8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+P P 1S D
+P 2H P P
+P
+[Play "S"]
+C2 CT CK C8
+SA S9 S6 S2
+S3 ST S4 SJ
+HA H3 H7 H2
+S7 SK HT S5
+C5 CA C4 CQ
+HQ HK C3 H5
+D9 D2 D7 DQ
+DJ DK DA D3
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ7632.Q5.QJ97.K K85.A863.T632.A5 94.972.AK5.JT872 AT.KJT4.84.Q9643 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+P 2D P 2H
+P 2S P P
+D P 2N P
+3C P 3D P
+3H P P P
+[Play "S"]
+DJ D2 DK D8
+SJ SK S9 ST
+D7 D3 DA D4
+S2 S5 S4 SA
+CK CA C2 C4
+D9 D6 D5 H4
+H5 H3 H2 HK
+HQ HA H7 HT
+S3 S8 C7 HJ
+S6 C5 C8 CQ
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ7632.Q5.QJ97.K K85.A863.T632.A5 94.972.AK5.JT872 AT.KJT4.84.Q9643 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+P 1S P 1N
+P 2S P P
+D P 3H P
+P P
+[Play "N"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 76543.AKJ4.52.75 AJ982.T62.K93.AT Q753.AQT764.864. KQT.98.J8.KQJ932 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+2C P 4H P
+P P
+[Play "E"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 76543.AKJ4.52.75 AJ982.T62.K93.AT Q753.AQT764.864. KQT.98.J8.KQJ932 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+P 1S 3D D
+P 3N P 4S
+D P P P
+[Play "N"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T84.Q85.J843.AK9 65.K4.AKT96.J764 7.AJ9762.Q5.8532 AKQJ932.T3.72.QT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "W"]
+P 2D 2S D
+R 3H P P
+3S P P P
+[Play "S"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T84.Q85.J843.AK9 65.K4.AKT96.J764 7.AJ9762.Q5.8532 AKQJ932.T3.72.QT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "W"]
+1D 1H 2H 3H
+P P 4H P
+4S P P P
+[Play "N"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T83.AJ2.KQT75.Q4 J74.854.32.JT875 KQ96.93.J86.A632 A52.KQT76.A94.K9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+P 1N P 2C
+P 2H P P
+P
+[Play "S"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T83.AJ2.KQT75.Q4 J74.854.32.JT875 KQ96.93.J86.A632 A52.KQT76.A94.K9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+P 1H P P
+D P 2D P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K975.A54.63.AKT2 62.KQ732.JT2.963 T84.T986.K974.74 AQJ3.J.AQ85.QJ85 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+1D D P 1H
+D P 2D P
+P P
+[Play "S"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K975.A54.63.AKT2 62.KQ732.JT2.963 T84.T986.K974.74 AQJ3.J.AQ85.QJ85 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+1C P 1H P
+1S P 1N P
+2N P 3C P
+P P
+[Play "S"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ.654.QT542.AK5 A873.T73.K986.Q4 542.AK.A7.JT9876 QT96.QJ982.J3.32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+1N P 3N P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ.654.QT542.AK5 A873.T73.K986.Q4 542.AK.A7.JT9876 QT96.QJ982.J3.32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+1N P 3N P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Townsend"]
+[North "Duboin"]
+[East "Fu"]
+[South "Bocchi"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 4.A953.JT864.AQ6 KQJT.KJ862.9.K92 A983.QT.K732.J84 7652.74.AQ5.T753 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lavazza"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "W"]
+1H P 1S P
+2S P P 3D
+3S P P P
+[Play "S"]
+*
+
+

@@ -1,0 +1,72 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Jansma"]
+[North "Cohler"]
+[East "Ekeblad"]
+[South "Lev"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A43.762.Q7.AJ643 T8.KQJ.K9653.Q97 KQ6.T984.A8.KT85 J9752.A53.JT42.2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Cohler-Lev"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ekeblad-Jansma"]
+[Auction "W"]
+Pass 1C Pass 2D
+an cl Pass 3C
+Pass Pass Pass
+[Play "E"]
+S3 ST SK S2
+CA C7 C5 C2
+C3 C9 CK S5
+C4 CQ CT H5
+H2 HK HT H3
+H6 HQ H4 HA
+SA S8 S6 SJ
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Jansma"]
+[North "Cohler"]
+[East "Ekeblad"]
+[South "Lev"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK86.K75.42.AQ98 QT7.J32.AQ.K7432 2.AQ96.K987653.5 J9543.T84.JT.JT6 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Cohler-Lev"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Ekeblad-Jansma"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2S Pass
+3D Pass 3N Pass
+4D Pass 4H Pass
+4N Pass 5D Pass
+6D Pass Pass Pass
+[Play "None"]
+CA C2 C5 CJ
+*
+
+

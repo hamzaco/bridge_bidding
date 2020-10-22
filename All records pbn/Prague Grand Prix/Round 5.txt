@@ -1,0 +1,219 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Pokorna"]
+[North "Mraz"]
+[East "Kurka"]
+[South "Bahnikova"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQJT842.73.73.K6 A97.AT6.Q986.J74 KJ954.AJ4.T8532. 653.Q82.KT52.AQ9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Acol"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acolvik"]
+[Auction "N"]
+2H Pass 2S Pass
+3C Pass 3S Pass
+Pass Pass
+[Play "W"]
+D7 D8 D4 D2
+D3 D6 DA D5
+CA C6 C7 C2
+S2 D9 DJ DK
+SQ S7 H4 S6
+SK SA C3 S3
+S4 DQ H5 DT
+SJ S9 C5 S5
+ST C4 H9 H2
+CK CJ C8 C9
+H3 H6 HK H8
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Pokorna"]
+[North "Mraz"]
+[East "Kurka"]
+[South "Bahnikova"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQJT842.73.73.K6 A97.AT6.Q986.J74 KJ954.AJ4.T8532. 653.Q82.KT52.AQ9 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Acol"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acolvik"]
+[Auction "N"]
+[Play "E"]
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Pokorna"]
+[North "Mraz"]
+[East "Kurka"]
+[South "Bahnikova"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQJ92.KQ986.8.53 A8753.T74.T6.J86 T6.AJ.AQJ3.KQ742 4.532.K97542.AT9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Acol"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acolvik"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2H Pass 3D
+X 3H Pass 3N
+Pass Pass Pass
+[Play "E"]
+D8 DT DJ D5
+S2 S3 ST S4
+S9 SA S6 H5
+C3 D6 DA D2
+H6 H4 HA H2
+HK H7 HJ H3
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Pokorna"]
+[North "Mraz"]
+[East "Kurka"]
+[South "Bahnikova"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQJ92.KQ986.8.53 A8753.T74.T6.J86 T6.AJ.AQJ3.KQ742 4.532.K97542.AT9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Acol"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acolvik"]
+[Auction "E"]
+[Play "E"]
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Pokorna"]
+[North "Mraz"]
+[East "Kurka"]
+[South "Bahnikova"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQJ54.KT87.9.T95 K93.Q43.QJT.J642 8762.AJ9.K865.Q3 T.652.A7432.AK87 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Acol"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acolvik"]
+[Auction "S"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Pokorna"]
+[North "Mraz"]
+[East "Kurka"]
+[South "Bahnikova"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQJ54.KT87.9.T95 K93.Q43.QJT.J642 8762.AJ9.K865.Q3 T.652.A7432.AK87 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Acol"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acolvik"]
+[Auction "S"]
+[Play "W"]
+*
+
+
+[Event "Prague Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Pokorna"]
+[North "Mraz"]
+[East "Kurka"]
+[South "Bahnikova"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJ975.T94.AT8.42 Q63.J.K764.T9875 84.52.QJ952.KJ63 KT2.AKQ8763.3.AQ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Acol"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Acolvik"]
+[Auction "W"]
+Pass Pass 1H 1S
+Pass Pass 4H Pass
+Pass Pass
+[Play "S"]
+C4 C7 C3 CQ
+DA D4 D5 D3
+C2 C5 C6 CA
+H4 HJ H2 H3
+D8 DK D2 S2
+DT D6 DJ ST
+*
+
+

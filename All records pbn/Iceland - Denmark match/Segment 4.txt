@@ -1,0 +1,1146 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ974.84.63.KT97 JT632.762.52.Q83 K.QJ5.AJT984.AJ2 85.AKT93.KQ7.654 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+1C 1H 1S Pass
+2D Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+H4 H7 HJ HT
+S4 S3 SK S8
+C7 C3 CA C6
+C9 CQ CJ C4
+H8 H6 HQ HK
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ974.84.63.KT97 JT632.762.52.Q83 K.QJ5.AJT984.AJ2 85.AKT93.KQ7.654 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+1C 1H 1S Pass
+1N Pass 2D Pass
+2H Pass 2S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K.KJ6.AJ852.A962 QJ9764.A8.K7.T73 8532.T7543.6.J54 AT.Q92.QT943.KQ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+1N X 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K.KJ6.AJ852.A962 QJ9764.A8.K7.T73 8532.T7543.6.J54 AT.Q92.QT943.KQ8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+1N X 4D Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJT4.843.Q963.43 Q873.AKQ5.KJ52.Q 96.T76.87.AT9872 A52.J92.AT4.KJ65 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2N Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJT4.843.Q963.43 Q873.AKQ5.KJ52.Q 96.T76.87.AT9872 A52.J92.AT4.KJ65 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+Pass 1C 3C 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A74.K753.652.J82 932.9842.74.AK75 K5.QJT.AKJT8.QT6 QJT86.A6.Q93.943 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+Pass 1C 1S X
+2S Pass Pass X!
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A74.K753.652.J82 932.9842.74.AK75 K5.QJT.AKJT8.QT6 QJT86.A6.Q93.943 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+Pass 1C 1S Pass
+2S Pass Pass X
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT94.9543.J.J874 732.KT62.AK86.A9 KQ85.Q.QT543.KT6 J6.AJ87.972.Q532 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT94.9543.J.J874 732.KT62.AK86.A9 KQ85.Q.QT543.KT6 J6.AJ87.972.Q532 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+1D Pass 1H Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK83.Q932.J932.K T96542.K65.AT73.Q7 AT7.A765.QJ96.J J84.KQT84.8542."]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+Pass 1D 1S 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK83.Q932.J932.K T96542.K65.AT73.Q7 AT7.A765.QJ96.J J84.KQT84.8542."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+Pass 1D 1S 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQJ43.6.AK954.AT KT.AK54.QJ.KQ762 75.J9873.876.J95 9862.QT2.T32.843 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+1C X Pa 1S
+2D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQJ43.6.AK954.AT KT.AK54.QJ.KQ762 75.J9873.876.J95 9862.QT2.T32.843 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+1C Pass 1D Pass
+1S X Pass 2C
+2D 2S Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QT742.AQT64.KJ7.A95 7532.K865.52.J83 KJ8.AJT974.3.K6 9.Q32.AQT9864."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+Pass Pass 3C 4C
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QT742.AQT64.KJ7.A95 7532.K865.52.J83 KJ8.AJT974.3.K6 9.Q32.AQT9864."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+Pass 1D 2C 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 532.A972.KT6.JT7 AQT74.QJ863.8.A9 K986.5.AJ743.862 J.KT4.Q952.KQ543 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+Pass Pass 1D 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 532.A972.KT6.JT7 AQT74.QJ863.8.A9 K986.5.AJ743.862 J.KT4.Q952.KQ543 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2C Pass 2H
+Pass 2N Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 62.AK7.KJ95.J643 KQJ4.Q643.Q84.T8 A75.T9852.73.KQ2 T983.J.AT62.A975 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+Pass 1D Pass 1H
+X XX 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 62.AK7.KJ95.J643 KQJ4.Q643.Q84.T8 A75.T9852.73.KQ2 T983.J.AT62.A975 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+X Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 6532.532.KQJ.Q53 QT84.KJ8.8765.K2 AJ7.A974.A43.AT9 K9.QT6.T92.J8764 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D Pass 1N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 6532.532.KQJ.Q53 QT84.KJ8.8765.K2 AJ7.A974.A43.AT9 K9.QT6.T92.J8764 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D Pass 1N Pass
+2C Pass 2H Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ73.QJ97.J73.T4 AK94.AKT5.A65.92 865.83.T82.KJ876 T2.642.KQ94.AQ53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+2C Pass 2D Pass
+2N Pass 3C Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ73.QJ97.J73.T4 AK94.AKT5.A65.92 865.83.T82.KJ876 T2.642.KQ94.AQ53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+1C Pass 1H Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A43.KQ976.AT.QJT 986.852.96432.A4 J2.AJT4.J85.K962 KQT75.3.KQ7.8753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+Pass 1S 2H 2S
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A43.KQ976.AT.QJT 986.852.96432.A4 J2.AJT4.J85.K962 KQT75.3.KQ7.8753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+Pass Pass 1C Pass
+1N Pass 2H Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A5.AJT5.T5.KQT62 T92.962.QJ92.A74 KJ63.K43.A74.985 Q874.Q87.K863.J3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A5.AJT5.T5.KQT62 T92.962.QJ92.A74 KJ63.K43.A74.985 Q874.Q87.K863.J3 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+Pass 2C Pass 2D
+Pass 2H Pass 3C
+Pass 3S Pass 4S
+Pass 5C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 9873.T8.K85.KJ65 T.732.J64.AT7432 Q42.KJ964.A92.Q9 AKJ65.AQ5.QT73.8 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+Pass Pass 1H 1S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 9873.T8.K85.KJ65 T.732.J64.AT7432 Q42.KJ964.A92.Q9 AKJ65.AQ5.QT73.8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+Pass Pass 1H X
+Pass 2C Pass 2S
+Pass 3C Pass 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A72.T87.KJ9.J865 Q54.AK52.T865.AT JT93.963.Q43.Q93 K86.QJ4.A72.K742 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A72.T87.KJ9.J865 Q54.AK52.T865.AT JT93.963.Q43.Q93 K86.QJ4.A72.K742 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKQ.K543.A754.J8 976.872.QJT96.A4 JT842.JT6.K82.T3 53.AQ9.3.KQ97652 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+Pass 1C X 1D
+1S 2C 3C X
+3S 4C 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKQ.K543.A754.J8 976.872.QJT96.A4 JT842.JT6.K82.T3 53.AQ9.3.KQ97652 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+Pass 2C X Pass
+2S 3C X Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT43.JT95.AQ6.82 AQ.KQ6.K953.AQT7 9872.43.842.J943 K65.A872.JT7.K65 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+1N Pass 2S Pass
+2N Pass 4N Pass
+5C Pass 6C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT43.JT95.AQ6.82 AQ.KQ6.K953.AQT7 9872.43.842.J943 K65.A872.JT7.K65 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+1D Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ854.A.843.T873 AT97.T873.652.K2 K2.KQ542.AQ7.QJ6 63.J96.KJT9.A954 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ854.A.843.T873 AT97.T873.652.K2 K2.KQ542.AQ7.QJ6 63.J96.KJT9.A954 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D Pass 1N Pass
+2H Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Iceland - Denmark match"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Kröjgaard"]
+[North "Bjarni Ein"]
+[East "Caspersen"]
+[South "Steinar Jó"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ9653.AK87.9.JT T8.J96432.J8.432 A4.QT5.KQ765.AQ8 K72.AT432.K9765."]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Iceland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+Pass 1C 2N 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

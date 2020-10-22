@@ -1,0 +1,856 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J3.KQ753.AK5.J74 T985.T6.7632.T65 Q64.AJ984.9.AKQ3 AK72.2.QJT84.982 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 3C Pass 3H
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J3.KQ753.AK5.J74 T985.T6.7632.T65 Q64.AJ984.9.AKQ3 AK72.2.QJT84.982 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 3C Pass 3H
+Pass 3N Pass 4D
+Pass 4S Pass 5D
+Pass 6C Pass 6H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT842.932.QJ.QT9 3.AKJ4.T542.KJ86 96.T8.AK8763.A72 KQJ75.Q765.9.543 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "N"]
+1D 1S Pass 1N
+Pass 2H Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT842.932.QJ.QT9 3.AKJ4.T542.KJ86 96.T8.AK8763.A72 KQJ75.Q765.9.543 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "N"]
+1D 1S 1N X
+an t/ 2D 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T8.Q62.AQJ764.T7 K6543.5.95.KJ965 A9.JT8743.K8.A43 QJ72.AK9.T32.Q82 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "E"]
+1N an 10 Pass
+2H X 3S X!
+4S X Pass 5D
+Pass 5H X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T8.Q62.AQJ764.T7 K6543.5.95.KJ965 A9.JT8743.K8.A43 QJ72.AK9.T32.Q82 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "E"]
+1C 1D 1S 2H
+2S 3H 4S X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 852.765.9854.A72 QT43.T4.AK73.QT9 K76.KQJ82.Q2.643 AJ9.A93.JT6.KJ85 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "S"]
+Pass 1C 1H 2S
+an As Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 852.765.9854.A72 QT43.T4.AK73.QT9 K76.KQJ82.Q2.643 AJ9.A93.JT6.KJ85 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "S"]
+Pass 1D 1H 1S
+an t/ 2H Pass
+Pass X Pass 2S
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT92.QJ65.764.J6 Q8543.43.J8.AKQ3 A87.AKT9532.975. AJ76.KT92.Q.T842 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "W"]
+1S 2D 4S Pass
+Pass X XX Pass
+Pass 5D Pass Pass
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KT92.QJ65.764.J6 Q8543.43.J8.AKQ3 A87.AKT9532.975. AJ76.KT92.Q.T842 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "W"]
+1S 2D 3D Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K76.5.K9872.K865 J954.T3.QT3.JT72 AT2.KQ8762.65.AQ Q83.AJ94.AJ4.943 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "N"]
+1H Pass 1N Pass
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K76.5.K9872.K865 J954.T3.QT3.JT72 AT2.KQ8762.65.AQ Q83.AJ94.AJ4.943 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "N"]
+1H Pass 1N Pass
+2C Pass 2D an
+XX Pass 3H Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 654.A54.J76.KQT5 KQJT8.KQJ6.8.J83 A2.983.KQ52.9762 973.T72.AT943.A4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "E"]
+Pass 1N 2C Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 654.A54.J76.KQT5 KQJT8.KQJ6.8.J83 A2.983.KQ52.9762 973.T72.AT943.A4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "E"]
+Pass Pass 1S Pass
+2C Pass 2H Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 4.A72.T9843.AJ74 J832.KQ95.765.32 AQ6.T843.AKJ2.K5 KT975.J6.Q.QT986 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "S"]
+Pass Pass 1N 2S
+an S  3C 3S
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 4.A72.T9843.AJ74 J832.KQ95.765.32 AQ6.T843.AKJ2.K5 KT975.J6.Q.QT986 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "S"]
+Pass Pass 1N Pass
+2C Pass 2H Pass
+3S an 5/ Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K753.J3.J54.QJ52 8.K72.QT8.AKT963 AJ642.AT84.K32.8 QT9.Q965.A976.74 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "W"]
+1C 1S X 3S
+an we Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K753.J3.J54.QJ52 8.K72.QT8.AKT963 AJ642.AT84.K32.8 QT9.Q965.A976.74 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "W"]
+1C 2C Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T87.53.QT864.654 654.QT874.AK7.K9 Q32.KJ96.J.AQJ72 AKJ9.A2.9532.T83 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "N"]
+1C Pass 1S Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T87.53.QT864.654 654.QT874.AK7.K9 Q32.KJ96.J.AQJ72 AKJ9.A2.9532.T83 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "N"]
+1C Pass 1D 1H
+Pass 1S Pass Pass
+1N 2H Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT82.Q842.J.Q852 Q654.JT6.K52.T96 AK73.AK.9843.K73 9.9753.AQT76.AJ4 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "E"]
+1D Pass 1S 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT82.Q842.J.Q852 Q654.JT6.K52.T96 AK73.AK.9843.K73 9.9753.AQT76.AJ4 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "E"]
+1D Pass 1S 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 943.Q8542.974.76 AJ7.93.A83.AQT43 K85.AT6.KJ652.J9 QT62.KJ7.QT.K852 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "S"]
+Pass 1C 1D 1H
+Pass 1S Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 943.Q8542.974.76 AJ7.93.A83.AQT43 K85.AT6.KJ652.J9 QT62.KJ7.QT.K852 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ8.K9863.76.K96 K743.T2.QT5.A853 AT95.A54.KJ943.J 62.QJ7.A82.QT742 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1S Pass 1N
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ8.K9863.76.K96 K743.T2.QT5.A853 AT95.A54.KJ943.J 62.QJ7.A82.QT742 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQT9765.A32.J.97 82.K965.94.AJT83 QJT7.AQT87.Q542. KJ43.84.K6532.K6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "N"]
+1D Pass 1S Pass
+2D Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQT9765.A32.J.97 82.K965.94.AJT83 QJT7.AQT87.Q542. KJ43.84.K6532.K6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "N"]
+1D Pass 1S Pass
+2C Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Smirnov"]
+[North "Zimmermann"]
+[East "Piekarek"]
+[South "Multon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T95.976.J862.K74 AKQJ64.Q5.AK.T62 AKT32.QT94.A985. 8732.J84.753.QJ3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team Assael"]
+[Auction "E"]
+Pass Pass 1C 1H
+Pass Pass 2S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+

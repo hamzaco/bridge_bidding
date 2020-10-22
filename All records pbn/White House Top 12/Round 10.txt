@@ -1,0 +1,461 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT864.A84.AT42.7 K2.KT.953.KQT865 QJ.Q62.KQJ87.J32 9753.J9753.6.A94 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass 2H Pass
+2S Pass 3D Pass
+4S Pass Pass Pass
+[Play "E"]
+D2 D9 DK D6
+S4 SK SQ S3
+D4 D5 D8 S5
+HA HT H2 H3
+SA S2 SJ S7
+ST C5 C2 S9
+DA D3 D7 H5
+DT C6 DJ C4
+C7 C8 DQ C9
+S6 CT C3 CA
+H4 HK H6 H7
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT864.A84.AT42.7 K2.KT.953.KQT865 QJ.Q62.KQJ87.J32 9753.J9753.6.A94 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass 2C 3C
+Pass Pass X Pass
+3D Pass 3S Pass
+4H Pass 5D Pass
+Pass Pass
+[Play "E"]
+C7 C6 CJ CA
+D2 C5 C2 C9
+D4 D3 DK D6
+S4 SK SQ S3
+HA HK H2 H3
+DT D5 DQ H5
+DA C8 C3 C4
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A95.QT73.A763.92 742.982.Q52.AJ64 KQ83.54.KJ.KQT87 JT6.AKJ6.T984.53 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass 2C Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A95.QT73.A763.92 742.982.Q52.AJ64 KQ83.54.KJ.KQT87 JT6.AKJ6.T984.53 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "3"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +250"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 1C
+1H Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q973.T92.A764.Q8 T.KJ75.Q.AKJ5432 J85.Q63.K98532.7 AK642.A84.JT.T96 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C 1D 1S
+3D 4C Pass 5C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q973.T92.A764.Q8 T.KJ75.Q.AKJ5432 J85.Q63.K98532.7 AK642.A84.JT.T96 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C 1D 1S
+3D 3H 4D X
+Pass 5C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 32.AKJT842.Q3.J6 65.765.AK5.A9854 AKQT9.9742.QT73.J874 Q93.JT86.K2."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C 1S 1N 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 32.AKJT842.Q3.J6 65.765.AK5.A9854 AKQT9.9742.QT73.J874 Q93.JT86.K2."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C 1S 1N 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J432.K5.KQT95.82 AQ7.A8762.864.T7 KT8.T3.73.KQJ963 965.QJ94.AJ2.A54 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C 1D 1H
+Pass 2H Pass 2S
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J432.K5.KQT95.82 AQ7.A8762.864.T7 KT8.T3.73.KQJ963 965.QJ94.AJ2.A54 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C 1D 1H
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K6.Q763.J.KT9843 JT73.J4.KT952.76 954.KT985.874.A5 AQ82.A2.AQ63.QJ2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1S Pass
+2N an ca Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K6.Q763.J.KT9843 JT73.J4.KT952.76 954.KT985.874.A5 AQ82.A2.AQ63.QJ2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C 2C Pass Pass
+X Pass 2S X
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQ42.AQT6.T7.T73 973.92.KJ964.J82 AT8.K743.A52.A64 J65.J85.Q83.KQ95 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1N an
+12 Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQ42.AQT6.T7.T73 973.92.KJ964.J82 AT8.K743.A52.A64 J65.J85.Q83.KQ95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "White House Top 12"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Willemsens"]
+[North "Muller"]
+[East "Bruggemann"]
+[South "de Wijs"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT.QJ9.K8543.AK3 KJ98742.6.AQ96.T A3.KT5.JT2.98542 65.A87432.7.QJ76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+4S Pass Pass Pass
+[Play "N"]
+*
+
+

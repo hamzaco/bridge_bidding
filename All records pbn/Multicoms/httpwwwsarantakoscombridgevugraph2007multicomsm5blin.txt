@@ -1,0 +1,919 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK5.AT64.A94.J62 J92.KQ8.K32.K975 Q87643.J2.QJT.T4 T.9753.8765.AQ83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "N"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "W"]
+HA HQ H2 H3
+SK S2 S3 ST
+SA S9 S4 D5
+S5 SJ SQ H5
+H6 D2 S8 D6
+C6 H8 S6 H9
+C2 C7 S7 D7
+D4 DK DT D8
+CJ C5 C4 CQ
+D9 CK CT C3
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK5.AT64.A94.J62 J92.KQ8.K32.K975 Q87643.J2.QJT.T4 T.9753.8765.AQ83 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "N"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T854.AQJ3.T72.K8 962.T642.Q53.A95 KQ7.85.AKJ986.T6 AJ3.K97.4.QJ7432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "E"]
+1C Pass 1H 2D
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T854.AQJ3.T72.K8 962.T642.Q53.A95 KQ7.85.AKJ986.T6 AJ3.K97.4.QJ7432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "4"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -500"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "E"]
+1C Pass 1H 2D
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ9.KJT76.Q4.32 75.8.AT762.KJT98 QT642.Q5.K985.Q7 83.A9432.J3.A654 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "S"]
+1H Pass 1S Pass
+2S 2N 3S 4C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKJ9.KJT76.Q4.32 75.8.AT762.KJT98 QT642.Q5.K985.Q7 83.A9432.J3.A654 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "S"]
+1H Pass 1S Pass
+2S Pass 2N Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q865.75.643.9832 K2.T94.T95.KQ765 743.AKJ3.872.AJ4 AJT9.Q862.AKQJ.T "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "W"]
+Pass 1C X Pass
+1N Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q865.75.643.9832 K2.T94.T95.KQ765 743.AKJ3.872.AJ4 AJT9.Q862.AKQJ.T "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "W"]
+Pass 1C X Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 3.AJ632.975.AQJ9 K97652.Q4.QJ3.85 A8.K.AT8642.K764 QJT4.T9875.K.T32 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "N"]
+1D Pass 1H 1S
+2C 3S X Pass
+3N Pass 5C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 3.AJ632.975.AQJ9 K97652.Q4.QJ3.85 A8.K.AT8642.K764 QJT4.T9875.K.T32 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "N"]
+1D Pass 1H 1S
+2D 3S X Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 876.853.AQ542.K3 AQT532.2.JT86.A5 J4.AJT97.9.T8762 K9.KQ64.K73.QJ94 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "E"]
+1C 1D 1S 2H
+Pass 3H 3S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 876.853.AQ542.K3 AQT532.2.JT86.A5 J4.AJT97.9.T8762 K9.KQ64.K73.QJ94 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "E"]
+1C 1D 1S Pass
+1N Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 62.54.KJ72.J9532 QJ8.AQT63.Q983.7 AK973.K9.A5.K864 T54.J872.T64.AQT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "S"]
+Pass 1H 1S 2H
+Pass Pass X XX
+2N Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 62.54.KJ72.J9532 QJ8.AQT63.Q983.7 AK973.K9.A5.K864 T54.J872.T64.AQT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "S"]
+Pass 1H 1S 2H
+Pass Pass X 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A743.A97.T7.A632 86.QJ3.Q943.JT54 KQ5.T65.AJ652.K7 JT92.K842.K8.Q98 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1N Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A743.A97.T7.A632 86.QJ3.Q943.JT54 KQ5.T65.AJ652.K7 JT92.K842.K8.Q98 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJT5.Q63.K72.A93 A964.94.AT865.J5 2.JT7.J93.KQ8764 K873.AK852.Q4.T2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "N"]
+3C X 4C X
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJT5.Q63.K72.A93 A964.94.AT865.J5 2.JT7.J93.KQ8764 K873.AK852.Q4.T2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "N"]
+3C Pass 4C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 987.53.9765.9732 AQ.J864.A.KQT654 K53.AKQT.QJT8.J8 JT642.972.K432.A "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "E"]
+Pass Pass 1C X
+1S Pass 2C X
+Pass 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 987.53.9765.9732 AQ.J864.A.KQT654 K53.AKQT.QJT8.J8 JT642.972.K432.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "E"]
+Pass Pass 1C X
+1S Pass 2H Pass
+2S Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQT.9.A432.K9753 652.AK843.96.AJT 8743.Q52.KJT75.6 KJ9.JT76.Q8.Q842 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "S"]
+1C 1H 1S 2H
+X Pass 3D 3H
+4D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQT.9.A432.K9753 652.AK843.96.AJT 8743.Q52.KJT75.6 KJ9.JT76.Q8.Q842 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "S"]
+1C 1H X! 2N
+Pass 3H Pass Pass
+X Pass 4D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A65.953.AKT75.A8 K83.KJT42.Q4.QJ7 J92.A7.983.T9632 QT74.Q86.J62.K54 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "W"]
+1H Pass 2H 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A65.953.AKT75.A8 K83.KJT42.Q4.QJ7 J92.A7.983.T9632 QT74.Q86.J62.K54 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "W"]
+1H Pass 2H X
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K4.AKT985.K7.T96 J72.J74.Q6543.Q3 986.Q63.AJT.AK85 AQT53.2.982.J742 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "N"]
+1C Pass 1H Pass
+1N Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K4.AKT985.K7.T96 J72.J74.Q6543.Q3 986.Q63.AJT.AK85 AQT53.2.982.J742 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "N"]
+1C 1S 2H Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQ7.643.J85.QT74 K865.J87.Q63.J62 T943.KQ2.72.AK93 J2.AT95.AKT94.85 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "E"]
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQ7.643.J85.QT74 K865.J87.Q63.J62 T943.KQ2.72.AK93 J2.AT95.AKT94.85 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "E"]
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q3.T62.J9743.AK6 A82.J43.865.JT87 JT6.K85.AK2.5432 K9754.AQ97.QT.Q9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "S"]
+Pass Pass 1D 1S
+2S X Pass Pass
+3D Pass Pass 3H
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q3.T62.J9743.AK6 A82.J43.865.JT87 JT6.K85.AK2.5432 K9754.AQ97.QT.Q9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Eisenberg"]
+[North "Duguet"]
+[East "Gaviard"]
+[South "Oursel"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 43.JT5.KT4.AQ762 KJ2.Q432.A975.K3 T9875.AK86.82.54 AQ6.97.QJ63.JT98 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gaviard"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bessis"]
+[Auction "W"]
+1D Pass 1N Pass
+Pass 2D Pass 2H
+Pass Pass 2S Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+

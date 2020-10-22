@@ -1,0 +1,884 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K43.AQ.KQ95.J962 9.K754.87642.A85 QT852.J62.JT3.Q7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2H Pass 3H
+Pass Pass Pass
+[Play "S"]
+DK D2 D3 DA
+C2 C5 C7 CK
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K43.AQ.KQ95.J962 9.K754.87642.A85 QT852.J62.JT3.Q7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+D9 D2 DJ DA
+S3 S9 S2 SA
+SK H4 S5 S6
+D5 D4 D3 H3
+S4 H5 S8 S7
+DQ D6 DT H8
+C6 CA C7 C3
+C2 C5 CQ CK
+HA C8 ST SJ
+HQ HK H2 H9
+DK D7 SQ HT
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K95.KT843.2.Q654 AQ832.AJ975.Q.92 J7.Q.KJT7654.A87 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass Pass 1S 3D
+Pass Pass 3H Pass
+4S Pass Pass Pass
+[Play "N"]
+H3 HA HQ H2
+C6 C9 C7 CK
+H4 H5 S7 H6
+CQ C2 C8 CJ
+D2 DQ DK DA
+C4 S2 CA C3
+S5 SA SJ S4
+H8 H7 D4 S6
+C5 H9 D5 CT
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K95.KT843.2.Q654 AQ832.AJ975.Q.92 J7.Q.KJT7654.A87 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+Pass Pass 1S 2D
+2S Pass 3H Pass
+4S Pass Pass Pass
+[Play "N"]
+D2 DQ DJ D3
+H3 HA HQ H2
+C6 C2 CA C3
+C4 C9 C7 CK
+S9 SQ D6 DA
+H8 H5 C8 H6
+S5 SA S7 S4
+H4 H7 D5 S6
+CQ S3 SJ CT
+C5 S2 DK D8
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT5.AKT6.JT95.52 K943.942.AK2.KJ3 87.QJ.Q764.Q9864 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2S Pass 3S
+Pass Pass Pass
+[Play "N"]
+C5 C3 C4 CT
+S5 S3 S8 SA
+ST S4 S7 S2
+HK H2 HQ H3
+HA H4 HJ H5
+DJ DA D4 D3
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT5.AKT6.JT95.52 K943.942.AK2.KJ3 87.QJ.Q764.Q9864 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKT864.JT97.3.92 QJ2.8.Q972.AKT64 9753.AKQ6.KT.QJ5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+1D X 4D 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKT864.JT97.3.92 QJ2.8.Q972.AKT64 9753.AKQ6.KT.QJ5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+1C X 1D 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A3.95.J864.KJ652 K987.AKQ.KQ75.93 QJT5.T8763.AT93."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass 3C Pass Pass
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A3.95.J864.KJ652 K987.AKQ.KQ75.93 QJT5.T8763.AT93."]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass Pass Pass 1D
+1H 2C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ.3.Q64.T875432 9.AJT8654.KT7.AJ 87653.Q9.J853.Q9 "]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1C 2C 2H Pass
+3H Pass 4S Pass
+4N Pass 7H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ.3.Q64.T875432 9.AJT8654.KT7.AJ 87653.Q9.J853.Q9 "]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1S Pass 2H Pass
+3H Pass 4C Pass
+4D Pass 4N Pass
+5C Pass 5H Pass
+6C Pass 7H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 764.AQ65.A986.Q7 AK.943.Q72.J8642 J92.JT72.T543.K9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1D Pass 1H 1S
+2H 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 764.AQ65.A986.Q7 AK.943.Q72.J8642 J92.JT72.T543.K9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1D Pass 1H 1S
+2H 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T7.KJ63.Q2.J9765 Q864.QT8.J98.KT2 AJ95.942.KT74.84 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass Pass 1C Pass
+2H Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T7.KJ63.Q2.J9765 Q864.QT8.J98.KT2 AJ95.942.KT74.84 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 1N Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ52.A976.843.42 A984.KQ32.K652.5 JT.JT8.AQJ.KQJ73 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1N Pass 2C Pass
+2D Pass 2N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ52.A976.843.42 A984.KQ32.K652.5 JT.JT8.AQJ.KQJ73 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+1N Pass 2C Pass
+2D Pass 2N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T986.52.6.AK8762 J742.T98.QT854.9 A.J63.AKJ972.QJT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+2D Pass 2H 3D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T986.52.6.AK8762 J742.T98.QT854.9 A.J63.AKJ972.QJT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+2D Pass 2H 3D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q7.T95.J987.KJ95 K853.AJ7.Q6.T864 J642.2.KT532.AQ3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass Pass 1D 1H
+2D 2H 3D X
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q7.T95.J987.KJ95 K853.AJ7.Q6.T864 J642.2.KT532.AQ3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 2C Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKQT52.J52.872.Q 63.T983.AK543.52 J87.AQ6.JT.KJT94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKQT52.J52.872.Q 63.T983.AK543.52 J87.AQ6.JT.KJT94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 83.KQ762.K874.AJ AK5.5.A.QT965432 9642.AJT843.T9.8 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+2H Pass 2N 3C
+Pass 3D 4H 5C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 83.KQ762.K874.AJ AK5.5.A.QT965432 9642.AJT843.T9.8 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "N"]
+Pass Pass 1H 2C
+4H Pass Pass 5C
+5H Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 963.6.KJT9543.65 T2.K742.AKJT972.J54 AJ83.Q862.Q3."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1S 3D 4C 4D
+4H Pass 6H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 963.6.KJT9543.65 T2.K742.AKJT972.J54 AJ83.Q862.Q3."]
+[Declarer "E"]
+[Contract "6"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "E"]
+1S Pass 2C Pass
+2H Pass 4D Pass
+4N Pass 6C Pass
+6H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 US International Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hamman"]
+[North "Schwartz"]
+[East "Soloway"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 72.K75.AKQ.KQ854 T853.9862.652.A7 AKJ94.JT3.J9.T92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nickell"]
+[Auction "S"]
+1N Pass 2H Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+

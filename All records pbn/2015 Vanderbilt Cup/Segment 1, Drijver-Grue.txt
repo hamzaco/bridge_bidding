@@ -1,0 +1,655 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ92.K9.K9872.97 J7643.A2.AQ653.T T8.QJ53.J.QJ8654 A5.T8764.T4.AK32 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2C Pass 2N
+Pass Pass Pass
+[Play "S"]
+HK HA H3 H4
+H9 H2 H5 H6
+D9 D5 DJ D4
+SQ S3 ST S5
+S2 S4 S8 SA
+D2 S6 HJ H7
+C9 CT C6 CA
+C7 D3 HQ H8
+S9 S7 CQ CK
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 8743.AK92.K4.Q94 AK.843.AQ83.T876 QT96.Q75.J6.AKJ3 J52.JT6.T9752.52 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2S Pass 2N
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 8743.AK92.K4.Q94 AK.843.AQ83.T876 QT96.Q75.J6.AKJ3 J52.JT6.T9752.52 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K64.Q9764.AJ964.Q753 T64.J532.T3.T98 8732.AT8.872.AJ2 AKQJ95.K.KQ5."]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+1D Pass 1H Pass
+2C Pass 2D 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K64.Q9764.AJ964.Q753 T64.J532.T3.T98 8732.AT8.872.AJ2 AKQJ95.K.KQ5."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+1D Pass Pass X
+2C Pass 2D 3H
+Pass 4H 5D X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 4.9643.AK975.A52 KJ765.AK87.Q8.T6 Q98.52.JT42.Q974 AT32.QJT.63.KJ83 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+1S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 4.9643.AK975.A52 KJ765.AK87.Q8.T6 Q98.52.JT42.Q974 AT32.QJT.63.KJ83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J762.93.T986.T63 T84.872.K72.Q987 K95.AJT5.AQ543.5 AQ3.KQ64.J.AKJ42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+1D an us   
+X 2D Pass Pass
+X Pass 3C Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J762.93.T986.T63 T84.872.K72.Q987 K95.AJT5.AQ543.5 AQ3.KQ64.J.AKJ42 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+1D X Pass 2C
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 85.J752.K9864.82 QJ43.T8.JT72.J93 T762.KQ6.AQ.KT76 AK9.A943.53.AQ54 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+1C an ST  A
+ F 2D Pass 2N
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 85.J752.K9864.82 QJ43.T8.JT72.J93 T762.KQ6.AQ.KT76 AK9.A943.53.AQ54 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+1C Pass Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q6.KJT853.4.AKQ6 KJ32.942.8653.J9 A954.A.QJT72.532 T87.Q76.AK9.T874 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+1H Pass 1S Pass
+2C Pass 2N Pass
+3D an sh Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q6.KJT853.4.AKQ6 KJ32.942.8653.J9 A954.A.QJT72.532 T87.Q76.AK9.T874 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+1H Pass 1S Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 4.9854.J7.965432 JT8532.Q.T8532.J A.AKT732.KQ6.AK8 KQ976.J6.A94.QT7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+2S X 4S Pass
+Pass X Pass 5C
+Pass 6C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 4.9854.J7.965432 JT8532.Q.T8532.J A.AKT732.KQ6.AK8 KQ976.J6.A94.QT7 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+2S X 4S Pass
+Pass X Pass 5C
+Pass 6C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ5.AK982.K87.J7 K874.Q76.94.QT64 T93.T3.AQJT5.982 Q62.J54.632.AK53 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+2D Pass 2N Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ5.AK982.K87.J7 K874.Q76.94.QT64 T93.T3.AQJT5.982 Q62.J54.632.AK53 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "N"]
+2D Pass 2H Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 82.AQT2.AQ853.53 63.K94.JT962.KQ2 K954.J85.74.AJ84 AQJT7.763.K.T976 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 1N Pass Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T76.A6.AKT86.Q85 KQ2.9853.Q74.KT2 A53.KQJT2.9532.J J984.74.J.A97643 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+1N an 12 Pass
+3C an as X
+Pass Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T76.A6.AKT86.Q85 KQ2.9853.Q74.KT2 A53.KQJT2.9532.J J984.74.J.A97643 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "S"]
+1D Pass 1H 3C
+Pass Pass X Pass
+3N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: JT643.J74.KQ5.A9 2.AKT52.A74.6542 A95.Q963.J63.KJ8 KQ87.8.T982.QT73 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "W"]
+1H Pass 1S Pass
+2C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gitelman"]
+[North "Brink"]
+[East "Lall"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QT875.QT.AT54.74 A3.932.J72.KJ983 K94.A864.K86.Q65 J62.KJ75.Q93.AT2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Drijver"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grue"]
+[Auction "E"]
+1D 1S 1N 2D
+Pass 2S 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+

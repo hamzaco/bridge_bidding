@@ -1,0 +1,464 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T3.A9654.K84.K42 Q.32.AQT92.QJ953 A8754.KJ7.6.AT86 KJ962.QT8.J753.7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "N"]
+1S Pass 1N 2N
+Pass 3D Pass Pass
+Pass
+[Play "S"]
+ST SQ SA S2
+HA H2 H7 HQ
+H5 H3 HJ H8
+H6 D2 HK HT
+CK CQ C6 C7
+C4 C9 CT D3
+S3 C3 S7 SK
+C2 C5 S5 SJ
+D4 D9 S4 S9
+D8 DA D6 D5
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T3.A9654.K84.K42 Q.32.AQT92.QJ953 A8754.KJ7.6.AT86 KJ962.QT8.J753.7 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "N"]
+1S Pass 2H 2N
+an   3H 5D
+X Pass Pass Pass
+[Play "S"]
+HA H2 H7 H8
+H6 H3 HK HT
+S3 SQ SA S2
+D4 D2 D6 DJ
+D8 D9 HJ D3
+DK DA S4 D5
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K54.QT2.QT93.AK5 AT986.A3.8742.73 32.K954.KJ6.Q984 QJ7.J876.A5.JT62 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K54.QT2.QT93.AK5 AT986.A3.8742.73 32.K954.KJ6.Q984 QJ7.J876.A5.JT62 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "E"]
+Pass 1C an  
+1S X 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 3.642.KT73.QT954 AJ654.73.J852.K6 QT8.A95.AQ94.873 K972.KQJT8.6.AJ2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "S"]
+Pass Pass 1D 1H
+2D 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 3.642.KT73.QT954 AJ654.73.J852.K6 QT8.A95.AQ94.873 K972.KQJT8.6.AJ2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "S"]
+Pass Pass 1C X
+1N 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJT73.KQ32.K.T98 2.T5.T984.KQ7532 Q96.A94.AQ752.64 A854.J876.J63.AJ "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "W"]
+Pass 1D X XX
+3C Pass Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJT73.KQ32.K.T98 2.T5.T984.KQ7532 Q96.A94.AQ752.64 A854.J876.J63.AJ "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1N Pass 2C
+an   X 2H
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q.97.AQ85.AKT763 K7652.QJ53.KJ7.Q T8.AK84.T9643.42 AJ943.T62.2.J985 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "N"]
+Pass Pass 2C 2D
+X 2S 3D Pass
+Pass 3S Pass Pass
+4D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q.97.AQ85.AKT763 K7652.QJ53.KJ7.Q T8.AK84.T9643.42 AJ943.T62.2.J985 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "N"]
+Pass Pass 1C an
+  X 1D an
+  1S 2C 2S
+Pass Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K32.K764.Q86.T54 965.JT852.74.A86 T8.AQ3.AK32.K932 AQJ74.9.JT95.QJ7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "E"]
+1S Pass Pass X
+Pass 2H Pass 2S
+Pass 2N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K32.K764.Q86.T54 965.JT852.74.A86 T8.AQ3.AK32.K932 AQJ74.9.JT95.QJ7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "E"]
+1S an   Pass
+Pass X Pass 1N
+Pass 2N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 842.K853.9832.T4 T9.Q74.AT76.J963 AKJ5.T.KJ.AQ8752 Q763.AJ962.Q54.K "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 1N 2C Pass
+Pass 2D 2S Pass
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 842.K853.9832.T4 T9.Q74.AT76.J963 AKJ5.T.KJ.AQ8752 Q763.AJ962.Q54.K "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "S"]
+Pass Pass 1C an
+  X Pass 1D
+2C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Atlantic Grupa Bridge Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Daehr"]
+[North "Babsch"]
+[East "Cohner"]
+[South "Bieder"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ943.A7.A86.A92 8652.J84.KQ72.86 JT7.T32.53.KQJ73 A.KQ965.JT94.T54 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "AUSTRIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "GERMANY"]
+[Auction "W"]
+Pass Pass 1H 1S
+Pass 2S Pass 3C
+3H 4C Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+

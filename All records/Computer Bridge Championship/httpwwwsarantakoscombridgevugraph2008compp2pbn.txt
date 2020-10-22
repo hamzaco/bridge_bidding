@@ -1,0 +1,1237 @@
+% PBN 2.0
+% EXPORT
+%
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[HomeTeam "Wbridge5"]
+[VisitTeam "Jack"]
+[Room "Open"]
+[Board "1"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AT74.Q8743.K52.6 K932..J9876.AQJ2 Q86.AT5.Q43.9843 J5.KJ962.AT.KT75"]
+{PAR of the deal: 3C  = played by East : 110 points}
+{PAR computation time: 00'05"}
+{Feasability: 3 5 7 6 6 9 8 6 7 7 3 5 7 6 6 9 8 6 7 7 }
+[Scoring "?"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 3C Pass 3NT
+Pass Pass Pass
+[Play "N"]
+S4 S2 SQ S5
+SA S3 S8 SJ
+H3 D6 HA H6
+DK D7 D3 DT
+D5 D8 D4 DA
+C6 CJ C4 C5
+D2 D9 DQ H2
+S7 S9 S6 C7
+H4 DJ H5 H9
+H7 C2 C3 CK
+ST CQ C8 CT
+H8 SK C9 HJ
+HQ CA HT HK
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "1"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AT74.Q8743.K52.6 K932..J9876.AQJ2 Q86.AT5.Q43.9843 J5.KJ962.AT.KT75"]
+{PAR of the deal: 3C  = played by East : 110 points}
+{PAR computation time: 00'05"}
+{Feasability: 3 5 7 6 6 9 8 6 7 7 3 5 7 6 6 9 8 6 7 7 }
+[Scoring "?"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C =1=
+Pass 2D Pass 2H
+Pass 3C Pass 3NT
+Pass Pass Pass
+[Note "1: Alert."]
+[Play "N"]
+H4 D6 HA H2
+H3 S2 HT HK
+C6 CJ C3 C5
+DK DJ D3 DT
+D5 D7 D4 DA
+S4 CA C4 CT
+D2 D8 DQ H6
+HQ S3 H5 HJ
+SA S9 S6 S5
+ST SK S8 SJ
+H7 D9 C8 C7
+S7 C2 C9 CK
+H8 CQ SQ H9
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "2"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:832.A542.63.AQ74 KQT6.K7.KT95.KT2 AJ54.JT86.Q4.863 97.Q93.AJ872.J95"]
+{PAR of the deal: 4D  = played by North: 130 points}
+{PAR computation time: 00'02"}
+{Feasability: 7 10 6 7 8 5 3 6 6 4 7 10 6 7 8 5 3 6 6 4 }
+[Scoring "?"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "E"]
+Pass 1D Pass 1NT
+Pass Pass Pass
+[Play "E"]
+H2 H7 HT HQ
+D3 DK D4 D7
+D6 DT DQ DA
+H4 D5 C3 D8
+S2 SQ SA S9
+HA HK H6 H3
+S8 SK S4 S7
+C4 D9 C6 DJ
+C7 C2 S5 D2
+CA CT C8 C5
+H5 S6 HJ H9
+S3 ST H8 CJ
+CQ CK SJ C9
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "2"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:832.A542.63.AQ74 KQT6.K7.KT95.KT2 AJ54.JT86.Q4.863 97.Q93.AJ872.J95"]
+{PAR of the deal: 4D  = played by North: 130 points}
+{PAR computation time: 00'02"}
+{Feasability: 7 10 6 7 8 5 3 6 6 4 7 10 6 7 8 5 3 6 6 4 }
+[Scoring "?"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Auction "E"]
+Pass 1D Pass 3D
+Pass Pass Pass
+[Play "W"]
+HJ H3 H5 HK
+SA S7 S2 SQ
+H6 H9 HA H7
+C3 C5 CA C2
+C6 C9 C4 CK
+D4 DA D6 D5
+H8 HQ H2 CT
+DQ D2 D3 DK
+S4 S9 S3 SK
+S5 D7 S8 S6
+C8 CJ CQ D9
+SJ D8 C7 ST
+HT DJ H4 DT
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "3"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KT65.A7.3.AK6542 AJ943.KQ83.7652. Q82.J542.KQT.973 7.T96.AJ984.QJT8"]
+{PAR of the deal: 5D  = played by East : 600 points}
+{PAR computation time: 00'03"}
+{Feasability: 8 2 5 5 5 5 11 8 7 7 8 2 5 6 5 5 11 8 7 7 }
+[Scoring "?"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "9"]
+[Auction "S"]
+1C 1S X =1= 2D
+3C 4C X 4D
+Pass Pass Pass
+[Note "1: Alert."]
+[Play "S"]
+CA D2 C3 C8
+D3 D5 DT DA
+C2 H3 C7 CT
+C4 H8 C9 CJ
+CK D6 DQ CQ
+S6 D7 DK D4
+SK SA S2 S7
+S5 S3 S8 D8
+H7 HQ H2 H6
+ST S4 SQ D9
+HA HK H4 H9
+C5 S9 H5 DJ
+C6 SJ HJ HT
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "3"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KT65.A7.3.AK6542 AJ943.KQ83.7652. Q82.J542.KQT.973 7.T96.AJ984.QJT8"]
+{PAR of the deal: 5D  = played by East : 600 points}
+{PAR computation time: 00'03"}
+{Feasability: 8 2 5 5 5 5 11 8 7 7 8 2 5 6 5 5 11 8 7 7 }
+[Scoring "?"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "10"]
+[Auction "S"]
+1C X 1H 2D
+Pass Pass Pass
+[Play "S"]
+HA H3 H5 H6
+H7 HQ H2 H9
+S5 SA S2 S7
+S6 S3 S8 D4
+D3 H8 H4 HT
+ST SJ SQ D9
+CK D2 C3 CJ
+C2 D5 DQ DA
+C4 D6 C7 CT
+C5 HK HJ D8
+C6 D7 C9 C8
+SK S4 DT DJ
+CA S9 DK CQ
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "4"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ754.52.43.A986 T986.AJ873..KJ53 AK.T94.K9872.T42 32.KQ6.AQJT65.Q7"]
+{PAR of the deal: 3H  = played by North: 140 points}
+{PAR computation time: 00'01"}
+{Feasability: 7 8 9 6 7 5 5 3 7 4 7 8 9 6 7 5 5 3 7 4 }
+[Scoring "?"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 1D
+1S 2H 2S 4H
+Pass Pass Pass
+[Play "E"]
+SA S2 S4 S6
+D2 DT D3 C3
+D7 DA D4 S8
+C2 CQ CA C5
+SK S3 S7 ST
+H4 H6 H2 H8
+D8 HQ S5 S9
+H9 HK H5 H3
+D9 DQ SJ HA
+HT D5 C6 HJ
+C4 C7 C8 CJ
+CT D6 C9 CK
+DK DJ SQ H7
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "4"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ754.52.43.A986 T986.AJ873..KJ53 AK.T94.K9872.T42 32.KQ6.AQJT65.Q7"]
+{PAR of the deal: 3H  = played by North: 140 points}
+{PAR computation time: 00'01"}
+{Feasability: 7 8 9 6 7 5 5 3 7 4 7 8 9 6 7 5 5 3 7 4 }
+[Scoring "?"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "W"]
+Pass Pass Pass 1D
+1S X Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+SA S2 S4 S6
+SK S3 S5 S8
+C2 C7 CA C5
+C4 D5 SQ S9
+CT D6 SJ ST
+D2 DT S7 C3
+D7 CQ C6 CK
+H9 HQ H5 H3
+H4 HK H2 H7
+HT H6 D3 HA
+D8 DJ D4 H8
+D9 DQ C8 HJ
+DK DA C9 CJ
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "5"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK93.A762.7.QJ72 5.J853.965432.K5 JT6.K.AJT8.A8643 Q8742.QT94.KQ.T9"]
+{PAR of the deal: 7D X -8 played by East : -2000 pts}
+{PAR computation time: 00'01"}
+{Feasability: 13 8 10 11 12 0 5 3 2 1 13 8 10 11 12 0 5 3 2 1 }
+[Scoring "?"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "12"]
+[Auction "N"]
+1C Pass 1D X
+1H Pass 3C Pass
+4C Pass 4D =1= Pass
+4H =2= Pass 4NT Pass
+5S Pass 6C Pass
+Pass Pass
+[Note "1: Alert."]
+[Note "2: Alert."]
+[Play "E"]
+S5 S6 SQ SA
+C5 CA C9 C2
+CK C3 CT CQ
+H3 HK H4 H2
+D2 SJ S2 S3
+D3 DA DQ D7
+D4 DJ DK C7
+H5 C4 H9 H6
+D5 D8 S4 CJ
+H8 C6 HT H7
+D6 DT S7 S9
+D9 C8 S8 HA
+HJ ST HQ SK
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "5"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK93.A762.7.QJ72 5.J853.965432.K5 JT6.K.AJT8.A8643 Q8742.QT94.KQ.T9"]
+{PAR of the deal: 7D X -8 played by East : -2000 pts}
+{PAR computation time: 00'01"}
+{Feasability: 13 8 10 11 12 0 5 3 2 1 13 8 10 11 12 0 5 3 2 1 }
+[Scoring "?"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+1C Pass 2C Pass
+2H Pass 3NT Pass
+Pass Pass
+[Play "W"]
+S4 SK S5 S6
+C9 C2 C5 CA
+CT CJ CK C3
+DQ D7 D6 DJ
+H4 H2 HJ HK
+S2 S3 D2 ST
+S7 S9 H3 SJ
+DK CQ H5 C4
+H9 HA H8 C6
+S8 SA D3 D8
+HT C7 D4 C8
+HQ H6 D5 DA
+SQ H7 D9 DT
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "6"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J852.KJ86.86.K97 94.5.AJ732.T8654 AKT3.72.QT54.AJ2 Q76.AQT943.K9.Q3"]
+{PAR of the deal: 2NT = played by East : 120 points}
+{PAR computation time: 00'02"}
+{Feasability: 7 6 6 4 4 6 7 7 8 8 7 6 6 4 4 6 7 7 8 8 }
+[Scoring "?"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1D 1H
+1S Pass 3S Pass
+Pass Pass
+[Play "S"]
+H5 H2 HA H6
+S9 H7 H3 HJ
+C4 C2 CQ CK
+D2 D4 D9 D6
+DJ D5 HQ HK
+S4 ST SQ S2
+C5 S3 HT H8
+D3 SK S7 S5
+D7 SA S6 S8
+DA DT DK D8
+C6 CJ C3 C7
+C8 DQ H4 C9
+CT CA H9 SJ
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "6"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J852.KJ86.86.K97 94.5.AJ732.T8654 AKT3.72.QT54.AJ2 Q76.AQT943.K9.Q3"]
+{PAR of the deal: 2NT = played by East : 120 points}
+{PAR computation time: 00'02"}
+{Feasability: 7 6 6 4 4 6 7 7 8 8 7 6 6 4 4 6 7 7 8 8 }
+[Scoring "?"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D 1H
+X =1= Pass 2S Pass
+Pass Pass
+[Note "1: Alert."]
+[Play "N"]
+CQ CK C4 C2
+S6 S2 S4 SA
+S7 S5 S9 SK
+C3 C7 C5 CA
+HA H6 H5 H7
+SQ SJ C6 S3
+DK D6 D2 D5
+D9 D8 DA D4
+H3 C9 CT CJ
+H4 S8 D3 DT
+H9 HK D7 H2
+HT H8 C8 ST
+HQ HJ DJ DQ
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "7"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:Q.A92.J6532.AKJ3 AK986.86.T974.T7 J42.KQT53.Q8.965 T753.J74.AK.Q842"]
+{PAR of the deal: 4S X -2 played by East : -500 pts}
+{PAR computation time: 00'00"}
+{Feasability: 8 8 9 5 9 5 5 3 8 4 8 8 9 5 9 5 5 3 8 4 }
+[Scoring "?"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Auction "S"]
+1D 1S 2D =1= 2NT
+3H Pass Pass 3S
+Pass Pass Pass
+[Note "1: Alert."]
+[Play "N"]
+DQ DK D2 D7
+C5 C2 CJ C7
+C6 C4 CA CT
+H3 H4 HA H6
+HQ H7 H2 H8
+HK HJ H9 S6
+S2 S3 SQ SK
+S4 S5 C3 SA
+D8 DA D3 D4
+C9 C8 CK S8
+H5 S7 D5 D9
+HT CQ D6 S9
+SJ ST DJ DT
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "7"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:Q.A92.J6532.AKJ3 AK986.86.T974.T7 J42.KQT53.Q8.965 T753.J74.AK.Q842"]
+{PAR of the deal: 4S X -2 played by East : -500 pts}
+{PAR computation time: 00'00"}
+{Feasability: 8 8 9 5 9 5 5 3 8 4 8 8 9 5 9 5 5 3 8 4 }
+[Scoring "?"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Auction "S"]
+1D 1S X 3S
+Pass Pass Pass
+[Play "N"]
+DQ DK D6 D4
+S2 S3 SQ SA
+D8 DA D2 D7
+SJ S5 D3 S6
+S4 ST C3 S8
+H3 H4 H9 H6
+HQ H7 H2 H8
+C6 C2 CJ C7
+C9 C4 CA CT
+H5 HJ HA SK
+C5 C8 DJ D9
+HT CQ D5 DT
+HK S7 CK S9
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "8"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J9.AT954.A54.AJ7 5.K8.KQT9632.964 K863.Q6.J87.KT52 AQT742.J732..Q83"]
+{PAR of the deal: 3NT = played by East : 400 points}
+{PAR computation time: 00'01"}
+{Feasability: 4 7 5 6 4 8 6 8 7 9 4 7 5 6 4 8 5 8 6 9 }
+[Scoring "?"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "W"]
+1H 3D X Pass
+3NT Pass Pass Pass
+[Play "N"]
+DK D7 S7 DA
+DQ D8 S2 D4
+DT DJ S4 D5
+S5 S3 ST SJ
+HK H6 H2 H9
+D2 C2 C3 H4
+D3 C5 C8 H5
+D6 S6 CQ C7
+D9 S8 H3 S9
+C4 CT SQ CJ
+H8 HQ H7 HT
+C6 CK HJ CA
+C9 SK SA HA
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "8"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J9.AT954.A54.AJ7 5.K8.KQT9632.964 K863.Q6.J87.KT52 AQT742.J732..Q83"]
+{PAR of the deal: 3NT = played by East : 400 points}
+{PAR computation time: 00'01"}
+{Feasability: 4 7 5 6 4 8 6 8 7 9 4 7 5 6 4 8 5 8 6 9 }
+[Scoring "?"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "6"]
+[Auction "W"]
+1H 4D X 4S
+X Pass Pass Pass
+[Play "W"]
+SJ S5 S6 SQ
+S9 D2 S3 SA
+H4 HK H6 H2
+DA DQ D7 C3
+C7 C4 CK C8
+CA C6 C2 CQ
+HT H8 HQ H3
+CJ C9 C5 S2
+D4 D3 S8 S4
+D5 D6 SK S7
+H5 D9 CT H7
+H9 DT D8 HJ
+HA DK DJ ST
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "9"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KT752.632.53.J84 93.K84.AJ.KT7632 Q84.T75.T742.AQ5 AJ6.AQJ9.KQ986.9"]
+{PAR of the deal: 4NT = played by East : 630 points}
+{PAR computation time: 00'01"}
+{Feasability: 3 3 2 5 3 10 10 10 7 10 3 3 2 5 3 10 10 10 8 10 }
+[Scoring "?"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 2C Pass 3NT
+Pass Pass Pass
+[Play "N"]
+S5 S3 SQ SA
+D5 DJ D7 D6
+H2 H4 HT HQ
+D3 DA D2 D8
+H3 H8 H7 H9
+H6 C2 DT DQ
+C4 C3 D4 D9
+C8 C6 C5 DK
+S2 HK H5 HA
+S7 C7 S4 HJ
+ST S9 S8 S6
+SK CT CQ SJ
+CJ CK CA C9
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "9"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KT752.632.53.J84 93.K84.AJ.KT7632 Q84.T75.T742.AQ5 AJ6.AQJ9.KQ986.9"]
+{PAR of the deal: 4NT = played by East : 630 points}
+{PAR computation time: 00'01"}
+{Feasability: 3 3 2 5 3 10 10 10 7 10 3 3 2 5 3 10 10 10 8 10 }
+[Scoring "?"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 2C Pass 2H
+Pass 3C Pass 3NT
+Pass Pass Pass
+[Play "N"]
+S5 S3 S8 SJ
+D3 DJ D2 D6
+D5 DA D4 D9
+H2 H4 H5 HA
+S2 S9 D7 DK
+S7 C2 DT DQ
+H3 C3 S4 D8
+C4 CK CA C9
+C8 C6 CQ S6
+CJ C7 C5 H9
+H6 H8 HT HQ
+ST HK H7 HJ
+SK CT SQ SA
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "10"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AKQ96.J3.AKT75.3 JT52.Q42.632.752 743.KT865.J84.A6 8.A97.Q9.KQJT984"]
+{PAR of the deal: 6D  = played by East : 1370 points}
+{PAR computation time: 00'00"}
+{Feasability: 7 1 2 2 3 6 12 11 11 9 7 1 2 2 3 6 12 11 11 9 }
+[Scoring "?"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1S Pass 2S 3C
+4S Pass Pass Pass
+[Play "S"]
+C2 CA CK C3
+C5 C6 C8 S6
+S5 S3 S8 SQ
+S2 S4 C4 SK
+D2 D4 D9 DK
+H2 H5 H7 HJ
+D3 D8 DQ D5
+H4 H6 HA H3
+HQ HK H9 D7
+ST S7 C9 SA
+D6 DJ CT DT
+C7 HT CJ DA
+SJ H8 CQ S9
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "10"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AKQ96.J3.AKT75.3 JT52.Q42.632.752 743.KT865.J84.A6 8.A97.Q9.KQJT984"]
+{PAR of the deal: 6D  = played by East : 1370 points}
+{PAR computation time: 00'00"}
+{Feasability: 7 1 2 2 3 6 12 11 11 9 7 1 2 2 3 6 12 11 11 9 }
+[Scoring "?"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1S Pass 2S 3C
+4C =1= Pass 4H =2= Pass
+4S =3= Pass Pass Pass
+[Note "1: Alert."]
+[Note "2: Alert."]
+[Note "3: Alert."]
+[Play "S"]
+C5 CA C9 C3
+C2 C6 C8 S6
+S2 S3 S8 SK
+S5 S4 C4 SQ
+D2 D4 D9 DA
+H2 HT H7 H3
+D3 D8 DQ DK
+D6 DJ CT D5
+ST S7 CJ SA
+H4 H5 H9 D7
+C7 H6 CQ DT
+HQ HK HA HJ
+SJ H8 CK S9
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "11"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:76.A53.763.AKJT2 AQ3.T64.QJ842.93 KJ982.KQJ.AT95.4 T54.9872.K.Q8765"]
+{PAR of the deal: 5NT = played by North: 460 points}
+{PAR computation time: 00'01"}
+{Feasability: 10 9 9 9 11 2 4 3 2 2 10 9 9 9 11 2 4 3 3 2 }
+[Scoring "?"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+1C 1D 1S Pass
+2C Pass 2D =1= Pass
+2H Pass 2S Pass
+Pass Pass
+[Note "1: Alert."]
+[Play "E"]
+DK D3 D2 DA
+C5 CK C3 C4
+C6 CA C9 D5
+S4 S6 S3 SK
+S5 S7 SQ S2
+H2 D6 DJ DT
+C7 D7 DQ D9
+H7 H3 D8 SJ
+H8 H5 H4 HQ
+ST C2 SA S9
+C8 HA D4 S8
+H9 CT H6 HJ
+CQ CJ HT HK
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "11"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:76.A53.763.AKJT2 AQ3.T64.QJ842.93 KJ982.KQJ.AT95.4 T54.9872.K.Q8765"]
+{PAR of the deal: 5NT = played by North: 460 points}
+{PAR computation time: 00'01"}
+{Feasability: 10 9 9 9 11 2 4 3 2 2 10 9 9 9 11 2 4 3 3 2 }
+[Scoring "?"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1C Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 3NT Pass
+Pass Pass
+[Play "W"]
+D4 D9 DK D7
+C9 C4 C5 CJ
+SA S2 S5 S6
+DQ DA S4 D3
+S3 SK ST S7
+H4 HJ H2 H5
+SQ S8 C6 C2
+DJ D5 H7 D6
+H6 HQ H8 H3
+C3 S9 H9 CT
+HT SJ C7 CK
+D2 HK C8 HA
+D8 DT CQ CA
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "12"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q.64.KQ832.AKT72 KJT52.A82.JT9.43 863.KQT95.654.95 A974.J73.A7.QJ86"]
+{PAR of the deal: 3S  = played by South : 140 points}
+{PAR computation time: 00'01"}
+{Feasability: 5 4 5 8 7 8 8 8 4 6 5 5 5 9 7 8 8 8 4 6 }
+[Scoring "?"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Auction "W"]
+1D 1S Pass 2D =1=
+Pass 2H Pass 2S
+3C Pass 3D 3S
+Pass Pass Pass
+[Note "1: Alert."]
+[Play "E"]
+D5 DA D2 D9
+D6 D7 DQ DJ
+HQ H3 H6 H2
+C9 CJ CK C3
+H5 H7 H4 HA
+S3 S4 SQ SK
+S6 S7 C2 ST
+S8 S9 D3 S5
+C5 CQ CA C4
+D4 HJ DK DT
+H9 SA D8 H8
+HT C6 C7 SJ
+HK C8 CT S2
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "12"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q.64.KQ832.AKT72 KJT52.A82.JT9.43 863.KQT95.654.95 A974.J73.A7.QJ86"]
+{PAR of the deal: 3S  = played by South : 140 points}
+{PAR computation time: 00'01"}
+{Feasability: 5 4 5 8 7 8 8 8 4 6 5 5 5 9 7 8 8 8 4 6 }
+[Scoring "?"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Auction "W"]
+1D 1S Pass 3D
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+D4 DA D2 D9
+D5 D7 DQ DT
+HQ H3 H6 H2
+C9 CJ CK C3
+HK H7 H4 H8
+H5 HJ SQ HA
+C5 C6 CA C4
+D6 C8 C2 ST
+S3 S7 D3 S2
+S6 S4 D8 SJ
+S8 S9 C7 S5
+H9 CQ CT DJ
+HT SA DK SK
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "13"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K6432..85.JT8754 A5.T987.742.Q963 J7.AJ542.AKQ963. QT98.KQ63.JT.AK2"]
+{PAR of the deal: 3D  = played by North: 110 points}
+{PAR computation time: 00'01"}
+{Feasability: 7 9 6 7 7 6 3 7 4 6 7 9 6 7 7 6 3 7 4 6 }
+[Scoring "?"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1D X
+Pass 1H 2D Pass
+Pass Pass
+[Play "W"]
+HK D5 H9 H2
+C2 CJ C3 D3
+H3 D8 H7 H4
+CK C4 C6 D6
+DT C5 D2 DK
+DJ S2 D4 DQ
+S8 C7 D7 DA
+H6 C8 H8 HA
+HQ CT HT H5
+CA S3 C9 D9
+S9 S4 S5 HJ
+ST SK SA S7
+SQ S6 CQ SJ
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "13"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K6432..85.JT8754 A5.T987.742.Q963 J7.AJ542.AKQ963. QT98.KQ63.JT.AK2"]
+{PAR of the deal: 3D  = played by North: 110 points}
+{PAR computation time: 00'01"}
+{Feasability: 7 9 6 7 7 6 3 7 4 6 7 9 6 7 7 6 3 7 4 6 }
+[Scoring "?"]
+[Declarer "E"]
+[Contract "3HX"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1D X
+1S 2H 3D 3H
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+H2 HQ S2 H9
+H4 CA C4 C3
+DA DT D8 D2
+DQ DJ D5 D4
+SJ SQ S6 S5
+H5 CK C5 C6
+S7 S8 S3 SA
+HA H3 C7 H8
+HJ HK C8 H7
+D3 ST S4 HT
+D9 H6 CT D7
+D6 C2 CJ CQ
+DK S9 SK C9
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "14"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJ98.AQ.J96.T542 6542.KJ4.A4.A876 3.765.KQT7.KQJ93 AKT7.T9832.8532."]
+{PAR of the deal: 3S  = played by North: 140 points}
+{PAR computation time: 00'01"}
+{Feasability: 5 6 8 9 8 8 6 4 4 5 5 6 8 9 8 8 7 4 4 5 }
+[Scoring "?"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1S Pass 3S
+Pass Pass Pass
+[Play "W"]
+S3 SK S8 S2
+H5 H2 HA H4
+C3 SA SJ S5
+D7 D2 D9 DA
+C9 H3 C2 CA
+CJ S7 C4 C7
+H6 H8 HQ HK
+H7 H9 S9 HJ
+CQ ST SQ S6
+CK HT C5 C8
+DK D3 D6 D4
+DQ D5 DJ C6
+DT D8 CT S4
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "14"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJ98.AQ.J96.T542 6542.KJ4.A4.A876 3.765.KQT7.KQJ93 AKT7.T9832.8532."]
+{PAR of the deal: 3S  = played by North: 140 points}
+{PAR computation time: 00'01"}
+{Feasability: 5 6 8 9 8 8 6 4 4 5 5 6 8 9 8 8 7 4 4 5 }
+[Scoring "?"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1S X 3S
+Pass Pass Pass
+[Play "W"]
+DK D2 D6 D4
+S3 SK S8 S2
+C3 SA S9 S4
+D7 D3 D9 DA
+C9 S7 C5 C6
+DT D5 DJ S5
+CJ ST C2 C7
+DQ D8 SJ C8
+CQ H2 SQ S6
+CK H3 CT CA
+H5 H8 HQ H4
+H6 H9 C4 HJ
+H7 HT HA HK
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "15"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K7.A72.987543.74 63.QT9.QJ6.KJ983 AT98.J86.AK2.T52 QJ542.K543.T.AQ6"]
+{PAR of the deal: 3C  = played by East : 110 points}
+{PAR computation time: 00'01"}
+{Feasability: 4 8 5 5 5 9 4 8 8 6 4 8 5 5 5 9 4 8 8 6 }
+[Scoring "?"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1C 1S
+1NT Pass Pass 2H
+Pass Pass Pass
+[Play "S"]
+C7 CJ C2 C6
+H2 H9 HJ HK
+HA HT H8 H3
+C4 C3 C5 CA
+H7 HQ H6 H4
+SK S3 S8 SQ
+D7 D6 DK DT
+S7 S6 SA S2
+D3 DJ ST SJ
+D4 CK CT CQ
+D5 C8 D2 S4
+D8 C9 S9 H5
+D9 DQ DA S5
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "15"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K7.A72.987543.74 63.QT9.QJ6.KJ983 AT98.J86.AK2.T52 QJ542.K543.T.AQ6"]
+{PAR of the deal: 3C  = played by East : 110 points}
+{PAR computation time: 00'01"}
+{Feasability: 4 8 5 5 5 9 4 8 8 6 4 8 5 5 5 9 4 8 8 6 }
+[Scoring "?"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1C 1S
+3D Pass Pass Pass
+[Play "W"]
+S6 S8 SJ SK
+S3 SA S5 S7
+D6 DK DT D3
+DJ S9 S2 C4
+HT H6 HK HA
+DQ DA S4 D4
+C3 C2 CA C7
+C8 C5 C6 D5
+H9 HJ H3 H2
+HQ H8 H4 H7
+C9 CT CQ D7
+CK D2 H5 D9
+CJ ST SQ D8
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Open"]
+[Board "16"]
+[West "Jack"]
+[North "WBridge5"]
+[East "Jack"]
+[South "WBridge5"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QT73.Q6.T62.7654 96.K87.J973.AKQ8 AJ8.AJT542.K.932 K542.93.AQ854.JT"]
+{PAR of the deal: 4NT = played by North: 430 points}
+{PAR computation time: 00'00"}
+{Feasability: 10 11 6 6 10 3 1 7 5 3 9 10 5 6 6 3 1 7 5 3 }
+[Scoring "?"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "11"]
+[Auction "W"]
+Pass 1D 1H X =1=
+Pass 1NT Pass 2D
+Pass Pass Pass
+[Note "1: Alert."]
+[Play "E"]
+C3 CT C7 CK
+DK DA D2 D7
+H2 DQ D6 D3
+C9 CJ C4 C8
+H4 D4 DT DJ
+C2 H9 C5 CQ
+H5 H3 C6 CA
+SJ SK S3 S9
+S8 S2 ST S6
+SA S4 SQ D9
+HT D5 H6 H7
+HJ D8 HQ H8
+HA S5 S7 HK
+
+[Event "Computer Bridge Final Seg2"]
+[Site "Las Vegas"]
+[Date "2008.07.25"]
+[Room "Closed"]
+[Board "16"]
+[West "WBridge5"]
+[North "Jack"]
+[East "WBridge5"]
+[South "Jack"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QT73.Q6.T62.7654 96.K87.J973.AKQ8 AJ8.AJT542.K.932 K542.93.AQ854.JT"]
+{PAR of the deal: 4NT = played by North: 430 points}
+{PAR computation time: 00'00"}
+{Feasability: 10 11 6 6 10 3 1 7 5 3 9 10 5 6 6 3 1 7 5 3 }
+[Scoring "?"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 1C 1H 1S
+Pass 1NT 2H X
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+HJ H3 H6 HK
+DK DA D2 D7
+H2 D4 D6 DJ
+C2 DQ DT D3
+SJ D5 C7 D9
+C3 CT C4 C8
+C9 D8 S7 S6
+S8 CJ C5 CK
+H4 S2 C6 CQ
+H5 H9 HQ CA
+SA S4 S3 S9
+HA S5 ST H7
+HT SK SQ H8

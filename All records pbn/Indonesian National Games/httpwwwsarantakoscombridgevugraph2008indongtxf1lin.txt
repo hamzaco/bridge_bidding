@@ -1,0 +1,920 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT865.T92.82.AQ5 AK.73.KJ743.K986 J93.J86.AQ965.J3 742.AKQ54.T.T742 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "N"]
+Pass Pass 1S 2D
+Pass 2H Pass Pass
+2S Pass Pass Pass
+[Play "W"]
+H9 H7 H6 HK
+HT H3 H8 HA
+H2 D3 HJ HQ
+D2 D4 DQ DT
+SQ SA S3 S2
+D8 DK DA S4
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT865.T92.82.AQ5 AK.73.KJ743.K986 J93.J86.AQ965.J3 742.AKQ54.T.T742 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "8"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1H 1S 2C
+2S 3S Pass 3N
+Pass 5C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A76.K.AT5.AKJT98 T2.AQJT98.63.632 KJ53.532.KJ84.75 Q984.764.Q972.Q4 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "E"]
+Pass 1C 2H X
+3H 5C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A76.K.AT5.AKJT98 T2.AQJT98.63.632 KJ53.532.KJ84.75 Q984.764.Q972.Q4 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "E"]
+Pass 1C 2H X
+Pass 3H Pass 3S
+Pass 4C Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT5.5.KJ732.KJ98 96432.K742.Q65.4 AJ87.T83.84.AQ75 Q.AQJ96.AT9.T632 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT5.5.KJ732.KJ98 96432.K742.Q65.4 AJ87.T83.84.AQ75 Q.AQJ96.AT9.T632 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 3C 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJT64.2.962.Q854 AQJT3.AJ853.KT6.A95 K964.74.AJ97. K8732.875.KQT.32 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "W"]
+1H Pass 2H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJT64.2.962.Q854 AQJT3.AJ853.KT6.A95 K964.74.AJ97. K8732.875.KQT.32 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "W"]
+1H Pass 2H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT43.9.KJ64.9854 A9.AK74.752.KQ63 KQ765.853.AT.AJT 82.QJT62.Q983.72 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "N"]
+1S Pass 2S X
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT43.9.KJ64.9854 A9.AK74.752.KQ63 KQ765.853.AT.AJT 82.QJT62.Q983.72 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "N"]
+1S Pass 2S X
+Pass 2N 3S Pass
+Pass 4H Pass Pass
+4S Pass Pass X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK97.T6.JT64.A76 J4.J98432.87.T85 QT6.Q75.AK32.K43 8532.AK.Q95.QJ92 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "E"]
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK97.T6.JT64.A76 J4.J98432.87.T85 QT6.Q75.AK32.K43 8532.AK.Q95.QJ92 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "E"]
+1C Pass Pass 1N
+Pass 2C Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJT54.A75.J9.K92 K83.T962.KT7.Q84 9.QJ83.AQ843.653 Q762.K4.652.AJT7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "S"]
+1S Pass 1N Pass
+2C Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJT54.A75.J9.K92 K83.T962.KT7.Q84 9.QJ83.AQ843.653 Q762.K4.652.AJT7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "S"]
+1S Pass 1N Pass
+2C Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKQ6.985.762.854 954.Q64.Q9.AQT63 873.AKJ72.A5.KJ2 JT2.T3.KJT843.97 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2H Pass 2N
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKQ6.985.762.854 954.Q64.Q9.AQT63 873.AKJ72.A5.KJ2 JT2.T3.KJT843.97 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "W"]
+Pass 1H Pass 2H
+Pass 2S Pass 3C
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: JT32.94.843.7432 KQJ83.AKQ65.AJ8.AKQ986 AT5.T92.6. 754.762.J7.KQT95 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "N"]
+1S Pass 3S X
+4S Pass Pass X
+Pass 5C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: JT32.94.843.7432 KQJ83.AKQ65.AJ8.AKQ986 AT5.T92.6. 754.762.J7.KQT95 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "N"]
+1S Pass 3S X
+4S Pass Pass X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ652.Q8654.T3.3 T43.KT3.AJ7.A752 AJ987.J72.Q8.984 .A9.K96542.KQJT6 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "E"]
+1D 2D X 3S
+5C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ652.Q8654.T3.3 T43.KT3.AJ7.A752 AJ987.J72.Q8.984 .A9.K96542.KQJT6 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "E"]
+1D 2D X 2S
+3C Pass 3S Pass
+4D Pass 5C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 93.64.AQJ4.KT542 T842.AKQJT.A876.AQJ765 2.KT983.Q.K 98753.7652.J93."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "S"]
+Pass 1H 1S 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 93.64.AQJ4.KT542 T842.AKQJT.A876.AQJ765 2.KT983.Q.K 98753.7652.J93."]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "S"]
+Pass 1H 2H 4H
+4N Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 4.J9874.KT8762.T K.KT63.J4.AK7643 AQJ872.AQ5.Q985.T9653 AQ52.93.J2."]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "W"]
+1C 1S Pass Pass
+X XX 2H Pass
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 4.J9874.KT8762.T K.KT63.J4.AK7643 AQJ872.AQ5.Q985.T9653 AQ52.93.J2."]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "W"]
+1C 1S Pass Pass
+2C 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 872.Q42.A987653.K943 T82.AKJT9.J.J5 AQ9754.83.Q42.AQT6 KJ63.765.KT."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "N"]
+2H Pass Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 872.Q42.A987653.K943 T82.AKJT9.J.J5 AQ9754.83.Q42.AQT6 KJ63.765.KT."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "N"]
+2D Pass 2H Pass
+Pass X Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K82.J854.J9652.3 J4.KT3.AK843.K54 97.A9762.QT7.T92 AQT653.Q.AQJ876."]
+[Declarer "E"]
+[Contract "7"]
+[Result "11"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "E"]
+1S Pass 2D Pass
+3C Pass 4C Pass
+4D Pass 4H Pass
+4S Pass 4N Pass
+7C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K82.J854.J9652.3 J4.KT3.AK843.K54 97.A9762.QT7.T92 AQT653.Q.AQJ876."]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "E"]
+1S Pass 2D Pass
+3C Pass 3N Pass
+4C Pass 4D Pass
+4S Pass 6C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 6.K84.AKQT42.A54 2.AQ752.J73.QJ86 KQT873.T93.98.92 AJ954.J6.65.KT73 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "6"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "S"]
+1D Pass 1S Pass
+3D Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 6.K84.AKQT42.A54 2.AQ752.J73.QJ86 KQT873.T93.98.92 AJ954.J6.65.KT73 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "S"]
+1D 1H 1S Pass
+3D Pass 3S Pass
+3N Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Indonesian National Games"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "TUEJE"]
+[North "MONDIGIR"]
+[East "ASBI"]
+[South "LIEM"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQ6.865.Q.JT9842 KJT84.Q32.K62.A3 9752.AKJ97.A9.K5 3.T4.JT87543.Q76 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "NORTH CELEBES"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "DKI JAKARTA"]
+[Auction "W"]
+1S 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,934 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ9.K84.AKQJ5.Q6 T4.72.T874.AKT82 J7653.T96.2.7543 A82.AQJ53.963.J9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass 1H X 1N
+Pass 2C 2D Pass
+2S 3C 3H Pass
+3S Pass Pass Pass
+[Play "E"]
+CQ CK C3 CJ
+H4 H7 H9 HA
+HK H2 HT HQ
+DA D4 D2 D6
+DK D8 H6 D3
+SK S4 S5 SA
+H8 ST SJ HJ
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ9.K84.AKQJ5.Q6 T4.72.T874.AKT82 J7653.T96.2.7543 A82.AQJ53.963.J9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass 1H X Pass
+1S Pass 2D Pass
+Pass Pass
+[Play "W"]
+C6 CA C3 CJ
+CQ CK C4 C9
+H4 CT C5 D9
+DA D4 D2 D3
+DK D7 H6 D6
+DQ D8 S3 H3
+DJ DT C7 H5
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A86.Q.KJ63.Q9742 K975.T97654.7.K5 J32.K83.T9.AJT63 QT4.AJ2.AQ8542.8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+1D Pass 1H Pass
+2N Pass 3C X
+3D Pass 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A86.Q.KJ63.Q9742 K975.T97654.7.K5 J32.K83.T9.AJT63 QT4.AJ2.AQ8542.8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+1D Pass 1H Pass
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT63.Q95.93.Q864 KJ.AJ872.K62.K75 742.K43.AQT8.AJ2 Q985.T6.J754.T93 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT63.Q95.93.Q864 KJ.AJ872.K62.K75 742.K43.AQT8.AJ2 Q985.T6.J754.T93 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+Pass 1N an 15
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J643.732.AQ2.J84 AQ9875.AT86.K97.T2 QJ95.J65.KQ62. K.K4.T843.AT9753 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+1S Pass 1N an
+se Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J643.732.AQ2.J84 AQ9875.AT86.K97.T2 QJ95.J65.KQ62. K.K4.T843.AT9753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+1S Pass 1N an
+F Pass 2H Pass
+2N Pass 3C an
+XX Pass 3D an
+fo Pass 3S an
+6! Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT975.95.J53.Q7 A62.743.KQ976.84 8.AKQJT82.42.T62 K43.6.AT8.AKJ953 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+4H X Pass 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT975.95.J53.Q7 A62.743.KQ976.84 8.AKQJT82.42.T62 K43.6.AT8.AKJ953 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+4C Pass 5C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK872.A72.T983.5 654.JT95.5.AJT83 Q3.3.AKQJ7.KQ762 JT9.KQ864.642.94 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 3D Pass 4H
+Pass 5C X 5D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK872.A72.T983.5 654.JT95.5.AJT83 Q3.3.AKQJ7.KQ762 JT9.KQ864.642.94 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 3C an 5!
+X 3D Pass 3S
+Pass 4H Pass 5C
+Pass 6D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 876.Q732.Q542.32 AK2.T.J7.KQJ9764 J9.K9854.AKT96.A QT543.AJ6.83.T85 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+Pass 2C 2H 3C
+Pass 4C 4D Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 876.Q732.Q542.32 AK2.T.J7.KQJ9764 J9.K9854.AKT96.A QT543.AJ6.83.T85 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+Pass 1C 2N an
+XX Pass 4H 5C
+X Pass 5H Pass
+Pass Pa
+[Play "W"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJ3.Q.AQT32.KQ5 Q52.JT76.974.AT8 874.9854.J65.J43 T96.AK32.K8.9762 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass Pass X
+Pass 1S 2H 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJ3.Q.AQT32.KQ5 Q52.JT76.974.AT8 874.9854.J65.J43 T96.AK32.K8.9762 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+Pass Pass Pass 1C
+an st Pass 1D
+an 0- Pass 1S
+an 4+ Pass 1N
+Pass 2N an 4!
+Pass 3C an Pa
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ94.QT864.K.AQ6 KT853.A97.AQ5.J8 76.KJ53.JT2.T953 A2.2.987643.K742 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass Pa an no
+ n 2D an 4!
+ 1 Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ94.QT864.K.AQ6 KT853.A97.AQ5.J8 76.KJ53.JT2.T953 A2.2.987643.K742 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass Pass 1H 1S
+3D X 3H 4D
+Pass 5D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J874.A42.AKJT85.32 AKT.KQT98.972.AKQT9 765.J.Q643.65 QJ98432.7653."]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+Pass 1C 1D 1S
+4D 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J874.A42.AKJT85.32 AKT.KQT98.972.AKQT9 765.J.Q643.65 QJ98432.7653."]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+Pass 2C an na
+2D 3S 5D 6D
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q83.8.KQ8632.K52 KQ9763.JT7.J876.JT542 A42.9.AQT3. AK976.JT5.A54.94 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+1D 2H 2S 4H
+4S Pass Pass X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q83.8.KQ8632.K52 KQ9763.JT7.J876.JT542 A42.9.AQT3. AK976.JT5.A54.94 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+1D 1H 1S 2S
+X! an su 4H
+X XX Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ63.K52.KJ5.T93 A.9873.Q987642.Q JT72.AJ64.A3.752 9854.QT.T.AKJ864 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ63.K52.KJ5.T93 A.9873.Q987642.Q JT72.AJ64.A3.752 9854.QT.T.AKJ864 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 82.Q54.J32.Q9753 AT9543.K7.A.AJ42 76.J986.Q984.KT8 KQJ.AT32.KT765.6 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2S Pass 2N
+Pass 3D Pass 4C
+Pass 4N Pass 5C
+Pass 5H Pass 6C
+Pass 6D Pass 6S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 82.Q54.J32.Q9753 AT9543.K7.A.AJ42 76.J986.Q984.KT8 KQJ.AT32.KT765.6 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2S Pass 3C
+Pass 3D Pass 3H
+Pass 4S Pass 4N
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A832.975.KJ6.AQ9 QT64.QT2.AT5.J54 K95.864.Q8742.T3 J7.AKJ3.93.K8762 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+1D X 1H an
+sh Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A832.975.KJ6.AQ9 QT64.QT2.AT5.J54 K95.864.Q8742.T3 J7.AKJ3.93.K8762 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "E"]
+1C X 1N 2D
+2H Pass 3C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 53.AKJ83.9.AT876 AKT874.T5.Q54.J3 Q9.9762.J862.K92 J62.Q4.AKT73.Q54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+1H 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 53.AKJ83.9.AT876 AKT874.T5.Q54.J3 Q9.9762.J862.K92 J62.Q4.AKT73.Q54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "S"]
+1H 1S 3H an
+Pa 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2011 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Diamond"]
+[North "Martel"]
+[East "Platnick"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 74.AQT86.K83.Q83 T65.J42.Q9754.KT KQJ9832.K.AT.765 A.9753.J62.AJ942 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Diamond"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

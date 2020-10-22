@@ -1,0 +1,443 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J5.Q4.QJ952.QT86 87.A9763.K84.J53 Q42.KJ2.73.AK742 AKT963.T85.AT6.9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "N"]
+1C 1S 3C Pass
+Pass Pass
+[Play "E"]
+S5 S7 S2 SA
+SJ S8 S4 SK
+CT CJ SQ S3
+D2 DK D3 D6
+H4 HA H2 H5
+D5 D4 D7 DA
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J5.Q4.QJ952.QT86 87.A9763.K84.J53 Q42.KJ2.73.AK742 AKT963.T85.AT6.9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "N"]
+1C an 2+ 1S
+2D 2H 3C 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K8.KJ74.KQJ2.A96 AJ4.T8652.A7.843 QT7652.AQ.83.Q52 93.93.T9654.KJT7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "E"]
+Pa 1N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K8.KJ74.KQJ2.A96 AJ4.T8652.A7.843 QT7652.AQ.83.Q52 93.93.T9654.KJT7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "E"]
+Pass 1N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T32.K4.T73.AK874 876.QJ7.K942.QT2 KJ9.T932.J865.63 AQ54.A865.AQ.J95 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "S"]
+Pass Pa Pass 1C
+an ne  1 Pass
+1N an 5- Pass
+2C an St X
+an hi Pass Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T32.K4.T73.AK874 876.QJ7.K942.QT2 KJ9.T932.J865.63 AQ54.A865.AQ.J95 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A83.2.AJT7654.98 96542.AQT3.2.A75 KQ.KJ765.KQ9.QJ6 JT7.984.83.KT432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "W"]
+1S X Pass 3D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A83.2.AJT7654.98 96542.AQT3.2.A75 KQ.KJ765.KQ9.QJ6 JT7.984.83.KT432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "W"]
+Pass 1H Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ9.T73.854.QT64 8432.Q85.T6.AK72 K6.AKJ9.AKJ93.53 JT75.642.Q72.J98 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "N"]
+1D Pass 1N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ9.T73.854.QT64 8432.Q85.T6.AK72 K6.AKJ9.AKJ93.53 JT75.642.Q72.J98 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "N"]
+1D Pass 1N Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K942.Q98653.K.T4 T86.K72.J7.QJ982 Q73.AJ4.T9643.K7 AJ5.T.AQ852.A653 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "E"]
+1C an 15 2H
+X! an 5- 3H
+Pass Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K942.Q98653.K.T4 T86.K72.J7.QJ982 Q73.AJ4.T9643.K7 AJ5.T.AQ852.A653 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "E"]
+1D Pass 1N Pass
+2C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 983.AT8.J852.K96 J742.J97.T9763.J KQ.K432.Q4.T8532 AT65.Q65.AK.AQ74 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "S"]
+Pass Pass Pass 1C
+an 15  i Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 983.AT8.J852.K96 J742.J97.T9763.J KQ.K432.Q4.T8532 AT65.Q65.AK.AQ74 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -70"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Raunto"]
+[North "Puurtinen"]
+[East "Ylinen"]
+[South "Koivisto"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K5.KT82.83.Q8653 AQT864.J5.Q5.742 J973.Q943.K974.T 2.A76.AJT62.AKJ9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Asparagus"]
+[Auction "W"]
+1S an 4+  9
+ c Pass 2D Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+

@@ -1,0 +1,508 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K6.874.AKT7.Q863 QJ853.962.J6.J54 94.KQ3.Q843.AT72 AT72.AJT5.952.K9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+DK D6 D4 D2
+DA DJ D3 D5
+D7 S8 D8 D9
+SK SQ S4 S7
+S6 SJ S9 ST
+H8 H2 HQ HA
+H4 H6 HK HJ
+C3 C4 C2 CK
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K6.874.AKT7.Q863 QJ853.962.J6.J54 94.KQ3.Q843.AT72 AT72.AJT5.952.K9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "N"]
+Pass 1H Pass 1S
+X 2S 3D Pass
+Pass Pass
+[Play "W"]
+SK SQ S4 S2
+D7 D6 D8 D2
+DA DJ D3 D5
+H8 H6 HK HA
+DK S3 D4 D9
+H4 H2 HQ H5
+S6 SJ S9 S7
+CQ C5 C2 C9
+H7 H9 H3 HT
+C3 C4 CA CK
+C6 CJ C7 ST
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J952.Q54.KJ5.J83 A874.8.AQ876.A75 KQ6.AT972.T932.9 T3.KJ63.4.KQT642 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "E"]
+Pass Pass 1D Pass
+2C Pass 3C Pass
+3H Pass 3S Pass
+3N Pass Pass Pass
+[Play "S"]
+S5 S4 SQ S3
+H5 H8 H2 HK
+C3 C5 C9 CK
+C8 CA H7 C2
+CJ C7 D2 CQ
+H4 D6 S6 CT
+HQ S7 H9 C6
+S2 S8 SK C4
+D5 DQ D3 D4
+DJ DA D9 H3
+DK D8 DT H6
+S9 SA HT ST
+SJ D7 HA HJ
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J952.Q54.KJ5.J83 A874.8.AQ876.A75 KQ6.AT972.T932.9 T3.KJ63.4.KQT642 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "E"]
+Pass Pass 1D 1H
+Pass 2H 2S Pass
+3C Pass Pass Pass
+[Play "S"]
+C3 C5 C9 CT
+D5 DQ D2 D4
+H5 H8 HT HK
+H4 C7 H2 H3
+DJ DA D3 S3
+S2 SA S6 ST
+S5 S4 SQ C4
+HQ CA H7 H6
+S9 S7 SK C6
+C8 D6 D9 CK
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT53.KQ732.9.A72 J98.AJ8.KJ52.986 Q742.T.AQ864.KQJ A6.9654.T73.T543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "S"]
+1H Pass 2D Pass
+2H Pass 2S Pass
+4S Pass Pass Pass
+[Play "E"]
+C2 C8 CK C3
+HK HA HT H4
+D9 D2 DA D7
+S3 D5 D4 D3
+HQ H8 D6 H6
+H2 HJ S2 H5
+CA C6 CJ C4
+C7 C9 CQ C5
+S5 DJ D8 DT
+H3 S8 SQ H9
+ST DK DQ CT
+H7 S9 S4 S6
+SK SJ S7 SA
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT53.KQ732.9.A72 J98.AJ8.KJ52.986 Q742.T.AQ864.KQJ A6.9654.T73.T543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "S"]
+1H Pass 2D Pass
+2H Pass 2S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+C2 C6 CK C4
+HK HA HT H5
+S3 S8 S2 SA
+S5 S9 SQ S6
+SK SJ S4 C5
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T97542.QJ3.9.T74 J863.A762.KQ5.Q8 K.KT954.T76.A962 AQ.8.AJ8432.KJ53 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "W"]
+1H Pass 2D Pass
+2N Pass 3C Pass
+3D Pass 3S Pass
+4H Pass 4N Pass
+5S Pass 6D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T97542.QJ3.9.T74 J863.A762.KQ5.Q8 K.KT954.T76.A962 AQ.8.AJ8432.KJ53 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "W"]
+1H Pass 2D Pass
+2N Pass 3C Pass
+3D Pass 4N Pass
+5H Pass 6D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ864.J9.QJT8.54 5.K862.A93.JT962 9732.AQT3.K42.K7 AQT.754.765.AQ83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "N"]
+1H X 1S 2C
+2S 3C Pass 3H
+Pass 4C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ864.J9.QJT8.54 5.K862.A93.JT962 9732.AQT3.K42.K7 AQT.754.765.AQ83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "N"]
+1H Pass 1S Pass
+2S Pass Pass 3C
+Pass Pass 3S Pass
+Pass 4C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q9.J872.A32.T964 T763.53.74.QJ532 K852.AQT96.JT6.K AJ4.K4.KQ985.A87 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "E"]
+1N Pass Pass 2H
+an tX Pass 2S
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q9.J872.A32.T964 T763.53.74.QJ532 K852.AQT96.JT6.K AJ4.K4.KQ985.A87 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "E"]
+1C Pass 1H Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J7.T952.AQ42.T63 AKQT5.QJ4.KT9.85 8632.K873.7.KQ42 94.A6.J8653.AJ97 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J7.T952.AQ42.T63 AKQT5.QJ4.KT9.85 8632.K873.7.KQ42 94.A6.J8653.AJ97 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2D Pass 4D
+Pass 5D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Finnish Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Mäkinen"]
+[North "Puurtinen"]
+[East "Linden"]
+[South "Koivisto"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQ.8763.QJT6.953 K9.AQJ94.A5.JT74 JT876.T.9742.Q86 5432.K52.K83.AK2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Uskali"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Arle"]
+[Auction "W"]
+1H Pass 3N Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+

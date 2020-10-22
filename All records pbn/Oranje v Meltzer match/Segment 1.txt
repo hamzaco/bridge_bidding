@@ -1,0 +1,451 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ8.QT853.Q96.86 T7652.97.854.KJ9 3.J42.J732.AQ743 AJ94.AK6.AKT.T52 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+Pass 1C 1H Pass
+2C X Pass 2S
+Pass Pass Pass
+[Play "N"]
+H3 H7 H2 HA
+S8 S5 S3 SA
+SQ S2 C7 SJ
+C6 C9 CQ C2
+C8 CJ CA C5
+SK CK C3 CT
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J52.QJT87.A9.987 A763.42.87.JT543 T8.A9653.QJ54.AK KQ94.K.KT632.Q62 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+1D 1H X 4H
+4S Pass Pass X
+Pass Pass Pass
+[Play "N"]
+HQ H2 HA HK
+HT H4 H5 S4
+S5 S3 S8 SQ
+C9 CT CK C6
+DA D7 DJ DK
+D9 D8 DQ D2
+C7 C3 D4 D6
+C8 C4 CA CQ
+SJ SA D5 DT
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT86.76543.A.QT7 A752.98.JT732.65 3.AKQT2.984.KJ82 KQ94.J.KQ65.A943 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+Pass Pass 1H X
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ6.A98.85.KQ953 T542.T42.KJT.T86 987.Q76.A7632.J7 AK3.KJ53.Q94.A42 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "W"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT87.K94.AQJ.984 6.875.65432.AKT5 QJ53.Q6.K97.Q763 A942.AJT32.T8.J2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S 2H 2S 3H
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 732.AK94.AJ8.KQ9 A5.QJ75.74.AT743 J9.T82.T962.J862 KQT864.63.KQ53.5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+1S X XX 1N
+2S Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A8.642.K872.QJ54 K9.AQ7.T94.AT762 Q7432.KT9.AQJ.93 JT65.J853.653.K8 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+Pass 1D 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 76.Q92.AT9.KT954 Q92.AKJ863.J4.AJ AKT854.T.K762.73 J3.754.Q853.Q862 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "W"]
+1H 1S Pass 1N
+2H 2S 3H Pass
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K93.T875.T85.AQT J6.KQ63.AQJ62.95 T8.AJ4.K9743.K76 AQ7542.92.J8432."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+1D 1S X XX
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK.A832.7542.KT6 J6.KT.Q9863.J982 74.QJ95.AT.AQ753 QT98532.764.KJ.4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+3S Pass Pass X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT2.K2.AQ6.A432 86.J9654.KJ54.K9 KQ93.QT83.T98.J6 754.A7.732.QT875 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+1C an 2+ 1H
+X! Pass 2H Pass
+2N Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJ97.Q76.T9.AJT6 854.JT92.Q76.542 KT.AK54.J853.973 Q632.83.AK42.KQ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "W"]
+Pass Pass 1D X
+Pass 1H X Pass
+1S 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J973.T932.AKT74.A 98432.Q875.982.KQT4 AT.AKJ.Q653.8652 KQJ765.64.J."]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+1C 2H X 5H
+6S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ95.A4.Q7.KJ753 AT63.KT7.95.A984 J842.532.832.Q62 7.QJ986.AKJT64.T "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+1D 1S 2N Pass
+3H Pass 3S Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Oranje v Meltzer match"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bates"]
+[North "Bakkeren"]
+[East "Sontag"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K984.J8.K87.Q742 AT65.A5.AJT3.A63 J3.Q97632.94.KJ5 Q72.KT4.Q652.T98 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+

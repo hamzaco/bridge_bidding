@@ -1,0 +1,942 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT93.AKQ6.87.J75 A76.85.AKT43.942 KQ854.974.6.A863 2.JT32.QJ952.KQT "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass Pass 2D
+2H 3D 3S Pass
+4S 5D X Pass
+Pass Pass
+[Play "N"]
+HK H5 H4 H2
+HA H8 H7 H3
+SJ SA S4 S2
+D7 DA D6 D2
+S3 S6 S5 D5
+D8 D3 C3 DQ
+H6 D4 H9 HT
+C5 C2 C6 CK
+HQ DK S8 HJ
+C7 C4 C8 CQ
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT93.AKQ6.87.J75 A76.85.AKT43.942 KQ854.974.6.A863 2.JT32.QJ952.KQT "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+Pass Pass 1C 1D
+1S X! 2S Pass
+4S 5D Pass Pass
+5S Pass Pass X
+Pass Pass Pass
+[Play "E"]
+D8 DK D6 DQ
+C5 C4 C6 CQ
+D7 DA S4 D2
+SJ SA S5 S2
+C7 C9 CA CT
+S3 S6 SK D5
+ST S7 SQ D9
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT6.AKJ4.K73.KT3 A975.85.A.AQJ752 K4.Q9762.QJ9852. J832.T3.T64.9864 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+Pass 1N 3C 3H
+5C Pass Pass 5D
+Pass 5H 6C X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT6.AKJ4.K73.KT3 A975.85.A.AQJ752 K4.Q9762.QJ9852. J832.T3.T64.9864 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+Pass 1N X! 2D
+Pass 2H 3C 3D
+Pass 4H Pass Pass
+4S Pass Pass 5D
+Pass 5H X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J83.K63.KQJ8652.7 AJ986532.J.AT3.AQT952 K74.AT8.4.K64 QT.Q97542.97."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+1C 4H 4S Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J83.K63.KQJ8652.7 AJ986532.J.AT3.AQT952 K74.AT8.4.K64 QT.Q97542.97."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+1C 1H 1S Pass
+2C 3H 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT52.8.42.JT8543 KQT3.KT83.AKQ97.K983 J976.AJ97.6. QJ764.A542.Q65.2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+1C Pass 1S Pass
+2H Pass 3H Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT52.8.42.JT8543 KQT3.KT83.AKQ97.K983 J976.AJ97.6. QJ764.A542.Q65.2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+2S Pass 2N Pa
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ97.A542.J432.7 KT8652.J6.AK75.9 A3.KT7.T98.KT654 4.Q983.Q6.AQJ832 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2C Pass 2D
+Pass 2H Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ97.A542.J432.7 KT8652.J6.AK75.9 A3.KT7.T98.KT654 4.Q983.Q6.AQJ832 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+Pass 2H Pass 2S
+Pass 2N an 4!
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q97.KT963.J87.AJ KT842.72.A543.T3 AJ5.QJ8.6.KQ8754 63.A54.KQT92.962 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 3H
+Pass 3N Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q97.KT963.J87.AJ KT842.72.A543.T3 AJ5.QJ8.6.KQ8754 63.A54.KQT92.962 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT2.T.KT742.Q974 KQJ64.KJ2.AJ632.875 9743.QJ9853..93 AQ865.A6.KT85."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 3H Pass 4C
+Pass 4D Pass 4H
+Pass 4N Pass 5H
+Pass 6H X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT2.T.KT742.Q974 KQJ64.KJ2.AJ632.875 9743.QJ9853..93 AQ865.A6.KT85."]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 3C Pass 4C
+Pass 4H Pass 4N
+Pass 6C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ973.A2.J8.T832 QJ98654.T9632.A.AT52 T73.Q4.QJ64. J864.K.AK75.K975 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+1H Pass 1S Pass
+2H Pass 3N Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ973.A2.J8.T832 QJ98654.T9632.A.AT52 T73.Q4.QJ64. J864.K.AK75.K975 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ9652.JT96.8.K5 AQ74.Q75.T753.Q3 8.83.AKJ2.AT9842 T3.AK42.Q964.J76 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 2H Pass
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ9652.JT96.8.K5 AQ74.Q75.T753.Q3 8.83.AKJ2.AT9842 T3.AK42.Q964.J76 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 2D an
+Fo  a Pa Pass
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J4.975.KQT53.762 T862.AK643.J7.K3 Q.JT.A9862.AQJ84 AK9753.Q82.4.T95 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+2S Pass 2N Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J4.975.KQT53.762 T862.AK643.J7.K3 Q.JT.A9862.AQJ84 AK9753.Q82.4.T95 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+2D an Mu Pass
+4H 4N Pass 5D
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9842.AJ54.J6.AQ9 T6.KQT.Q752.6543 AKQ75.73.4.KT872 J3.9862.AKT983.J "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+1C Pass 1S 3D
+Pass 4D X Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 9842.AJ54.J6.AQ9 T6.KQT.Q752.6543 AKQ75.73.4.KT872 J3.9862.AKT983.J "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+Pass Pass 1S 2D
+4S 5D Pass Pass
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A8.QT984.652.K32 T753.A5.QT8.QT95 K942.J32.A9743.J QJ6.K76.KJ.A8764 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A8.QT984.652.K32 T753.A5.QT8.QT95 K942.J32.A9743.J QJ6.K76.KJ.A8764 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+2N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKQ8.A972.6432.2 95.KQJ85.AQ9.J84 JT42.4.T5.AKQ753 763.T63.KJ87.T96 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 2D Pass
+3C Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AKQ8.A972.6432.2 95.KQJ85.AQ9.J84 JT42.4.T5.AKQ753 763.T63.KJ87.T96 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "N"]
+1C Pass 1D 1H
+1S Pass 2H X
+3C Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q9843.KT.AT86.K9 T7.QJ9743.KJ4.AT AK65.A85.5.Q7632 J2.62.Q9732.J854 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+Pass 1S 2H 3H
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q9843.KT.AT86.K9 T7.QJ9743.KJ4.AT AK65.A85.5.Q7632 J2.62.Q9732.J854 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "E"]
+Pass 1S 2H 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT2.75.532.JT853 A7.QJT842.AT87.2 Q9853.A.K96.AK94 K64.K963.QJ4.Q76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+Pass 1H 1S 2S
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT2.75.532.JT853 A7.QJT842.AT87.2 Q9853.A.K96.AK94 K64.K963.QJ4.Q76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "S"]
+Pass 1H 1S 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Adad"]
+[North "Perron"]
+[East "Ringuet"]
+[South "Lebel"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AK96.54.A76.KJ76 Q2.AKJ972.4.A985 JT87.T863.KJ93.T 543.Q.QT852.Q432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Izisel"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Adad"]
+[Auction "W"]
+1H Pass Pass X
+2H Pass Pass X
+Pass 2S 3H Pass
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+

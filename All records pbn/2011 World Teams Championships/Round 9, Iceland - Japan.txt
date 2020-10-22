@@ -1,0 +1,937 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q7.T5432.K.AKQT2 KT986.QJ.Q642.43 J532.K9.AT85.876 A4.A876.J973.J95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "N"]
+Pass 1N 2H 2S
+Pass Pass 3C Pass
+Pass Pass
+[Play "W"]
+CA C3 C6 CJ
+H2 HJ HK H6
+H3 HQ H9 H7
+CT C4 C7 C9
+DK D2 D5 D3
+H4 S6 C8 H8
+S7 D4 DA D7
+C2 D6 D8 D9
+CK S8 S2 C5
+HT S9 S3 HA
+SQ ST S5 SA
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q7.T5432.K.AKQT2 KT986.QJ.Q642.43 J532.K9.AT85.876 A4.A876.J973.J95 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass 2C Pass
+2H Pass Pass Pass
+[Play "W"]
+H3 HJ HK HA
+H5 HQ H9 H8
+S7 ST S2 SA
+SQ SK S3 S4
+DK D4 D8 D9
+HT S6 D5 H6
+CA C3 C6 C5
+CK C4 C7 C9
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A7432.K92.J96.63 QJ95.AT6.T743.K7 QJ873.Q85.J9842. KT86.54.AK2.AQT5 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "E"]
+1C 1S 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A7432.K92.J96.63 QJ95.AT6.T743.K7 QJ873.Q85.J9842. KT86.54.AK2.AQT5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "E"]
+1C an 16 Pass
+1H Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT87652.A72.J.52 K93.K43.K9873.43 Q.QT8.T652.QJT96 A4.J965.AQ4.AK87 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "S"]
+3S Pass Pass X
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT87652.A72.J.52 K93.K43.K9873.43 Q.QT8.T652.QJT96 A4.J965.AQ4.AK87 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "S"]
+Pass Pass Pass 1C
+an 16 2S Pass
+Pass X Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T97.AQ642.3.A986 KQ8654.KJ.KJ.KT3 AJ.T3.QT987642.2 32.9875.A5.QJ754 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "W"]
+1S 4D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T97.AQ642.3.A986 KQ8654.KJ.KJ.KT3 AJ.T3.QT987642.2 32.9875.A5.QJ754 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "W"]
+1S 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J93.K8653.Q2.J86 Q64.J7.KT7.KT972 A85.AQT94.J84.AQ KT72.2.A9653.543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "N"]
+1C 1N X! 3D
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J93.K8653.Q2.J86 Q64.J7.KT7.KT972 A85.AQT94.J84.AQ KT72.2.A9653.543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "N"]
+1H Pass 3D an
+4!  7 Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 82.986542.J8743.AQJ9 Q63.AK.AQ65.K8765 K5.Q3.KT92.T432 AJT974.JT7."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "E"]
+Pass Pass 2C X!
+an RE 2H 5C
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 82.986542.J8743.AQJ9 Q63.AK.AQ65.K8765 K5.Q3.KT92.T432 AJT974.JT7."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "E"]
+2H an we Pass
+2N an fo Pass
+3C an sh Pass
+4N Pass 5D an
+1  Pass 6H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J964.Q862.T6.KT4 K83.K.KQ9752.952 AQ7.T974.84.A873 T52.AJ53.AJ3.QJ6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J964.Q862.T6.KT4 K83.K.KQ9752.952 AQ7.T974.84.A873 T52.AJ53.AJ3.QJ6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "S"]
+Pass 2D an we
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q852.J5.Q9754.AQ A74.KQT62.A.T965 T63.9743.JT82.82 KJ9.A8.K63.KJ743 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "W"]
+1H Pass 2C Pass
+3C Pass 3D Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q852.J5.Q9754.AQ A74.KQT62.A.T965 T63.9743.JT82.82 KJ9.A8.K63.KJ743 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "W"]
+1H Pass 2C an
+na Pass 3C an
+na Pass 4C an
+sl Pass 4D an
+cu Pass 4H an
+cu Pass 4S an
+cu Pass 6C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 2.A932.QT8543.82 AQ84.865.A97.AT9 J763.QJ.J62.KJ64 KT95.KT74.K.Q753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "N"]
+Pass 1C 2D X
+3D Pass Pass X
+Pass 4D Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 2.A932.QT8543.82 AQ84.865.A97.AT9 J763.QJ.J62.KJ64 KT95.KT74.K.Q753 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "N"]
+Pass Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQT63.76.AQ.QT96 9854.K4.J932.842 K2.AJT985.K65.A5 J7.Q32.T874.KJ73 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2S Pass 2N
+Pass 3D Pass 3H
+Pass 3N Pass 4D
+Pass 5N Pass 6H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQT63.76.AQ.QT96 9854.K4.J932.842 K2.AJT985.K65.A5 J7.Q32.T874.KJ73 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 3C Pass 3H
+Pass 4D Pass 4N
+Pass 5H Pass 6N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K52.QJT.K84.JT72 AT643.9432.A7.95 J98.876.J93.K863 Q7.AK5.QT652.AQ4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1S Pass 2N
+Pass 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K52.QJT.K84.JT72 AT643.9432.A7.95 J98.876.J93.K863 Q7.AK5.QT652.AQ4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "S"]
+Pass Pass Pass 1N
+an 15 Pass 2C
+an   Pass 2D
+an   Pass 2N
+an   Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 873.KQJ86.J732.9 AQT5.T32.T5.KQ72 KJ942.4.AK94.A85 6.A975.Q86.JT643 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "W"]
+1N X Pa Pass
+XX Pass 2C 2H
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 873.KQJ86.J732.9 AQT5.T32.T5.KQ72 KJ942.4.AK94.A85 6.A975.Q86.JT643 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "W"]
+1N an we 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A93.AJ65.JT.J762 K764.Q743.6542.4 QJ52.KT92.AKQT9.T8 8.AKQ9873.853."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "N"]
+2H Pass 2N Pass
+4C 4D 6C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A93.AJ65.JT.J762 K764.Q743.6542.4 QJ52.KT92.AKQT9.T8 8.AKQ9873.853."]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "N"]
+1C 3D X 5D
+6D Pass 6H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ87.K7.KJ7.QT62 K542.T9643.83.J3 T63.A5.T9642.975 Q9.QJ82.AQ5.AK84 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "E"]
+1C Pass 1H Pass
+4C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ87.K7.KJ7.QT62 K542.T9643.83.J3 T63.A5.T9642.975 Q9.QJ82.AQ5.AK84 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "E"]
+1C an   Pass
+1D an tX Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: ... ... ."]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: ... ... ."]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "S"]
+1H Pass 2C Pass
+2H Pass 2N Pass
+3C Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2011 World Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "FURUTA"]
+[North "JONSSON"]
+[East "KAKU"]
+[South "BALDURSSON"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: ... ... ."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Island"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "W"]
+Pass 1N 2H Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+

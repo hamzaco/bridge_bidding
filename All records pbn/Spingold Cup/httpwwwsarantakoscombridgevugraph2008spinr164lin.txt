@@ -1,0 +1,949 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 72.AKQJ965.53.Q8 AK983.832.T6.KJ2 QJT654.74.874.94 .T.AKQJ92.AT7653 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "N"]
+Pass 1D 1H 1S
+Pass 3C Pass 3H
+Pass 4C Pass 5C
+Pass Pass Pass
+[Play "S"]
+HK H2 H4 HT
+HA H3 H7 C3
+C8 CK C4 C6
+CQ CJ C9 C5
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 72.AKQJ965.53.Q8 AK983.832.T6.KJ2 QJT654.74.874.94 .T.AKQJ92.AT7653 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "N"]
+Pass 1D 1H X
+an 4- Pass 3C
+3H 5C Pass 6C
+Pass Pass Pass
+[Play "S"]
+HK H2 H7 HT
+HA H3 H4 C3
+C8 CK C4 C5
+CQ CJ C9 C6
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 52.J5.7642.A9873 QJT8.863.AKT8.52 K76.KQT92.J53.K4 A943.A74.Q9.QJT6 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "E"]
+1N an 11 Pass
+Pass Pass
+[Play "S"]
+C3 C2 CK C6
+CA C5 C4 CQ
+C9 H3 H2 CJ
+D2 D8 D5 DQ
+D4 DA D3 D9
+S2 SQ S7 S3
+S5 SJ S6 S4
+D6 S8 SK SA
+C7 H6 H9 CT
+C8 ST HT S9
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 52.J5.7642.A9873 QJT8.863.AKT8.52 K76.KQT92.J53.K4 A943.A74.Q9.QJT6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "E"]
+1C Pass 1S Pass
+2S Pass Pass 3H
+Pass Pass 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9.J52.AT53.K9865 K654.AT963.Q.AQ4 AQT87.4.KJ962.J2 J32.KQ87.874.T73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "S"]
+Pass 1H 1S 2H
+X an XX Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9.J52.AT53.K9865 K654.AT963.Q.AQ4 AQT87.4.KJ962.J2 J32.KQ87.874.T73 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "S"]
+Pass 1H 2H 3H
+5C Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT52.AQ4.A54.742 KJ864.J9653.J6.K 97.T7.K987.JT986 Q3.K82.QT32.AQ53 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "W"]
+Pass Pass 1N an
+12 Pass 2C Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT52.AQ4.A54.742 KJ864.J9653.J6.K 97.T7.K987.JT986 Q3.K82.QT32.AQ53 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "W"]
+Pass Pass 1C X
+1H an !S  m
+Pass 1S Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9874.7.AQ542.J53 QJ32.KT8.J6.K742 T65.AQJ42.93.Q98 AK.9653.KT87.AT6 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "N"]
+Pass 1N an 11
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9874.7.AQ542.J53 QJ32.KT8.J6.K742 T65.AQJ42.93.Q98 AK.9653.KT87.AT6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2H Pass 3C
+an as Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ543.765.K9.AJT K92.A.AT8632.875 AT6.QT92.Q5.Q943 87.KJ843.J74.K62 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "E"]
+Pass 1S 2D 2S
+X Pass 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ543.765.K9.AJT K92.A.AT8632.875 AT6.QT92.Q5.Q943 87.KJ843.J74.K62 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "E"]
+Pass 1S Pass 2S
+Pass Pass 3D 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ53.AK763.6.T72 K.Q982.Q73.AQ963 72.JT.AJT852.K54 AT9864.54.K94.J8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "S"]
+Pass 1C 1D 1S
+Pass 2C Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ53.AK763.6.T72 K.Q982.Q73.AQ963 72.JT.AJT852.K54 AT9864.54.K94.J8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "S"]
+Pass 2C an "P
+Pass 2S Pass 2N
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q.Q653.AQ94.KT62 732.T7.JT72.AQ73 A964.AKJ42.65.J5 KJT85.98.K83.984 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "W"]
+Pass 1H Pass 2N
+an H  Pass 3C
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q.Q653.AQ94.KT62 732.T7.JT72.AQ73 A964.AKJ42.65.J5 KJT85.98.K83.984 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "W"]
+Pass 1H 1S 2S
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q.KJ873.QT84.Q93 8654.95.J953.K86 AJT932.A2.6.AJT7 K7.QT64.AK72.542 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "N"]
+1S X Pass 2D
+2S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q.KJ873.QT84.Q93 8654.95.J953.K86 AJT932.A2.6.AJT7 K7.QT64.AK72.542 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "N"]
+1S X Pass 2D
+2S Pass 2N Pass
+3C Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 97.AQ.K76.K97542 JT86.KT742.Q84.3 AK42.8.AJT952.A6 Q53.J9653.3.QJT8 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "E"]
+Pass 1C an 2+
+Pass 1S an an
+Pass 2H an lo
+Pass 2S Pass 2N
+Pass 3C Pass 3D
+an 2= Pass 3S
+an se Pass 3N
+an mi Pass 4C
+Pass 4D Pass 4S
+Pass 6D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 97.AQ.K76.K97542 JT86.KT742.Q84.3 AK42.8.AJT952.A6 Q53.J9653.3.QJT8 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "E"]
+Pass 1N an 11
+Pass 2C Pass 2D
+Pass 3D Pass 3H
+Pass 3S Pass 3N
+Pass 4C X 4H
+Pass 4N Pass 5H
+Pass 6D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 5.Q865.AK72.Q984 AKJ9862.A3.4.AT7 74.K9742.QJ53.63 QT3.JT.T986.KJ52 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "S"]
+1C an 2+ X
+1D an he X!
+an Xi 2H an
+4H 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 5.Q865.AK72.Q984 AKJ9862.A3.4.AT7 74.K9742.QJ53.63 QT3.JT.T986.KJ52 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "S"]
+1D X 1H 1N
+2H 3S 4H 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A963.83.QT8.J987 J754.AQ72.972.KT Q82.KT6.A3.A6532 KT.J954.KJ654.Q4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "W"]
+Pass 1C an 2+
+1D 1S 2D X!
+an 3! Pass 2S
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A963.83.QT8.J987 J754.AQ72.972.KT Q82.KT6.A3.A6532 KT.J954.KJ654.Q4 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "W"]
+Pass 1N an go
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q98.8652.JT92.65 K63.KT4.A7.AKT92 J742.QJ.K854.874 AT5.A973.Q63.QJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "N"]
+Pass 1N an 12
+Pass 2C Pass 2H
+Pass 3C Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q98.8652.JT92.65 K63.KT4.A7.AKT92 J742.QJ.K854.874 AT5.A973.Q63.QJ3 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "N"]
+Pass 1C Pass 2C
+an FG Pass 2N
+an us Pass 4N
+Pass 6N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 543.AQ753.Q9.KT9 T7.92.JT8653.J87 KQ9862.K864.AK.5 AJ.JT.742.AQ6432 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "E"]
+X an cl 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 543.AQ753.Q9.KT9 T7.92.JT8653.J87 KQ9862.K864.AK.5 AJ.JT.742.AQ6432 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "E"]
+2C Pass 2D 2S
+Pass 3C Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQJ764.5.T5.KJT7 8.Q763.Q9764.A95 932.AJ842.AKJ.Q4 KT5.KT9.832.8632 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "S"]
+2S an 10  6
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQJ764.5.T5.KJT7 8.Q763.Q9764.A95 932.AJ842.AKJ.Q4 KT5.KT9.832.8632 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "S"]
+1S Pass 2H Pass
+2S Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Spingold Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Tolliver"]
+[North "Fredin"]
+[East "Horton"]
+[South "Fallenius"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q952.KT62.K83.Q4 84.QJ7.A7.JT9763 KJ6.854.T9542.K8 AT73.A93.QJ6.A52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lusky"]
+[Auction "W"]
+Pass Pass 1C an
+st  N Pass 2S
+Pass 2N Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+

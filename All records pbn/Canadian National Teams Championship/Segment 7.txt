@@ -1,0 +1,480 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q532.K76.AKT95.T 8.Q9854.J43.AKJ2 A6.AJT3.72.87543 KJT974.2.Q86.Q96 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "N"]
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+DA D3 D7 D8
+DK D4 D2 D6
+DT DJ S6 DQ
+H7 H4 HA H2
+H6 H5 H3 S4
+CT CA C3 C9
+S2 S8 SA S7
+S3 C2 C4 CQ
+D9 H8 C5 S9
+S5 H9 C7 SK
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K2.K9764.Q532.KJ JT9.AJ8.AJ974.96 AQ8543.T32.T8.42 76.Q5.K6.AQT8753 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "E"]
+2C an 10 Pass
+2D an XX Pass
+2N an 2  Pass
+3N Pass Pass Pass
+[Play "E"]
+H6 HA H2 H5
+CK C9 C4 CQ
+HK H8 HT HQ
+H9 HJ H3 S6
+CJ C6 C2 CA
+D2 S9 S8 CT
+S2 ST S3 C8
+H4 SJ S4 C7
+H7 D4 S5 C5
+SK D7 SQ C3
+D3 D9 DT DK
+D5 DA D8 D6
+DQ DJ SA S7
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ97.Q.AJ985.J98 83.T9765.K2.AQ62 J.A4.QT763.KT543 AT6542.KJ832.4.7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "S"]
+1D Pass 2C an
+GF 2S X an
+Pa Pass 3D Pass
+3S Pass 4H X
+5D Pass Pass Pass
+[Play "S"]
+HQ H5 HA H2
+D5 DK DT D4
+D9 H7 H4 HK
+DA D2 D3 S5
+C9 CA C3 C7
+S7 S8 SJ SA
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T43.AK75.KJ3.A52 Q976.T943.T9.KQ6 AK82.Q62.Q764.93 J5.J8.A852.JT874 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "W"]
+Pass Pass Pass 1N
+an 15 Pass 2D
+an GF Pass 2H
+Pass 2N an ke
+Pass 3N an 34
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 2.K.J7432.AQJ952 KJ954.AT94.5.KT4 AQT.J732.KQ9.876 8763.Q865.AT86.3 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "N"]
+1C Pass 2D an
+GF 2S 2N 4C
+an SP 5C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 5.AKQT75.J983.KJ 72.3.A62.Q975432 AT86.82.QT74.AT6 KQJ943.J964.K5.8 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "E"]
+1S 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 987.A2.T93.Q9763 T.Q97.AKQ654.T82 KJ52.KT86.872.AK AQ643.J543.J.J54 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "S"]
+Pass 1D X 1H
+an tX 2C 2D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T3.QJ953.KT.A965 72.AK8.J852.KQT3 AQ4.76.AQ743.J42 KJ9865.T42.96.87 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "W"]
+1D Pass 2S an
+we Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K96.KJ65.J76.QJT QT4.87.AKQT94.74 J872.Q43.32.AK92 A53.AT92.85.8653 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "N"]
+Pass Pass 1H 2D
+X Pass 2S Pass
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK863.JT.K43.QJ7 Q42.K32.T92.9654 95.A96.AQJ86.A82 JT7.Q8754.75.KT3 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 2S Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q873.J984.Q9754.95 72.863.KQJ932.KJT42 A5.K2.A854. A6.KQT63.AJT.T76 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "S"]
+Pass 3C 3S 4C
+4S Pass Pass X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K8.762.AKQ964.A8 AJ932.KQ5.2.KJT3 QT7654.AJ3.JT.Q4 .T984.8753.97652 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "W"]
+1S Pass 1N an
+fo 2D X! an
+ta Pass 2H Pass
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q6.QJT932.J2.J86 KJT85.K6.64.KQT5 A4.854.Q98753.A3 9732.A7.AKT.9742 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "N"]
+Pass 1C an Po
+Pass 1S Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T952.543.KT43.86 Q4.Q986.9.AKJ952 AJ76.T7.7652.Q74 K83.AKJ2.AQJ8.T3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "E"]
+1C an Po Pass
+1H Pass 2D an
+sh Pass 3C an
+ca Pass 3H Pass
+4C Pass 4D X
+XX Pass 4H Pass
+5C Pass 5H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Teams Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Klimowicz"]
+[North "Carruthers"]
+[East "Campbell"]
+[South "Silver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T32.T9763.K43.K4 7.K84.AJT.AQJT62 KQJ65.J2.98752.7 A984.AQ5.Q6.9853 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Carruthers"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gartaganis"]
+[Auction "S"]
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+

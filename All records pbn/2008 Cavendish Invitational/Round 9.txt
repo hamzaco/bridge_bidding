@@ -1,0 +1,77 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Furunes"]
+[North "Altshuler"]
+[East "Austberg"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ653.542.KJ.AQ8 A8.9.AT842.T7653 Q42.AK876.765.42 T97.QJT3.Q93.KJ9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1S Pass
+2C an DX Pass
+2S Pass Pass Pass
+[Play "W"]
+H5 H9 HA H3
+CQ C3 C2 C9
+S3 S8 SQ S7
+CA C5 C4 CK
+C8 C6 S2 CJ
+SK SA S4 S9
+SJ C7 D5 ST
+S6 D2 H6 D3
+H2 D4 HK HT
+DJ DA D6 D9
+DK D8 D7 DQ
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Furunes"]
+[North "Altshuler"]
+[East "Austberg"]
+[South "Birman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K62.Q76.KJ954.85 T5.J8432.AT8.QJ9 AJ8.AK.Q7632.A74 Q9743.T95.KT632."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+C5 CJ C4 C2
+C8 CQ C7 C3
+D4 C9 CA C6
+DK DA D2 S4
+*
+
+

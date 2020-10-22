@@ -1,0 +1,226 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Driene Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9732.K862.Q4.Q65 AKJ65.A54.653.82 8.J73.KJ872.T974 QT4.QT9.AT9.AKJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "N"]
+Pass 1N Pass 2H
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "S"]
+H2 H4 HJ HQ
+HK HA H3 HT
+S2 S5 S8 SQ
+S3 S6 H7 ST
+S7 SA D8 S4
+S9 SK D2 D9
+H8 SJ D7 DT
+CQ C2 C4 CJ
+*
+
+
+[Event "Driene Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9732.K862.Q4.Q65 AKJ65.A54.653.82 8.J73.KJ872.T974 QT4.QT9.AT9.AKJ3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "N"]
+2C 2N Pass 3H
+Pass 3S Pass 4N
+Pass Pass Pass
+[Play "S"]
+DQ D3 D2 D9
+D4 D5 DJ DA
+S2 S5 S8 SQ
+S3 S6 C7 ST
+S7 SJ C4 S4
+S9 SA D8 H9
+H2 SK D7 DT
+CQ C2 C9 CJ
+C5 C8 CT CK
+C6 H4 H3 CA
+H6 D6 DK C3
+HK HA H7 HQ
+H8 H5 HJ HT
+*
+
+
+[Event "Driene Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ98.7.QJT.K9753 6.QT9.A98632.QJ2 Q752.A8652.7.AT6 AT43.KJ43.K54.84 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "E"]
+Pass Pass 2C an
+we Pass 2D an
+no Pass Pass Pass
+[Play "S"]
+H7 H9 HA H3
+DT HT H2 H4
+C5 CQ CA C8
+DJ HQ H5 HK
+CK C2 CT C4
+*
+
+
+[Event "Driene Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ98.7.QJT.K9753 6.QT9.A98632.QJ2 Q752.A8652.7.AT6 AT43.KJ43.K54.84 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "E"]
+1C Pass 1D X
+Pass 2C 2D 3C
+3D 3S Pass 4C
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+C3 CQ CA C8
+SK S6 S2 S3
+S8 D2 SQ S4
+DJ DA D7 D5
+CK CJ C6 C4
+C5 C2 CT D4
+S9 D3 S5 SA
+SJ D6 S7 ST
+C9 H9 H2 H3
+C7 D8 H5 H4
+DT D9 H6 DK
+H7 HT HA HK
+DQ HQ H8 HJ
+*
+
+
+[Event "Driene Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J.Q9732.J63.A865 K943.T6.Q97.K972 T82.AJ84.AT54.T3 AQ765.K5.K82.QJ4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 2C Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+H2 H6 HA H5
+H3 HT H4 HK
+SJ S3 S8 SA
+H7 SK S2 S7
+CA C2 C3 CQ
+C5 C7 CT CJ
+C6 S4 ST SQ
+*
+
+
+[Event "Driene Grand Prix"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J.Q9732.J63.A865 K943.T6.Q97.K972 T82.AJ84.AT54.T3 AQ765.K5.K82.QJ4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "S"]
+2H Pass 3H 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+

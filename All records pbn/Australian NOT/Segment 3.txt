@@ -1,0 +1,965 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ6.K52.A872.864 T852.AQ43.K64.32 J974.98.T953.A97 K3.JT76.QJ.KQJT5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "N"]
+Pass 1D an 2+
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "N"]
+DA D4 DT DJ
+D8 D6 D3 DQ
+H5 H4 H8 HJ
+H2 HQ H9 H6
+HK HA C7 H7
+D2 DK D5 S3
+C4 C2 CA C5
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ6.K52.A872.864 T852.AQ43.K64.32 J974.98.T953.A97 K3.JT76.QJ.KQJT5 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+D2 D4 D9 DQ
+HK HA H8 HJ
+C6 C2 CA C5
+DA D6 D3 DJ
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ832.872.92.QJ5 T94.AQ43.J8.9742 K75.KJ95.AK75.A6 Q6.T6.QT643.KT83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1S Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+H2 HA H5 HT
+H7 H3 H9 H6
+S2 ST SK S6
+SA S4 S7 SQ
+CQ C4 C6 CK
+D2 DJ DA D4
+C5 C2 CA C3
+D9 D8 DK D3
+SJ S9 S5 D6
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AJ832.872.92.QJ5 T94.AQ43.J8.9742 K75.KJ95.AK75.A6 Q6.T6.QT643.KT83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass 1S Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+D2 DJ DA D4
+S2 S4 SK S6
+SA S9 S5 SQ
+C5 C2 CA C3
+CJ C4 C6 CK
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q842.J984.QJ9.Q7 AJ9.T62.A84.K965 753.AQ75.KT6.AJT KT6.K3.7532.8432 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "S"]
+Pass 1D an 2+
+X Pass 2D Pass
+2H Pass Pass Pass
+[Play "E"]
+DQ DA DK D5
+H4 H6 H5 HK
+H8 H2 HQ H3
+HJ HT H7 C3
+CQ CK CA C2
+DJ D4 D6 D7
+D9 D8 DT D2
+C7 C5 CJ C4
+S2 C6 CT C8
+S4 S9 S3 S6
+S8 SA S5 ST
+SQ SJ S7 SK
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q842.J984.QJ9.Q7 AJ9.T62.A84.K965 753.AQ75.KT6.AJT KT6.K3.7532.8432 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+SQ SA S5 ST
+D9 D4 D6 D7
+S2 S9 S7 S6
+DJ DA DT D2
+DQ D8 DK D3
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 53.AJ2.KJT4.T873 KJ84.T865.Q92.64 AQ972.Q.76.AQJ92 T6.K9743.A853.K5 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 2C Pass 2S
+Pass Pass Pass
+[Play "E"]
+H2 HT HQ H4
+S3 S4 S2 S6
+DK D2 D6 D3
+HA H5 D7 H3
+CT C6 C9 CK
+HJ H8 S7 HK
+S5 S8 SA ST
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 53.AJ2.KJT4.T873 KJ84.T865.Q92.64 AQ972.Q.76.AQJ92 T6.K9743.A853.K5 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 2C Pass 3C
+Pass 5C Pass Pass
+Pass
+[Play "E"]
+HA H5 HQ H4
+C8 C4 C2 CK
+DJ DQ D7 D3
+H2 H6 D6 HK
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ.52.A98742.986 K853.J94.KJ5.AT7 T9642.T87.Q3.QJ3 J7.AKQ63.T6.K542 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "N"]
+Pass 1H Pass 1N
+Pass 2C Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ.52.A98742.986 K853.J94.KJ5.AT7 T9642.T87.Q3.QJ3 J7.AKQ63.T6.K542 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2C Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J4.932.QT964.JT9 652.AQJ865.K.A82 T83.T.J7532.7643 AKQ97.K74.A8.KQ5 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2220"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "E"]
+1C Pass 1S Pass
+1N Pass 2N Pass
+3C Pass 3H Pass
+3S Pass 4S Pass
+7N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J4.932.QT964.JT9 652.AQJ865.K.A82 T83.T.J7532.7643 AKQ97.K74.A8.KQ5 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "E"]
+2N Pass 4D an
+! Pass 4H Pass
+4N Pass 5D Pass
+5N Pass 7H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQ65.A8542.973.Q JT9874.KQ.Q5.A64 3.J963.6.KT97532 A2.T7.AKJT842.J8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQ65.A8542.973.Q JT9874.KQ.Q5.A64 3.J963.6.KT97532 A2.T7.AKJT842.J8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "S"]
+Pass 1S 4C 4D
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q62.8542.QT4.T93 543.KQ7.K982.A72 JT98.J96.J.KQJ64 AK7.AT3.A7653.85 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "W"]
+1D an 2+ Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q62.8542.QT4.T93 543.KQ7.K982.A72 JT98.J96.J.KQJ64 AK7.AT3.A7653.85 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q.AT63.QT84.T842 AJ984.52.KJ3.Q73 T763.KQ87.765.96 K52.J94.A92.AKJ5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "N"]
+Pass 1C an 6-
+Pass 1H Pass 1S
+Pass 3D Pass 3H
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q.AT63.QT84.T842 AJ984.52.KJ3.Q73 T763.KQ87.765.96 K52.J94.A92.AKJ5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1N Pass 2D
+an ! Pa 2S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 53.AK2.T84.AQ432 KJT92.J86.AJ7.96 A8.T5.KQ3.KJT875 Q764.Q9743.9652."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "E"]
+Pass 1C 1S 2S
+3S X Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 53.AK2.T84.AQ432 KJT92.J86.AJ7.96 A8.T5.KQ3.KJT875 Q764.Q9743.9652."]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "E"]
+Pass 1C 1S 2S
+4S Pass Pass 6C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T74.A5.T74.KT742 852.KQJ732.KQ8.3 Q93.T6.AJ9653.Q9 AKJ6.984.2.AJ865 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2H Pass 4D
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T74.A5.T74.KT742 852.KQJ732.KQ8.3 Q93.T6.AJ9653.Q9 AKJ6.984.2.AJ865 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "S"]
+Pass 1H 2D X
+3D Pass Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT86.763.J5.AT86 Q3.KT92.AK9.J752 754.Q8.8642.KQ43 KJ92.AJ54.QT73.9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "W"]
+1N Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT86.763.J5.AT86 Q3.KT92.AK9.J752 754.Q8.8642.KQ43 KJ92.AJ54.QT73.9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "W"]
+1N Pass 2C an
+! Pass 2H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ872.T5.K82.AQT KJ9.8642.53.KJ73 4.QJ93.AQJT764.5 T653.AK7.9.98642 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "N"]
+1H Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ872.T5.K82.AQT KJ9.8642.53.KJ73 4.QJ93.AQJT764.5 T653.AK7.9.98642 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "N"]
+5D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K4.KT43.K9873.43 AJ83.J92.Q42.QJ2 2.AQ87.AT6.KT975 QT9765.65.J5.A86 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "E"]
+Pass Pass 1D 2C
+X Pass 2S Pass
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K4.KT43.K9873.43 AJ83.J92.Q42.QJ2 2.AQ87.AT6.KT975 QT9765.65.J5.A86 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "E"]
+2D an ! Pass
+3H an ! Pass
+3S Pass Pass X
+Pass 4D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 9.AK5.KQ963.K753 AK863.Q73.72.QT9 T.T9642.A8.AJ842 QJ7542.J8.JT54.6 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "S"]
+1D 1S X 4S
+4N Pass 5C 5S
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 9.AK5.KQ963.K753 AK863.Q73.72.QT9 T.T9642.A8.AJ842 QJ7542.J8.JT54.6 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "S"]
+1D 1S 2H 4S
+5H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian NOT"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Lorentz"]
+[North "Brogeland"]
+[East "Lester"]
+[South "Erichsen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQJ653.87.93.J87 2.AQT953.KQ.Q965 KT87.42.T764.A32 94.KJ6.AJ852.KT4 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Brogeland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Wyer"]
+[Auction "W"]
+1H Pass 1N 2S
+3H 4S 5H Pass
+Pass Pass
+[Play "N"]
+*
+
+

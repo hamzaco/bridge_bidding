@@ -1,0 +1,691 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKQT5.52.J9.9652 J87.AT8763.Q8.A4 62.KQ4.T743.KQJ8 943.J9.AK652.T73 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "N"]
+Pass Pass 1S 2H
+X Pass 2S Pass
+2N Pass 3C Pass
+Pass Pass
+[Play "W"]
+DJ DQ D3 D2
+D9 D8 D4 DK
+H2 HA H4 HJ
+H5 H3 HQ H9
+SA S7 S2 S3
+SK S8 S6 S4
+SQ SJ HK S9
+C2 C4 CK C3
+C6 CA D7 D5
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKQT5.52.J9.9652 J87.AT8763.Q8.A4 62.KQ4.T743.KQJ8 943.J9.AK652.T73 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "N"]
+Pass Pass 1S 2H
+X Pass 2S Pass
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J83.8764.AJ94.K8 T942.J9.Q8732.A3 AQ5.AKQT.K5.JT64 K76.532.T6.Q9752 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1H Pass 2D
+an   Pass 2H
+an   Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J83.8764.AJ94.K8 T942.J9.Q8732.A3 AQ5.AKQT.K5.JT64 K76.532.T6.Q9752 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 65.K9864.T62.AQ7 9874.QJ72.93.KJ6 AQJ.A5.QJ4.T9542 KT32.T3.AK875.83 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "S"]
+Pass Pass 1N Pass
+2D Pass 2H Pass
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 65.K9864.T62.AQ7 9874.QJ72.93.KJ6 AQJ.A5.QJ4.T9542 KT32.T3.AK875.83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "S"]
+Pass Pass 1N Pass
+2D Pass 2H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q3.J84.K853.AQ96 874.A97.97.JT752 AKJ62.K53.AJ.K83 T95.QT62.QT642.4 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "W"]
+Pass 1C Pass 2N
+Pass 3S Pass 4C
+Pass 4D Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q3.J84.K853.AQ96 874.A97.97.JT752 AKJ62.K53.AJ.K83 T95.QT62.QT642.4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "W"]
+Pass 1C Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ98.K.T943.KJ97 T5.QT9852.A85.64 J42.AJ.KQJ7.T853 K763.7643.62.AQ2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "N"]
+1C Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ98.K.T943.KJ97 T5.QT9852.A85.64 J42.AJ.KQJ7.T853 K763.7643.62.AQ2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "N"]
+Pass Pass 1C 3H
+3N 4C X Pass
+Pass 4H X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AJ62.J9.K9854.Q9 4.A7532.A76.8742 KT953.Q8.Q3.J653 Q87.KT64.JT2.AKT "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "E"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AJ62.J9.K9854.Q9 4.A7532.A76.8742 KT953.Q8.Q3.J653 Q87.KT64.JT2.AKT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "E"]
+1C 1D 2C Pass
+3C Pass 3D X
+Pass Pass XX Pass
+3N Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ6.A64.A85.KQT6 Q73.9.T7632.9542 T954.QJ752.QJ4.7 K82.KT83.K9.AJ83 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "S"]
+1C Pass 1D X
+XX Pass Pass 1H
+Pass 1S X Pass
+Pass XX Pass 2C
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ6.A64.A85.KQT6 Q73.9.T7632.9542 T954.QJ752.QJ4.7 K82.KT83.K9.AJ83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass 2D Pass
+2H Pass 2S Pass
+2N Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 973.6542.QJ98.96 KJ85.KJ73.765.KQ Q64.AT9.AT43.A72 AT2.Q8.K2.JT8543 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "W"]
+1C Pass 2S an
+  Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 973.6542.QJ98.96 KJ85.KJ73.765.KQ Q64.AT9.AT43.A72 AT2.Q8.K2.JT8543 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "W"]
+1N X Pass 2D
+Pass Pass 3C Pass
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T2.A73.KQ2.AQJ73 AJ84.QT852.T5.42 K97.J964.4.KT865 Q653.K.AJ98763.9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C 2D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T2.A73.KQ2.AQJ73 AJ84.QT852.T5.42 K97.J964.4.KT865 Q653.K.AJ98763.9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "N"]
+Pass 1D X 2H
+X 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K832.T98.QT65.K7 AQ9.AK7.A874.Q96 J64.Q43.KJ93.A83 T75.J652.2.JT542 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K832.T98.QT65.K7 AQ9.AK7.A874.Q96 J64.Q43.KJ93.A83 T75.J652.2.JT542 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 2N Pass
+3C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ732.Q74.Q42.A2 54.AJ.76.KJ98653 6.KT98652.T853.T KQT98.3.AKJ9.Q74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "S"]
+1S 3C Pass 4C
+Pass Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ732.Q74.Q42.A2 54.AJ.76.KJ98653 6.KT98652.T853.T KQT98.3.AKJ9.Q74 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "S"]
+1S 3C Pass 5C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Polish Super Liga"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Poletyło"]
+[North "Bartkowski"]
+[East "Wójcicki"]
+[South "Szulejewsk"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q532.KQJ64.92.Q3 87.A953.Q43.KJ82 AK64.7.AK876.A64 JT9.T82.JT5.T975 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Spojnia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Unia"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

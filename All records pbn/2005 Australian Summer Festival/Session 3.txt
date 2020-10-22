@@ -1,0 +1,929 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A6.QJ4.KT952.K83 KJ985.K86.43.QJ2 Q74.97.J6.A97654 T32.AT532.AQ87.T "]
+[Declarer "E"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+3C 3H 4C 4H
+Pass Pass Pass
+[Play "S"]
+C3 C2 CA CT
+D5 D3 DJ DA
+H4 H6 H7 HA
+HJ HK H9 H2
+CK CQ C9 D7
+HQ H8 C4 H3
+S6 S5 SQ S2
+SA S8 S4 S3
+DK D4 D6 D8
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A6.QJ4.KT952.K83 KJ985.K86.43.QJ2 Q74.97.J6.A97654 T32.AT532.AQ87.T "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass Pass 1D 1S
+2C 2D 3C Pass
+Pass 3H Pass 3S
+Pass Pass Pass
+[Play "N"]
+D5 D4 DJ DA
+C8 C2 CA CT
+H4 H6 H9 HA
+D9 D3 D6 D7
+SA S5 S7 S2
+S6 S8 SQ S3
+D2 S9 S4 ST
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KT43.AK87.2.K852 AQ865.Q42.A96.J4 97.JT93.543.QT73 J2.65.KQJT87.A96 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+1D an 10 X
+1S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KT43.AK87.2.K852 AQ865.Q42.A96.J4 97.JT93.543.QT73 J2.65.KQJT87.A96 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+1D X XX 1H
+2D Pass 2S Pass
+3D Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T62.AT54.QT.A654 AJ9843.972.82.T8 KQ5.QJ8.A73.KQ32 7.K63.KJ9654.J97 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass 2S 2N an
+Pa Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T62.AT54.QT.A654 AJ9843.972.82.T8 KQ5.QJ8.A73.KQ32 7.K63.KJ9654.J97 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass 2S 2N Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K9842.Q96.KJ.A43 J73.JT2.Q972.KQ7 A6.A7.A8543.T985 QT5.K8543.T6.J62 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K9842.Q96.KJ.A43 J73.JT2.Q972.KQ7 A6.A7.A8543.T985 QT5.K8543.T6.J62 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K763.A95.8432.J2 QJ5.64.AT6.A6543 92.J72.KQ95.KT98 AT84.KQT83.J7.Q7 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass 1H an 5+
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K763.A95.8432.J2 QJ5.64.AT6.A6543 92.J72.KQ95.KT98 AT84.KQT83.J7.Q7 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T72.A84.AQJ.K752 AK65.KJ.KT863.J8 8.T972.754.AT943 QJ943.Q653.92.Q6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass 1C 1D 3C
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T72.A84.AQJ.K752 AK65.KJ.KT863.J8 8.T972.754.AT943 QJ943.Q653.92.Q6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass 1C 1D 3C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T54.Q5.KJT972.J6 AK3.AT943.A3.AKQ QJ9762.7.84.9754 8.KJ862.Q65.T832 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+2D X Pass 3H
+Pass 4N an XX
+Pass 5D Pass 7H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T54.Q5.KJT972.J6 AK3.AT943.A3.AKQ QJ9762.7.84.9754 8.KJ862.Q65.T832 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass 2C 2D an
+1  2H Pass 4N
+Pass 5C Pass 5N
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T763.J65.AJ5.AJ3 A2.AQT83.T986.64 QJ5.974.KQ3.KQT9 K984.K2.742.8752 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+1H an 5+ X
+Pass 2H Pass 3C
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T763.J65.AJ5.AJ3 A2.AQT83.T986.64 QJ5.974.KQ3.KQT9 K984.K2.742.8752 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+Pass 1C Pass 1S
+2H X an su
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 983.J84.Q864.KJ3 A5.Q2.AKJ9.Q9872 KJT62.AK3.72.T65 Q74.T9765.T53.A4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+1S Pass 2S 2N
+an "n  n Pass
+3N X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 983.J84.Q864.KJ3 A5.Q2.AKJ9.Q9872 KJT62.AK3.72.T65 Q74.T9765.T53.A4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+1S Pass 1N 2C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T84.A6.A92.AQJ72 AK93.KQT8.QJ3.K8 Q752.J9742.T6.T6 J6.53.K8754.9543 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T84.A6.A92.AQJ72 AK93.KQT8.QJ3.K8 Q752.J9742.T6.T6 J6.53.K8754.9543 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass 1N X 2H
+an !h X 2S
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 652.K9863.9852.3 Q98.42.AQJ764.K8 AJT74.AQT.K.QT76 K3.J75.T3.AJ9542 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass 2D an 10
+X Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 652.K9863.9852.3 Q98.42.AQJ764.K8 AJT74.AQT.K.QT76 K3.J75.T3.AJ9542 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass 1D 1S 2C
+2S Pass Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQT972.AKT8.Q97.8 QJ7632.JT8.765.KJ5 95.543.AQT32. 643.4.AK62.KJ984 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+2H an we Pass
+Pass 4S Pass 5C
+Pass 5H Pass 5S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQT972.AKT8.Q97.8 QJ7632.JT8.765.KJ5 95.543.AQT32. 643.4.AK62.KJ984 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+2H Pass 3H 4S
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 6432.8.A6543.KJ8 QT95.J72.KJ92.AT A8.KT643.T87.972 KJ7.AQ95.Q.Q6543 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass 1C an 12
+Pass 1S Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 6432.8.A6543.KJ8 QT95.J72.KJ92.AT A8.KT643.T87.972 KJ7.AQ95.Q.Q6543 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2S Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 863.9643.J9.A987 KJ4.K.Q8532.KJ42 Q975.AT72.AT4.T6 AT2.QJ85.K76.Q53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+1C Pass 2H Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 863.9643.J9.A987 KJ4.K.Q8532.KJ42 Q975.AT72.AT4.T6 AT2.QJ85.K76.Q53 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+1C Pass 1D X
+XX an su 1H
+2H Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKQ5.KQ87.AQJ.52 T432.2.T74.KQJ87 J87.JT4.98653.A6 96.A9653.K2.T943 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+2N Pass 3C Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKQ5.KQ87.AQJ.52 T432.2.T74.KQJ87 J87.JT4.98653.A6 96.A9653.K2.T943 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+2N Pass 3C Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Dyke"]
+[North "Kanetkar"]
+[East "JRothfiel"]
+[South "Rosendorf"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J8.QT5.AK86.A852 T9543.742.J94.J4 KQ.AJ963.53.KT63 A762.K8.QT72.Q97 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 3C Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+

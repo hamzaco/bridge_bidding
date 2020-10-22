@@ -1,0 +1,565 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J764.T8.T764.Q32 QT9.AQJ.95.KJT64 K832.6.AKQJ3.A97 A5.K975432.82.85 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "N"]
+1D 3H Pass 4H
+X Pass Pass Pass
+[Play "S"]
+D7 D5 DJ D2
+D4 D9 DQ D8
+D6 HJ DK S5
+H8 HA H6 H2
+HT HQ S2 HK
+C2 C6 C7 H9
+DT C4 D3 H7
+C3 CT CA C5
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J764.T8.T764.Q32 QT9.AQJ.95.KJT64 K832.6.AKQJ3.A97 A5.K975432.82.85 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "N"]
+1D 2H Pass 3H
+X Pass 3S Pass
+Pass Pass
+[Play "W"]
+H8 HA H6 H7
+CQ CJ C7 C5
+S4 S9 SK SA
+C2 CT CA C8
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQJ965.J93.AQ.86 82.T54.KJ8642.93 73.AK62.953.7542 AT4.Q87.T7.AKQJT "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "E"]
+1N 2D Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQJ965.J93.AQ.86 82.T54.KJ8642.93 73.AK62.953.7542 AT4.Q87.T7.AKQJT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "E"]
+1N X 2C X
+XX 2S Pass Pass
+2N X 3D Pass
+Pass 3S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 83.AT943.976.J85 962.QJ8.K8542.74 KJ75.K752.A.T632 AQT4.6.QJT3.AKQ9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D Pass 1H X
+2H Pass Pass X
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 83.AT943.976.J85 962.QJ8.K8542.74 KJ75.K752.A.T632 AQT4.6.QJT3.AKQ9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 2H X
+Pass 2S Pass 3H
+X 3S Pass 4S
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q76.532.AJ965.54 A.JT9874.42.AQ32 KJT4.AQ6.KT8.J96 98532.K.Q73.KT87 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "W"]
+1H X 1S 2D
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q76.532.AJ965.54 A.JT9874.42.AQ32 KJT4.AQ6.KT8.J96 98532.K.Q73.KT87 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "W"]
+1H X Pass 2D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A3.A9643.K7.JT43 KQ976.QJ8.53.AQ2 JT4.T752.J86.K95 852.K.AQT942.876 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "N"]
+Pass 2C 2H 3D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A3.A9643.K7.JT43 KQ976.QJ8.53.AQ2 JT4.T752.J86.K95 852.K.AQT942.876 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "N"]
+Pass Pass 1H 1S
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J972.AT7.QJT.KT2 AKQ.653.K2.Q9763 8643.42.98543.85 T5.KQJ98.A76.AJ4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J972.AT7.QJT.KT2 AKQ.653.K2.Q9763 8643.42.98543.85 T5.KQJ98.A76.AJ4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "E"]
+1H Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A5.A854.K987.T98 KQJ762.K9.T652.4 T983.762.AJ7652.4 QJT3.AQJ43.KQ3."]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "S"]
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A5.A854.K987.T98 KQJ762.K9.T652.4 T983.762.AJ7652.4 QJT3.AQJ43.KQ3."]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "S"]
+1D 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 2.T65.Q9642.KJ63 75.AQ3.K3.T98542 AKQJ9863.AT87.A.T4 KJ98742.J5.Q7."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "W"]
+Pass 2C 3H Pass
+4H 4S Pass 5S
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 2.T65.Q9642.KJ63 75.AQ3.K3.T98542 AKQJ9863.AT87.A.T4 KJ98742.J5.Q7."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "W"]
+Pass 2C 3H X!
+4H 6S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A5.9753.QT9532.J QJT8.K8.K74.AQ65 76432.J2.AJ6.742 K9.AQT64.8.KT983 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "N"]
+Pass 1H Pass 2D
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A5.9753.QT9532.J QJT8.K8.K74.AQ65 76432.J2.AJ6.742 K9.AQT64.8.KT983 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2C Pass 2D
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "PIEDRA"]
+[North "NUNES"]
+[East "SAESSELI"]
+[South "SANI"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQJ4.K7.J962.AQ6 K872.AQ84.T84.52 9.T32.AQ753.J943 T653.J965.K.KT87 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "MONACONF"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ZURICH ENGE"]
+[Auction "E"]
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+

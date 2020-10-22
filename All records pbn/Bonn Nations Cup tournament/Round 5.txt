@@ -1,0 +1,391 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q.KJ964.J2.QJ964 A32.A3.AK83.AT53 975.Q852.Q965.K2 KJT864.T7.T74.87 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "N"]
+Pass Pass 1H X
+2H 2S 3H X
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+H6 HA H2 H7
+D2 DA D5 D4
+DJ DK D6 D7
+C4 D3 DQ DT
+H4 H3 HQ HT
+C6 D8 D9 C7
+SQ SA S5 SJ
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 64.A765.QT83.AK3 AJ975.K982.K54.T KQ3.QT3.A962.Q87 T82.J4.J7.J96542 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "E"]
+Pass 1H 1S 3N
+Pass Pass Pass
+[Play "None"]
+S4 SA S3 S2
+S6 S7 SQ ST
+CA CT C8 C5
+DQ DK DA D7
+D3 D4 D2 DJ
+H5 S9 SK S8
+DT D5 D6 C2
+D8 H2 D9 C4
+C3 H8 CQ C6
+CK H9 C7 C9
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT7.QJ964.QT42.Q AJ53.32.8.KJ9864 8642.AT.K953.T73 Q9.K875.AJ76.A52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "S"]
+Pass Pass Pass 1N
+2H X 2N Pass
+3D Pass Pass X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT7.QJ964.QT42.Q AJ53.32.8.KJ9864 8642.AT.K953.T73 Q9.K875.AJ76.A52 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "S"]
+[Play "None"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ8743.A.AJT4.A6 AT2.987542.Q9.K8 96.JT3.83.QJT943 K5.KQ6.K7652.752 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "W"]
+Pass Pass 1D 1S
+2H Pass Pass X
+XX 3C 3H 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ8743.A.AJT4.A6 AT2.987542.Q9.K8 96.JT3.83.QJT943 K5.KQ6.K7652.752 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "W"]
+[Play "S"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT987.J4.8.AKJ94 KJ6.Q8732.J52.T5 5.T965.KQT73.Q86 A432.AK.A964.732 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "N"]
+Pass 1N 2S Pass
+2N Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT987.J4.8.AKJ94 KJ6.Q8732.J52.T5 5.T965.KQT73.Q86 A432.AK.A964.732 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "N"]
+[Play "N"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q4.J97.A8762.J54 K82.T532.KT5.876 JT76.A864.93.AQ2 A953.KQ.QJ4.KT93 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "E"]
+1N Pa Pass 2C
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q4.J97.A8762.J54 K82.T532.KT5.876 JT76.A864.93.AQ2 A953.KQ.QJ4.KT93 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "E"]
+[Play "N"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT842.8.K74.A986 9.AQ974.T8.JT532 A753.KJ652.QJ52. QJ6.T3.A963.KQ74 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "S"]
+Pass Pass 1H X
+XX 3C 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK652.KQ73.AQT.K J.JT862.76432.J2 T73.95.85.AQ6543 Q984.A4.KJ9.T987 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 1N Pass 3H
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Bonn Nations Cup tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Wernle"]
+[North "FRITSCHE"]
+[East "Schiffko"]
+[South "marsal"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQT4.84.A86.AK53 K3.QT962.JT542.6 J72.AK.Q97.QJT42 9865.J753.K3.987 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Germany 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Austria"]
+[Auction "N"]
+1C Pass 1S Pass
+1N Pass 2D Pass
+2S Pass 3C Pass
+3H an FO Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+

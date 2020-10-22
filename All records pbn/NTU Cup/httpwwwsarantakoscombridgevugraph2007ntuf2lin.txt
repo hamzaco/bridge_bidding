@@ -1,0 +1,705 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK5.Q74.AKQT.Q93 QT84.J62.J9853.A 2.A853.762.JT762 J9763.KT9.4.K854 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+SK S4 S2 SJ
+C3 CA C2 C8
+S5 SQ H3 S6
+SA ST H5 S3
+DA D3 D2 D4
+DK D5 D6 H9
+CQ D8 C6 CK
+H4 S8 H8 S9
+H7 H2 C7 S7
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK5.Q74.AKQT.Q93 QT84.J62.J9853.A 2.A853.762.JT762 J9763.KT9.4.K854 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "N"]
+Pass Pass 2N Pass
+3C Pass 3D Pass
+3N Pass Pass Pass
+[Play "W"]
+S5 S4 S2 SJ
+SA S8 H3 S6
+C9 CA C2 C5
+SK SQ D2 S3
+CQ H2 C6 C4
+C3 D3 CJ CK
+H4 ST H5 S9
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 86542.65.A64.A97 KJ.AQJT7.KT982.6 Q73.943.Q7.KQ843 AT9.K82.J53.JT52 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "E"]
+Pass Pass 1H Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 86542.65.A64.A97 KJ.AQJT7.KT982.6 Q73.943.Q7.KQ843 AT9.K82.J53.JT52 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "E"]
+Pass Pass 1H Pass
+2H Pass 3D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J2.KJT74.943.JT3 AQ3.A83.KQT.Q876 KT965.AJ7.AK952.874 Q9652.8652.4."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "S"]
+Pass 1N 2S an
+S+ 2N an le
+Pass 3C X 3H
+Pass Pass 4C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J2.KJT74.943.JT3 AQ3.A83.KQT.Q876 KT965.AJ7.AK952.874 Q9652.8652.4."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "S"]
+Pass 1N X 2D
+Pass 2H 3C Pass
+Pass X Pass 3H
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AJT5.AJ3.Q75.KQ7 9643.K62.8.JT852 KQ.Q987.JT9.A964 872.T54.AK6432.3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "W"]
+Pass Pass 2D 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AJT5.AJ3.Q75.KQ7 9643.K62.8.JT852 KQ.Q987.JT9.A964 872.T54.AK6432.3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "W"]
+Pass 1N Pass 2D
+Pass 2S Pass 2N
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q75.QT74.AJ.8753 9864.A865.765.K2 J32.J3.Q93.QJT94 AKT.K92.KT842.A6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2N Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q75.QT74.AJ.8753 9864.A865.765.K2 J32.J3.Q93.QJT94 AKT.K92.KT842.A6 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 84.T9765.A94.AT5 AKQJ.QJ2.K873.J3 632.A43.JT2.8742 T975.K8.Q65.KQ96 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "E"]
+Pass Pass 1N Pass
+2C Pass 2S Pass
+3H an s  Co
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 84.T9765.A94.AT5 AKQJ.QJ2.K873.J3 632.A43.JT2.8742 T975.K8.Q65.KQ96 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "E"]
+Pass Pass 1N Pass
+2C Pass 2S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T72.T52.8632.843 KQ83.J94.9754.AT 95.876.KQJT.Q975 AJ64.AKQ3.A.KJ62 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "S"]
+Pass Pass Pass 2N
+Pass 3C an XX
+Pass 3N an S-
+Pass 4H an tX
+Pass 4S Pass 4N
+Pass 5D Pass 5N
+Pass 6S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T72.T52.8632.843 KQ83.J94.9754.AT 95.876.KQJT.Q975 AJ64.AKQ3.A.KJ62 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "S"]
+Pass Pass 1N X
+Pass 3N Pass 6N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A2.J642.JT8.Q743 QJ96.T3.KQ7.A862 KT875.AQ975.643. 43.K8.A952.KJT95 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "W"]
+1C 2C an S+
+2H an c   i
+3H Pass Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A2.J642.JT8.Q743 QJ96.T3.KQ7.A862 KT875.AQ975.643. 43.K8.A952.KJT95 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "W"]
+1C 2C X 3H
+Pass Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT9732.KQ2.T976.KQ AK52.984.AQJ8.J4 QT743.AT753.5.865 J986.J6.K432."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "N"]
+Pass Pass 2D an
+we mu X! an
+14 3S an P/
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT9732.KQ2.T976.KQ AK52.984.AQJ8.J4 QT743.AT753.5.865 J986.J6.K432."]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "N"]
+Pass Pass 2S 2N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT863.AT.KQ.AT75 7.J943.9862.9432 AJ54.Q.AJT73.KQ6 Q92.K87652.54.J8 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 3C Pass 3S
+Pass 4D Pass 4N
+Pass 5C Pass 5D
+Pass 5H Pass 6S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT863.AT.KQ.AT75 7.J943.9862.9432 AJ54.Q.AJT73.KQ6 Q92.K87652.54.J8 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "E"]
+Pass 1S Pass 2N
+Pass 3S Pass 4N
+Pass 5D Pass 5H
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ98542.K.75.KJ7 KT76.Q973.J82.54 J3.J842.QT.QT832 .AT65.AK9643.A96 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "S"]
+1S Pass 1N an
+F 2D an D+
+2S 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ98542.K.75.KJ7 KT76.Q973.J82.54 J3.J842.QT.QT832 .AT65.AK9643.A96 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "S"]
+1S Pass Pass X
+2S 3H Pass 3S
+Pass 3N Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "NTU Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "JHikaru"]
+[North "x12345x"]
+[East "lorderic"]
+[South "rogerfan"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A965.KJ53.T76.T5 QJ.Q87.AKJ4.AJ43 874.42.Q9532.K97 KT32.AT96.8.Q862 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CCUB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BTU-V"]
+[Auction "W"]
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,935 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 764.A742.T93.982 8.98.AKJ754.6543 AKQ952.K65.Q6.KT "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1S Pass 1N 2D
+X Pass 2S Pass
+3S Pass Pass Pass
+[Play "E"]
+D9 DK D6 D8
+H2 H9 HK H3
+S4 S8 SA S3
+S6 C3 SK ST
+S7 H8 SQ SJ
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 764.A742.T93.982 8.98.AKJ754.6543 AKQ952.K65.Q6.KT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1C Pass 1D 2D
+2S Pass Pass Pass
+[Play "E"]
+D3 DK D6 D8
+C2 C5 CK CA
+C8 C6 CT CJ
+D9 DA DQ D2
+DT DJ H5 HJ
+C9 D7 SA C7
+S4 S8 SK S3
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQJ73.T54.743.94 T85.QJT2.KJT753.62 98762.AK65.62."]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1H Pass 1N Pass
+3N Pass Pass Pass
+[Play "N"]
+DT DK D8 D3
+SA SK S5 S6
+H4 C3 H2 HA
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQJ73.T54.743.94 T85.QJT2.KJT753.62 98762.AK65.62."]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1H Pass 1N Pass
+3N Pass Pass Pass
+[Play "N"]
+D8 D3 D2 DA
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q64.J543.J6.QT92 T53.K.KQ952.J543 KJ87.AT97.T84.76 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass Pass 1H 1N
+2H 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q64.J543.J6.QT92 T53.K.KQ952.J543 KJ87.AT97.T84.76 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass Pass 1D 1N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJT2.97.QJ4.QT72 743.KQJT6.K86.A3 KQ9.A42.AT9752.5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1H 2D Pass 3C
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJT2.97.QJ4.QT72 743.KQJT6.K86.A3 KQ9.A42.AT9752.5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1H 2D 2H 3C
+Pass 3H Pass 3S
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q9752.T83.9872.T A.A5.KQ65.AK9643 KJ643.J9.T43.Q85 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2H Pass 3H
+Pass 4H Pass 4N
+Pass 5S Pass 7H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q9752.T83.9872.T A.A5.KQ65.AK9643 KJ643.J9.T43.Q85 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2H Pass 3D
+Pass 3H Pass 4S
+X Pass Pass XX
+Pass 5H Pass 7H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AJ85.AT842.A2.96 K3.J5.7543.A7432 QT764.KQ9.Q9.QJ5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AJ85.AT842.A2.96 K3.J5.7543.A7432 QT764.KQ9.Q9.QJ5 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1H Pass 2N
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT63.Q65.98.Q74 J7.K43.64.AJT832 A9.AJT72.AQJT72."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass Pass 2D Pass
+2H Pass 3H Pass
+3N Pass 4H Pass
+5H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT63.Q65.98.Q74 J7.K43.64.AJT832 A9.AJT72.AQJT72."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 2D Pass
+2S Pass 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT2.KQ862.Q5.T85 K986.AJ.A8742.64 J54.T95.J3.AK972 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1D Pass 1N Pass
+2D Pass Pass 2H
+Pass Pass 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT2.KQ862.Q5.T85 K986.AJ.A8742.64 J54.T95.J3.AK972 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1D Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T.AJ5.Q876.AQJT8 K543.KQ3.JT.K942 Q97.T82.5432.753 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass 1S 2C 3C
+Pass 3H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T.AJ5.Q876.AQJT8 K543.KQ3.JT.K942 Q97.T82.5432.753 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass 1S 2C 2N
+Pass 3C Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T.K4.Q96542.Q965 873.A82.K83.8742 96542.J963.J.KJT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+1D Pass 1N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T.K4.Q96542.Q965 873.A82.K83.8742 96542.J963.J.KJT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ83.3.AK862.T96 AT762.QT754.53.7 J94.AJ962.J.Q854 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1D 2D Pass 2H
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ83.3.AK862.T96 AT762.QT754.53.7 J94.AJ962.J.Q854 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass Pass 2C
+2D Pass 2H Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQJ9432.4.K6542.65 85432.AQ8.Q93.AT7 AKJ9.KJ65.J8."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+Pass 1N Pass 2H
+Pass 2S Pass 3C
+Pass 3S Pass 4C
+Pass 4N Pass 5D
+X 5S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQJ9432.4.K6542.65 85432.AQ8.Q93.AT7 AKJ9.KJ65.J8."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1N Pass 2S
+Pass 4S Pass 5H
+Pass 5S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT863.Q95.8742.9 K52.KJT8632.J5.6 A7.7.KT3.AT87532 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+1C 1N Pass 2C
+X Pass Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT863.Q95.8742.9 K52.KJT8632.J5.6 A7.7.KT3.AT87532 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+2C 2N Pass 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ642.AK4.K7.T92 32.Q654.AKQ8743.KQ8753 JT96.A98.."]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1S 4C 5C
+6C Pass Pass X
+Pass 6H 7C Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ642.AK4.K7.T92 32.Q654.AKQ8743.KQ8753 JT96.A98.."]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "E"]
+Pass 1N Pass 2H
+Pass 3S 4C 4N
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT987.J9.9762.J4 AQT432.AJ83.AK7. AJ542.5.Q54.Q932 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass 1H 1S 3H
+Pass 6H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT987.J9.9762.J4 AQT432.AJ83.AK7. AJ542.5.Q54.Q932 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "S"]
+Pass 1H 1S 2S
+3S 4D Pass 4H
+Pass 4S Pass 5C
+Pass 5S Pass 6D
+Pass 6H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "1996 Spingold final"]
+[Site "00"]
+[Date "00"]
+[Board "16,BOARD 16"]
+[West "Smith"]
+[North "Meckstroth"]
+[East "Robinson"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AT74.3.KQ.T87532 852.AT9874.J5.AQ KJ.J652.832.KJ94 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Schwartz"]
+[Auction "W"]
+1H Pass 2D X
+2H 4C 4H 5C
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,750 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ5.AJ3.KT963.A4 AKT8.K82.A4.T652 9763.Q94.QJ8.KQ3 42.T765.752.J987 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "W"]
+1N an 14 Pass
+Pass Pass
+[Play "N"]
+SJ SA S7 S4
+C4 C5 CQ C7
+DT DA DQ D2
+CA C6 C3 C8
+DK D4 D8 D5
+D3 H2 DJ D7
+HA H8 HQ H5
+D9 CT S3 S2
+D6 S8 S6 C9
+S5 ST S9 H6
+H3 HK H4 H7
+SQ SK H9 HT
+HJ C2 CK CJ
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ5.AJ3.KT963.A4 AKT8.K82.A4.T652 9763.Q94.QJ8.KQ3 42.T765.752.J987 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "W"]
+1C Pass Pass X
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+CA C5 C3 C7
+D3 D4 DQ D2
+DT DA D8 D5
+C4 C2 CK C8
+HJ HK H4 H7
+HA H8 H9 H6
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 965.T93.KQJ7.T52 AQT.AKQJ2.A92.K7 8432.8654.5.AJ43 KJ7.7.T8643.Q986 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "N"]
+Pass Pass Pass 2C
+an st Pass 2D
+Pass 2N Pass 4H
+an mi Pass 5D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 965.T93.KQJ7.T52 AQT.AKQJ2.A92.K7 8432.8654.5.AJ43 KJ7.7.T8643.Q986 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "N"]
+Pass Pass Pass 2D
+Pass 2H Pass 2N
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A42.KT987.T72.73 Q9.J.AQ543.AQJ96 KT8753.Q52.K9.K2 J6.A643.J86.T854 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "E"]
+Pass Pass 1D 1S
+Pass 2S 3C 3S
+4C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A42.KT987.T72.73 Q9.J.AQ543.AQJ96 KT8753.Q52.K9.K2 J6.A643.J86.T854 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "E"]
+Pass Pass 1D 1S
+Pass 2S 3C 3S
+4C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T.AK2.A985.AT543 J63.T543.K432.Q9 Q9852.96.QJ.K762 AK74.QJ87.T76.J8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "S"]
+1C Pass 1S Pass
+2C Pass 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T.AK2.A985.AT543 J63.T543.K432.Q9 Q9852.96.QJ.K762 AK74.QJ87.T76.J8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "S"]
+1C Pass 1S Pass
+2C Pass 3C Pass
+3D Pass 4C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQJ95.T86.J5.J93 62.K972.Q74.8764 K8743.A3.K3.AQT2 T.QJ54.AT9862.K5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "W"]
+Pass 1S 2D 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQJ95.T86.J5.J93 62.K972.Q74.8764 K8743.A3.K3.AQT2 T.QJ54.AT9862.K5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "W"]
+Pass 1S 2D 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ83.K53.KQ9.AT4 QT4.87.T63.K9652 K62.JT642.742.J3 975.AQ9.AJ85.Q87 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "N"]
+Pass 1D 1N Pass
+2D an !h Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ83.K53.KQ9.AT4 QT4.87.T63.K9652 K62.JT642.742.J3 975.AQ9.AJ85.Q87 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "N"]
+Pass 1D 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT875.75.KQ432.9 A62.64.JT986.KQ6 K43.A982.A7.A875 Q9.KQJT3.5.JT432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "E"]
+Pass 3C 3D Pass
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT875.75.KQ432.9 A62.64.JT986.KQ6 K43.A982.A7.A875 Q9.KQJT3.5.JT432 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "E"]
+2H Pass 2N Pass
+3C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT6.T2.QJT54.Q76 K87432.QJ85.72.4 Q9.73.K986.AK853 A5.AK964.A3.JT92 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "S"]
+Pass Pass 1C 1H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT6.T2.QJT54.Q76 K87432.QJ85.72.4 Q9.73.K986.AK853 A5.AK964.A3.JT92 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "S"]
+Pass Pass 1C 1H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJT98.2.A5.AKT73 Q3.KT94.KQT86.QJ A542.QJ65.942.82 76.A873.J73.9654 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "W"]
+1D Pass 1H 2D
+an !s 2H 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJT98.2.A5.AKT73 Q3.KT94.KQT86.QJ A542.QJ65.942.82 76.A873.J73.9654 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "W"]
+1D Pass 1H 1S
+2H 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A.AT73.AJ843.Q65 Q952.954.K97.984 KJT43.J8.Q52.KT2 876.KQ62.T6.AJ73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2C Pass
+2H Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A.AT73.AJ843.Q65 Q952.954.K97.984 KJT43.J8.Q52.KT2 876.KQ62.T6.AJ73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2D Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQT6.JT5.T9.QT6 J742.AQ98.AJ83.3 85.Q52.AKJ98542.93 K76432.K764.7."]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "E"]
+2D an Mu 2S
+4H 5C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQT6.JT5.T9.QT6 J742.AQ98.AJ83.3 85.Q52.AKJ98542.93 K76432.K764.7."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "E"]
+2C 2S 2N 5C
+Pass Pass 5H Pass
+Pass 6C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT32.AT93.J82.93 96.Q62.KQT9.AKJ6 QJ854.85.A743.75 A7.KJ74.65.QT842 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "S"]
+Pass 1N an 14
+Pass 2C Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT32.AT93.J82.93 96.Q62.KQT9.AKJ6 QJ854.85.A743.75 A7.KJ74.65.QT842 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Pilon D."]
+[North "Cronier B."]
+[East "Izisel G."]
+[South "Cronier P."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 74.AT7.K9652.864 KQJ95.K5.A.KT972 T86.J8642.QT3.QJ A32.Q93.J874.A53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "CRONIER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "IZISEL"]
+[Auction "W"]
+1S Pass 3H Pass
+an 11 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+

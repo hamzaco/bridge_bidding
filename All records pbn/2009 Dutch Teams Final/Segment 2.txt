@@ -1,0 +1,928 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.AQT8532.AT5.Q3 AK98.96.9642.J97 QT42.4.KQJ87.865 7653.KJ7.3.AKT42 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "N"]
+- Pass 1C 1H
+X Pass 2S 3H
+Pass Pass Pass -
+[Play "W"]
+SJ SA S2 S5
+C3 C7 C8 CK
+CQ C9 C5 CA
+H2 CJ C6 C2
+D5 D6 DK D3
+HQ H6 H4 H7
+HA H9 S4 HJ
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T63.T7.AQ953.Q43 Q.QJ432.KT82.KJ6 AKJ542.AK98.752.987 65.J764.AT98."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "E"]
+- - Pass Pass
+1H 4S Pass Pass
+Pass - - -
+[Play "W"]
+H7 HJ HA H6
+HT H4 HK H5
+ST H2 H8 S7
+DA D2 C5 D4
+S3 SQ SA S8
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "S"]
+[Play "E"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 3.Q42.AJ9874.Q72 T9654.AJT3.K.A95 AK87.75.T2.KJ864 QJ2.K986.Q653.T3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "W"]
+1S Pass 2S Pass
+Pass Pass - -
+[Play "E"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T85.AQ86.J74.Q96 74.42.A98.AKJT72 AKJ93.J93.T653.4 Q62.KT75.KQ2.853 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "N"]
+- Pass Pass Pass
+3C X Pass 3H
+Pass 3S Pass Pass
+Pass - - -
+[Play "E"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT.852.Q9852.832 J9872.T7.AT6.K75 Q653.KQJ94.AJT9.K4 A63.KJ743.Q64."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "E"]
+- - 1D Pass
+1S 1N Pass 2H
+Pass 2S Pass 3H
+Pass Pass Pass -
+[Play "E"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J62.83.T.AQJT432 98.976.AQ765.K98 K743.AQJT.K94.75 AQT5.K542.J832.6 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "S"]
+- - - 3C
+Pass Pass X Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A.KJ84.842.AKQ75 T84.AQ.K953.T642 J975.62.AQJT.J83 KQ632.T9753.76.9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "W"]
+Pass Pass 1S X
+2H Pass 2S X
+Pass 3S Pass 4C
+Pass 4D Pass Pass
+Pass - - -
+[Play "E"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ.AKQJ63.J8.Q43 982.95.QT6.T9852 J7653.87.A952.K7 AT4.T42.K743.AJ6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "N"]
+- 2S Pass 2N
+Pass 3D Pass 3N
+Pass Pass Pass -
+[Play "E"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QJ93.9.T973.KQ75 K86.AKQ75.Q2.632 AT72.JT632.AK5.4 54.84.J864.AJT98 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "E"]
+- - Pass Pass
+1H Pass 1N Pass
+Pass 2S Pass Pass
+Pass - - -
+[Play "N"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J94.9752.KJ2.QJ3 Q765.JT8.983.642 KT8.A3.T654.KT75 A32.KQ64.AQ7.A98 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "S"]
+- - - Pass
+Pass Pass 1C Pass
+1D Pass 1N Pass
+Pass Pass - -
+[Play "W"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A.K82.AT832.KQ85 J875.AQT.J96.A76 QT43.97.KQ74.J92 K962.J6543.5.T43 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "W"]
+1C Pass 1D 1N
+Pass 2C Pass 2D
+Pass 3N Pass Pass
+Pass - - -
+[Play "S"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK.K543.KJ5.6432 QJT875.J62.72.87 6.QT87.T963.QT95 9432.A9.AQ84.AKJ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "N"]
+- Pass 1C Pass
+2D Pass 2N Pass
+3D Pass 4S Pass
+Pass Pass - -
+[Play "N"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ96.KQ8.KJT6.83 JT5.632.973.QT92 A32.A94.42.AK764 874.JT75.AQ85.J5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "E"]
+- - Pass 1D
+Pass 2C Pass 2N
+Pass 3N Pass Pass
+Pass - - -
+[Play "N"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ64.AT8.K92.AJT Q5.42.876543.742 AT972.KQ93.K983.83 J765.AQJT.Q65."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "S"]
+- - - 1N
+Pass 2C 2D 2S
+4D 5D Pass 5H
+Pass 6S Pass Pass
+Pass - - -
+[Play "E"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J93.J73.97.AKQ87 765.T2.AKQ6.J532 AT42.KQ986.2.T64 KQ8.A54.JT8543.9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D X Pass 3C
+3D 3H Pass 4H
+Pass Pass Pass -
+[Play "S"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.AQT8532.AT5.Q3 AK98.96.9642.J97 QT42.4.KQJ87.865 7653.KJ7.3.AKT42 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "N"]
+- Pass 1C 4H
+Pass Pass Pass -
+[Play "W"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T63.T7.AQ953.Q43 Q.QJ432.KT82.KJ6 AKJ542.AK98.752.987 65.J764.AT98."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "E"]
+- - Pass Pass
+2H 3S Pass 4S
+Pass Pass Pass -
+[Play "W"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 986.JT8.Q9654.76 A73.765.JT32.J54 KQT.KQ92.AKQ982.J542 A43.AK87.T3."]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "S"]
+- - - Pass
+Pass 1C Pass 1D
+Pass 1H Pass 1S
+Pass 3C Pass Pass
+Pass - - -
+[Play "E"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 3.Q42.AJ9874.Q72 T9654.AJT3.K.A95 AK87.75.T2.KJ864 QJ2.K986.Q653.T3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "W"]
+1S Pass 2S Pass
+Pass 3C Pass Pass
+Pass - - -
+[Play "N"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T85.AQ86.J74.Q96 74.42.A98.AKJT72 AKJ93.J93.T653.4 Q62.KT75.KQ2.853 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "N"]
+- Pass Pass Pass
+1N Pass 3N Pass
+Pass Pass - -
+[Play "S"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT.852.Q9852.832 J9872.T7.AT6.K75 Q653.KQJ94.AJT9.K4 A63.KJ743.Q64."]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "E"]
+- - 1D Pass
+1S 2H Pass Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J62.83.T.AQJT432 98.976.AQ765.K98 K743.AQJT.K94.75 AQT5.K542.J832.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "S"]
+- - - 3C
+Pass Pass X Pass
+3N X 4C Pass
+4D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A.KJ84.842.AKQ75 T84.AQ.K953.T642 J975.62.AQJT.J83 KQ632.T9753.76.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "W"]
+Pass Pass 2S X
+3S Pass Pass X
+Pass Pass Pass -
+[Play "W"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ.AKQJ63.J8.Q43 982.95.QT6.T9852 J7653.87.A952.K7 AT4.T42.K743.AJ6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "N"]
+- Pass 1C 1N
+Pass 2H Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass -
+[Play "S"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QJ93.9.T973.KQ75 K86.AKQ75.Q2.632 AT72.JT632.AK5.4 54.84.J864.AJT98 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "E"]
+- - Pass Pass
+1N 2C 2S X
+3C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J94.9752.KJ2.QJ3 Q765.JT8.983.642 KT8.A3.T654.KT75 A32.KQ64.AQ7.A98 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "S"]
+- - - Pass
+Pass Pass 1C Pass
+1D Pass 1N Pass
+Pass Pass - -
+[Play "W"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A.K82.AT832.KQ85 J875.AQT.J96.A76 QT43.97.KQ74.J92 K962.J6543.5.T43 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "W"]
+1N Pass 2H 2N
+Pass 3C Pass 3N
+Pass Pass Pass -
+[Play "W"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK.K543.KJ5.6432 QJT875.J62.72.87 6.QT87.T963.QT95 9432.A9.AQ84.AKJ "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "N"]
+- Pass 1C Pass
+2D Pass 2N Pass
+3D Pass 4S Pass
+Pass Pass - -
+[Play "W"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ96.KQ8.KJT6.83 JT5.632.973.QT92 A32.A94.42.AK764 874.JT75.AQ85.J5 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "E"]
+- - Pass 1N
+Pass 3N Pass Pass
+Pass - - -
+[Play "N"]
+*
+
+
+[Event "2009 Dutch Teams Final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Ramondt"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ64.AT8.K92.AJT Q5.42.876543.742 AT972.KQ93.K983.83 J765.AQJT.Q65."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "BC 't Onstein"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BC de Lombard"]
+[Auction "S"]
+- - - 1C
+3D X 5D Pass
+Pass X Pass Pass
+Pass - - -
+[Play "E"]
+*
+
+

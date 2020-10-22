@@ -1,0 +1,81 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Sadek"]
+[North "Drewski"]
+[East "Elahmady"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T54.A7.K962.J954 K973.Q52.4.K8763 Q2.T9863.Q853.QT AJ86.KJ4.AJT7.A2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1H X
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+D6 D4 D5 DA
+C4 C6 CT CA
+CJ CK CQ C2
+C5 C8 SQ SA
+H7 H5 H3 HK
+HA H2 H6 H4
+DK S3 D3 D7
+C9 C7 H8 S8
+D2 S7 D8 DT
+D9 C3 H9 SJ
+S4 S9 DQ DJ
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Sadek"]
+[North "Drewski"]
+[East "Elahmady"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J943.J954.K2.Q63 QT7.T7.AQ953.J82 AK52.Q.JT876.T75 86.AK8632.4.AK94 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1H Pass
+1N Pass 4H Pass
+Pass Pass
+[Play "None"]
+S4 S7 SK S6
+C3 C2 C7 CA
+S3 ST SA S8
+C6 C8 CT CK
+H4 H7 HQ HA
+H5 HT D6 HK
+D2 DQ D7 D4
+DK DA D8 C4
+S9 SQ S2 C9
+*
+
+

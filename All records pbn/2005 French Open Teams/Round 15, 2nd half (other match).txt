@@ -1,0 +1,586 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A82.KQ74.KT92.73 Q74.T6.J6.KT9842 T93.95.Q87543.J6 KJ65.AJ832.A.AQ5 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "N"]
+Pass 1H Pass 1N
+Pass 2S Pass 3C
+Pass 4D Pass 6C
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+HQ H6 H9 H2
+SA S4 S3 S5
+D2 D6 D3 DA
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A82.KQ74.KT92.73 Q74.T6.J6.KT9842 T93.95.Q87543.J6 KJ65.AJ832.A.AQ5 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "N"]
+Pass 1H Pass 1N
+Pass 2S Pass 3C
+Pass 4C Pass 5C
+Pass Pass Pass
+[Play "N"]
+S8 SQ S3 S5
+C3 C4 C6 CA
+SA S4 S9 SK
+C7 C8 CJ CQ
+S2 S7 ST SJ
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J.KJT952.K9.AQ95 A9432.743.42.T74 T765.AQ86.J763.8 KQ8.AQT85.KJ632."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "E"]
+1D 1H Pass 3H
+4C 4H 5C Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+HJ H3 HA C2
+SJ S2 S5 SK
+C5 S3 S6 SQ
+H9 H4 H6 C3
+H5 SA S7 S8
+DK D2 D7 DT
+HK H7 HQ C6
+D9 D4 D3 DA
+CQ S4 D6 DQ
+CA C4 C8 CJ
+C9 C7 H8 CK
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J.KJT952.K9.AQ95 A9432.743.42.T74 T765.AQ86.J763.8 KQ8.AQT85.KJ632."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "E"]
+1D 1H 1S 3H
+4C 4H Pass Pass
+4S X Pass Pass
+Pass
+[Play "N"]
+SJ S3 S6 SK
+CQ C4 C8 C2
+HJ H4 H8 S8
+CA C7 D6 C3
+C5 CT S5 C6
+HT S2 S7 SQ
+C9 H3 ST CJ
+H2 H7 HA D5
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A976.762.J9532.7 3.AKJ9.AQT.AQ862 K82.T4.K874.KJ94 QJT54.Q853.6.T53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 2H Pass 3H
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A976.762.J9532.7 3.AKJ9.AQT.AQ862 K82.T4.K874.KJ94 QJT54.Q853.6.T53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J8.J63.AKQT93.Q9 QT9542.8.4.AT654 63.AQT9.J862.K83 AK7.K7542.75.J72 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "W"]
+2S Pass 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J8.J63.AKQT93.Q9 QT9542.8.4.AT654 63.AQT9.J862.K83 AK7.K7542.75.J72 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "W"]
+Pass Pass 1H 2D
+2S 3H 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J843.543.AQJ974.KQJ 9762.K62.865.A8542 AKT.J987.2.T9763 Q5.AQT.KT3."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "N"]
+1S Pass 1N Pass
+2D Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J843.543.AQJ974.KQJ 9762.K62.865.A8542 AKT.J987.2.T9763 Q5.AQT.KT3."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "N"]
+1S Pass 1N Pass
+2D Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 95.AQJ.AK2.QT976 A762.K8743.T93.5 KJ43.T52.J7.KJ43 QT8.96.Q8654.A82 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 95.AQJ.AK2.QT976 A762.K8743.T93.5 KJ43.T52.J7.KJ43 QT8.96.Q8654.A82 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A64.K843.742.J42 T93.JT5.Q5.AKT95 KQ75.Q762.AT3.Q6 J82.A9.KJ986.873 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 2H Pass
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A64.K843.742.J42 T93.JT5.Q5.AKT95 KQ75.Q762.AT3.Q6 J82.A9.KJ986.873 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A94.97432.75.T84 KJ876.Q5.AKT4.A7 2.A86.Q986.KQ652 QT53.KJT.J32.J93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "W"]
+1S Pass 2S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A94.97432.75.T84 KJ876.Q5.AKT4.A7 2.A86.Q986.KQ652 QT53.KJT.J32.J93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "W"]
+1S Pass 2S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT542.K.K943.J74 Q.JT94.AQJT8.Q86 KJ.6532.765.9532 98763.AQ87.2.AKT "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "N"]
+Pass 1S Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT542.K.K943.J74 Q.JT94.AQJT8.Q86 KJ.6532.765.9532 98763.AQ87.2.AKT "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "N"]
+Pass 1S Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 French Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Faigenbaum"]
+[North "Multon"]
+[East "Mari"]
+[South "Quantin"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A4.A.A743.QJ9432 JT53.9876.8.AT65 KQ96.Q5432.KT5.8 872.KJT.QJ962.K7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Blumental"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2C Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

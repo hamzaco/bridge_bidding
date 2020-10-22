@@ -1,0 +1,513 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A954.KT75.Q7.K75 QJT62.Q96.52.T98 8.A832.J9864.A62 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "N"]
+Pass 1D X 1S
+2H X Pass 2S
+3H Pass Pass Pass
+[Play "E"]
+SA ST S8 S3
+S4 S6 H2 S7
+D7 D2 D4 DK
+CK CT C2 CJ
+DQ D5 D9 DA
+S5 SJ H3 SK
+HK H6 H8 H4
+H5 H9 HA HJ
+C5 HQ DJ D3
+S9 SQ D6 C3
+H7 S2 D8 DT
+C7 C8 CA C4
+HT C9 C6 CQ
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A954.KT75.Q7.K75 QJT62.Q96.52.T98 8.A832.J9864.A62 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "N"]
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+DQ D2 D4 DA
+S4 SQ S8 S3
+S5 S2 D6 SK
+SA S6 D8 S7
+C5 C8 CA C3
+D7 D5 D9 DK
+CK C9 C2 CQ
+C7 CT C6 CJ
+H5 H9 HA H4
+H7 ST DJ D3
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 872.Q7653.A52.K3 KJT54.K4.KQ87.A6 963.J82.J96.QJ98 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "E"]
+Pass Pass 1S Pass
+1N Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+H3 H4 HJ HA
+D5 DK D6 D4
+S2 S4 S6 SA
+DA D7 D9 D3
+H5 HK H2 H9
+S7 S5 S3 SQ
+D2 DQ DJ DT
+S8 D8 C8 C2
+H6 SK S9 C4
+H7 SJ H8 C5
+HQ ST C9 HT
+C3 CA CJ C7
+CK C6 CQ CT
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 872.Q7653.A52.K3 KJT54.K4.KQ87.A6 963.J82.J96.QJ98 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "E"]
+1C Pass 1H Pass
+1S Pass 2C Pass
+2D Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+H5 H4 HJ HA
+DA D7 D6 D3
+H3 HK H2 H9
+D2 DK D9 D4
+S2 S4 S3 SQ
+S7 S5 S6 SA
+D5 DQ DJ DT
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A32.KQ8.AT83.Q74 K94.T7532.72.AJT JT65.AJ94.Q.K953 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "S"]
+1N Pass 2C 2D
+X Pass Pass Pass
+[Play "S"]
+HQ H2 H4 H6
+HK H3 H9 D4
+C7 CT CK C8
+H8 H5 HA D5
+C4 CJ C3 C6
+CQ CA C5 C2
+DA D2 DQ DK
+SA S4 S5 S7
+S3 S9 ST SQ
+S2 SK S6 S8
+D8 D7 C9 D6
+D3 H7 SJ D9
+DT HT HJ DJ
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A32.KQ8.AT83.Q74 K94.T7532.72.AJT JT65.AJ94.Q.K953 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "S"]
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "W"]
+HQ H7 H4 H6
+S3 S4 SJ SQ
+DA D2 DQ DK
+SA S9 S5 S7
+S2 SK S6 S8
+HK H2 H9 D4
+C4 CT CK C2
+C7 CJ C3 C6
+H8 H3 HJ D5
+D3 H5 HA D6
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK92.J4.832.J954 JT864.852.K96.T2 5.AQ93.AQT54.A83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "W"]
+Pass 1C Pass 1N
+Pass 2D Pass 2S
+Pass 2N Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK92.J4.832.J954 JT864.852.K96.T2 5.AQ93.AQT54.A83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 76.JT.AQT96.KJ32 KT.AKQ73.7532.A9 QJ8.654.K84.8764 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "N"]
+Pass Pass 1D 1H
+Pass 1S Pass 2D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 76.JT.AQT96.KJ32 KT.AKQ73.7532.A9 QJ8.654.K84.8764 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "N"]
+Pass Pass 1D 1H
+Pass 1S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KT4.J5.AKQ74.A85 AQ976.K9864.J95. J32.AQ.632.T9762 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "E"]
+Pass 1N X XX
+Pass Pass 2H Pass
+3H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KT4.J5.AKQ74.A85 AQ976.K9864.J95. J32.AQ.632.T9762 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "E"]
+2C 2N 3N X
+Pass Pass XX Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT87.98.J7654.87 Q43.QJT62.K.A642 K.K43.QT3.QJT953 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "S"]
+Pass 1H 2C X
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT87.98.J7654.87 Q43.QJT62.K.A642 K.K43.QT3.QJT953 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2N Pass 3C
+Pass 3D Pass 3S
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Mahmood"]
+[North "Becklen"]
+[East "Weichsel"]
+[South "Gjerling"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T98.JT64.K942.KJ AK42.AK7.AQ85.Q3 Q6.92.JT6.T97542 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Dieden"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "W"]
+2C Pass 2D Pass
+2N Pass 3C Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+

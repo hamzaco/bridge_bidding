@@ -1,0 +1,338 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ3.AKJ.653.AK76 AJ.QT32.AJ972.92 T984.8654.K4.QT8 7652.97.QT8.J543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "N"]
+Pass Pass 1C an
+17 1D 1H an
+al Pass 1N Pass
+2D X Pass Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+D3 DA D4 DQ
+D5 D2 DK D8
+SK SA S4 S2
+D6 DJ H4 DT
+HJ HQ H5 H7
+SQ SJ S8 S7
+HK H2 H6 H9
+HA H3 H8 S5
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ3.AKJ.653.AK76 AJ.QT32.AJ972.92 T984.8654.K4.QT8 7652.97.QT8.J543 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "N"]
+Pass Pass 1C 1D
+X 1H Pass 3H
+X 4D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT.642.KT742.943 872.KJ8.J95.AJ87 AK4.T753.AQ83.K6 Q9653.AQ9.6.QT52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "E"]
+1S Pass 2S X
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT.642.KT742.943 872.KJ8.J95.AJ87 AK4.T753.AQ83.K6 Q9653.AQ9.6.QT52 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K4.AQ53.Q643.985 AJ5.JT42.AJ98.T4 Q986.K96.K752.AJ T732.87.T.KQ7632 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "S"]
+Pass Pass 1D an
+12  2 Pass 1H
+1N Pass 2C X
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K4.AQ53.Q643.985 AJ5.JT42.AJ98.T4 Q986.K96.K752.AJ T732.87.T.KQ7632 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "S"]
+1H Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T42.AQ54.J8.AJ54 J976.J82.7.87632 AK.KT6.AQT9654.T Q853.973.K32.KQ9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T42.AQ54.J8.AJ54 J976.J82.7.87632 AK.KT6.AQT9654.T Q853.973.K32.KQ9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 3D Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q.AKQ97.KQT8743.AJT95 J532.J.K87.7 864.A92.AT9653. K86432.T.65.QJ42 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "N"]
+Pass 2S 5D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q.AKQ97.KQT8743.AJT95 J532.J.K87.7 864.A92.AT9653. K86432.T.65.QJ42 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "N"]
+Pass Pass 1H 1S
+X 4S 5D Pass
+5H 5S X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Puutalo Open"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Meronen"]
+[North "Kivipensas"]
+[East "Saarikoski"]
+[South "Mäkelä"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 76.AK73.653.QJ93 93.5.KT842.87652 KQJ842.Q9862.A7. AT5.JT4.QJ9.AKT4 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Senaattorit"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "HeSa"]
+[Auction "E"]
+1N an al Pass
+2S an Pu X
+3N X 4D 4H
+5C X Pass Pass
+Pass
+[Play "S"]
+*
+
+

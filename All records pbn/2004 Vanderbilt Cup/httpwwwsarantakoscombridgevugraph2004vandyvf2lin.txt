@@ -1,0 +1,915 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K9.QJT76.7542.K2 JT7.A982.K.JT654 Q6543.K5.A9.9873 A82.43.QJT863.AQ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+- Pass 1D 1H
+1N X 2D Pass
+Pass 2H 3D Pass
+Pass Pass - -
+[Play "S"]
+CK C4 C7 CA
+C2 C5 C3 CQ
+D5 DK DA D3
+H6 HA HK H3
+D2 CJ C8 H4
+SK S7 S3 SA
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K9.QJT76.7542.K2 JT7.A982.K.JT654 Q6543.K5.A9.9873 A82.43.QJT863.AQ "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+Pass 1D 1H 1N
+X 2D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A852.Q3.J74.JT85 7.K8.KT852.A9743 QJ94.AT652.A3.Q2 KT63.J974.Q96.K6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+Pass Pass 1D 1H
+X 2H Pass Pass
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A852.Q3.J74.JT85 7.K8.KT852.A9743 QJ94.AT652.A3.Q2 KT63.J974.Q96.K6 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+Pass Pass 1D 1H
+X Pass 2C Pass
+2D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ964.AK754.J8.A 72.AKQ53.T87652.AT5 JT6.964.KQJ4.K83 Q9832.T72.93."]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+1S 2N X! 3D
+3H Pass 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ964.AK754.J8.A 72.AKQ53.T87652.AT5 JT6.964.KQJ4.K83 Q9832.T72.93."]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+1S 2N X 3D
+3H Pass 3S Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T94.KT.75.AKT853 K87632.AJ8762.2.AJ5 Q953.QJ3.J64.Q 4.AKT98642.Q97."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "W"]
+1S Pass 2D Pass
+2H Pass 3D Pass
+3H Pass 4D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T94.KT.75.AKT853 K87632.AJ8762.2.AJ5 Q953.QJ3.J64.Q 4.AKT98642.Q97."]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "W"]
+1S Pass 2D Pass
+2H Pass 3D Pass
+3H Pass 4D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ84.AT875.T92.9 K97.K963.AQ64.AQ AT63.QJ2.J3.K754 52.4.K875.JT8632 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 3D X XX
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ84.AT875.T92.9 K97.K963.AQ64.AQ AT63.QJ2.J3.K754 52.4.K875.JT8632 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "4"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +250"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT9865.A.Q5.Q642 74.KT763.J63.AJ3 KQ3.Q9852.T87.T7 J2.J4.AK942.K985 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+1D 1S X 2H
+Pass 3C Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT9865.A.Q5.Q642 74.KT763.J63.AJ3 KQ3.Q9852.T87.T7 J2.J4.AK942.K985 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+1D 1S X an
+ne 2S 3C 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A654.A42.K4.Q832 KQJ.J9.852.K7654 T7.KT65.AQJ963.9 9832.Q873.T7.AJT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+1C Pass 1D Pass
+1S Pass 3D Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A654.A42.K4.Q832 KQJ.J9.852.K7654 T7.KT65.AQJ963.9 9832.Q873.T7.AJT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+1N Pass 3D Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ3.KT84.752.Q52 9.AQJ765.T.AK863 AJT874.KQJ98.J7.652 932.A643.T94."]
+[Declarer "W"]
+[Contract "6"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "W"]
+1H 1S 2H 2S
+4C 4S Pass Pass
+4N Pass 5D Pass
+5H 5S Pass Pass
+6H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ3.KT84.752.Q52 9.AQJ765.T.AK863 AJT874.KQJ98.J7.652 932.A643.T94."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "W"]
+1H 2N an !S
+Pass 3C an as
+X 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T9752.J4.JT853.T A.A75.AQ742.9532 KQJ6.QT6.96.K874 843.K9832.K.AQJ6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+Pass 1H 1N X
+Pass 2C Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T9752.J4.JT853.T A.A75.AQ742.9532 KQJ6.QT6.96.K874 843.K9832.K.AQJ6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+1N Pass 2H an
+xf Pass 3D Pass
+3H an XX Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJT984.T2.A97.54 2.AKQ654.QT.T832 KQ6.J87.K43.KJ96 753.93.J8652.AQ7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+Pass 2S 3H 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJT984.T2.A97.54 2.AKQ654.QT.T832 KQ6.J87.K43.KJ96 753.93.J8652.AQ7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+Pass 2S 3H 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J74.J3.A976.K532 AQ95.872.43.Q974 2.AT954.JT85.AT6 KT863.KQ6.KQ2.J8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+P P P 1s
+P 2c P 2X
+P 2s P P
+P
+[Play "S"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J74.J3.A976.K532 AQ95.872.43.Q974 2.AT954.JT85.AT6 KT863.KQ6.KQ2.J8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+Pass Pass 1H 1S
+X 3H an mi
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK.T7.KQ32.JT976 JT9832.J98.86.82 76.Q65432.AJ5.K4 Q54.AK.T974.AQ53 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "W"]
+Pass Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK.T7.KQ32.JT976 JT9832.J98.86.82 76.Q65432.AJ5.K4 Q54.AK.T974.AQ53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "W"]
+2S Pass 2N Pass
+3D Pass 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A82.QT2.KT652.A7 QJ96543.876.J.53 94.A943.KJT9862. KT7.AKJ53.Q87.Q4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+3C 3H 3N 4H
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A82.QT2.KT652.A7 QJ96543.876.J.53 94.A943.KJT9862. KT7.AKJ53.Q87.Q4 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+Pass 1N Pass 3H
+an !S Pass 3S
+Pass Pass 4C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T95.762.Q2.KJ862 AKJ64.Q98.AJ65.9 Q.KJT53.K9743.T4 8732.A4.T8.AQ753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+Pass Pass 1S Pass
+2C Pass 2D 2H
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T95.762.Q2.KJ862 AKJ64.Q98.AJ65.9 Q.KJT53.K9743.T4 8732.A4.T8.AQ753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+Pass Pass 1S Pass
+2D an 4  Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK8.T4.982.KT953 9763.AK76.T5.AQ7 QT54.Q983.KJ6.42 J2.J52.AQ743.J86 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+Pass 1C Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK8.T4.982.KT953 9763.AK76.T5.AQ7 QT54.Q983.KJ6.42 J2.J52.AQ743.J86 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2004 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Katz"]
+[North "Schwartz"]
+[East "Jacobs"]
+[South "Becker"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQJT2.A.932.8743 K95.Q873.KQ76.J9 863.965.AJT.AKT2 74.KJT42.854.Q65 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 1N Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+

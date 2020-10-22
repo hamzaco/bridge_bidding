@@ -1,0 +1,934 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q54.AJT95.A6.973 AKT82.3.J5.AKJ84 76.42.K874.QT652 J93.KQ876.QT932."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "N"]
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+C3 CJ CQ S3
+HA H3 H2 HQ
+DA D5 D4 D2
+D6 DJ DK D3
+S4 S2 S7 SJ
+C7 C4 D7 D9
+SQ SK D8 DQ
+C9 C8 C2 S9
+H5 S8 C5 DT
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q54.AJT95.A6.973 AKT82.3.J5.AKJ84 76.42.K874.QT652 J93.KQ876.QT932."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "N"]
+Pass Pass 1H 2H
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+DA D5 D4 D2
+HA H3 H2 H6
+D6 DJ DK D9
+S4 S2 S6 SJ
+C3 C4 D7 DQ
+C7 C8 D8 DT
+S5 SA S7 S3
+C9 CJ C2 S9
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q752.KJ.J876.Q65 K6.A9862.KT4.KJ2 9843.T74.532.T73 AJT.Q53.AQ9.A984 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "E"]
+1N Pass 2D Pass
+3N Pass Pass Pass
+[Play "S"]
+S5 S6 S8 ST
+HJ HA H7 H3
+HK H2 H4 H5
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q752.KJ.J876.Q65 K6.A9862.KT4.KJ2 9843.T74.532.T73 AJT.Q53.AQ9.A984 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "E"]
+1N Pass 2D Pass
+2H Pass 3N Pass
+4H Pass Pass Pass
+[Play "S"]
+S5 S6 S4 SJ
+HJ HA H4 H3
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT3.JT62.K64.KJ9 5.AQ54.JT985.AT4 AJ98762.Q73.763.K4 K9873.A2.Q852."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "S"]
+Pass Pass 3S Pass
+Pass X Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT3.JT62.K64.KJ9 5.AQ54.JT985.AT4 AJ98762.Q73.763.K4 K9873.A2.Q852."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "S"]
+Pass 1D 4S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K3.AJ8.T32.Q9752 AQ92.K432.74.AJT J864.T765.KJ86.6 T75.Q9.AQ95.K843 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "W"]
+1C Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K3.AJ8.T32.Q9752 AQ92.K432.74.AJT J864.T765.KJ86.6 T75.Q9.AQ95.K843 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT7.T5.KQ765.972 42.AJ763.J4.AT85 AK85.Q92.932.KJ4 J963.K84.AT8.Q63 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "N"]
+1C Pass 1D 1H
+1S 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT7.T5.KQ765.972 42.AJ763.J4.AT85 AK85.Q92.932.KJ4 J963.K84.AT8.Q63 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "N"]
+1C Pass 1D 1H
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQT73.2.T975.J54 AJ.AQ954.KQT832.542 J87.QJ632.76.986 KT63.AK84.A9."]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "E"]
+1D 1S 2C Pass
+2D Pass 2H Pass
+4H Pass 4S Pass
+4N Pass 6D Pass
+7H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQT73.2.T975.J54 AJ.AQ954.KQT832.542 J87.QJ632.76.986 KT63.AK84.A9."]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "E"]
+1N Pass 2D Pass
+2H Pass 3C Pass
+3H Pass 3S Pass
+4C Pass 5D Pass
+5N Pass 6D Pass
+6H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J8743.A52.65.QT2 AK2.KQ4.QJT82.97 T96.J7.A97.AK864 Q5.T9863.K43.J53 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J8743.A52.65.QT2 AK2.KQ4.QJT82.97 T96.J7.A97.AK864 Q5.T9863.K43.J53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "S"]
+Pass 1N Pass 2D
+Pass 2N Pass 3D
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ6.A75.JT95.K96 JT754.J4.872.J75 983.6.KQ43.AQT42 A2.KQT9832.A6.83 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "W"]
+Pass 1C 4H X
+Pass 4N Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ6.A75.JT95.K96 JT754.J4.872.J75 983.6.KQ43.AQT42 A2.KQT9832.A6.83 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "W"]
+Pass 1D 4H X
+Pass 5C Pass 5D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJT.642.AK.KT973 K952.QJT5.9753.J 7643.K9873.84.Q2 Q8.A.QJT62.A8654 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "N"]
+Pass 1D 1N Pass
+2C X XX 2D
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJT.642.AK.KT973 K952.QJT5.9753.J 7643.K9873.84.Q2 Q8.A.QJT62.A8654 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "N"]
+Pass 1D 1N 2C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT75.962.3.K9652 Q984.AKT73.QJ54.A2 QJ854.T96.T73.J63 .AK872.AQJ84."]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "E"]
+1D Pass 1H Pass
+2C Pass 2S Pass
+3C Pass 3D Pass
+4D Pass 4H Pass
+5C Pass 5D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT75.962.3.K9652 Q984.AKT73.QJ54.A2 QJ854.T96.T73.J63 .AK872.AQJ84."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "E"]
+1D Pass 1H Pass
+2C Pass 2S Pass
+3C Pass 3D Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 96.54.J843.AQ962 J753.AJT.KT9.843 KQT42.K763.2.J75 A8.Q982.AQ765.KT "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "S"]
+Pass Pass 1S X
+Pass 1N Pass Pass
+2C Pass Pass 2D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 96.54.J843.AQ962 J753.AJT.KT9.843 KQT42.K763.2.J75 A8.Q982.AQ765.KT "]
+[Declarer "W"]
+[Contract "2"]
+[Result "3"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +250"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "S"]
+Pass Pass 1S X
+Pass 1N Pass 2N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T2.KJ943.87.9842 Q6.AQ7.J9532.653 KJ983.82.AQT.KQT A754.T65.K64.AJ7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "W"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T2.KJ943.87.9842 Q6.AQ7.J9532.653 KJ983.82.AQT.KQT A754.T65.K64.AJ7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "W"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A4.QT983.KJ.K764 Q76.K7.Q63.J9532 KJ32.A62.754.AT8 T985.J54.AT982.Q "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 2D Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A4.QT983.KJ.K764 Q76.K7.Q63.J9532 KJ32.A62.754.AT8 T985.J54.AT982.Q "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "N"]
+1C Pass 1H Pass
+1N Pass 2D Pass
+2S Pass 2N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 9.965.AQJ964.AT2 8632.KJ7.832.Q93 QT.AQ432.KT.K874 AKJ754.T8.75.J65 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "E"]
+2S 3C 3S X!
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 9.965.AQJ964.AT2 8632.KJ7.832.Q93 QT.AQ432.KT.K874 AKJ754.T8.75.J65 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "E"]
+2S Pass 3S X
+Pass 5D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K64.Q863.JT8.AK3 Q52.AK5.Q97.T642 AJT98.JT4.A53.75 73.972.K642.QJ98 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "S"]
+1C Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 2S Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K64.Q863.JT8.AK3 Q52.AK5.Q97.T642 AJT98.JT4.A53.75 73.972.K642.QJ98 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "S"]
+1C Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2012 World Youth Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "GERSTNER"]
+[North "HOP"]
+[East "FISHER"]
+[South "HELMICH"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A7.86.K943.AK874 43.AKJ.AQJ62.J95 QJT965.T3.5.Q632 K82.Q97542.T87.T "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NETHERLANDS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ISRAEL"]
+[Auction "W"]
+1N 3S 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+

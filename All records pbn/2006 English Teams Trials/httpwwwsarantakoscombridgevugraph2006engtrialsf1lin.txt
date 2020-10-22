@@ -1,0 +1,917 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ2.QT52.KT.J864 KT3.974.AQ942.A9 A865.KJ83.865.Q2 974.A6.J73.KT753 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "N"]
+HQ H4 H3 H6
+H2 H7 H8 HA
+DT DQ D5 D3
+DK DA D8 D7
+C4 D2 D6 DJ
+C6 CA CQ C3
+SQ D9 S5 S4
+SJ D4 S6 S7
+C8 C9 C2 CK
+S2 S3 SA S9
+H5 H9 HK C5
+HT ST HJ C7
+CJ SK S8 CT
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ2.QT52.KT.J864 KT3.974.AQ942.A9 A865.KJ83.865.Q2 974.A6.J73.KT753 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+SQ SK SA S4
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q83.AJ95.74.AJ62 7652.8732.AQJ3.5 AK9.Q4.62.KQT874 JT4.KT6.KT985.93 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 3C Pass 3S
+Pass 4C Pass 5C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q83.AJ95.74.AJ62 7652.8732.AQJ3.5 AK9.Q4.62.KQT874 JT4.KT6.KT985.93 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 3C Pass 3S
+Pass 4C Pass 5C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J874.2.853.AQ843 Q5.AQT875.QT4.T9 T62.KJ643.J76.J7 AK93.9.AK92.K652 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J874.2.853.AQ843 Q5.AQT875.QT4.T9 T62.KJ643.J76.J7 AK93.9.AK92.K652 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2H Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q95.72.AQ6.KQJ43 T8.KT94.J3.T8762 AKJ43.AQ8.T85.95 762.J653.K9742.A "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "W"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q95.72.AQ6.KQJ43 T8.KT94.J3.T8762 AKJ43.AQ8.T85.95 762.J653.K9742.A "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pa 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ632.AQ84.A4.64 KJT7652.KQ98.93.KJ9874 3.65.QT85. T5.9.JT732.AKJ72 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+2S Pass 4S 5H
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ632.AQ84.A4.64 KJT7652.KQ98.93.KJ9874 3.65.QT85. T5.9.JT732.AKJ72 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+2S Pass 4S 5H
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T53.J9874.9873.9 8764.632.KJT.JT6 QJ92.AK.AQ2.AQ42 AK.QT5.654.K8753 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+1N Pass Pass X
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T53.J9874.9873.9 8764.632.KJT.JT6 QJ92.AK.AQ2.AQ42 AK.QT5.654.K8753 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+1C Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 63.AQ2.AQ64.QJ87 T982.K74.T97.542 AKQJ7.T53.532.63 54.J986.KJ8.AKT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+1N Pass 2H Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 63.AQ2.AQ64.QJ87 T982.K74.T97.542 AKQJ7.T53.532.63 54.J986.KJ8.AKT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+1N Pass 2H Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T54.QJ74.K72.642 987.T632.JT8.JT8 QJ3.A.AQ43.KQ973 AK62.K985.965.A5 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "W"]
+Pass 1C X Pass
+1H X Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T54.QJ74.K72.642 987.T632.JT8.JT8 QJ3.A.AQ43.KQ973 AK62.K985.965.A5 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "W"]
+Pass 1C X 2C
+Pass 2N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT986.KQ.J43.AQT KJ742.972.KT7.94 A3.AT83.A6.87652 5.J654.Q9852.KJ3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+1H Pass 1S Pass
+1N Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT986.KQ.J43.AQT KJ742.972.KT7.94 A3.AT83.A6.87652 5.J654.Q9852.KJ3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+1H Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 62.AJ82.5.A98642 74.T653.QJ863.Q5 AQ953.KQ9.AT2.KT KJT8.74.K974.J73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 2C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 62.AJ82.5.A98642 74.T653.QJ863.Q5 AQ953.KQ9.AT2.KT KJT8.74.K974.J73 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 2C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ742.T94.QT.KJ6 KQT98.K.K9872.83 3.QJ6.J53.AT9752 65.A87532.A64.Q4 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+1S Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ742.T94.QT.KJ6 KQT98.K.K9872.83 3.QJ6.J53.AT9752 65.A87532.A64.Q4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+1S Pass 1N 2H
+Pass 2N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T9542.AQ64.J4.K7 KQ8.87.QT75.AJ85 A76.KT953.A62.Q2 J3.J2.K983.T9643 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "W"]
+1N Pass Pass X!
+Pass Pass 2C Pass
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T9542.AQ64.J4.K7 KQ8.87.QT75.AJ85 A76.KT953.A62.Q2 J3.J2.K983.T9643 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "W"]
+1D 1H 2D 3D
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 754.T96543.4.KQT AT.J2.AKJT75.754 9632.7.9863.J986 KQJ8.AKQ8.Q2.A32 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1020"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+Pass 2N Pass 6N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 754.T96543.4.KQT AT.J2.AKJT75.754 9632.7.9863.J986 KQJ8.AKQ8.Q2.A32 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1520"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "N"]
+Pass 2N Pass 4C
+Pass 4D Pass 4N
+Pass 5S Pass 5N
+Pass 7N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 53.Q75.AKQJ4.AQ5 AT962.KJ43.86.93 KQ8.92.953.T7642 J74.AT86.T72.KJ8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+Pass 1D 1S Pass
+2S X Pass 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 53.Q75.AKQJ4.AQ5 AT962.KJ43.86.93 KQ8.92.953.T7642 J74.AT86.T72.KJ8 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "E"]
+Pass 1D 1S 1N
+2S 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 8.KQ.K872.JT8743 K9.J752.A965.A62 AJT63.AT84.Q.KQ9 Q7542.963.JT43.5 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+Pass 1N X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 8.KQ.K872.JT8743 K9.J752.A965.A62 AJT63.AT84.Q.KQ9 Q7542.963.JT43.5 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "S"]
+Pass 1H 1S Pass
+2C Pass 2H Pass
+2N Pass 3C Pass
+5C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 English Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Armstrong"]
+[North "Simpson"]
+[East "Holland"]
+[South "Price"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J8.AKT987.A7.AT5 Q.J52.KQT64.Q874 KT632.Q4.853.J63 A9754.63.J92.K92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Simpson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hackett"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 1S Pass 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+

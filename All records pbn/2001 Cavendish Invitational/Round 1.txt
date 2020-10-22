@@ -1,0 +1,515 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9.K.K53.AKJT9632 J753.A643.AJ6.Q7 KT642.985.Q8742."]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "N"]
+Pass Pass 5C Pass
+Pass Pass
+[Play "W"]
+HK HA H5 HQ
+C2 H3 H8 HJ
+CA C7 S2 C4
+CK CQ S4 C5
+CJ H4 H9 C8
+CT S3 D2 HT
+S9 S5 SK SA
+C3 S7 S6 SQ
+D3 D6 DQ D9
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9.K.K53.AKJT9632 J753.A643.AJ6.Q7 KT642.985.Q8742."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "N"]
+Pass Pass 1C X
+1S 3H 3N Pass
+Pass 4H Pass Pass
+X Pass Pass Pass
+[Play "S"]
+CA C7 D2 C4
+CK CQ S2 C5
+CJ HA D4 C8
+HK H3 H5 HT
+S9 SJ SK SA
+C3 H4 H8 HQ
+C2 H6 H9 HJ
+C6 S3 S4 SQ
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQJ9.A8.Q5.QT865 8.KT9764.T64.A74 T73.J3.AKJ982.92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "E"]
+Pass 1N 2H 3C
+3H Pass Pass X
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQJ9.A8.Q5.QT865 8.KT9764.T64.A74 T73.J3.AKJ982.92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "E"]
+Pass 1N X 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 872.QT97.K85.876 AQ43.J864.J9.KQ4 JT.A32.AQ764.T92 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "S"]
+Pass 1C 1D 1S
+2D 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 872.QT97.K85.876 AQ43.J864.J9.KQ4 JT.A32.AQ764.T92 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2S Pass 2N
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ7.AK32.832.K72 T3.Q5.A754.AQJ53 A9542.T74.J6.T86 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "W"]
+1C Pass 1H Pass
+2C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QJ7.AK32.832.K72 T3.Q5.A754.AQJ53 A9542.T74.J6.T86 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "W"]
+1D Pass 1H Pass
+2C Pass 2D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A542.AK52.J72.KQ Q.J8.T654.T97642 KJ963.Q43.KQ8.AJ "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "N"]
+1N Pass 2C Pass
+2S Pass 4C Pass
+4N Pass 6S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A542.AK52.J72.KQ Q.J8.T654.T97642 KJ963.Q43.KQ8.AJ "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "N"]
+1N Pass 2C Pass
+2S Pass 4C Pass
+4D Pass 6S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT2.KJ32.AT.J874 J9854.865.KQ43.K A6.AQ97.9762.962 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT2.KJ32.AT.J874 J9854.865.KQ43.K A6.AQ97.9762.962 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "E"]
+1D X 1S 3H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A.A764.642.Q7652 T8.32.KJ953.JT93 K3.JT95.Q87.AK84 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "S"]
+Pass Pass 1C 4S
+5C X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A.A764.642.Q7652 T8.32.KJ953.JT93 K3.JT95.Q87.AK84 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "S"]
+Pass Pass 1C 4S
+5C X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QT.4.KJ98743.J96 J62.AQ72.Q6.KT32 A83.T86.T5.AQ874 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "W"]
+1C Pass 1S Pass
+1N Pass 2C 2D
+2S Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QT.4.KJ98743.J96 J62.AQ72.Q6.KT32 A83.T86.T5.AQ874 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "W"]
+1D Pass 2S Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2001 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Mahmood"]
+[North "Hampson"]
+[East "Eisenberg"]
+[South "Greco"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 964.AQJ63.J2.962 AQ82.T975.94.KJ8 T73.K42.KQ73.AQ7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Johnson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Mahmood"]
+[Auction "N"]
+1D Pass 1H Pass
+1N Pass 2H Pass
+Pass X Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+

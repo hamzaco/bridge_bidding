@@ -1,0 +1,908 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K952.J87.KQJ5.AK QJ3.Q2.632.Q6542 T8.AT965.T8.JT93 A764.K43.A974.87 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "N"]
+Pass Pass 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "W"]
+S2 SQ S8 SA
+CA C6 C3 C8
+H8 H2 H5 HK
+CK C2 C9 C7
+DK D6 D8 DA
+D5 D3 DT D4
+H7 HQ HA H3
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K952.J87.KQJ5.AK QJ3.Q2.632.Q6542 T8.AT965.T8.JT93 A764.K43.A974.87 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "N"]
+Pass 1D 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ3.9754.J5.J765 T762.AK.KQ974.Q4 85.J83.AT862.KT3 AJ94.QT62.3.A982 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 2S Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ3.9754.J5.J765 T762.AK.KQ974.Q4 85.J83.AT862.KT3 AJ94.QT62.3.A982 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "E"]
+1D Pass 1S Pass
+2N an AL Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT64.K872.82.654 7.T653.965.AQT92 KQ853.J94.AK4.87 A92.AQ.QJT73.KJ3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "S"]
+Pass Pass 1S 1N
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT64.K872.82.654 7.T653.965.AQT92 KQ853.J94.AK4.87 A92.AQ.QJT73.KJ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "S"]
+Pass Pass 1S 1N
+2S X Pass 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ2.QT87.732.Q86 Q743.J6.A94.KJ52 A96.AK952.QJ.T73 T85.43.KT865.A94 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "W"]
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ2.QT87.732.Q86 Q743.J6.A94.KJ52 A96.AK952.QJ.T73 T85.43.KT865.A94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "W"]
+1D 1H X 3D
+an al Pass 3H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J96.K2.J832.KJT6 42.QT84.AK74.Q32 AKQ875.7653.95.7 T3.AJ9.QT6.A9854 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "N"]
+2D Pass 3H Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J96.K2.J832.KJT6 42.QT84.AK74.Q32 AKQ875.7653.95.7 T3.AJ9.QT6.A9854 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "N"]
+2S Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9873.JT64.T2.J32 AQ65.AK95.75.965 2.732.Q98643.QT4 KJT4.Q8.AKJ.AK87 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "E"]
+6S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9873.JT64.T2.J32 AQ65.AK95.75.965 2.732.Q98643.QT4 KJT4.Q8.AKJ.AK87 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "E"]
+1C Pass 2S Pass
+2N Pass 3C Pass
+3S Pass 4S Pass
+4N Pass 5S Pass
+6S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K72.K93.K854.842 Q93.AT5.QT73.T75 AJ84.J82.AJ9.963 T65.Q764.62.AKQJ "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "S"]
+Pass Pass 1D Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K72.K93.K854.842 Q93.AT5.QT73.T75 AJ84.J82.AJ9.963 T65.Q764.62.AKQJ "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q97.KJ4.QJ863.K2 432.A63.A4.J8743 AKJT.T7.KT975.T6 865.Q9852.2.AQ95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "W"]
+Pass 1D Pass 2D
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q97.KJ4.QJ863.K2 432.A63.A4.J8743 AKJT.T7.KT975.T6 865.Q9852.2.AQ95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "W"]
+Pass 1D an al
+1H 2S an al
+3H Pass Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T732.JT2.A2.A853 AJ84.K.J74.KQ762 65.97643.KQT65.9 KQ9.AQ85.983.JT4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "N"]
+Pass 1C Pass 1S
+1N X Pass Pass
+2D Pass 2H 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T732.JT2.A2.A853 AJ84.K.J74.KQ762 65.97643.KQT65.9 KQ9.AQ85.983.JT4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "N"]
+Pass 1D an al
+Pass 1S Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQJ872.K4.A93.JT 654.AT52.KJ65.64 KT93.J6.QT7.9872 .Q9873.842.AKQ53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "E"]
+1H 1S 2H 2S
+3H 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQJ872.K4.A93.JT 654.AT52.KJ65.64 KT93.J6.QT7.9872 .Q9873.842.AKQ53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "E"]
+1H 1S 3H 3S
+4C 4S X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A6.J542.K54.JT92 QJT932.A9.A9.753 84.T86.QJT872.A6 K75.KQ73.63.KQ84 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "S"]
+Pass 1S Pass 2N
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A6.J542.K54.JT92 QJT932.A9.A9.753 84.T86.QJT872.A6 K75.KQ73.63.KQ84 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "S"]
+Pass 1S 3D 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ8.K964.QJ.KT53 7652.J3.AK43.A97 A9.T82.T9862.864 JT43.AQ75.75.QJ2 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "W"]
+1D Pass 1H X
+Pass 2C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ8.K964.QJ.KT53 7652.J3.AK43.A97 A9.T82.T9862.864 JT43.AQ75.75.QJ2 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "W"]
+1D Pass 1H Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT976.T3.9.QJ965 A43.AK642.K7.KT2 Q82.QJ7.JT8.A874 K5.985.AQ65432.3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "N"]
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT976.T3.9.QJ965 A43.AK642.K7.KT2 Q82.QJ7.JT8.A874 K5.985.AQ65432.3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1H Pass 1N
+Pass 2N Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ9876.A86.94.73 Q3.KJT943.7.A862 52.52.AKQ865.QT9 KT4.Q7.JT32.KJ54 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "E"]
+Pass 2D 2H X
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ9876.A86.94.73 Q3.KJT943.7.A862 52.52.AKQ865.QT9 KT4.Q7.JT32.KJ54 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "E"]
+Pass 2D 3H Pass
+3N Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ95.J653.J8.KQT K7.Q874.93.A9843 T63.KT2.AT742.62 J842.A9.KQ65.J75 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ95.J653.J8.KQT K7.Q874.93.A9843 T63.KT2.AT742.62 J842.A9.KQ65.J75 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "S"]
+1C Pass 1S Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "42th World Bridge Championships"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "VAN ZWOL"]
+[North "SEAMON-MOL"]
+[East "ARNOLDS"]
+[South "SOKOLOW"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J74.A.AQ.QT87652 AQ6.KQJ9874.T8.9 KT852.T5.J654.KJ 93.632.K9732.A43 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "USA2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "NETHERLANDS"]
+[Auction "W"]
+1H 1S 2H 3H
+4H 4S Pass Pass
+5H Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+

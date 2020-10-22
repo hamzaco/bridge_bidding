@@ -1,0 +1,924 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 98765.AQ8654.A3.AJ4 KJ9.852.KQ52.32 73.KJT93.J986.KQT T2.AQ764.T74."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "N"]
+P 1D 2D 3N
+P P P
+[Play "N"]
+H2 H4 HJ H7
+S2 SK S8 S4
+C4 C3 CK C6
+S5 D2 DT DQ
+CA C2 C8 C7
+HA H9 H3 HT
+H5 HK D3 D4
+S3 ST S6 SA
+S7 SJ C9 SQ
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 98765.AQ8654.A3.AJ4 KJ9.852.KQ52.32 73.KJT93.J986.KQT T2.AQ764.T74."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "N"]
+P 1D 2D D
+P P 2H 3N
+P P P
+[Play "N"]
+H2 H4 H9 H7
+S8 D5 D9 DQ
+C4 C3 CK C6
+S2 SK S7 S4
+CA C5 C8 C7
+S5 SJ S3 SQ
+HJ H3 HT HA
+S6 SA D3 ST
+D4 H5 HK C9
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ87.K963.83.T97 Q2.QT87.K.AKJ654 A93.A4.AQJ9654.3 T654.J52.T72.Q82 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "12"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "E"]
+P P 1C 1D
+P P 2C 2D
+P P P
+[Play "E"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ87.K963.83.T97 Q2.QT87.K.AKJ654 A93.A4.AQJ9654.3 T654.J52.T72.Q82 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "E"]
+P P 1C D
+P 1S 2C 2D
+P 2H P 3C
+D P P 3D
+P P P
+[Play "E"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK964.63.JT43.65 72.7.A72.KT98732 QJT85.JT95.9.AJ4 3.AKQ842.KQ865.Q "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "S"]
+2S P 4S 4N
+D 5C D 5D
+P P 5S P
+P D P P
+P
+[Play "W"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK964.63.JT43.65 72.7.A72.KT98732 QJT85.JT95.9.AJ4 3.AKQ842.KQ865.Q "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "S"]
+2S P 4S 5H
+P P D P
+P P
+[Play "S"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 42.JT.A94.AQJ954 AJT.AK98732.8.63 KQ9653.6.KJT65.T 87.Q54.Q732.K872 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "W"]
+4H 4S P P
+P
+[Play "E"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 42.JT.A94.AQJ954 AJT.AK98732.8.63 KQ9653.6.KJT65.T 87.Q54.Q732.K872 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "W"]
+1H 2H P 3D
+3H P 4H D
+P P P
+[Play "N"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQJ3.QT85.K3.AQJ K7.AKJ74.A97.T85 T542.2.JT4.76432 986.963.Q8652.K9 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "N"]
+P P 1C 1H
+P P 1N P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQJ3.QT85.K3.AQJ K7.AKJ74.A97.T85 T542.2.JT4.76432 986.963.Q8652.K9 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "N"]
+P P 1H P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT87.A96.82.974 A942.K4.T954.AK2 Q653.QJ5.76.Q863 .T8732.AKQJ3.JT5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "E"]
+1H 1S 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT87.A96.82.974 A942.K4.T954.AK2 Q653.QJ5.76.Q863 .T8732.AKQJ3.JT5 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "E"]
+1H 1S D 3S
+4D P 4N P
+5N P 6D P
+P P
+[Play "S"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T652.A764.2.6542 AJ4.QT9.AQ87.AT7 Q873.J5.KJT3.QJ8 K9.K832.9654.K93 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "S"]
+P 1N P 2C
+P 2D P 2N
+P 3N P P
+P
+[Play "N"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T652.A764.2.6542 AJ4.QT9.AQ87.AT7 Q873.J5.KJT3.QJ8 K9.K832.9654.K93 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "S"]
+P 1N P 2C
+P 2D P 2N
+P 3N P P
+P
+[Play "N"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T97.K9543.Q9543.AK65 T86.A872.KT.843 AQJ7.6.Q9654. QJ2.2.KJT.AJ8732 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "W"]
+1D P 2C P
+2N P 3D P
+3S P 4C P
+4S P 5D P
+5N P 6C P
+P P
+[Play "S"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T97.K9543.Q9543.AK65 T86.A872.KT.843 AQJ7.6.Q9654. QJ2.2.KJT.AJ8732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "W"]
+1D 1H 2C 4H
+D P P P
+[Play "E"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJT542.83.852.A2 73.JT5.KQ9.KQT54 KQ8.K9764.74.976 96.AQ2.AJT63.J83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "N"]
+P 1D 2S 3C
+3S P P P
+[Play "W"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJT542.83.852.A2 73.JT5.KQ9.KQT54 KQ8.K9764.74.976 96.AQ2.AJT63.J83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "N"]
+P 1D 2S 3C
+3S P P P
+[Play "W"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J9.AJ8532.AK765.A 4.T9432.765432.K74 97.QJ8.AKQJ9.QT86532 KQT6..T8."]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "E"]
+2C 2H P 3C
+P 3D P 3N
+P P P
+[Play "E"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J9.AJ8532.AK765.A 4.T9432.765432.K74 97.QJ8.AKQJ9.QT86532 KQT6..T8."]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "E"]
+P 1H P 2C
+2S 3D P 4N
+P 5D P 6N
+P P P
+[Play "E"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 864.7532.2.KQ952 AK7.KT.KT98765.4 Q52.QJ96.AJ3.J87 JT93.A84.Q4.AT63 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "S"]
+P 1D P 1S
+P 2D P 2N
+P 3S P 3N
+P P P
+[Play "S"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 864.7532.2.KQ952 AK7.KT.KT98765.4 Q52.QJ96.AJ3.J87 JT93.A84.Q4.AT63 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "S"]
+P 1D P 1S
+P 2S P 2N
+P 3S P 3N
+P P P
+[Play "S"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 9762.T9.K7.J9743 KT83.84.J532.KQ8 AQ4.K7532.AT8.A2 J5.AQJ6.Q964.T65 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "W"]
+P 1H P P
+D P 1N P
+P P
+[Play "S"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 9762.T9.K7.J9743 KT83.84.J532.KQ8 AQ4.K7532.AT8.A2 J5.AQJ6.Q964.T65 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "W"]
+P 1N P P
+P
+[Play "E"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K2.A62.Q42.KT752 98.K95.AK985.Q43 AQ63.J8743.J7.A8 JT754.QT.T63.J96 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "N"]
+1H P 1N P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K2.A62.Q42.KT752 98.K95.AK985.Q43 AQ63.J8743.J7.A8 JT754.QT.T63.J96 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "N"]
+1H P 2C P
+2H P 4H P
+P P
+[Play "E"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q6.QJ8.QJ86.AKT5 AJ52.AKT.AT542.3 KT97.97643.3.Q76 843.52.K97.J9842 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "E"]
+P 1N D 2D
+P 2H P P
+P
+[Play "W"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q6.QJ8.QJ86.AKT5 AJ52.AKT.AT542.3 KT97.97643.3.Q76 843.52.K97.J9842 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "E"]
+P 1N D 2C
+P 2D P 2H
+P P P
+[Play "E"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT43.T93.A96.AK4 K6.K8543.J97652.K9752 J2.QJT7.T3. AQ86.AQ8754.2.Q8 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "S"]
+1C 1D 1S 2H
+2S P P P
+[Play "E"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT43.T93.A96.AK4 K6.K8543.J97652.K9752 J2.QJT7.T3. AQ86.AQ8754.2.Q8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "S"]
+1S 2N 3S P
+P P
+[Play "W"]
+*
+
+
+[Event "2001 Dutch Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Westra"]
+[North "Bertens"]
+[East "Van Eijck"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KT4.K8653.5.QJT8 A532.4.QJT764.K4 96.Q92.A982.9532 QJ87.AJT7.K3.A76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Modalfa"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lombard"]
+[Auction "W"]
+1D P 1H P
+1S P 2C P
+2D P 2S P
+2N P 4S P
+P P
+[Play "N"]
+*
+
+

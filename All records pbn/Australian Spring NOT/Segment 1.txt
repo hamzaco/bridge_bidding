@@ -1,0 +1,953 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A975.Q.AK653.AQ9 J2.KJT93.Q72.T84 KQT64.754.9.K763 83.A862.JT84.J52 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 4H Pass
+4N Pass 5C Pass
+6S Pass Pass Pass
+[Play "E"]
+HQ HK H4 HA
+S5 H3 H5 H2
+S7 S2 SK S3
+S9 H9 H7 H8
+SA SJ S4 S8
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A975.Q.AK653.AQ9 J2.KJT93.Q72.T84 KQT64.754.9.K763 83.A862.JT84.J52 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "N"]
+2S an SP  w
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+DA D2 D9 DJ
+S5 S2 SK S3
+HQ HK H5 HA
+D3 D7 S4 D4
+S7 H3 H4 H6
+SA SJ S6 S8
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KT.AJ7642.AJ.J42 AQ984.KQ8.Q852.T J653.T9.43.AKQ97 72.53.KT976.8653 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "E"]
+Pass 1H 1S 2C
+Pass 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+DA D2 D3 DK
+C4 CT CA C3
+H2 HK H9 H3
+ST SA S3 S2
+DJ DQ D4 D6
+SK S4 S5 S7
+CJ H8 C7 C5
+H6 S8 SJ H5
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KT.AJ7642.AJ.J42 AQ984.KQ8.Q852.T J653.T9.43.AKQ97 72.53.KT976.8653 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "E"]
+Pass 1H 1S 2D
+an ga Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+CJ CT CA C3
+H2 HK H9 H3
+DA D2 D3 DK
+C4 H8 C7 C6
+ST SA S3 S7
+DJ DQ D4 D6
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ.AKT532.K532.7 J8.KQ8732.A874.J986542 96.64.J9.T3 Q74.AJT95.QT6."]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "S"]
+1H 2D Pass 2N
+X 3D Pass Pass
+X Pass 4S Pass
+Pass Pass
+[Play "E"]
+D4 DA SQ D2
+SK S7 S2 S3
+HA H8 H6 H4
+HK HJ H9 H7
+H2 D3 S4 HQ
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AKQ.AKT532.K532.7 J8.KQ8732.A874.J986542 96.64.J9.T3 Q74.AJT95.QT6."]
+[Declarer "N"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "S"]
+1H 2D Pass 2H
+an . X 3D
+Pass Pass X Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J8743.K74.KQ743.65 A932.J92.KT98.Q2 JT8.AT85.J532. AKT9.Q65.6.AQ764 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "W"]
+Pass Pass 1C 1D
+1H 3C Pass 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J8743.K74.KQ743.65 A932.J92.KT98.Q2 JT8.AT85.J532. AKT9.Q65.6.AQ764 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "W"]
+Pass Pass 1C 1S
+X 1N X 2D
+3C 3D 4C Pass
+5C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ7.J872.92.AJ98 Q843.KQ93.Q7643.T9 AT.AK.KQT7432. K652.654.JT85.65 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "N"]
+1C Pass 1H Pass
+3C Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ7.J872.92.AJ98 Q843.KQ93.Q7643.T9 AT.AK.KQT7432. K652.654.JT85.65 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "N"]
+1C Pass 1D an
+4+ 1H an ta
+3C an 0- Pass
+3D an . Pass
+3S an . Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ53.AJ93.853.A2 K.76.A742.QJT973 Q842.KQJT6.K854. AT987642.KT5.9.6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "E"]
+4S Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ53.AJ93.853.A2 K.76.A742.QJT973 Q842.KQJT6.K854. AT987642.KT5.9.6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "E"]
+4S Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT43.K64.53.KQ87 96.AJT52.Q98.JT9 K82.Q87.AKJ62.A6 AQ75.93.T74.5432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "S"]
+Pass 2H an 8-
+ 5  n 2N Pass
+3C Pass 3D Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT43.K64.53.KQ87 96.AJT52.Q98.JT9 K82.Q87.AKJ62.A6 AQ75.93.T74.5432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "S"]
+Pass Pass 1N Pass
+2C an . Pass
+2N an . Pass
+3C an . Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J2.92.6543.J9843 AK83.KQJT7.KQ9.K 7654.64.T2.AQ765 QT9.A853.AJ87.T2 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "W"]
+1H Pass 3D Pass
+3S Pass 3N Pass
+4C Pass 4D Pass
+4N Pass 5H Pass
+6H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J2.92.6543.J9843 AK83.KQJT7.KQ9.K 7654.64.T2.AQ765 QT9.A853.AJ87.T2 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "W"]
+1H an no Pass
+2N an 12  b
+Pass 3H Pass 4H
+Pass 4N Pass 5H
+Pass 6H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T8.A953.A6.98653 K73.KT4.T5.KJT74 AQJ96.Q872.QJ74. 542.J6.K9832.AQ2 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "N"]
+1S Pass 1N Pass
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T8.A953.A6.98653 K73.KT4.T5.KJT74 AQJ96.Q872.QJ74. 542.J6.K9832.AQ2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "N"]
+1S Pass 1N 2C
+2H 2S an cl
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QJT93.K74.K.KT43 85.AJT965.97.AJ6 A4.8.AQJT432.Q92 K762.Q32.865.875 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "E"]
+Pass 1S 2H 3D
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QJT93.K74.K.KT43 85.AJT965.97.AJ6 A4.8.AQJT432.Q92 K762.Q32.865.875 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "E"]
+Pass 1S 2H 3D
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJ64.Q4.A64.J732 AK5.T9765.J2.K98 92.KJ82.KQ3.AT64 T873.A3.T9875.Q5 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJ64.Q4.A64.J732 AK5.T9765.J2.K98 92.KJ82.KQ3.AT64 T873.A3.T9875.Q5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H an 4+ Pass
+1N an . Pass
+Pass 2H Pass Pass
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J832.8.K876.AKJ9 QT954.74.JT542.5 A6.AQ95.Q9.QT764 K7.KJT632.A3.832 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "W"]
+Pass 1C 1H 1S
+Pass 2C Pass 2H
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J832.8.K876.AKJ9 QT954.74.JT542.5 A6.AQ95.Q9.QT764 K7.KJT632.A3.832 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "W"]
+Pass 1C 1H X
+an 4+ Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K.AKQJ8.AK63.A64 QJ92.2.Q5.QJ9872 87.7643.JT87.KT3 AT6543.T95.942.5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "N"]
+Pass Pass 2C 2S
+Pass 4S Pass Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K.AKQJ8.AK63.A64 QJ92.2.Q5.QJ9872 87.7643.JT87.KT3 AT6543.T95.942.5 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "N"]
+Pass Pass 2C an
+st Pass 2D an
+. 2S 3H 4S
+5H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q2.Q95.864.JT876 J43.T86.KT3.K952 AK76.AK42.A72.Q3 T985.J73.QJ95.A4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 2C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q2.Q95.864.JT876 J43.T86.KT3.K952 AK76.AK42.A72.Q3 T985.J73.QJ95.A4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "E"]
+Pass Pass Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK.A9.AKT8752.QT 942.Q876.J93.654 Q63.T5.64.KJ9873 JT875.KJ432.Q.A2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "S"]
+1D Pass 1N X
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK.A9.AKT8752.QT 942.Q876.J93.654 Q63.T5.64.KJ9873 JT875.KJ432.Q.A2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "S"]
+2C an st Pass
+2D an . 2H
+3D 3H X Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Spring NOT"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Lilley"]
+[North "Lazer"]
+[East "Nagy"]
+[South "Gumby"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K943.AQ7.A83.Q94 T6.3.KJT6.AKJT87 AQJ8.KJ9654.Q.65 752.T82.97542.32 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gumby"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lilley"]
+[Auction "W"]
+1C 1H Pass 2C
+3C 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+

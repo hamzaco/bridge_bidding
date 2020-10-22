@@ -1,0 +1,391 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T854.KQ96.A62.JT QJ9732.T3.Q3.Q92 A.AJ2.9854.AK754 K6.8754.KJT7.863 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "N"]
+1C Pass 1H Pass
+2D Pass 2S an
+4t 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+S4 SQ SA S6
+DA D3 D4 D7
+CJ CQ CA C3
+CT C2 C4 C6
+S5 S2 H2 SK
+H6 H3 HA H4
+H9 HT HJ H5
+D2 C9 CK C8
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 842.5.93.AKQ8642 73.AKQ83.A62.T93 AKT.JT9642.854.5 QJ965.7.KQJT7.J7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "E"]
+Pass 3C 3H Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 82.A6.AT842.KQ76 765.JT93.Q65.T32 Q943.Q7.K973.A54 AKJT.K8542.J.J98 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 5.KJ76.Q764.AKQT J4.AT5.J983.9432 AT9873.83.AK.J75 KQ62.Q942.T52.86 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK94.75.65.QJT72 J653.AQ8.K9.AK63 Q8.9643.QJT8742. T72.KJT2.A3.9854 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "N"]
+Pass Pass 1C 1N
+2D 3D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QJ86.A72.6543.76 AT532.K3.KJ7.984 QJ8.AQ8.AQJT532. K974.T9654.T92.K "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "E"]
+Pass Pass 1S 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K763.A975.973.T2 QJ2.J4.QT652.A54 T854.Q862.84.KQ3 A9.KT3.AKJ.J9876 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T4.K3.AT9532.Q54 AK72.87.KQ.AJ972 Q865.642.J84.K63 J93.AQJT95.76.T8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "W"]
+1C Pass 1H 2D
+2S Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: JT5.J.QJT9.J8432 K98.QT8654.Q965.AQ3 K732.AK87.A7.7642 A9.65432.KT."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "N"]
+2N Pass 3C an
+Pu Pass 3D an
+1  Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 96.852.A96.K9654 KQT.T7.K53.AQJ87 A874.AKJ43.QJ74. J532.Q96.T82.T32 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "E"]
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q864.8.T.AT76432 9732.AQT973.A85.AJ J4.KQ932.KQJ5. KT5.K652.J764.98 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "S"]
+Pass 1H 2D 2H
+3C 4H 5C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 765.8.AJ876432.4 8.QJ652.K95.AT53 AQ93.AT974.T.J92 KJT42.K3.Q.KQ876 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "W"]
+Pass 1H 2H an
+!S 3D 5C X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands - France Ladies Test Match"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Pigeaud"]
+[North "vd Sande"]
+[East "Fishpool"]
+[South "van Gelder"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 86.AT853.KJ97.63 QJ5.Q.AQ2.KJT984 K4.K762.T8653.52 AT9732.J94.4.AQ7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "France"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2S Pass 3S
+Pass 4C Pass 4D
+Pass 4S Pass 4N
+Pass 5H Pass 5S
+Pass 6S Pass Pass
+Pass
+[Play "S"]
+*
+
+

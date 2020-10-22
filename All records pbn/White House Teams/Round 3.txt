@@ -1,0 +1,455 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK.T2.AJT98.AT84 QJ963.83.742.762 82.KQJ65.Q6.KQJ3 T754.A974.K53.95 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "N"]
+1H Pass 2D Pass
+2H Pass 2N Pass
+3C Pass 4C Pass
+5C Pass Pass Pass
+[Play "E"]
+SK S3 S2 S7
+C4 C2 CK C5
+CA C7 C3 C9
+C8 C6 CQ S4
+HT H3 H5 H4
+SA S6 S8 S5
+H2 H8 HK HA
+D8 D2 DQ D3
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK.T2.AJT98.AT84 QJ963.83.742.762 82.KQJ65.Q6.KQJ3 T754.A974.K53.95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "N"]
+1H Pass 2D Pass
+2H Pass 3C Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "W"]
+SK SJ S2 S5
+HT H8 H5 HA
+SA S3 S8 ST
+CA C7 C3 C5
+C4 C2 CK C9
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT76.3.A965.9632 KQJ.Q74.JT8.KQJ5 932.A.KQ7432.T84 854.KJT98652.A7."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "E"]
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT76.3.A965.9632 KQJ.Q74.JT8.KQJ5 932.A.KQ7432.T84 854.KJT98652.A7."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "E"]
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 86.AJ75.976542.4 AJ72.KQT6.JT.732 KQ9.8432.KQ8.T85 T543.9.A3.AKQJ96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "S"]
+Pass Pass Pass 1C
+1N X Pass Pass
+2D 3D Pa 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 86.AJ75.976542.4 AJ72.KQT6.JT.732 KQ9.8432.KQ8.T85 T543.9.A3.AKQJ96 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "S"]
+Pass Pass Pass 1C
+2D X 3D 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ5.AKT73.K93.A7 T87632.Q85.A62.5 K.92.QJ84.KQ9643 Q94.J64.T75.JT82 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 2C Pass 2D
+Pass 2N Pass 3C
+Pass 3D Pass 3H
+Pass 3N Pass 4D
+Pass 5C Pass 6C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ5.AKT73.K93.A7 T87632.Q85.A62.5 K.92.QJ84.KQ9643 Q94.J64.T75.JT82 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "W"]
+Pass Pass Pass 1H
+1S 2C Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ643.9.JT.AT964 JT9.AJ76.K2.K852 72.KQT82.AQ93.Q3 K85.543.87654.J7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ643.9.JT.AT964 JT9.AJ76.K2.K852 72.KQT82.AQ93.Q3 K85.543.87654.J7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT.QJ642.KJ2.AT7 KQ954.A.8.QJ9862 87632.KT8.A7.K54 J.9753.QT96543.3 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "E"]
+Pass 1N 2S 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT.QJ642.KJ2.AT7 KQ954.A.8.QJ9862 87632.KT8.A7.K54 J.9753.QT96543.3 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "E"]
+Pass 1N X! XX
+2D X 2S X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 9.A9.K7.AKQJ8652 T.J853.AT9532.43 KQ8432.KQ764.Q4. AJ765.T2.J86.T97 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "S"]
+2C Pass 2S Pass
+3N Pass 5N Pass
+6C Pass 6H Pass
+6N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 9.A9.K7.AKQJ8652 T.J853.AT9532.43 KQ8432.KQ764.Q4. AJ765.T2.J86.T97 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "S"]
+2C Pass 2S Pass
+3C Pass 3D Pass
+4N Pass 5C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "White House Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Dehaye"]
+[North "Brink"]
+[East "vMiddelem"]
+[South "vProoijen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 987532.42.865.A7 6.KJ9.AQJ974.T43 AKJT.Q76.KT2.Q92 Q4.AT853.3.KJ865 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "M' Orange"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Belgium"]
+[Auction "W"]
+1D 1N X 2S
+3D Pass Pass Pass
+[Play "N"]
+*
+
+

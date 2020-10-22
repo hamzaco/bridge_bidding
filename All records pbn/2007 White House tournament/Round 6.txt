@@ -1,0 +1,633 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9853.AK8.AJ9.JT8 AQ74.J732.85.KQ9 K6.KT743.A76432.JT2 QT9654.Q62.5."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1N Pass 2C Pass
+2S Pass 3C Pass
+3S Pass 4D Pass
+4H Pass 5C Pass
+Pass Pass
+[Play "N"]
+S3 SA S6 ST
+S5 S4 SK S2
+C5 C8 C9 CA
+CT CQ C2 H4
+S8 S7 C3 SJ
+D2 D9 D5 DK
+DJ D8 D3 D6
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9853.AK8.AJ9.JT8 AQ74.J732.85.KQ9 K6.KT743.A76432.JT2 QT9654.Q62.5."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1C Pass 2C an
+fo 2H Pass 3C
+3D Pass 3N Pass
+Pass Pass
+[Play "E"]
+HA H2 D3 HQ
+C8 C9 CA C5
+CJ CQ C2 S2
+H8 H7 D4 HT
+HJ D7 H4 HK
+CT CK C3 ST
+S3 SA S6 SJ
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT2.KT96.J.JT832 Q9.AJ72.T953.KQ5 K863.Q43.874.974 J754.85.AKQ62.A6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1C Pass 1S an
+!X Pass 1N Pass
+2S Pass 3D Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT2.KT96.J.JT832 Q9.AJ72.T953.KQ5 K863.Q43.874.974 J754.85.AKQ62.A6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1C Pass 2D Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ983.A42.KJ43.8 KT.Q83.AQ875.QJ9 4.KJ75.T92.K7432 Q7652.T96.6.AT65 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass Pass 1S Pass
+1N Pass 2D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ983.A42.KJ43.8 KT.Q83.AQ875.QJ9 4.KJ75.T92.K7432 Q7652.T96.6.AT65 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass Pass 1S X
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ53.96.Q432.AQ7 76.JT872.KT75.64 AQ84.AQ.J86.J953 T92.K543.A9.KT82 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ53.96.Q432.AQ7 76.JT872.KT75.64 AQ84.AQ.J86.J953 T92.K543.A9.KT82 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J65.K8.AT97.Q875 AKT92.J65.K6.643 Q7.AQT943.J543.A 843.72.Q82.KJT92 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass 1S 2H 2S
+X Pass 3H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J65.K8.AT97.Q875 AKT92.J65.K6.643 Q7.AQT943.J543.A 843.72.Q82.KJT92 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass 1S 2H 2S
+X Pass 3D Pass
+3H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ973.KT97.53.63 JT84.J32.Q6.Q974 65.A6.KJT42.KJT5 A2.Q854.A987.A82 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+Pass 1D an 11
+ u Pass 1S Pass
+1N an 4+ Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ973.KT97.53.63 JT84.J32.Q6.Q974 65.A6.KJT42.KJT5 A2.Q854.A987.A82 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+Pass 1D Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 742.J842.AJ52.94 Q9653.AQ6.Q43.83 JT.K5.KT8.AKQJ76 AK8.T973.976.T52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1C an 16 Pass
+1D an 0- Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 742.J842.AJ52.94 Q9653.AQ6.Q43.83 JT.K5.KT8.AKQJ76 AK8.T973.976.T52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1C Pass 1D Pass
+2H Pass 2N Pass
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 96.J2.KJT87.AT86 QJ.KT953.9642.74 AT5432.A76.5.KJ5 K87.Q84.AQ3.Q932 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1C 1D X an
+5+ 1S 2H Pass
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 96.J2.KJT87.AT86 QJ.KT953.9642.74 AT5432.A76.5.KJ5 K87.Q84.AQ3.Q932 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1C 1D X! an
+he 1S 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AK8.J42.KJ64.A83 QJT43.K97.A5.Q62 65.QT853.2.KT954 972.A6.QT9873.J7 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1C 1H an 3-
+Pass 2N an as
+Pass 3S X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AK8.J42.KJ64.A83 QJT43.K97.A5.Q62 65.QT853.2.KT954 972.A6.QT9873.J7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1N Pass 2D X
+2H 2S 3C 3S
+3N Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKQ8732.763.6.86 J954.AQJ5.KQ4.Q4 T6.KT942.92.K732 .8.AJT8753.AJT95 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1C Pass 1S an
+!X 3S Pass Pass
+6C Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKQ8732.763.6.86 J954.AQJ5.KQ4.Q4 T6.KT942.92.K732 .8.AJT8753.AJT95 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1N Pass 2N 3S
+Pass Pass 6C Pass
+6D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 White House tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Duboin"]
+[North "Dubinin"]
+[East "Bocchi"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QJ94.AK.K52.JT86 2.QT7542.Q843.K7 KT8.J863.AT9.942 A7653.9.J76.AQ53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Gromov"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2C Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+

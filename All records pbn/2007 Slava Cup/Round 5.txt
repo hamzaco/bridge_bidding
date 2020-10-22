@@ -1,0 +1,451 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K64.KJ83.Q652.T9 A853.T6.AK3.AQ87 T97.A9742.74.K42 QJ2.Q5.JT98.J653 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "N"]
+HK H6 H4 HQ
+H3 HT HA H5
+HJ S3 H2 C3
+H8 S5 H9 S2
+D6 D3 H7 C5
+D2 DK D7 D8
+C9 C7 C4 CJ
+S6 S8 S7 SQ
+CT CA C2 C6
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K64.KJ83.Q652.T9 A853.T6.AK3.AQ87 T97.A9742.74.K42 QJ2.Q5.JT98.J653 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1D Pass 1N
+Pass 2N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKJT3.K7642.5.T6 954.A53.86.AKQJ3 Q2.QJT98.AKJ97.4 876.QT432.98752."]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S 2C 3H
+4H 5H Pass Pass
+6C Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKJT3.K7642.5.T6 954.A53.86.AKQJ3 Q2.QJT98.AKJ97.4 876.QT432.98752."]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S 2C X
+5C 5H Pass 6H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A3.863.T85.QJ632 QJ854.AJ54.Q72.9 KT.KT92.64.AT754 9762.Q7.AKJ93.K8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 2C 2D
+4C 4D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A3.863.T85.QJ632 QJ854.AJ54.Q72.9 KT.KT92.64.AT754 9762.Q7.AKJ93.K8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 2C 2D
+4C X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 82.AKT86.A6.QT64 A96.432.K98732.8 QJ54.95.QJ4.AJ72 KT73.QJ7.T5.K953 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1S Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 82.AKT86.A6.QT64 A96.432.K98732.8 QJ54.95.QJ4.AJ72 KT73.QJ7.T5.K953 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 1S Pass 2C
+Pass 2N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT742.54.K97.K54 A93.K.AJ8432.Q92 Q.AQT932.Q5.J873 J865.J876.T6.AT6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2D Pass 2H 3D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT742.54.K97.K54 A93.K.AJ8432.Q92 Q.AQT932.Q5.J873 J865.J876.T6.AT6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2H Pass Pass 3D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q87.J86.J63.Q965 K95.AQ5.KT875.74 2.KT7432.A2.AJT3 AJT643.9.Q94.K82 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 2D 2H
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q87.J86.J63.Q965 K95.AQ5.KT875.74 2.KT7432.A2.AJT3 AJT643.9.Q94.K82 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1D 1H
+1S 2H 2S 4H
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 854.JT32.QJ6.A85 AJ7.65.A982.Q742 632.874.7543.J63 KQT9.AKQ9.KT.KT9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 854.JT32.QJ6.A85 AJ7.65.A982.Q742 632.874.7543.J63 KQT9.AKQ9.KT.KT9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1N Pass 2C
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Romanovich"]
+[North "Kychanov"]
+[East "Ershov"]
+[South "Andreev"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K.AQ972.Q6.K7643 T72.J64.J952.A85 J9853.K8.AKT.QJ2 AQ64.T53.8743.T9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1N Pass 2D
+Pass 2H Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

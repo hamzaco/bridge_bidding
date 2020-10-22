@@ -1,0 +1,498 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K6.A932.8643.J76 J74.K5.KT975.T85 A852.QT8.J2.K932 QT93.J764.AQ.AQ4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+H3 H5 HQ H4
+H2 HK HT H6
+SK S4 S2 S9
+C6 C8 C9 CQ
+S6 SJ SA S3
+H9 D5 H8 H7
+HA D7 S5 HJ
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K6.A932.8643.J76 J74.K5.KT975.T85 A852.QT8.J2.K932 QT93.J764.AQ.AQ4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 986.Q862.T96.KQ7 JT5.T73.AKJ7.JT8 AQ42.J5.Q532.963 K73.AK94.84.A542 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+H6 H3 HJ HA
+HQ H7 H5 H4
+S9 SJ SQ SK
+CQ C8 C6 C4
+DT DA D5 D4
+CK CT C3 C2
+C7 CJ C9 C5
+H2 HT D2 HK
+H8 D7 S2 H9
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 986.Q862.T96.KQ7 JT5.T73.AKJ7.JT8 AQ42.J5.Q532.963 K73.AK94.84.A542 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q7.94.QJ64.JT753 KJT94.52.A73.AKQ A62.AQJT6.T.9862 853.K873.K9852.4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+Pass 1S 2H 2S
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "N"]
+D4 D3 DT DK
+S7 SJ SA S3
+H4 H2 HA H3
+CT CA C6 C4
+H9 H5 HQ HK
+SQ SK S2 S8
+C5 ST S6 S5
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q7.94.QJ64.JT753 KJT94.52.A73.AKQ A62.AQJT6.T.9862 853.K873.K9852.4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+[Play "N"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT93.84.T986.854 AQ652.AK95.Q.T93 84.732.AKJ32.A72 K7.QJT6.754.KQJ6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+1S 2D X Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+D6 DQ DA D4
+D8 H5 DK D5
+C5 C3 CA C6
+D9 H9 DJ D7
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT93.84.T986.854 AQ652.AK95.Q.T93 84.732.AKJ32.A72 K7.QJT6.754.KQJ6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+[Play "N"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ2.Q54.AT75.QJ8 T73.K2.Q963.A932 K9854.AJ876.J4.6 Q6.T93.K82.KT754 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+3H Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AJ2.Q54.AT75.QJ8 T73.K2.Q963.A932 K9854.AJ876.J4.6 Q6.T93.K82.KT754 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+[Play "E"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q87.AKQ76.JT53.9 43.43.AK.AKQJ432 AKJT965.T82.Q2.8 2.J95.98764.T765 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+Pass 1H 3H 4S
+5C 5S X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q87.AKQ76.JT53.9 43.43.AK.AKQJ432 AKJT965.T82.Q2.8 2.J95.98764.T765 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q9842.743.87643.AQT52 AT65.AQ92.J8643.KJT3 J8.J5.K97.A765 KQ92.KT."]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2D Pass 3D
+Pass 4H Pass 4N
+Pass 6D Pass 7D
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q9842.743.87643.AQT52 AT65.AQ92.J8643.KJT3 J8.J5.K97.A765 KQ92.KT."]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQT8.2.KJ862.A73 AJ972.3.AT93.T62 AQJ764.74.KQJ84. 6543.KT985.Q5.95 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQT8.2.KJ862.A73 AJ972.3.AT93.T62 AQJ764.74.KQJ84. 6543.KT985.Q5.95 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+[Play "W"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bakkeren"]
+[North "Bjornlund"]
+[East "Bertens"]
+[South "Gards"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J5.96.K7432.J643 AKT.QJT82.QJT.T9 Q93.A73.985.A752 87642.K54.A6.KQ8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Bjornlund"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+[Play "None"]
+*
+
+

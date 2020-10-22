@@ -1,0 +1,576 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J8642.AKJ.Q9.KT4 A975.Q54.A72.QJ5 KT.T972.KT53.986 Q3.863.J864.A732 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "N"]
+Pass Pass 1S Pass
+1N Pass Pass Pass
+[Play "E"]
+D9 DA D3 D4
+DQ D7 D5 D6
+S2 S5 SK S3
+S4 S7 ST SQ
+HA H4 H2 H3
+S6 S9 C6 H6
+C4 D2 DK D8
+HK H5 H7 H8
+S8 SA C8 C2
+HJ HQ H9 C3
+CT CQ C9 CA
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J8642.AKJ.Q9.KT4 A975.Q54.A72.QJ5 KT.T972.KT53.986 Q3.863.J864.A732 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "N"]
+Pass Pass 1S Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 87.J32.AT643.KT5 K93.AK97654.7.J4 Q652.T8.K85.Q986 AJT4.Q.QJ92.A732 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 87.J32.AT643.KT5 K93.AK97654.7.J4 Q652.T8.K85.Q986 AJT4.Q.QJ92.A732 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "E"]
+1C Pass 1D an
+!h Pass 1S Pass
+2D Pass 3D Pass
+3H Pass 3S Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J5.J.AT65.Q98432 A97.A3.K9832.765 K63.KQT9864.QJ4. QT842.752.7.AKJT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "S"]
+Pass 1D 1H 1S
+2C Pass 2H X!
+Pass 2S 3H 3S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J5.J.AT65.Q98432 A97.A3.K9832.765 K63.KQT9864.QJ4. QT842.752.7.AKJT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "S"]
+Pass 1C 1H X!
+Pass 1S 2H X
+Pass 3D Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A93.J542.QT87.K7 KQ72.Q73.6.AQ532 T8.AT86.A53.T864 J654.K9.KJ942.J9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "W"]
+1C Pass 1S Pass
+2S Pass Pass X
+3C Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A93.J542.QT87.K7 KQ72.Q73.6.AQ532 T8.AT86.A53.T864 J654.K9.KJ942.J9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "W"]
+1C Pass 1H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 532.A85.A654.AK6 A.KQT6.QJT93.T95 T9.7432.K72.QJ42 KQJ8764.J9.8.873 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "N"]
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 532.A85.A654.AK6 A.KQT6.QJT93.T95 T9.7432.K72.QJ42 KQJ8764.J9.8.873 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "N"]
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9432.75.QT9754.5 A85.K843.A83.J84 QJ.A6.KJ62.KQT93 KT76.QJT92.A762."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "E"]
+2D 2H 3D 4D
+5D X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9432.75.QT9754.5 A85.K843.A83.J84 QJ.A6.KJ62.KQT93 KT76.QJT92.A762."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "E"]
+1H Pass 2C an
+  Pass 2H Pass
+2S Pass 3C Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 83.QT3.KQJT64.QJ A2.AK842.752.872 K74.J65.93.96543 QJT965.97.A8.AKT "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "S"]
+1D 1H Pass 1S
+Pass 2C Pass 2D
+Pass 2H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 83.QT3.KQJT64.QJ A2.AK842.752.872 K74.J65.93.96543 QJT965.97.A8.AKT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "S"]
+Pass 1H Pass 1N
+an 5! 2D Pass
+Pass X Pass 2S
+Pass 3D Pass 3H
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 83.QJ96.QT95.T84 K9742.T742.7.Q65 QJ5.853.AKJ6.K72 AT6.AK.8432.AJ93 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1N Pass 2C
+Pass 2D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 83.QJ96.QT95.T84 K9742.T742.7.Q65 QJ5.853.AKJ6.K72 AT6.AK.8432.AJ93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "W"]
+Pass 1D Pass Pass
+1S Pass 2D X
+Pass Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A963.J984.JT963.87542 3.AJ95.K82.KJ K752.T8763.Q5.QT AQT6.KQ42.A74."]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "N"]
+Pass 1N Pass 2H
+Pass 2S Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A963.J984.JT963.87542 3.AJ95.K82.KJ K752.T8763.Q5.QT AQT6.KQ42.A74."]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "N"]
+Pass 1N Pass 2H
+Pass 2S an  
+Pass 3C an 5!
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Neve"]
+[North "Sementa"]
+[East "Bessis V."]
+[South "Madala"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K964.9843.T8.AK5 AQ72.K5.AJ9.J872 J53.AJT76.K32.93 T8.Q2.Q7654.QT64 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "LAVAZZA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "FRANCE DAMES"]
+[Auction "E"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,415 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J832.Q96.K62.A83 KT54.AT32.QJ.KQ9 AQ97.J5.T7.J6542 6.K874.A98543.T7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+Pass 3C Pass 3D
+Pass 3H 4H Pass
+Pass Pass
+[Play "E"]
+CA C9 C4 C7
+C8 CK C2 CT
+C3 CQ C5 S6
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 93.AJ95.KQ3.JT96 AKQJ64.7.862.843 T87.KQ84.754.A75 52.T632.AJT9.KQ2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+1N 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ5.J2.AT632.J65 9843.T83.754.T83 6.AK965.Q9.AKQ97 KJT72.Q74.KJ8.42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "W"]
+Pass 1H 1S 2D
+Pass 3C Pass 3N
+Pass 4D Pass 4S
+Pass 4N 5H Pass
+Pass 6D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J62.63.AJ83.K972 T83.AJ5.Q95.AQ84 AKQ97.K8.762.653 54.QT9742.KT4.JT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+1S Pass 2S X
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT963.KT742.4.Q2 KQJ8.AJ85.87.T53 54.93.AKQ9.J8764 72.Q6.JT6532.AK9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQ.QJ73.QJ9542.5 653.A98.K8.KQJ94 T2.6.AT763.AT876 AJ9874.KT542.32."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+1D 2C 3D 3S
+Pass 4S 5D 5S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT52.73.QT6.Q754 9.Q98642.J932.J9 KJ8763.T.A854.63 Q4.AKJ5.K7.AKT82 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "W"]
+2D 2S 2N 3S
+Pass Pass 4H Pass
+Pass 4S X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJT52.T85.Q843.J 7.AKJ9763.KT5.T5 9863.Q4.J.KQ9872 AQ4.2.A9762.A643 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+Pass 1D Pass 1H
+2C Pass Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9542.K.KJ753.632 T83.A93.AQ98.954 AKJ.J8.T642.AQ87 Q76.QT76542.KJT."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+Pass Pass Pass 1C
+2H X 3D X
+3H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ53.KT7.J76.AQJ 9642.J83.K83.764 JT7.A52.AQT2.T52 A8.Q964.954.K983 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+1S Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJ72.T943.95.A97 T9863.AJ.Q4.QJ54 Q4.Q7652.KT.K832 K5.K8.AJ87632.T6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "W"]
+Pass Pass 1D Pass
+1S Pass 2D Pass
+2N Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K97.A93.J83.Q754 QJT52.KJ2.752.J9 8643.Q754.KQT.AK A.T86.A964.T8632 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KT9.AQ92.J97.874 Q5432.63.T6542.9 AJ6.K85.AKQ.KJ32 87.JT74.83.AQT65 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "E"]
+Pass Pass 2S 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Victorian Pennant"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Fruewirth"]
+[North "Van Riel"]
+[East "Jacobs"]
+[South "Smith"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T93.AT83.Q98.T92 AJ87.764.32.AJ87 652.Q.KJT4.KQ653 KQ4.KJ952.A765.4 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Smith"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Jacobs"]
+[Auction "S"]
+Pass Pass 1C 1H
+Pass 2C Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+

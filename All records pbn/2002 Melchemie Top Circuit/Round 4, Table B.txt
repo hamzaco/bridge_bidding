@@ -1,0 +1,269 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2002 Melchemie Top Circuit"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "C Balicki"]
+[North "K Balcombe"]
+[East "A Zmudzinsk"]
+[South "G Campbell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J762.KJT7.A3.KQ7 QT.8532.K864.JT4 A954.A96.T952.A6 K83.Q4.QJ7.98532 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C P 1H P
+1S P 2D P
+2N P 4S P
+P P
+[Play "E"]
+D3 D4 D5 DQ
+C7 CT CA C3
+S2 ST S5 S3
+CQ C4 C6 C9
+S6 SQ SA S8
+DA D6 D2 D7
+*
+
+
+[Event "2002 Melchemie Top Circuit"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "C Balicki"]
+[North "K Balcombe"]
+[East "A Zmudzinsk"]
+[South "G Campbell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJ93.J9843.A97.Q T875.Q5.J83.A632 62.AK762.542.975 AQ4.T.KQT6.KJT84 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D P 1S P
+2C P P P
+[Play "None"]
+*
+
+
+[Event "2002 Melchemie Top Circuit"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "C Balicki"]
+[North "K Balcombe"]
+[East "A Zmudzinsk"]
+[South "G Campbell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T9873.9642.KT.65 AJ65.K5.AQJ6.A82 Q4.AQT.9854.KQ74 K2.J873.732.JT93 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2D D 2H P
+P D P P
+P
+[Play "S"]
+*
+
+
+[Event "2002 Melchemie Top Circuit"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "C Balicki"]
+[North "K Balcombe"]
+[East "A Zmudzinsk"]
+[South "G Campbell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q83.KQJT.98.8432 T7.9632.AKT6.AT9 AK964.874.42.QJ7 J52.A5.QJ753.K65 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D 1S 2S D
+P P R P
+3D P P P
+[Play "None"]
+*
+
+
+[Event "2002 Melchemie Top Circuit"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "C Balicki"]
+[North "K Balcombe"]
+[East "A Zmudzinsk"]
+[South "G Campbell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K6.QJT4.AK7.9643 AJ52.2.J654.AKJ2 98.A983.Q9832.T5 QT743.K765.T.Q87 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+P 2C P 2D
+P 2S P 4S
+P P P
+[Play "E"]
+*
+
+
+[Event "2002 Melchemie Top Circuit"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "C Balicki"]
+[North "K Balcombe"]
+[East "A Zmudzinsk"]
+[South "G Campbell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ6.963.J85.AQT6 J732.J754.42.J83 T9.Q8.AQ9763.952 A854.AKT2.KT.K74 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N P P P
+[Play "None"]
+*
+
+
+[Event "2002 Melchemie Top Circuit"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "C Balicki"]
+[North "K Balcombe"]
+[East "A Zmudzinsk"]
+[South "G Campbell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 876.J62.AQ87.AQ4 AQT3.K8754.4.986 K2.93.JT632.KT75 J954.AQT.K95.J32 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C 1H 2C D
+P 2S P 3S
+P 4S P P
+P
+[Play "N"]
+*
+
+
+[Event "2002 Melchemie Top Circuit"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "C Balicki"]
+[North "K Balcombe"]
+[East "A Zmudzinsk"]
+[South "G Campbell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q7.J65.KJ5.T9872 J5.K84.874.AK654 AT6.AQ932.AT62.J K98432.T7.Q93.Q3 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C 1H 1S 2H
+P 3D P 4H
+P P P
+[Play "None"]
+*
+
+
+[Event "2002 Melchemie Top Circuit"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "C Balicki"]
+[North "K Balcombe"]
+[East "A Zmudzinsk"]
+[South "G Campbell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQT43.974.K8.QT4 KJ7.KJ.AJT3.AJ32 6532.96542.K987. 98652.AQT8.Q7.65 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+P P 1S 1N
+P 3N P P
+P
+[Play "S"]
+*
+
+

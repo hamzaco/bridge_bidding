@@ -1,0 +1,456 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 4.JT9.KT8732.AK2 872.AK8742.A954.AKT 6.QJ6.T98743.QJ9653 Q53..QJ65."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "N"]
+Pass Pass Pass 4H
+Pass Pass Pass
+[Play "N"]
+C5 DT DA DQ
+S4 S2 SK S3
+HJ HA H6 H3
+HT S7 SA S5
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q632.65.KQJT8.K2 75.AK.A965.A9764 KT84.Q8743.743.5 AJ9.JT92.2.QJT83 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "E"]
+Pass 1D 1N Pass
+2C Pass 2D Pass
+3N Pass Pass Pass
+[Play "S"]
+DT D5 D4 D2
+DK D6 D7 C3
+DQ DA D3 H2
+S2 S5 S4 SA
+C2 C4 C5 CQ
+CK CA H4 CJ
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q632.65.KQJT8.K2 75.AK.A965.A9764 KT84.Q8743.743.5 AJ9.JT92.2.QJT83 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "E"]
+Pass 1D 1N 2D
+X Pass 3C Pass
+3D X XX Pass
+5C Pass Pass Pass
+[Play "N"]
+DT DA D4 D2
+C2 CA C5 C3
+H5 HA H3 H2
+H6 HK H4 H9
+D8 D5 D7 C8
+DJ C4 H7 HT
+DQ D6 D3 CT
+S2 S5 S4 SA
+S3 C6 H8 HJ
+DK D9 HQ CJ
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 97.AKQ2.AJT5.AJ2 Q52.T93.Q9764.87 A84.764.K83.T653 KJT63.J85.2.KQ94 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "S"]
+1C Pa an ma
+1D 1S X 2S
+X Pass 3H Pass
+3N Pass Pass Pass
+[Play "N"]
+S7 SQ S4 S6
+S9 S5 S8 ST
+C2 S2 SA SK
+DJ DQ D3 D2
+HA HT H4 H8
+DT D7 D8 C4
+D5 D4 DK H5
+CA C7 C3 CK
+HK H3 H6 HJ
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 97.AKQ2.AJT5.AJ2 Q52.T93.Q9764.87 A84.764.K83.T653 KJT63.J85.2.KQ94 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "S"]
+1C Pass 1D 1S
+X 2S 3S Pass
+4H Pass Pass Pass
+[Play "E"]
+S7 S2 S4 SK
+S9 SQ SA S6
+CA C7 C3 CK
+CJ C8 C5 CQ
+H2 S5 S8 SJ
+HA H3 H4 H5
+HK H9 H6 H8
+C2 D7 CT C4
+HQ HT H7 HJ
+DJ D4 D3 D2
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT6.96.AT2.K9763 KJ.AKT72.J87.AT4 A42.QJ8543.43.Q5 98753.KQ965.J82."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "W"]
+1C 1H Pa Pass
+Pass
+[Play "W"]
+ST SJ S2 S8
+S6 SK SA S9
+C3 C4 CQ C8
+C6 CT C5 C2
+DA D7 D3 DQ
+H6 H2 HQ D5
+D2 D8 D4 DK
+SQ H7 S4 S3
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT6.96.AT2.K9763 KJ.AKT72.J87.AT4 A42.QJ8543.43.Q5 98753.KQ965.J82."]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "W"]
+1N 2C 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT9.JT7.KQT73.2 K3.K843.A8.A9874 854.AQ6.J965.JT5 A762.952.42.KQ63 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "N"]
+Pass Pass 1D 2C
+2D X Pass 2H
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT9.JT7.KQT73.2 K3.K843.A8.A9874 854.AQ6.J965.JT5 A762.952.42.KQ63 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1H Pass 1N
+Pass 2C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T73.AK32.J6.KQ95 Q65.54.T9742.A82 KJ84.QJ97.Q5.J64 A92.T86.AK83.T73 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "E"]
+Pass 1C Pa 1H
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T73.AK32.J6.KQ95 Q65.54.T9742.A82 KJ84.QJ97.Q5.J64 A92.T86.AK83.T73 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "E"]
+1D X 3D 4D
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K753.J85.532.K96 JT98.A762.97.Q85 Q64.T9.QJ8.AJ732 A2.KQ43.AKT64.T4 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K753.J85.532.K96 JT98.A762.97.Q85 Q64.T9.QJ8.AJ732 A2.KQ43.AKT64.T4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H 2C 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Bermuda Triangle Teams Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Dubinin"]
+[North "Zlotov"]
+[East "Gromov"]
+[South "Petrunin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 832.Q642.Q85.J85 AQJ95.5.K7432.94 K6.K9.AJT9.AKT63 T74.AJT873.6.Q72 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lazy"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Avalanche"]
+[Auction "W"]
+1S X 2D an
+tX Pass 2H X
+2S Pass Pass Pass
+[Play "N"]
+*
+
+

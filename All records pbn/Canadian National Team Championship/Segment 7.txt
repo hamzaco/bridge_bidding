@@ -1,0 +1,897 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT.AKJ62.JT975.8 A875.83.Q42.AJ53 432.QT75.63.7642 QJ96.94.AK8.KQT9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass 1C 1H 1S
+Pass 2S an 4 
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+HK H8 H7 H4
+HA H3 H5 H9
+C8 C5 C2 C9
+ST SA S3 S6
+SK S5 S2 SQ
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT.AKJ62.JT975.8 A875.83.Q42.AJ53 432.QT75.63.7642 QJ96.94.AK8.KQT9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass 1C 1H X
+2H 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9763.AKJ2.KQ9.43 AK4.T83.AQT9762.JT5 965.JT53.KJ8.Q82 Q74.A87642.5."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass 1C an 2+
+Pass 1D Pass 1N
+3C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9763.AKJ2.KQ9.43 AK4.T83.AQT9762.JT5 965.JT53.KJ8.Q82 Q74.A87642.5."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass 1N 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJT54.Q2.A872.93 KQ8.K6.KQ.QT8642 9632.AJ5.96.AKJ7 7.T98743.JT543.5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+1S 1N X 2D
+an Xi Pass Pass
+2H Pass Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJT54.Q2.A872.93 KQ8.K6.KQ.QT8642 9632.AJ5.96.AKJ7 7.T98743.JT543.5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+1S 2C 2N an
+gf Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 96.K43.A63.AJ842 Q2.QJ5.QJ84.K963 KT843.976.T972.Q AJ75.AT82.K5.T75 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass Pass 1N an
+12 Pass 2C Pass
+2H Pass 2N an
+ma Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 96.K43.A63.AJ842 Q2.QJ5.QJ84.K963 KT843.976.T972.Q AJ75.AT82.K5.T75 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass Pass 1C Pass
+2N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K6.J85.9765.KQ97 J8.KQT73.AK32.J5 AQT97.94.J8.AT32 5432.A62.QT4.864 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+1S Pass 1N an
+fo 2H Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K6.J85.9765.KQ97 J8.KQT73.AK32.J5 AQT97.94.J8.AT32 5432.A62.QT4.864 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+1S Pass 1N 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K64.AJ62.AK762.J 952.Q874.4.AK974 A.K953.QJ8.Q8632 QJT873.T.T953.T5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K64.AJ62.AK762.J 952.Q874.4.AK974 A.K953.QJ8.Q8632 QJT873.T.T953.T5 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 3H Pass 3S
+Pass 3N Pass 4S
+Pass 5D Pass 5H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K97.964.J6.AQ983 A53.AT2.T85.KJ42 T6.Q753.AQ73.765 QJ842.KJ8.K942.T "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+Pass 1N an 12
+Pass 2C X Pass
+2H 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K97.964.J6.AQ983 A53.AT2.T85.KJ42 T6.Q753.AQ73.765 QJ842.KJ8.K942.T "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+Pass 1N Pass 2H
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9732.6542.3.AJ43 A4.AJ97.T975.T95 J865.K.KQJ842.87 KQT.QT83.A6.KQ62 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H X 2H an
+4  2S 3D an
+he X 4H X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9732.6542.3.AJ43 A4.AJ97.T975.T95 J865.K.KQJ842.87 KQT.QT83.A6.KQ62 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass Pass 1C Pass
+1D an h 2D
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ7.KJT96.K96.AK A8543.A8.QT83.J5 T62.Q532.4.T8642 Q9.74.AJ752.Q973 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass Pass 1H 1S
+3H an we X!
+an Re 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ7.KJT96.K96.AK A8543.A8.QT83.J5 T62.Q532.4.T8642 Q9.74.AJ752.Q973 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass Pass 1H 1S
+3H X an ca
+Pass 3S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 7.Q9652.T932.KJT JT95.T87.AJ54.85 642.J43.K76.9742 AKQ83.AK.Q8.AQ63 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+2C Pass 2D an
+wa Pass 2S Pass
+3S an va Pass
+4C an cu Pass
+4D an cu Pass
+4H an cu Pass
+4S Pass Pa an
+ou Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 7.Q9652.T932.KJT JT95.T87.AJ54.85 642.J43.K76.9742 AKQ83.AK.Q8.AQ63 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+2C Pass 2H Pass
+2N Pass 3C Pass
+3D Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T.AT9742.964.AJ6 KQ987.K.KJ3.9532 6.Q8653.QT8.QT74 AJ5432.J.A752.K8 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+2H Pass 4H 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ43.AQT3.Q65.A7 T6.98.A83.QT9843 K9852.J4.KT2.KJ2 J7.K7652.J974.65 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ43.AQT3.Q65.A7 T6.98.A83.QT9843 K9852.J4.KT2.KJ2 J7.K7652.J974.65 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass Pass 2H 2N
+3C 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q.AJT98.QT874.J2 AJ97.KQ4.AKJ.T86 543.73.652.AK943 KT862.652.93.Q75 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass Pass 1H 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q.AJT98.QT874.J2 AJ97.KQ4.AKJ.T86 543.73.652.AK943 KT862.652.93.Q75 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass Pass 2D X
+Pass 2S 3D 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A.AT82.AQ75.A872 J94.KJ54.3.QJ543 Q8653.Q97.JT8.KT KT72.63.K9642.96 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2N an 18
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: A.AT82.AQ75.A872 J94.KJ54.3.QJ543 Q8653.Q97.JT8.KT KT72.63.K9642.96 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A7.9652.T6542.96 KJT42.3.QJ93.KJT 96.KQ7.AK7.AQ732 Q853.AJT84.8.854 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+Pass 1S X 3H
+an fi Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A7.9652.T6542.96 KJT42.3.QJ93.KJT 96.KQ7.AK7.AQ732 Q853.AJT84.8.854 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+Pass Pass 1C 1H
+Pass 1S Pass 2S
+Pass 2N Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hanna"]
+[North "Demuy"]
+[East "Lorber"]
+[South "Fourcaudot"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J63.QJ2.3.AQT942 K82.T.AKT654.873 AQ.K8754.Q9872.J T9754.A963.J.K65 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2D Pass 2H
+Pass 3D Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+

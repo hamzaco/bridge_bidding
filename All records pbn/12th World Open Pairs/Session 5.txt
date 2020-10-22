@@ -1,0 +1,809 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K9.93.KQ76.T9865 J52.KT8.T42.AQ72 T76.AQJ752.85.43 AQ843.64.AJ93.KJ "]
+[Declarer "W"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S Pass 2S
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "N"]
+DQ D4 D5 D3
+H9 HT HJ H4
+DK D2 D8 DJ
+H3 H8 HQ H6
+D6 HK HA S3
+D7 S2 H7 S4
+CT S5 H5 S8
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK9732.742.Q62.2 T4.KQT93.A984.T8 J86.AJ65.K7.Q743 Q5.8.JT53.AKJ965 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2C 2S X 3C
+X 3S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 5.AKQJ62.AKJT96.KQ9843 QJT92.4.8.AJT72 A74.975.Q3.65 K863.T83.7542."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2C 2S X Pass
+3D 3H 3S 4H
+4N Pass 7N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K97632.543.KT92.AT8 2.A85.KJ6542.QJ JT.J76.AQT973. 54.AKQ9876.Q43.8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C Pass 1H 1S
+2C Pass 4H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 953.QJ8.T3.J9653 AT84.A64.A97.QT8 QJ2.52.QJ84.AK72 K76.KT973.K652.4 "]
+[Declarer "S"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2220"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D 1H Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 87.KJ6.KJ87.T982 52.A.Q5432.AKQ43 T96.Q743.AT96.J6 AKQJ43.T9852.75."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 2D Pass
+2H Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQ7.Q52.954.T742 J983.A873.Q862.5 A6542.KJ6.J.AQ83 T.T94.AKT73.KJ96 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1S 2D
+2S 4D 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK982.KQ5.K43.K8 QT653.T982.962.5 J.74.AJT7.AQ7432 74.AJ63.Q85.JT96 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1N Pass 2H
+Pass 3C Pass 3D
+Pass 4C Pass 4H
+Pass 4S Pass 4N
+Pass 5H Pass 6C
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ82.T64.A.JT952 JT7.AQ92.J85.K83 96543.J5.QT43.A4 K.K873.K9762.Q76 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S Pass 2S Pass
+Pass X Pass 3H
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT9654.Q2.96.K43 K873.98654.Q5.T2 A.AKT7.87432.AJ6 Q2.J3.AKJT.Q9875 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1H 1N
+Pass 3S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A3.973.Q7653.J98 KQT864.K62.4.KQ3 7.QJT4.AKJ98.764 J952.A85.T2.AT52 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S 2D 2N
+4D 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q975.A8.A94.8765 T8.KT654.QT.AT43 64.QJ73.7652.KQ9 AKJ32.92.KJ83.J2 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1S Pass
+1N Pass 2D Pass
+2S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q543.Q9653.AQT.6 KJ97.863.A98532.82 KJ84.KJ972.KQ.AT6 AT72.54.JT74."]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C 1D
+1H X 2C 2D
+X Pass 2S Pass
+3C 3D Pass Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 5.T984.AK5.KQT94 AJ932.QJ.842.J73 KT864.AK53.QT7.8 Q7.762.J963.A652 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1S Pass
+2C Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 2.KQJ3.J3.Q76532 AKJ74.T64.AQ85.4 T9863.A2.K974.KT Q5.9875.T62.AJ98 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S Pass 1N Pass
+2D Pass 2S X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK3.J94.AT73.J93 QJT85.87.QJ98.72 96.Q53.K2.KQT854 742.AKT62.654.A6 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1H Pass 1S
+2C X 2S X
+Pass Pass 3C Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J732.A65.JT763.4 T84.9.98.AKQ9872 Q65.T73.AKQ2.J53 AK9.KQJ842.54.T6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1H Pass 2C Pass
+2H Pass 3C Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q6.AQ75.8742.KT4 J875.9.KJT3.J832 AK932.KJ864.A9.A T4.T32.Q65.Q9765 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1S Pass
+1N Pass 3H Pass
+4C Pass 4D Pass
+4H Pass 4N Pass
+5C Pass 5D Pass
+5S Pass 7H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T53.A3.J9875.AK6 A98.J875.KT2.973 QJ64.Q642.Q6.QJ8 K72.KT9.A43.T542 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H Pass Pass X
+Pass 1S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT82.KQT5.J85.K2 K965.J964.76.AQ8 7.A83.AQ92.76543 QJ43.72.KT43.JT9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C Pass 1H Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9.KJ54.K6.AQJT53 AK8.T93.JT74.K94 Q765432.Q76.A3.6 JT.A82.Q9852.872 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2C Pass 2D
+Pass 3H Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQJ8754.J975.J9.73 96.K32.AT8642.KT9842 A32.AQT.Q.AQJ65 T.864.K753."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 2S Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.9876.KJ84.AKJ5 KQ64.KT4.Q9.QT73 9532.AJ3.A63.862 AJT8.Q52.T752.94 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK.J84.AJ654.963 JT765.653.K82.JT 832.Q97.Q3.AQ875 Q94.AKT2.T97.K42 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N X 2S X
+Pass 3D Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8.KT982.AKQ5.AJ A962.754.J.T9753 543.AQJ.7642.KQ2 KQJ7.63.T983.864 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H Pass 3N Pass
+6H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J9753.K83.84.K94 AQ8.QJ976.QT76.J KT6.A4.AJ32.AQ87 42.T52.K95.T6532 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H X Pass 2S
+Pass 3H Pass 4S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "12th World Open Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Levin"]
+[North "Burgess"]
+[East "Weinstein"]
+[South "Prescott"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 2.AKQT.KJ8762.T7 QT764.964.Q.A652 A98.32.93.KQJ983 KJ53.J875.AT54.4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+3C Pass Pass Pass
+[Play "N"]
+*
+
+

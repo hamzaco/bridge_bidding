@@ -1,0 +1,693 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q74.J72.K5.KQ953 86.AT954.A962.42 A53.863.73.AJT76 KJT92.KQ.QJT84.8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "N"]
+Pass 1S Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+CK C2 C7 C8
+HJ H4 H3 HK
+DK DA D7 DQ
+H2 HA H6 HQ
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q74.J72.K5.KQ953 86.AT954.A962.42 A53.863.73.AJT76 KJT92.KQ.QJT84.8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2D Pass 3D
+Pass Pass Pass
+[Play "S"]
+CK C2 CA C8
+C3 C4 CJ D4
+DK DA D3 DQ
+D5 D2 D7 DJ
+H2 H4 H3 HK
+H7 HA H6 HQ
+SQ S8 S5 S2
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ3.A.T932.AKQ32 976.K985.J854.94 T5.QT64.AKQ.8765 AJ842.J732.76.JT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "E"]
+2S 3N Pass Pass
+Pass
+[Play "W"]
+SK S6 ST SJ
+CA C4 C5 CT
+CK C9 C6 CJ
+C2 S7 C7 D6
+CQ H5 C8 D7
+C3 D4 H4 S2
+D9 D5 DQ H2
+D2 D8 DK H3
+D3 DJ DA H7
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KQ3.A.T932.AKQ32 976.K985.J854.94 T5.QT64.AKQ.8765 AJ842.J732.76.JT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2D Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A942.K76.A872.63 763.J984.T964.A5 T85.A52.Q5.Q9842 KQJ.QT3.KJ3.KJT7 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "S"]
+Pass Pass Pass 1C
+X Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A942.K76.A872.63 763.J984.T964.A5 T85.A52.Q5.Q9842 KQJ.QT3.KJ3.KJT7 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q9642.T.JT63.A74 AK83.QJ.852.JT95 75.A532.Q974.Q63 JT.K98764.AK.K82 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "W"]
+Pass Pass 1H Pass
+1S Pass 2C Pass
+2D Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q9642.T.JT63.A74 AK83.QJ.852.JT95 75.A532.Q974.Q63 JT.K98764.AK.K82 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "W"]
+Pass Pass 1H Pass
+1S Pass 2H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 8.Q8742.K732.KT9 AQ96.965.Q54.Q43 K753.KJT.T96.J65 JT42.A3.AJ8.A872 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "N"]
+Pass 1C 1H X
+2H Pass Pass 2S
+Pass 3S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 8.Q8742.K732.KT9 AQ96.965.Q54.Q43 K753.KJT.T96.J65 JT42.A3.AJ8.A872 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q95.QJ.K87.JT764 KJ62.874.T642.A9 A743.K9652.J9.KQ T8.AT3.AQ53.8532 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q95.QJ.K87.JT764 KJ62.874.T642.A9 A743.K9652.J9.KQ T8.AT3.AQ53.8532 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJT9.864.3.KT654 A653.J975.AJ85.9 K742.T3.T92.AJ83 8.AKQ2.KQ764.Q72 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "S"]
+Pass Pass 1S 1N
+3S 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJT9.864.3.KT654 A653.J975.AJ85.9 K742.T3.T92.AJ83 8.AKQ2.KQ764.Q72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H X 4H
+4S X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q943.T3.J7653.83 K62.AK.QT94.AJ65 AT87.986.A2.KQ97 J5.QJ7542.K8.T42 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "W"]
+1C X 2H Pass
+2N Pass 3C Pass
+3H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q943.T3.J7653.83 K62.AK.QT94.AJ65 AT87.986.A2.KQ97 J5.QJ7542.K8.T42 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "W"]
+1N Pass 2D Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT64.Q43.A32.963 32.KT.KQ8765.Q87 7.AJ952.JT9.AKT4 KQJ985.876.4.J52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "N"]
+1H 1S 2N X
+3C 3S X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT64.Q43.A32.963 32.KT.KQ8765.Q87 7.AJ952.JT9.AKT4 KQJ985.876.4.J52 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "N"]
+3D 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K5.AK93.KQJ6.J52 J9732.5.7.KQT643 Q64.QT7.T953.A98 AT8.J8642.A842.7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "E"]
+Pass 1N X XX
+2N X 3C X
+3H X 3S X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K5.AK93.KQJ6.J52 J9732.5.7.KQT643 Q64.QT7.T953.A98 AT8.J8642.A842.7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "E"]
+Pass 1N 2C an
+!c Pass 2D Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 6.A972.A8753.AJ4 KQ854.J65.92.985 97.KQT843.T.KT76 AJT32.KQJ64.Q32."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "S"]
+1D Pass 1H 1S
+3H 4S 5H 5S
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 6.A972.A8753.AJ4 KQ854.J65.92.985 97.KQT843.T.KT76 AJT32.KQJ64.Q32."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "S"]
+1D Pass 1H 1S
+3H 4S 5H 5S
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Australian Grand National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Gallus"]
+[North "Jeddy"]
+[East "Dilks"]
+[South "Ong"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 98643.64.AT6.A72 AKQJ.KQ2.82.KQJ6 T5.A73.QJ953.T43 72.JT985.K74.985 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Sydney"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Melbourne 2"]
+[Auction "W"]
+1N Pass 2C Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+

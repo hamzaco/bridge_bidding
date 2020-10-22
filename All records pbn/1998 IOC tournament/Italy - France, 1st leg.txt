@@ -1,0 +1,688 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A5.9.Q943.AK9754 T3.K754.AT752.J6 J8742.AJT3.KJ.T2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+Pass 2D 3C 3H
+3N Pass Pass Pass
+[Play "E"]
+H9 HK HA H2
+D3 DA DK D6
+D4 H4 HJ HQ
+S5 H7 HT H8
+C9 CJ C2 C3
+D9 H5 H3 H6
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A5.9.Q943.AK9754 T3.K754.AT752.J6 J8742.AJT3.KJ.T2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass 2C Pass
+2H Pass 2S Pass
+2N Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT843.87.AJ.AT96 J.AKQJ3.KT8654.3 A976.T9642.732.2 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+1C 1S 2D 3S
+4C Pass 4D Pass
+5C X 5D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT843.87.AJ.AT96 J.AKQJ3.KT8654.3 A976.T9642.732.2 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+1C 1S 2H 2S
+3C Pass 3D Pass
+4C Pass 4D Pass
+5C X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 986.AJ.Q6.AQJ742 KQ754.T765.J75.6 AJT3.K9842.A82.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "S"]
+1N Pass 2D X
+Pass Pass 2S Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 986.AJ.Q6.AQJ742 KQ754.T765.J75.6 AJT3.K9842.A82.9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "S"]
+1C Pass 1D Pass
+2C Pass 2S Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A7.KQT7.AKJT7.J9 KQ3.3.Q64.AK8632 T8654.A842.53.75 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "W"]
+1C Pass 1D 1N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A7.KQT7.AKJT7.J9 KQ3.3.Q64.AK8632 T8654.A842.53.75 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "W"]
+1C Pass Pass X
+2C Pass 3C 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A97642.J632.K72.J 54.Q643.AQJ654. K53.AKQT9.95.K92 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+1H Pass 3S 4C
+4H 5C 5D Pass
+5H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A97642.J632.K72.J 54.Q643.AQJ654. K53.AKQT9.95.K92 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+1H Pass 3N 4C
+4H 5C 5H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T.KQJ5.AK654.KQT J83.T82.QT2.AJ63 AK76.A643.J83.85 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 4C Pass 4S
+Pass 4N Pass 5H
+Pass 6H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T.KQJ5.AK654.KQT J83.T82.QT2.AJ63 AK76.A643.J83.85 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 4C Pass 4S
+Pass 4N Pass 6D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ3.JT92.2.KJ962 Q65.6543.AT5.Q85 T97.K87.Q97643.A "]
+[Declarer "S"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass Pass X Pass
+2C Pass 2D Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ3.JT92.2.KJ962 Q65.6543.AT5.Q85 T97.K87.Q97643.A "]
+[Declarer "N"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass Pass 2D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J852.J98632.T84.K94 97542.7.K973.A3 QT3.K54.QJ652."]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "W"]
+Pass 1C X Pass
+1H Pass 2C Pass
+3C Pass 4C Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J852.J98632.T84.K94 97542.7.K973.A3 QT3.K54.QJ652."]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "W"]
+Pass 1N X XX
+Pass 2C X 2D
+2H Pass 3D Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ2.Q9864.A96.63 JT85.T7.43.QJT87 K97643.J3.KQT7.A "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+1S X XX 2C
+Pass Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ2.Q9864.A96.63 JT85.T7.43.QJT87 K97643.J3.KQT7.A "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "N"]
+1S X XX 2C
+Pass 3C 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 643.Q2.9764.AJ63 852.943.KQJ3.872 AQJT7.AK76.A.QT4 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass Pass 1S Pass
+2S Pass 2N Pass
+3C Pass 3D Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 643.Q2.9764.AJ63 852.943.KQJ3.872 AQJT7.AK76.A.QT4 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T75.JT98.AT6.K92 AK762.QJ983.A85. QJ42.Q54.52.JT43 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+1S Pass 2D Pass
+2S Pass 3D Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T75.JT98.AT6.K92 AK762.QJ983.A85. QJ42.Q54.52.JT43 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "E"]
+1S Pass 2H Pass
+2S Pass 3D Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 IOC tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Duboin"]
+[North "Chemla"]
+[East "Bocchi"]
+[South "Perron"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A3.76.AKT6.K9854 J76.KQJ3.Q7.A763 KQT954.942.J93.2 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "3"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Italy"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+

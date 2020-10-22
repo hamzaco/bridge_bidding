@@ -1,0 +1,260 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bank of Indonesia tournament"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Harada"]
+[North "Huang"]
+[East "Tanaka"]
+[South "Jerry"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KJ962.K963.T6.42 Q85.AJT74.A42.A7 T.Q2.QJ8753.Q983 A743.85.K9.KJT65 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chinese Taipei"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "W"]
+1N Pass 2C Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "W"]
+D6 D2 D7 DK
+H3 HT HQ H5
+DT D4 DQ D9
+S2 DA D8 S3
+C2 CA C3 C5
+C4 C7 C8 CT
+S6 S5 C9 CK
+H6 HJ H2 H8
+H9 HA D3 C6
+HK H4 D5 CJ
+S9 SQ ST S4
+*
+
+
+[Event "Bank of Indonesia tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Harada"]
+[North "Huang"]
+[East "Tanaka"]
+[South "Jerry"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQT53.A876.J7.A7 982.Q3.KQ54.KT42 64.K952.98632.83 KJ7.JT4.AT.QJ965 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chinese Taipei"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "N"]
+Pass 1D 1S 1N
+Pass 2C 2H Pass
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+CA C2 C3 C6
+HA H3 H2 H4
+H8 HQ HK HT
+SQ S2 S6 SJ
+*
+
+
+[Event "Bank of Indonesia tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Harada"]
+[North "Huang"]
+[East "Tanaka"]
+[South "Jerry"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQT53.A876.J7.A7 982.Q3.KQ54.KT42 64.K952.98632.83 KJ7.JT4.AT.QJ965 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chinese Taipei"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "N"]
+Pass 1C 1S 2C
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+DJ D4 D9 DA
+C7 CK C3 C6
+CA C2 C8 CJ
+HA H3 H9 H4
+H8 HQ HK HT
+SQ S2 S6 SJ
+*
+
+
+[Event "Bank of Indonesia tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Harada"]
+[North "Huang"]
+[East "Tanaka"]
+[South "Jerry"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT84.KJ9.AKJ32.3 A7.72.T98.QJT875 K52.A864.Q764.64 Q963.QT53.5.AK92 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Chinese Taipei"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "E"]
+1D 2D Pass 2N
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bank of Indonesia tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Harada"]
+[North "Huang"]
+[East "Tanaka"]
+[South "Jerry"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT84.KJ9.AKJ32.3 A7.72.T98.QJT875 K52.A864.Q764.64 Q963.QT53.5.AK92 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Chinese Taipei"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "E"]
+Pass 1D 2C X
+XX 2S Pass 3D
+4C 4D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Bank of Indonesia tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Harada"]
+[North "Huang"]
+[East "Tanaka"]
+[South "Jerry"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 96542.642.Q6.J87 T873.AT3.AQT542.A J75.AK87432.K3.KQJ KQ98.JT95.96."]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Chinese Taipei"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "S"]
+Pass 1D 2D 2N
+Pass 3C 3D 3H
+Pass 3N X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bank of Indonesia tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Harada"]
+[North "Huang"]
+[East "Tanaka"]
+[South "Jerry"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 96542.642.Q6.J87 T873.AT3.AQT542.A J75.AK87432.K3.KQJ KQ98.JT95.96."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chinese Taipei"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "S"]
+Pass 1C 1D X
+Pass 1S 3D 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Bank of Indonesia tournament"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Harada"]
+[North "Huang"]
+[East "Tanaka"]
+[South "Jerry"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 73.A3.KT7542.J53 AT6.52.A96.AKQ94 QJ52.QT9874.QJ.8 K984.KJ6.83.T762 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chinese Taipei"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Japan"]
+[Auction "W"]
+1C 2C Pass 2D
+Pass 2H X Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+

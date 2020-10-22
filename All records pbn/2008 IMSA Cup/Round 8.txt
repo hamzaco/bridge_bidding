@@ -1,0 +1,213 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Rubins"]
+[North "Zajtsev"]
+[East "Romanovska"]
+[South "Miasnikov"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ98753.AT2.K97.Q52 KJ2.QJ985.AT.AK43 T.K76.Q5432.JT9876 64.43.J86."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C Pass 2H Pass
+2S Pass 3H Pass
+3N Pass 4H Pass
+Pass Pass
+[Play "W"]
+C9 CA C2 C8
+S5 SA S6 D2
+HT H4 HQ HK
+D3 DA DQ D6
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Rubins"]
+[North "Zajtsev"]
+[East "Romanovska"]
+[South "Miasnikov"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQT6.932.984.K75 AJ7.JT8.AJ652.92 542.AQ6.QT73.QT4 983.K754.K.AJ863 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2C Pass 2D Pass
+2H Pass 2N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Rubins"]
+[North "Zajtsev"]
+[East "Romanovska"]
+[South "Miasnikov"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K.Q42.AJ8763.A74 A876.3.52.KJT965 QT53.AKT976.KQT. J942.J85.94.Q832 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D 2C 3H Pass
+4H Pass 5C Pass
+5N Pass 6H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Rubins"]
+[North "Zajtsev"]
+[East "Romanovska"]
+[South "Miasnikov"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKJ9853.K9.Q7.K5 T74.52.T985.AT97 Q6.AJ843.J63.632 2.QT76.AK42.QJ84 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1D X
+XX 2H Pass 2S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Rubins"]
+[North "Zajtsev"]
+[East "Romanovska"]
+[South "Miasnikov"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: JT93.AKQJ.K4.Q84 K62.963.A52.J753 75.542.JT763.AT6 AQ84.T87.Q98.K92 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Rubins"]
+[North "Zajtsev"]
+[East "Romanovska"]
+[South "Miasnikov"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QT9543.J94.T8.98 K7.32.K95.KJT632 A86.AQ8.AJ7.AQ54 J2.KT765.Q6432.7 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 2C X
+Pass 2S Pass 2N
+Pass 4S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Rubins"]
+[North "Zajtsev"]
+[East "Romanovska"]
+[South "Miasnikov"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT4.T96.AT6.JT64 K876.53.K84.AK97 9532.J742.Q5.Q52 QJ.AKQ8.J9732.83 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2S Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+

@@ -1,0 +1,405 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9652.972.KQ987.3 AQT3.AJ4.T54.J98 K87.KT83.J.AQ764 J4.Q65.A632.KT52 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "N"]
+1C Pass 1D Pass
+1H Pass Pass X
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+DQ D4 DJ DA
+S6 S3 SK SJ
+S2 ST S7 S4
+C3 CJ CA C2
+S5 SQ S8 D2
+D7 C8 C4 C5
+H2 H4 HK H5
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K652.A3.KJT2.987 Q3.72.A986.AQJT5 AJ94.JT864.74.63 T87.KQ95.Q53.K42 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "E"]
+Pass 1D 2C X
+2D Pass 3C Pass
+Pass Pass
+[Play "None"]
+DT DA D7 D3
+H3 H2 H4 HQ
+C7 CQ C3 C2
+HA H7 H6 HK
+S2 SQ SA S7
+DJ D6 D4 D5
+DK D8 HJ DQ
+SK S3 S4 S8
+S5 CJ S9 ST
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT42.K.KQ976.532 J53.AT2.AJ85.Q98 Q86.J9765.T42.JT A97.Q843.3.AK764 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass Pass 2C
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+DQ DA D2 D3
+C2 C8 CT CA
+HK HA H5 H3
+C3 C9 CJ CK
+S4 HT HJ H4
+D6 DJ DT S7
+C5 CQ H6 C4
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K.AK8.QT9742.Q83 A876.Q54.J8.AJT7 JT3.J963.A65.952 Q9542.T72.K3.K64 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "W"]
+1C Pass 1S Pass
+2S Pass Pass 3D
+Pass Pass 3S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 962.QJ85.J973.93 AT5.963.AQ42.AK7 J74.AT742.KT65.2 KQ83.K.8.QJT8654 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "N"]
+2H 3C Pass 3H
+Pass 3S Pass 5C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 53.852.KQJ87.KQ8 QJ8642.AT93.JT6.AT9 Q7.AT62.A932.K7 KJ64.9543.754."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "E"]
+Pass 1D 1S 2S
+X 3D 3S 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKQT86.3.873.Q82 532.QJ96.QJ6.654 J4.K54.K954.KJ73 97.AT872.AT2.AT9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "S"]
+1S Pass 1N X
+2S Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ873.AT85.AK93.K652 QJ975.Q642.T94.AKT32 74.J85.Q.864 KQJ9632.T7."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "W"]
+Pass Pass 3D X
+Pass 3H Pass 4S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J7.A642.AT974.Q6 QT9873.QJ52.832.AQT8 J5.83.KJT95. K965432.K.K6.A74 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "N"]
+1C 1S X Pass
+1N 2S 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K87.83.AKQJ9753.JT5 Q642.K6543.T.A3 AJT7.QJT72.86.Q9642 K95.A98.42."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 3N Pass 4C
+Pass 4D Pass 4N
+Pass 5S Pass 6C
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT6.32.QT7.AKQJ7 K7.864.9842.9853 85432.KQJ9.J3.62 QJ9.AT75.AK65.T4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "S"]
+1N Pass 2C Pass
+2D Pass 2H Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KT7432.J3.753.42 A6.8762.AK8.AJT3 95.KQ5.Q962.Q986 QJ8.AT94.JT4.K75 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "W"]
+1N Pass 3N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Israeli Pairs Championship"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Barel"]
+[North "Bareket"]
+[East "Levin"]
+[South "Roll"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q7.T854.A82.A653 94.QJ3.K74.Q9872 T8532.AK6.J63.K4 AKJ6.972.QT95.JT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Table 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Table 1"]
+[Auction "N"]
+Pass Pass Pass Pass
+[Play "W"]
+*
+
+

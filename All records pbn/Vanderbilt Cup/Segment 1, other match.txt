@@ -1,0 +1,947 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J3.AJ742.QT754.8 Q942.Q.AJ982.Q74 AT65.96.K63.AT32 K87.KT853.KJ965."]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "N"]
+1C an 2+ 1H
+Pass 1S Pass 2C
+2D X an Pa
+Pass 2S Pass 2N
+Pass Pass Pass
+[Play "N"]
+H2 HQ H9 H3
+C8 C4 C2 CK
+D7 CQ CA C5
+DQ DA D3 H5
+H4 C7 CT CJ
+H7 D2 C3 C9
+HJ S2 H6 H8
+D4 D8 DK HT
+SJ SQ S5 S7
+S3 S4 SA S8
+D5 D9 D6 HK
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J3.AJ742.QT754.8 Q942.Q.AJ982.Q74 AT65.96.K63.AT32 K87.KT853.KJ965."]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "N"]
+1N 2H Pass 2N
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J2.QJ872.J85.AJ8 K3.AT6.K943.KQT6 T98765.K43.2.975 AQ4.95.AQT76.432 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "E"]
+1D Pass 2C an
+FG Pass 2D Pass
+2N an F  n
+Pass 3C Pass 3D
+Pass 3S an cu
+Pass 4D Pass 4S
+Pass 4N Pass 5S
+Pass 6D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J2.QJ872.J85.AJ8 K3.AT6.K943.KQT6 T98765.K43.2.975 AQ4.95.AQT76.432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "E"]
+1D 1H 2H X
+3D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 42.AQJ6.AQ654.T8 J753.K43.K98.A92 K986.T982.J72.K7 AQT.75.T3.QJ6543 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "S"]
+1D an 4+ Pass
+1H Pass 2H Pass
+Pass 3C 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 42.AQJ6.AQ654.T8 J753.K43.K98.A92 K986.T982.J72.K7 AQT.75.T3.QJ6543 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "S"]
+1D Pass 1H Pass
+2H Pass Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 2.KQJ75.Q85.KQJ2 J84.9842.T7643.9 AK97653.6.K.8754 QT.AT3.AJ92.AT63 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "W"]
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 2.KQJ75.Q85.KQJ2 J84.9842.T7643.9 AK97653.6.K.8754 QT.AT3.AJ92.AT63 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "W"]
+Pass 2D an mu
+Pa 2S an al
+Pa Pass X! Pass
+2N Pass 3C an
+al Pass 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T94.JT865.Q975.K AK75.AQ942.AKT.9 J832.3.J86.JT765 Q6.K7.432.AQ8432 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "N"]
+Pass 2C Pass 2D
+Pass 3C an 6 
+Pass 3H Pass 3N
+Pass 4N an IN
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T94.JT865.Q975.K AK75.AQ942.AKT.9 J832.3.J86.JT765 Q6.K7.432.AQ8432 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "N"]
+Pass 1C an co
+Pass 1H Pass 2C
+Pass 2D Pass 3C
+Pass 6N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT96.KJ3.Q976.76 AK72.QT.AKJ853.3 854.A85.42.AJT84 J3.97642.T.KQ952 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 2S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT96.KJ3.Q976.76 AK72.QT.AKJ853.3 854.A85.42.AJT84 J3.97642.T.KQ952 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "E"]
+Pass Pass 1D 2C
+Pass Pass 2D Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T975.A9852.A85.3 J862.Q43.64.QT54 AK4.KJ7.KT.AKJ86 Q3.T6.QJ9732.972 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "S"]
+Pass Pass 2C Pass
+2N an AA Pass
+3N Pass 4C an
+al Pass 6C Pass
+6N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T975.A9852.A85.3 J862.Q43.64.QT54 AK4.KJ7.KT.AKJ86 Q3.T6.QJ9732.972 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 2D Pass
+2S Pass 2N an
+fo Pass 3S Pass
+4C Pass 4D Pass
+4N Pass 5H Pass
+6H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQT86.9.9.AKQT94 953.JT3.T72.J863 K.A8652.AQJ854.5 J742.KQ74.K63.72 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "W"]
+Pass 1D Pass 2C
+Pass 2H Pass 2S
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQT86.9.9.AKQT94 953.JT3.T72.J863 K.A8652.AQJ854.5 J742.KQ74.K63.72 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2D Pass 2N
+an fo Pass 4D
+an un Pass 5D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ43.Q86.KQ.JT87 K965.J3.A742.K54 T7.KT95.T8653.92 Q82.A742.J9.AQ63 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "N"]
+Pass 1C an Po
+X XX 1H Pass
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ43.Q86.KQ.JT87 K965.J3.A742.K54 T7.KT95.T8653.92 Q82.A742.J9.AQ63 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "N"]
+Pass 1C X 1S
+Pass 1N Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK8532.95.KQ3.T6 T6.K842.8764.AQ9 9.AT763.AJ9.8753 QJ74.QJ.T52.KJ42 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK8532.95.KQ3.T6 T6.K842.8764.AQ9 9.AT763.AJ9.8753 QJ74.QJ.T52.KJ42 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J3.QT2.AKQ65.874 KQ87.AK98.J3.J53 T2.J54.T9872.962 A9654.763.4.AKQT "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "S"]
+1D an st X
+Pass 2D Pass 2H
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J3.QT2.AKQ65.874 KQ87.AK98.J3.J53 T2.J54.T9872.962 A9654.763.4.AKQT "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "S"]
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 96542.632.T2.862 KQT3.KJ7.AK4.Q74 A7.QT84.Q8653.J3 J8.A95.J97.AKT95 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "W"]
+1C an Po Pass
+2S an no  F
+Pass 2N Pass 3C
+Pass 4N an IN
+Pass 5C Pass 6N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 96542.632.T2.862 KQT3.KJ7.AK4.Q74 A7.QT84.Q8653.J3 J8.A95.J97.AKT95 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "W"]
+1C Pass 2D Pass
+2N Pass 3N Pass
+4N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J63.Q832.4.QT765 Q9874.J9754.J.A3 AKT2.K6.Q96.J984 5.AT.AKT87532.K2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "N"]
+1C an 2+ 1D
+1H 1S Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J63.Q832.4.QT765 Q9874.J9754.J.A3 AKT2.K6.Q96.J984 5.AT.AKT87532.K2 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "N"]
+1C an Pa X
+Pass 2C Pass 3N
+Pass 4C Pass 5D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 852.K2.Q9853.985 AT7.AQ65.J6.JT62 K63.T87.A72.AKQ4 QJ94.J943.KT4.73 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "E"]
+Pass Pass 1C 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 852.K2.Q9853.985 AT7.AQ65.J6.JT62 K63.T87.A72.AKQ4 QJ94.J943.KT4.73 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "E"]
+Pass Pass 1H X
+3D Pass 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT7.Q63.Q853.AQ6 J9.T984.AKJ4.432 86432.AKJ75.2.J7 AQ5.2.T976.KT985 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "S"]
+1D Pass 1S 2C
+X an 3  3C
+3H Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT7.Q63.Q853.AQ6 J9.T984.AKJ4.432 86432.AKJ75.2.J7 AQ5.2.T976.KT985 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "S"]
+1C an Pa 1D
+1H 2C Pass 2D
+2H 2S X 3D
+3H 4D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Gierulski"]
+[North "tsadek"]
+[East "Skrzypczak"]
+[South "waso"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A.87642.T8632.72 QJT93.KQJ.KJ4.AQ 864.95.AQ9.T9865 K752.AT3.75.KJ43 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Onstott"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Martens"]
+[Auction "W"]
+1C Pass 1S Pass
+2D an FG Pass
+2N an na Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+

@@ -1,0 +1,962 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "1"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J42.642.Q6.AT653 AQT9875.J.A82.K9 K.AK97.KT43.J872 63.QT853.J975.Q4"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Score "+140"]
+[VisitTeam "Schwartz"]
+[Auction "N"]
+Pass 1S X Pass
+2C 3S Pass Pass
+Pass
+[Play "S"]
+HA H3 H2 HJ
+C2 C4 CA CK
+SK S3 S2 SA
+C8 CQ C3 C9
+H7 S6 SJ SQ
+D4 H5 S4 ST
+CJ H8 H4 S8
+H9 D5 H6 S7
+D3 D7 C5 S5
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "1"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J42.642.Q6.AT653 AQT9875.J.A82.K9 K.AK97.KT43.J872 63.QT853.J975.Q4"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Room "Open"]
+[Score "+110"]
+[Auction "N"]
+Pass 1S X Pass
+2C 2S 3C Pass
+Pass Pass
+[Play "E"]
+HJ HA H5 H4
+DA DK D7 D6
+SA SK S6 S4
+ST C2 S3 S2
+C9 C7 C4 CA
+D2 D3 D5 DQ
+CK C8 CQ C3
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "2"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J95.J643.J98.Q98 KT6.AQT975.AQ.62 A874.2.KT73.JT74 Q32.K8.6542.AK53"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Room "Closed"]
+[Score "+650"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 2NT
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+D3 D2 DJ DQ
+H2 HK H3 H5
+S4 H8 H4 HA
+S7 D4 H6 HQ
+C4 D5 HJ HT
+D7 D6 D9 DA
+S8 SQ S5 S6
+SA S2 S9 ST
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "2"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J95.J643.J98.Q98 KT6.AQT975.AQ.62 A874.2.KT73.JT74 Q32.K8.6542.AK53"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Room "Open"]
+[Score "+620"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1S Pass 1NT
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+D8 DQ DK D5
+C9 C2 C4 CA
+D9 DA D3 D4
+H3 HQ H2 H8
+H4 H5 S4 HK
+DJ H7 D7 D6
+S5 S6 S7 SQ
+C8 C6 C7 CK
+CQ H9 CT C5
+S9 ST SA S2
+- - CJ C3
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "3"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:QJ762.74.KJ9.982 4.AQJT98.QT752.K KT53.K53.A6.AJ76 A98.62.843.QT543"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Room "Closed"]
+[Score "+140"]
+[Auction "S"]
+Pass 1H X Pass
+1S 2H 2S Pass
+3D Pass 3S Pass
+Pass Pass
+[Play "W"]
+D2 D6 D8 DJ
+S4 SK SA S2
+HT HK H6 H7
+HQ S3 S8 SJ
+D5 ST S9 SQ
+CK CA C3 C9
+D7 DA D4 D9
+HA S5 C4 S6
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "3"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:QJ762.74.KJ9.982 4.AQJT98.QT752.K KT53.K53.A6.AJ76 A98.62.843.QT543"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Room "Open"]
+[Score "+140"]
+[Auction "S"]
+Pass 1H X Pass
+1S 2H X 3C
+3H Pass 3S Pass
+Pass Pass
+[Play "W"]
+HA H3 H6 H7
+HQ HK H2 H4
+S4 S3 S8 SQ
+H8 SK SA S7
+D2 ST S9 S2
+HJ H5 C4 C8
+CK CA C3 C2
+D5 DA D3 D9
+D7 D6 D4 DK
+- - - C9
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "4"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:86.A8.T8.JT97532 Q72.QT643.A3.KQ8 KJT5.KJ7.KJ96.A6 A943.952.Q7542.4"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Room "Closed"]
+[Score "+110"]
+[Auction "W"]
+Pass 1H 1NT 2H
+3C Pass Pass Pass
+[Play "N"]
+H4 HJ H2 H8
+H3 H7 H5 HA
+CK CA C4 CJ
+H6 HK H9 D8
+CQ C6 D2 C9
+S2 SK SA S6
+SQ S5 S3 S8
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "4"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:86.A8.T8.JT97532 Q72.QT643.A3.KQ8 KJT5.KJ7.KJ96.A6 A943.952.Q7542.4"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Room "Open"]
+[Score "+110"]
+[Auction "W"]
+Pass 1H 1NT 2H
+3C Pass Pass Pass
+[Play "N"]
+H3 HJ H5 H8
+H6 H7 H9 HA
+CQ CA C4 CJ
+H4 HK H2 D8
+CK C6 D7 CT
+S2 SK SA S6
+SQ S5 S3 S8
+DA - - -
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "5"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:85.AK4.AK98.A962 KQ2.Q9.QJ42.Q873 J973.JT86532.7.K AT64.7.T653.JT54"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Room "Closed"]
+[Score "+650"]
+[Auction "N"]
+1C Pass 2H Pass
+4H Pass Pass Pass
+[Play "W"]
+D3 DK D4 D7
+H7 HA H9 H2
+S4 HK HQ HJ
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "5"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:85.AK4.AK98.A962 KQ2.Q9.QJ42.Q873 J973.JT86532.7.K AT64.7.T653.JT54"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Room "Open"]
+[Score "+650"]
+[Auction "N"]
+1C Pass 1D Pass
+1NT Pass 2D Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+D2 D7 DT DA
+H9 H2 H7 HA
+C3 CK C5 C6
+HQ HJ D3 HK
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "6"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QT.A7532.3.KJT43 A8754.4.J986.652 KJ93.QT98.AK5.Q7 62.KJ6.QT742.A98"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Room "Closed"]
+[Score "-100"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2D Pass 2H Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "N"]
+S6 ST SA S3
+S2 SQ S5 SK
+C8 CK C2 C7
+H6 HA H4 H8
+- H2 - -
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "6"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QT.A7532.3.KJT43 A8754.4.J986.652 KJ93.QT98.AK5.Q7 62.KJ6.QT742.A98"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Room "Open"]
+[Score "-100"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2D Pass 2H Pass
+3C Pass 4H Pass
+Pass Pass
+[Play "N"]
+D2 D3 DJ DA
+H6 HA H4 HT
+HJ H3 S4 H9
+S6 ST SA S3
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "7"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KQ2.AT87.J9842.K JT9.K9532.53.T82 A87653.J.KT.Q743 4.Q64.AQ76.AJ965"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Room "Closed"]
+[Score "+620"]
+[Auction "S"]
+1D Pass 1S 2C
+X Pass 4S Pass
+Pass Pass
+[Play "E"]
+H4 HA H5 HJ
+DQ D2 D5 DT
+H6 H7 H9 S3
+S4 SK SJ S6
+D6 D4 D3 DK
+CA CK C2 C4
+HQ H8 H2 S5
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "7"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KQ2.AT87.J9842.K JT9.K9532.53.T82 A87653.J.KT.Q743 4.Q64.AQ76.AJ965"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Room "Open"]
+[Score "+620"]
+[Auction "S"]
+1D Pass 1S X
+XX 2H 4S Pass
+Pass Pass
+[Play "E"]
+H4 HA H5 HJ
+DQ D2 D5 DT
+H6 H7 H9 S6
+DA D4 D3 DK
+HQ H8 H2 S3
+S4 SK SJ S5
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "8"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K.A874.AKT52.752 T52.K963.Q7.AJ93 AQJ83.QT.96.QT86 9764.J52.J843.K4"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "+400"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+H2 H4 HK HT
+H5 H7 H3 HQ
+D4 D2 DQ D9
+HJ HA H6 C6
+S7 SK S2 SA
+S4 C5 S5 SQ
+S6 C2 ST SJ
+- - - D6
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "8"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K.A874.AKT52.752 T52.K963.Q7.AJ93 AQJ83.QT.96.QT86 9764.J52.J843.K4"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Score "+400"]
+[Auction "W"]
+1D Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "N"]
+C3 C6 CK C2
+D7 D6 D3 DA
+S5 S3 S4 SK
+C9 CT C4 C5
+S2 SA S6 C7
+ST SQ S7 H4
+H3 SJ S9 H7
+H6 S8 H2 H8
+DQ D9 D4 DK
+CJ - - DT
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "9"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:5.QJT72.AKT7.987 KJT.K863.Q62.AJ6 9843.54.9854.532 AQ762.A9.J3.KQT4"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Room "Closed"]
+[Score "+680"]
+[Auction "N"]
+1H X Pass 2H
+Pass 2NT Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+H5 HA H2 H3
+S3 S2 S5 SK
+S4 S6 C7 ST
+S8 SQ H7 SJ
+S9 SA HT D6
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "9"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:5.QJT72.AKT7.987 KJT.K863.Q62.AJ6 9843.54.9854.532 AQ762.A9.J3.KQT4"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Room "Open"]
+[Score "+690"]
+[Auction "N"]
+1H Pass 1S 1NT
+2D 3NT Pass Pass
+Pass
+[Play "N"]
+HJ - - -
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "10"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:75.652.A863.KQT8 AT82.A84.KJ92.A9 J643.Q973.T754.6 KQ9.KJT.Q.J75432"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "+600"]
+[Auction "E"]
+Pass 1NT Pass 2S
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "W"]
+H3 HT H2 H4
+D4 DQ D3 D2
+H7 HJ H6 HA
+D5 C2 DA DK
+H9 HK H5 H8
+S3 SK S5 S2
+S4 SQ S7 ST
+S6 S9 D6 SA
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "10"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:75.652.A863.KQT8 AT82.A84.KJ92.A9 J643.Q973.T754.6 KQ9.KJT.Q.J75432"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Score "+600"]
+[Auction "E"]
+Pass 1C Pass 1NT
+Pass 3C Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+D3 D2 D7 DQ
+CT CA C6 C4
+CQ C9 H7 C2
+H6 H4 HQ HK
+H5 HA H3 HT
+D6 DK D4 C3
+DA DJ D5 C5
+D8 D9 DT S9
+S5 S2 S3 SK
+S7 S8 - SQ
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "11"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ98643.6.JT9.J8 AT2.JT87.A84.T94 J7.93.Q63.Q76532 5.AKQ542.K752.AK"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Room "Closed"]
+[Score "+980"]
+[Auction "S"]
+3S Pass Pass X
+Pass 3NT Pass 4H
+Pass 4S Pass 6H
+Pass Pass Pass
+[Play "S"]
+DJ D4 D6 -
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "11"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ98643.6.JT9.J8 AT2.JT87.A84.T94 J7.93.Q63.Q76532 5.AKQ542.K752.AK"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Room "Open"]
+[Score "+980"]
+[Auction "S"]
+3H Pass 3S X
+Pass 4H Pass 4S
+Pass 5D Pass 5S
+Pass 6H Pass Pass
+Pass
+[Play "N"]
+SJ - - -
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "12"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AKQ.AK.AQJ3.KQJ4 J.JT65.K8742.T92 865.32.95.A87653 T97432.Q9874.T6."]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "13"]
+[Room "Closed"]
+[Score "+1020"]
+[Auction "W"]
+1C Pass 1H Pass
+2C Pass 3C Pass
+6NT Pass Pass Pass
+[Play "N"]
+D4 D9 DT DQ
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "12"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AKQ.AK.AQJ3.KQJ4 J.JT65.K8742.T92 865.32.95.A87653 T97432.Q9874.T6."]
+[Declarer "W"]
+[Contract "7C"]
+[Result "12"]
+[Room "Open"]
+[Score "-50"]
+[Auction "W"]
+2C Pass 2D Pass
+4NT Pass 5D Pass
+6C Pass 7C Pass
+Pass Pass
+[Play "N"]
+SJ - - -
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "13"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:985.KQ5.AQ9.Q965 J2.AT972.K3.AT32 Q643.864.JT5.KJ7 AKT7.J3.87642.84"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Room "Closed"]
+[Score "+110"]
+[Auction "N"]
+1C 1H X Pass
+1NT Pass Pass 2H
+Pass Pass Pass
+[Play "S"]
+CK C4 C6 C3
+H6 H3 HQ HA
+S4 S7 S5 SJ
+C7 C8 C5 CA
+CJ HJ C9 C2
+S3 SA S8 S2
+S6 SK S9 CT
+D5 D2 DQ DK
+H4 D4 HK HT
+DT D6 DA D3
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "13"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:985.KQ5.AQ9.Q965 J2.AT972.K3.AT32 Q643.864.JT5.KJ7 AKT7.J3.87642.84"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Room "Open"]
+[Score "+140"]
+[Auction "N"]
+1D 1H X 2H
+Pass Pass Pass
+[Play "S"]
+H8 H3 HQ HA
+S6 S7 S5 SJ
+H6 HJ HK H2
+C7 C4 C9 CA
+H4 D2 H5 HT
+S4 SA S9 S2
+S3 SK S8 C2
+- D4 - -
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "14"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J932.KT6.A.QJ853 KT87.AJ84.J83.97 64.73.KQT64.AK64 AQ5.Q952.9752.T2"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "5"]
+[Room "Closed"]
+[Score "-200"]
+[Auction "E"]
+1S Pass 2D Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "S"]
+S7 S4 SQ S2
+HA H3 H2 HK
+H4 H7 HQ H6
+S8 S6 SA S3
+ST D4 S5 S9
+SK D6 D2 SJ
+HJ DT - -
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "14"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J932.KT6.A.QJ853 KT87.AJ84.J83.97 64.73.KQT64.AK64 AQ5.Q952.9752.T2"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Open"]
+[Score "-50"]
+[Auction "E"]
+1C Pass 2C Pass
+3C Pass 3D Pass
+3NT Pass Pass Pass
+[Play "S"]
+S7 S4 SQ S2
+S8 S6 SA S3
+ST C4 S5 S9
+SK D4 H9 SJ
+HA - - -
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "15"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T.QJ85.KQ98.Q973 J653.AT74.A532.K AKQ7.932.J76.T62 9842.K6.T4.AJ854"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Room "Closed"]
+[Score "-50"]
+[Auction "S"]
+Pass 1S Pass 2S
+X Pass 2NT 3S
+Pass Pass Pass
+[Play "N"]
+SQ S2 ST S3
+SA S4 H8 S5
+SK S8 C3 S6
+S7 S9 D8 SJ
+DJ D4 D9 D3
+D7 DT DQ DA
+D6 C4 DK D2
+C2 C5 C7 CK
+C6 C8 H5 D5
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "15"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T.QJ85.KQ98.Q973 J653.AT74.A532.K AKQ7.932.J76.T62 9842.K6.T4.AJ854"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Room "Open"]
+[Score "+110"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+ST SJ SK S2
+C7 S3 SA S4
+C3 S5 SQ S8
+C9 S6 S7 S9
+DQ D2 D7 DT
+DK D3 D6 D4
+D8 DA DJ C4
+CQ CK C2 C5
+H5 H4 H3 HK
+H8 H7 C6 CA
+HQ D5 CT CJ
+- - - C8
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "16"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q876.5.AJT9432.3 AJ9.A83.75.KQJ94 K543.JT642.Q.A76 T2.KQ97.K86.T852"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[Room "Closed"]
+[Score "-100"]
+[Auction "W"]
+3D X Pass 3H
+Pass Pass Pass
+[Play "W"]
+C3 CJ CA C5
+D2 D5 DQ D6
+H5 C4 C6 C2
+DA D7 S5 D8
+DJ HA C7 DK
+D3 H8 H2 H7
+S6 H3 HT HQ
+D4 C9 H4 CT
+S7 S9 SK S2
+SQ SA S4 ST
+*
+
+[Event "Spingold 1996 Final"]
+[Site "Miami"]
+[Date "1996.08.11"]
+[Board "16"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q876.5.AJT9432.3 AJ9.A83.75.KQJ94 K543.JT642.Q.A76 T2.KQ97.K86.T852"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Score "+400"]
+[Auction "W"]
+Pass 1C Pass 2D
+X Pass Pass 2H
+Pass 3C Pass 3NT
+Pass Pass Pass
+[Play "W"]
+DJ D5 DQ DK
+C3 CK C6 C8
+S6 CQ CA C5
+DA C4 C7 CT
+H5 H3 H2 HK
+D2 CJ S3 C2
+D3 C9 H4 D6
+DT H8 HT HQ
+*

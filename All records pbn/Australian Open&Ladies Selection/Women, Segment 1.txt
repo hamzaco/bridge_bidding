@@ -1,0 +1,536 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q87.9874.Q5.Q872 K54.5.J42.KJ9653 T6.AKQ62.A763.T4 AJ932.JT3.KT98.A "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 2C X
+2D 2H 2S 3H
+Pass Pass Pass
+[Play "None"]
+S7 S5 S6 SA
+C2 C3 C4 CA
+S8 SK ST S2
+C7 CK CT S9
+C8 C5 D3 HT
+SQ S4 D6 S3
+H4 H5 HA H3
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT743.Q82.65.982 AK8.JT94.QJ94.J7 J96.A763.83.KT65 52.K5.AKT72.AQ43 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A2.Q5.A65.AKQJ92 KJ96.K76.Q974.64 T5.AJT943.T3.853 Q8743.82.KJ82.T7 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2H Pass 4N
+Pass 5D Pass 5H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T54.KQ8.AK986.Q9 A9.AJ743.T.AT864 KQ3.962.QJ742.J7 J8762.T5.53.K532 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N 3C
+3D Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q943.K752.J92.75 JT75.QT86.653.A3 8.9.AQ74.KQJT942 AK62.AJ43.KT8.86 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1H Pass 2H 3C
+4H Pass Pass 5C
+X Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K75.Q972.KT8.A84 A864.AJ97532.Q9.J2 KJ8654.64.T73.QT93 AT3.Q.KJ652."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C 1D 1H 1S
+2H an Pa 4S
+5H X Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KT75.AT75.A5.KJ9 QJ8.32.JT9.AT865 A642.Q864.Q82.32 93.KJ9.K7643.Q74 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1N
+Pass 2C Pass 2D
+Pass 2H Pass 3H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K83.AK5.Q742.963 AT.962.A853.AK74 QJ642.J3.JT.JT85 975.QT874.K96.Q2 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q82.A832.63.KQ63 K7543.K54.54.852 AJT.QT6.AJ972.J7 96.J97.KQT8.AT94 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass 2C Pass 2D
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q43.KJT43.72.A52 T72.A9852.5.KQ87 96.6.KQT98643.T4 AKJ85.Q7.AJ.J963 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 4D X
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J74.Q4.7.QJT9753 A98532.J86.JT3.4 KT.K9532.AQ65.62 Q6.AT7.K9842.AK8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+2S 3H 4S 5C
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 6.KT6.JT7.AT9742 843.875.Q52.J653 AKJ2.J942.K963.Q QT975.AQ3.A84.K8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H 1N 2H Pass
+Pass 2S 3C Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT82.K3.J84.K432 AJ96.Q742.KQ53.A K.A9865.AT9.J865 7543.JT.762.QT97 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1D 1H
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A92.9732.Q8532.5 KQ8.AQ.AJ94.QJT3 T654.KJ86.K.7642 J73.T54.T76.AK98 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A865.QT4.AK8.Q62 Q973.AJ985.T754.KJT 73.JT732.AJ8.42 K62.Q9654.K93."]
+[Declarer "N"]
+[Contract "5"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 2D Pass 2N
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QT53.T.K954.T863 AKJ84.K42.7.AJ54 9762.AQ863.QT62. J975.AJ83.KQ972."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 1S
+X 2C Pass 2D
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 8754.QJ62.732.A6 KQ63.T954.Q65.Q8 A2.AK7.AJT98.T97 JT9.83.K4.KJ5432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass Pass 1D
+2C X Pass 2N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian Open&Ladies Selection"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Murray-Whi"]
+[North "Lusk"]
+[East "Snashall"]
+[South "Tully"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q962.AJ.KJ874.T5 J54.K965.32.QJ94 A873.Q.A965.K832 KT.T87432.QT.A76 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1D 1H
+X 2H 2S 3H
+4S Pass Pass Pass
+[Play "None"]
+*
+
+

@@ -1,0 +1,938 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J862.AT943.86.J4 T93.QJ752.Q43.32 754.K8.2.AKQT976 AKQ.6.AKJT975.85 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "N"]
+1C X 1H Pass
+2C 2D Pass Pass
+3C 3D Pass Pass
+Pass
+[Play "S"]
+CJ C3 CQ C5
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J862.AT943.86.J4 T93.QJ752.Q43.32 754.K8.2.AKQT976 AKQ.6.AKJT975.85 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "N"]
+1C X 1H X
+3C 5D Pass Pass
+Pass
+[Play "S"]
+CJ C2 CQ C5
+C4 C3 CA C8
+S6 S3 S7 SA
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T82.Q2.T86.JT863 J95.A97653.5.AK7 7.T8.KQJ9732.Q95 AKQ643.KJ4.A4.42 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "E"]
+1S Pass 2H Pass
+4N Pass 5H Pass
+6H Pass Pass Pass
+[Play "N"]
+S2 S5 S7 SA
+H2 H3 H8 HK
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T82.Q2.T86.JT863 J95.A97653.5.AK7 7.T8.KQJ9732.Q95 AKQ643.KJ4.A4.42 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "E"]
+1S Pass 2H Pass
+3H Pass 4C Pass
+4N Pass 5H Pass
+6H Pass Pass Pass
+[Play "N"]
+S2 S5 S7 SA
+H2 H3 H8 HK
+HQ HA HT H4
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8763.Q86.T3.KT42 T9.AK92.AKQ.A763 AK2.T5.987542.Q8 QJ54.J743.J6.J95 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "S"]
+Pass 2N Pass 3C
+an Pa Pass 3D
+an On Pass 4D
+an Pa Pass 4H
+Pass Pass Pass
+[Play "N"]
+S8 S9 SA S5
+DT DK D9 D6
+H6 HA H5 H4
+S3 ST SK S4
+CT CA C8 C9
+H8 HK HT H3
+D3 DA D2 DJ
+HQ DQ D5 C5
+CK C3 CQ CJ
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8763.Q86.T3.KT42 T9.AK92.AKQ.A763 AK2.T5.987542.Q8 QJ54.J743.J6.J95 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "S"]
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+S3 S9 SA S4
+DT DK D5 D6
+S6 ST S2 S5
+H6 HA H5 H3
+H8 HK HT H4
+HQ H2 D2 H7
+D3 DA D4 DJ
+C2 C3 CQ C5
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ95.982.Q75.987 T7.KJT.J64.QT543 AJ86.Q53.KT93.K2 432.A764.A82.AJ6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ95.982.Q75.987 T7.KJT.J64.QT543 AJ86.Q53.KT93.K2 432.A764.A82.AJ6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "W"]
+Pass 1D X 1S
+2C 2S an 4!
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A864.K976.76.J96 KJ.T.AQT42.AT873 9753.A5.KJ95.K52 QT2.QJ8432.83.Q4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "N"]
+Pass 2D an we
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A864.K976.76.J96 KJ.T.AQT42.AT873 9753.A5.KJ95.K52 QT2.QJ8432.83.Q4 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "N"]
+1D 2H X! Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K743.QJ76.KJ.KT6 Q.KT93.98542.A42 AJ985.A85.AT73.Q T62.42.Q6.J98753 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2S Pass 3C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K743.QJ76.KJ.KT6 Q.KT93.98542.A42 AJ985.A85.AT73.Q T62.42.Q6.J98753 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2S Pass 3D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK95.A7.Q942.Q73 Q8762.32.AJT83.5 KQJ96.76.AKJ642. JT43.T854.K5.T98 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "S"]
+1N Pass 2D Pass
+2H Pass 3C Pass
+3N Pass 4C Pass
+4D X Pass Pass
+5C Pass 6H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AK95.A7.Q942.Q73 Q8762.32.AJT83.5 KQJ96.76.AKJ642. JT43.T854.K5.T98 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1020"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "S"]
+1N Pass 2C Pass
+2S Pass 3C Pass
+3D Pass 3H Pass
+3N Pass 4C Pass
+4N an to Pass
+5C Pass 5D X
+6N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT62.QJ.A974.643 KJ7.K42.32.AQJ87 954.AT753.JT8.K2 Q83.986.KQ65.T95 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT62.QJ.A974.643 KJ7.K42.32.AQJ87 954.AT753.JT8.K2 Q83.986.KQ65.T95 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 5.AKQ2.653.KQJT9 AQ6.T97543.QT94.T987 J86.K72.653.KJ432 .AJ8.A8742."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "N"]
+Pass 1S X 2N
+Pass 3C Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 5.AKQ2.653.KQJT9 AQ6.T97543.QT94.T987 J86.K72.653.KJ432 .AJ8.A8742."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "N"]
+Pass 1S X 4S
+Pass Pass 5C Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 53.K6.AJ64.KQJ73 AKQ64.AQ8.Q97.95 JT9.JT9752.53.A8 872.43.KT82.T642 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H 2S 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 53.K6.AJ64.KQJ73 AKQ64.AQ8.Q97.95 JT9.JT9752.53.A8 872.43.KT82.T642 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "E"]
+Pass 1N X 3H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ75.T3.JT32.932 93.9865.A94.KJT5 JT4.KQJ72.6.AQ64 A862.A4.KQ875.87 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "S"]
+Pass Pass 1H X
+1S 2C X an
+3c Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ75.T3.JT32.932 93.9865.A94.KJT5 JT4.KQJ72.6.AQ64 A862.A4.KQ875.87 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "S"]
+Pass Pass 1H X
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 62.AK4.AKJ82.KQ3 KJ85.T732.T94.J6 743.Q65.7.AT8742 AQT9.J98.Q653.95 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "W"]
+Pass Pass 1S X
+2S 3C Pass 3S
+X Pass Pass 5C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 62.AK4.AKJ82.KQ3 KJ85.T732.T94.J6 743.Q65.7.AT8742 AQT9.J98.Q653.95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +720"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "W"]
+Pass Pass Pass 2N
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJT85.96.K97.K53 Q764.A7.AT6.QT64 A93.JT842.QJ.J72 2.KQ53.85432.A98 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S X Pass 3C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJT85.96.K97.K53 Q764.A7.AT6.QT64 A93.JT842.QJ.J72 2.KQ53.85432.A98 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQ75.98.K.AT6532 J8.AJT54.AT982.Q KT932.KQ7.J3.874 64.632.Q7654.KJ9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "E"]
+Pass 1C 1H X
+an 4+ Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQ75.98.K.AT6532 J8.AJT54.AT982.Q KT932.KQ7.J3.874 64.632.Q7654.KJ9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "E"]
+Pass 1C 2N X
+4D 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J654.AJ2.T.KT876 AT8.6.KJ532.AJ53 Q7.KT543.9864.Q2 K932.Q987.AQ7.94 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "S"]
+Pass 1D Pass 1H
+X 2C Pass 2N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J654.AJ2.T.KT876 AT8.6.KJ532.AJ53 Q7.KT543.9864.Q2 K932.Q987.AQ7.94 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2C Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Norwegian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hegrand"]
+[North "Lund"]
+[East "Harr"]
+[South "Helgemo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 872.942.QT84.QT2 AJ4.A7.K76532.95 965.QJT853.J.K74 KQT3.K6.A9.AJ863 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Heimdal BK 2"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Tromsø BK"]
+[Auction "W"]
+1D 2H X Pass
+3D Pass 3H Pass
+3N Pass 4N Pass
+Pass Pass
+[Play "N"]
+*
+
+

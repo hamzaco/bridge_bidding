@@ -1,0 +1,454 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 2.875.KQ96.J8732 AK853.KQJ.73.654 QJT964.T62.J52.K 7.A943.AT84.AQT9 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+2S X Pass Pass
+Pass
+[Play "E"]
+D6 D7 DJ D4
+D9 D3 D5 DA
+C2 C6 CK CA
+H5 HJ H2 H4
+H7 HQ H6 H3
+H8 HK HT H9
+C3 C5 S4 C9
+DQ S3 D2 D8
+C8 C4 S6 CT
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q4.8643.AJ.KT954 JT763.KT985.J63.K8 AQJ52.432.Q72.A952 KT97.Q76.A8."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+1D Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+CK C3 C2 C8
+DA DT D4 D6
+DJ DK D2 DQ
+SQ ST S8 S2
+C4 C6 C7 CA
+H3 S3 H2 H7
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 7.AJT73.T86.T754 5.Q854.AJ752.A63 AQJ964.2.KQ.KJ82 KT832.K96.943.Q9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass 1D 1S 1N
+Pass Pass 2C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQT.852.Q76.J643 J9652.KQ4.A4.A85 A43.J963.J92.Q92 87.AT7.KT853.KT7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1S Pass 1N an
+fo Pass 2C an
+ma Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q85.AK.K9.KQT762 AK94.72.A7.J9853 J73.QT3.T85432.4 T62.J98654.QJ6.A "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+3C Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 97.KJ632.QJ3.KJ8 KJ832.QT.86.AQ93 T64.854.A42.T642 AQ5.A97.KT975.75 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+1D 1H 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT9.QJ32.K62.J86 8.T5.AQ753.K9542 AKQ32.AK8.T98.A7 7654.9764.J4.QT3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9542.AK75.6.AJ76 T7.QJ43.AQ98543.AKQ63 8.7.KT9854. J8.T962.KJT2.Q32 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+3D 3S 5D 6S
+X! Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J62.6.JT754.JT42 AKQ98753.8.KQ.K7 4.AKQ73.A98.Q653 T.JT9542.632.A98 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1H Pass Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT83.K6.94.98532 A65.72.JT75.AJ64 K72.Q853.AK83.T7 Q94.AJT94.Q62.KQ "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+1H Pass 1S an
+fo  0 Pass 2D
+an ma Pass 2S
+an in Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q86.KT932.AK764.J753 AK8764.65.Q.A9 J53.A74.T9852.KT42 QT92.QJ8.J3."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+1D 1H Pass 2D
+3C 3H 3S Pass
+4C Pass 4H Pass
+5C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J84.K987.T976.AK AT2.QJ63.KQ3.T92 KQ965.5.AJ52.753 73.AT42.84.QJ864 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1C 1S X 2C
+Pass 2D 3C 3S
+Pass 4S 5C X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 97.AT986.8762.AT QT6.32.AJ5.QJ652 KJ85.KJ.KQT9.K43 A432.Q754.43.987 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1N Pass 2D an
+tf Pass 2H Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K872.AQ8.AK76.Q9 Q95.T53.J2.K7543 JT64.K762.T5.AJ6 A3.J94.Q9843.T82 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 Sao Paolo Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West " M"]
+[North "Amaral"]
+[East " M"]
+[South "Peirão"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T984.AT953.A85.3 73.K7.K97432.Q82 KQJ5.Q64.J.AK976 A62.J82.QT6.JT54 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Amaral"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H 2D X! an
+3! 3D 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,651 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J32.965.A52.A765 AK765.AQ87.Q9.42 T9.43.JT64.QJT83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 2C Pass 2D
+Pass 2N Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+CA C4 CQ CK
+C5 C2 CT C9
+DA D9 DJ D3
+D5 DQ D4 D7
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T987.KT76.J973.5 642.AJ53.82.AT64 A3.Q94.KT.KQ9732 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1H 2C
+Pass Pass Pass
+[Play "None"]
+S7 S6 SA SK
+C5 CA CQ C8
+D3 D8 DT DQ
+S8 S4 S3 SJ
+HT HJ HQ H8
+D7 C4 CK CJ
+H6 CT C9 D6
+H7 HA H4 H2
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J.AQ54.T62.KQ953 A7653.KJT8.A5.A4 Q8.763.KQJ8743.7 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C 1S 2D 4S
+Pass Pass Pass
+[Play "E"]
+CQ CA C7 CT
+SJ SA S8 S2
+H4 S3 SQ SK
+D2 DA D3 D9
+C9 C4 D4 C6
+HA H8 H3 H2
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK2.T4.QT852.Q62 J643.AKQ95.J.A83 QT97.J2.K94.KT97 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 2H Pass
+2S Pass 4H Pass
+Pass Pass
+[Play "None"]
+C6 CA CT C4
+H4 HK H2 H3
+S2 S3 S9 S5
+C2 C8 C7 C5
+SK S4 ST S8
+CQ C3 CK CJ
+HT HA HJ H6
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQJ975.KJ7.J9.T5 T4.Q962.AT84.A97 62.AT5.K752.J843 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1S Pass
+1N Pass 2S Pass
+Pass Pass
+[Play "N"]
+H7 H6 HT H3
+SQ S4 S2 S3
+HJ H2 HA H4
+SJ ST S6 S8
+SA H9 D2 SK
+S9 C7 C3 C2
+S7 D4 H5 H8
+D9 DA D5 D3
+HK HQ C4 C6
+S5 DT C8 CK
+DJ D8 DK D6
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ942.542.T.T963 J6.AKQ83.743.A75 AT83.J9.AKQ986.2 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 2S 3H 4S
+X Pass Pass Pass
+[Play "None"]
+H2 HQ H9 H6
+H4 HK HJ H7
+C3 CA C2 C8
+DT D3 DA D2
+SK S6 S3 S5
+SQ SJ S8 S7
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J92.QJ9.63.KQJ94 A64.642.KQT7.T82 875.AT73.AJ94.A5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1D Pass
+2C Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 43.T543.A86542.K T52.862.KJ3.Q752 AKJ8.Q7.T9.AJT84 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2S Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT84.AQ984.87.K3 QJ.JT65.Q94.A975 K763.72.KJ5.QJT6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1H Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K8.QJ963.KQT2.84 QT954.7.A.AJT762 AJ63.542.74.Q953 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1H Pass 2C Pass
+2N Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 653.AKQT8.KQJ6.Q T7.J3.AT872.AKJ6 J9842.94.93.9854 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 2N Pass 3C
+X Pass 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT4.AJ63.QT976.3 6.K872.J52.KQ754 J5.QT54.K3.J9862 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+3C Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A63.J.AKQT5.K854 J5.853.874.AQT72 KT742.642.J63.J3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1H 2D 2H
+Pass Pass X Pass
+2S 3H Pass Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ86.T9.AT8.J632 932.A85.KQ942.95 KT5.KQJ2.73.A874 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 2D X
+3C 3S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT6.Q2.J8732.974 AQJ987.KJT4.QT8.5 A8753.AT964.AJ."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S 2S X
+3C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "16,BOARD 16"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K97.QT2.QJ6.Q932 A54.AJ965.A42.J8 632.743.975.AK74 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1H Pass 1S Pass
+2S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "17,BOARD 17"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT9.742.A9872.T6 KQ32.A985.QJ5.A8 75.KQJT3.KT3.KJ7 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "18,BOARD 18"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9.53.AJT632.J532 AKT652.KT4.98.97 Q8.AQ972.Q7.KQT8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1S 2H
+2S X 3S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "19,BOARD 19"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT932.T53.J72.KT 87.Q4.AQ83.98654 QJ4.A98.T965.AJ3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1D 1H
+1S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "20,BOARD 20"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 8765.T75.J5.T973 J2.J3.987632.Q42 AKQT.K94.KQT.AK5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2N Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "1998 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "21,BOARD 21"]
+[West "Boyd"]
+[North "Seamon"]
+[East "Robinson"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK98.QT64.97.K96 T65.AK7.K432.AJ5 Q74.9853.Q8.8743 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1C 1N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+

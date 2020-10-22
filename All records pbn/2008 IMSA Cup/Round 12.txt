@@ -1,0 +1,216 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Damiani"]
+[North "Dubinin"]
+[East "Brushtunov"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T4.KJ74.AK94.T85 A652.A3.QT6.AJ72 J.QT8652.J8732.4 KQ9873.9.5.KQ963 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2H 4C 5H 6S
+7H X Pass Pass
+Pass
+[Play "E"]
+C5 CJ C4 CK
+S4 S6 SJ SK
+ST SA H2 S3
+HJ HA H5 H9
+C8 C2 HT C3
+H4 H3 HQ S7
+DA D6 D2 D5
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Damiani"]
+[North "Dubinin"]
+[East "Brushtunov"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K876.JT64.QJ.T53 Q5.KQ.AK8653.KJ4 AJT432.832.T.Q76 9.A975.9742.A982 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 2N Pass
+3C Pass 3D Pass
+3N Pass Pass Pass
+[Play "None"]
+SK S5 SJ S9
+S6 SQ SA D2
+S7 C4 S2 D4
+S8 D3 ST H5
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Damiani"]
+[North "Dubinin"]
+[East "Brushtunov"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ743.T92.J.J964 KT985.AQ.Q93.752 6.875.T654.AKQT8 Q2.KJ643.AK872.3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2S Pass 4D X
+5C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Damiani"]
+[North "Dubinin"]
+[East "Brushtunov"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ73.862.AT54.KJ AKT96.AKQ.83.752 4.J94.J9762.Q963 852.T753.KQ.AT84 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S Pass 2S Pass
+3C Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Damiani"]
+[North "Dubinin"]
+[East "Brushtunov"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 9762.AT852.A95.A AKT43.KJ9.QJ87.T QJ8.Q76.T6432.62 5.43.K.KQJ987543 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 4C X Pass
+4D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Damiani"]
+[North "Dubinin"]
+[East "Brushtunov"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q52.Q5.Q762.JT63 AJT.JT8.K95.A972 K98.643.A84.K854 7643.AK972.JT3.Q "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 1N Pass
+2H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Damiani"]
+[North "Dubinin"]
+[East "Brushtunov"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J5.J53.J8652.A83 973.T74.K97.J954 A864.KQ986.Q43.6 KQT2.A2.AT.KQT72 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1H 2C
+2H Pass Pass 2S
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+

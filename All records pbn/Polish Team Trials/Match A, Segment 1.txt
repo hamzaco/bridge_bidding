@@ -1,0 +1,677 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ65.Q6.AK3.AK96 Q73.KT973.984.53 T42.542.T5.QJT72 K98.AJ8.QJ762.84 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "N"]
+Pass Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+H6 H7 H2 HA
+HQ HK H4 HJ
+S5 HT H5 H8
+S6 H9 S2 C4
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ65.Q6.AK3.AK96 Q73.KT973.984.53 T42.542.T5.QJT72 K98.AJ8.QJ762.84 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "N"]
+Pass 1N X 2D
+Pass 2H X Pass
+2N Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K4.AJT2.K4.AQ742 J62.K65.T653.JT5 875.98743.Q72.K6 AQT93.Q.AJ98.983 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "E"]
+1S X Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K4.AJT2.K4.AQ742 J62.K65.T653.JT5 875.98743.Q72.K6 AQT93.Q.AJ98.983 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "E"]
+1D 2C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 42.JT432.A982.86 AJ8.875.JT4.KT72 K5.AK6.Q73.Q9543 QT9763.Q9.K65.AJ "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "S"]
+Pass Pass 1N 2D
+2H 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 42.JT432.A982.86 AJ8.875.JT4.KT72 K5.AK6.Q73.Q9543 QT9763.Q9.K65.AJ "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "S"]
+Pass Pass 1N 2D
+2H 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 732.K7543.AK9.K2 AK8.2.T72.JT9865 654.QJ8.J83.A743 QJT9.AT96.Q654.Q "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 2H Pass Pass
+3C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 732.K7543.AK9.K2 AK8.2.T72.JT9865 654.QJ8.J83.A743 QJT9.AT96.Q654.Q "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "W"]
+Pass Pass 1C Pass
+1D Pass 1H Pass
+2C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A43.AT75.AKQ9.42 K652.QJ86.3.KT97 JT98.42.8654.AJ6 Q7.K93.JT72.Q853 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass 1N an
+18 Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A43.AT75.AKQ9.42 K652.QJ86.3.KT97 JT98.42.8654.AJ6 Q7.K93.JT72.Q853 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 1N Pass
+2C Pass 2H Pass
+2N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT7.AKQ82.JT64.Q AKJ.97654.A85.82 643.J.K73.AJ9764 9852.T3.Q92.KT53 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "E"]
+Pass 1H Pass 1N
+Pass 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT7.AKQ82.JT64.Q AKJ.97654.A85.82 643.J.K73.AJ9764 9852.T3.Q92.KT53 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "E"]
+Pass 1H Pass 1N
+Pass 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K6432.KT.Q74.A93 AT7.QJ76.T65.JT6 5.953.KJ83.KQ842 QJ98.A842.A92.75 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "S"]
+1S Pass 1N Pass
+2C Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K6432.KT.Q74.A93 AT7.QJ76.T65.JT6 5.953.KJ83.KQ842 QJ98.A842.A92.75 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "S"]
+1S Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J.KT.T8742.KT743 Q92.QJ86542.A93.A64 973.J6.AQ862. KT8753.A.KQ5.J95 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "W"]
+1H Pass 1S Pass
+2H Pass 2N Pass
+3C an   Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J.KT.T8742.KT743 Q92.QJ86542.A93.A64 973.J6.AQ862. KT8753.A.KQ5.J95 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "W"]
+2D Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ8732.J9432.AK.JT96 AJ6.6.98732.AKQ43 T94.KQT8.6.8752 5.A75.QJT54."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "N"]
+1S Pass 2H Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ8732.J9432.AK.JT96 AJ6.6.98732.AKQ43 T94.KQT8.6.8752 5.A75.QJT54."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "N"]
+1S Pass 2H Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 53.K2.T953.87652 AQT962.64.A872.4 K74.AT853.KJ4.J9 J8.QJ97.Q6.AKQT3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "E"]
+1N Pass 2H Pass
+2S Pass 4C Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 53.K2.T953.87652 AQT962.64.A872.4 K74.AT853.KJ4.J9 J8.QJ97.Q6.AKQT3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "E"]
+1C Pass 1H Pass
+1N Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT83.A86.KJ2.876 92.K53.Q543.KQ42 KJ5.J2.AT987.AJ5 Q764.QT974.6.T93 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "S"]
+1C Pass 1N Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT83.A86.KJ2.876 92.K53.Q543.KQ42 KJ5.J2.AT987.AJ5 Q764.QT974.6.T93 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "S"]
+1C Pass 2D Pass
+2S Pass 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Kujawa"]
+[North "Kwiecien"]
+[East "Olech"]
+[South "Jagniewski"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQ85.J7.J83.AT82 KQ9643.764.9743.A963 T.AT52.KQJ6. JT742.A852.KQ9.5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JAGNIEWSKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "KUJAWA"]
+[Auction "W"]
+2D Pass 4D Pass
+4H X Pass 4S
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+

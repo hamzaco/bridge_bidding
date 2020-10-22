@@ -1,0 +1,922 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K.QT42.AT42.AK65 8742.K8.KQ75.J82 QJ965.AJ96.86.73 AT3.753.J93.QT94 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2C Pass
+2D Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+SK S2 S5 ST
+CA C2 C3 C4
+CK C8 C7 C9
+C5 CJ H6 CT
+H2 S4 SQ SA
+H4 H8 H9 H3
+D2 S7 SJ S3
+HQ S8 S9 H5
+HT HK HA H7
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K.QT42.AT42.AK65 8742.K8.KQ75.J82 QJ965.AJ96.86.73 AT3.753.J93.QT94 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2C Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+SK S7 S5 S3
+H2 H8 H9 H3
+C5 S2 SQ SA
+CA C2 C3 CT
+HQ HK HA H5
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQJT3.983.7.KJ42 4.6542.QT84.AQ83 876.AQJ7.KJ92.T5 A952.KT.A653.976 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "E"]
+1D 1S X 2D
+Pass 2S 3D Pass
+Pass 3S 4D X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQJT3.983.7.KJ42 4.6542.QT84.AQ83 876.AQJ7.KJ92.T5 A952.KT.A653.976 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "E"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T75.J97643.QJ5.2 AKQ82.AKT8.74.K3 J.2.A8.AQJT98765 9643.Q5.KT9632.4 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "S"]
+Pass 1S 5C Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T75.J97643.QJ5.2 AKQ82.AKT8.74.K3 J.2.A8.AQJT98765 9643.Q5.KT9632.4 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "S"]
+Pass 1C 5C Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ942.976.A.QJ96 Q6.AK3.KQJT9854.T8753 JT4.3.AK52. A.Q852.762.T8743 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "W"]
+1D Pass 1H 1S
+X! an 3  4S
+Pass Pass 5D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ942.976.A.QJ96 Q6.AK3.KQJT9854.T8753 JT4.3.AK52. A.Q852.762.T8743 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "W"]
+1C Pass 1D Pass
+2D Pass 2H an
+XX Pass 3D Pass
+4D Pass 5D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ5.K8.4.A986543 73.T43.AKJ653.JT AQT2.AQ9652.Q87. 9864.J7.T92.KQ72 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "N"]
+1H Pass 2C 2D
+2S Pass 3C Pass
+3H Pass 4D Pass
+4H Pass 4N Pass
+5S Pass 6H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ5.K8.4.A986543 73.T43.AKJ653.JT AQT2.AQ9652.Q87. 9864.J7.T92.KQ72 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "N"]
+1H Pass 2C 2D
+2H 3D 3H 5D
+6H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K54.J.AKJ72.JT62 J93.A98532.643.A 876.KQ76.QT95.Q4 AQT2.T4.8.K98753 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "E"]
+Pass 1D 1H 2D
+X 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K54.J.AKJ72.JT62 J93.A98532.643.A 876.KQ76.QT95.Q4 AQT2.T4.8.K98753 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "E"]
+Pass 1D 1H 2D
+X Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT9.J863.AQ.AK95 AJ75.7.KJT542.74 Q8632.Q2.63.J632 4.AKT954.987.QT8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "S"]
+1N 2D an Di
+2S 3D 3S 4D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT9.J863.AQ.AK95 AJ75.7.KJT542.74 Q8632.Q2.63.J632 4.AKT954.987.QT8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "S"]
+1N 2C an !s
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK742.T983.AQT4.T Q742.T752.J632.63 KJ6.KQJ986.75.QJ985 A5.A43.K98."]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "W"]
+Pass Pass 1S Pass
+Pass 2D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK742.T983.AQT4.T Q742.T752.J632.63 KJ6.KQJ986.75.QJ985 A5.A43.K98."]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "W"]
+Pass Pass 1S Pass
+Pass 2D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 65.J9875.KQ9762.92 632.AQJ842.43.AQJ3 AKT4.K965.8.KT874 Q.T73.AJT5."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "N"]
+1D 1S X Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 65.J9875.KQ9762.92 632.AQJ842.43.AQJ3 AKT4.K965.8.KT874 Q.T73.AJT5."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "N"]
+1D 1S X Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QJ7643.9762.A9.Q 82.3.J8543.98753 T5.KQJ84.KT6.KJT AK9.AT5.Q72.A642 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QJ7643.9762.A9.Q 82.3.J8543.98753 T5.KQJ84.KT6.KJT AK9.AT5.Q72.A642 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "E"]
+1C 1S Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J72.J2.KQJ873.74 A.AQ954.92.Q9862 Q9543.K73.A5.KT3 KT86.T86.T64.AJ5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "S"]
+2D 2H 3D 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J72.J2.KQJ873.74 A.AQ954.92.Q9862 Q9543.K73.A5.KT3 KT86.T86.T64.AJ5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "S"]
+Pass 1H 1S 1N
+2D 3C Pass 3D
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ985.432.J9.JT6 J73.A5.AQ4.Q9752 K4.KQT87.KT7532. T62.J96.86.AK843 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "W"]
+1C 1H 2C 2H
+3C 3D Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ985.432.J9.JT6 J73.A5.AQ4.Q9752 K4.KQT87.KT7532. T62.J96.86.AK843 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "W"]
+1N 2D an !X
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK63.T742.J2.K84 982.AK93.8.JT653 QT.5.AK9763.AQ72 J754.QJ86.QT54.9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "N"]
+1D Pass 1H Pass
+2C Pass 2N Pass
+3D Pass 3S Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK63.T742.J2.K84 982.AK93.8.JT653 QT.5.AK9763.AQ72 J754.QJ86.QT54.9 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "N"]
+1D Pass 1H Pass
+2C Pass 2N Pass
+3S Pass 4C Pass
+5C Pass Pass X
+5D X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T765.K2.542.AQ32 AK3.AJ54.J83.J74 QJ2.T763.97.T985 984.Q98.AKQT6.K6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T765.K2.542.AQ32 AK3.AJ54.J83.J74 QJ2.T763.97.T985 984.Q98.AKQT6.K6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J642.85.A98.Q753 AQ.JT732.QJT.J96 K9753.K643.K842.T8 AKQ964.752.AT."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 2C an DX
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J642.85.A98.Q753 AQ.JT732.QJT.J96 K9753.K643.K842.T8 AKQ964.752.AT."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "S"]
+Pass 1H 1S 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "LEV"]
+[North "FREEMAN"]
+[East "PSZCZOLA"]
+[South "NICKELL"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T.QJ874.AKQT986.AKJ72 T9.43.KT72.Q843 K653.J7.A93. 965.A2.52.QJ8654 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Nickell"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Milner"]
+[Auction "W"]
+1S Pass 2S 3S
+Pass 3N Pass 5D
+Pass 6D Pass Pass
+Pass
+[Play "W"]
+*
+
+

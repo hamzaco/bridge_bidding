@@ -1,0 +1,915 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A82.AK8.A53.AT84 J76.QJ532.Q82.K5 T.964.9764.97632 KQ9543.T7.KJT.QJ "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+Pass 1S 1N 2S
+Pass Pass Pass
+[Play "S"]
+HA H2 H9 H7
+D3 D8 D9 DK
+S2 S6 ST SQ
+HK H3 H4 HT
+D5 DQ D6 DT
+H8 HQ H6 DJ
+SA S7 C7 S9
+DA D2 D7 S3
+S8 SJ C6 SK
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A82.AK8.A53.AT84 J76.QJ532.Q82.K5 T.964.9764.97632 KQ9543.T7.KJT.QJ "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+Pass 1S X 2H
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.KJ532.92.JT972 Q87532.Q6.A7.AK4 K4.9874.JT86.Q65 JT96.AT.KQ543.83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+Pass Pass 1S Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.KJ532.92.JT972 Q87532.Q6.A7.AK4 K4.9874.JT86.Q65 JT96.AT.KQ543.83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+Pass Pass 1S Pass
+2D 2H 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQT7.3.AQJ97.QT3 5.AKJ974.K64.K95 K94.QT8.T53.A876 J8632.652.82.J42 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+1D 1H 1N Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQT7.3.AQJ97.QT3 5.AKJ974.K64.K95 K94.QT8.T53.A876 J8632.652.82.J42 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+1D 1H 1N Pass
+2S Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K7.A96.AQ3.J7642 A542.84.9754.K95 QJT986.QJT.JT.AT 3.K7532.K862.Q83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K7.A96.AQ3.J7642 A542.84.9754.K95 QJT986.QJT.JT.AT 3.K7532.K862.Q83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2S Pass 3D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T83.AJT62.863.T7 AKQJ95.973.Q5.83 62.KQ85.KT9742.2 74.4.AJ.AKQJ9654 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+2D 3C 3D 4S
+Pass 4N Pass 5S
+Pass 6C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T83.AJT62.863.T7 AKQJ95.973.Q5.83 62.KQ85.KT9742.2 74.4.AJ.AKQJ9654 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2D Pass 2H
+Pass 3C Pass 3S
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 93.AJ8762.AJ86.7 K862.T9.KQT.T832 AT74.KQ53.754.AK QJ5.4.932.QJ9654 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2D Pass 3C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 93.AJ8762.AJ86.7 K862.T9.KQT.T832 AT74.KQ53.754.AK QJ5.4.932.QJ9654 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 3H
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT643.KJ9.97.JT9 852.AT3.Q652.842 AK.82.AJ3.AK7653 Q97.Q7654.KT84.Q "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+Pass Pass 2N Pass
+3H Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT643.KJ9.97.JT9 852.AT3.Q652.842 AK.82.AJ3.AK7653 Q97.Q7654.KT84.Q "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+Pass Pass 2N Pass
+3H Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 75.AKJ.A96.J8763 KQ962.Q8.KT75.K5 AJT3.752.Q83.AQ9 84.T9643.J42.T42 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+1S Pass Pass X
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 75.AKJ.A96.J8763 KQ962.Q8.KT75.K5 AJT3.752.Q83.AQ9 84.T9643.J42.T42 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+1S Pass Pass X
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT753.73.K53.A96 J94.Q9.T872.QJ85 K6.AK865.AJ6.T74 Q82.JT42.Q94.K32 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+1H Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT753.73.K53.A96 J94.Q9.T872.QJ85 K6.AK865.AJ6.T74 Q82.JT42.Q94.K32 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+1N Pass 2H Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKJ62.A94.T42.A6 Q9.J75.QJ95.7542 T543.T862.A87.J9 87.KQ3.K63.KQT83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+1C 1S Pass 2S
+Pass 2N Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKJ62.A94.T42.A6 Q9.J75.QJ95.7542 T543.T862.A87.J9 87.KQ3.K63.KQT83 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+1C X Pass 1H
+Pass 1S Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT5.52.AKJ86.T75 J73.AQJ.732.QJ84 KQ962.93.QT5.962 84.KT8764.94.AK3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+1N Pass 2H X
+2S 2N Pass 3C
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT5.52.AKJ86.T75 J73.AQJ.732.QJ84 KQ962.93.QT5.962 84.KT8764.94.AK3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+1D Pass 1S 2H
+X 3D 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 63.AQ.KQT9872.A3 AQJ5.KT643.A4.Q2 T97.852.J63.KJ64 K842.J97.5.T9875 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+1H Pass 2H 3D
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 63.AQ.KQT9872.A3 AQJ5.KT643.A4.Q2 T97.852.J63.KJ64 K842.J97.5.T9875 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+1H Pass 1S 2D
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q74.Q6543.743.J8 KT9852.KT.Q8.A53 AJ972.AJ652.T74. AJ63.8.KT9.KQ962 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+1H X 4H 4S
+5H 5S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q74.Q6543.743.J8 KT9852.KT.Q8.A53 AJ972.AJ652.T74. AJ63.8.KT9.KQ962 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "N"]
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ974.JT6.Q4.J93 T532.Q94.AJ65.A5 6.AK752.KT9732.7 AK8.83.8.KQT8642 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+1C 1S 2N Pass
+5C Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ974.JT6.Q4.J93 T532.Q94.AJ65.A5 6.AK752.KT9732.7 AK8.83.8.KQT8642 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "E"]
+1C Pass 1S 2C
+3C Pass 3N 4D
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ43.K87.J876.QJ J52.T654.AQ2.982 KT8.J2.K9.KT7543 976.AQ93.T543.A6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+1N Pass 2C Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ43.K87.J876.QJ J52.T654.AQ2.982 KT8.J2.K9.KT7543 976.AQ93.T543.A6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "S"]
+1D Pass 2H Pass
+2S Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Brazilian Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "M Branco"]
+[North "Jeovani"]
+[East "Brenner"]
+[South "Paiva"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T953.8.AT653.K82 6.AKT976.Q82.Q97 QJ7.542.7.AJ6543 AK842.QJ3.KJ94.T "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "JEOVANI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "CHAGAS"]
+[Auction "W"]
+1H Pass 1N Pass
+2H Pass 4C Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+

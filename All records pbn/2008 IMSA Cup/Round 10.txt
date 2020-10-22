@@ -1,0 +1,220 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Sester"]
+[North "Skrzypczak"]
+[East "Levenko"]
+[South "Gierulski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J42.A74.AT3.A752 AQ75.Q96.K987.Q3 83.KJ82.J62.KJ98 KT96.T53.Q54.T64 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass 1N Pass
+Pass Pass
+[Play "W"]
+S2 S5 S3 SK
+SJ SQ S8 ST
+S4 SA D2 S6
+C2 S7 H2 S9
+H7 HQ HK H3
+CA C3 C8 C4
+C7 CQ CK C6
+C5 D7 CJ CT
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Sester"]
+[North "Skrzypczak"]
+[East "Levenko"]
+[South "Gierulski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T3.K9762.Q7.AJ97 AQ8.A.J865.KT832 K4.QJ5.A932.Q654 J97652.T843.KT4."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1D Pass
+1S Pass 2C Pass
+2S Pass 3S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Sester"]
+[North "Skrzypczak"]
+[East "Levenko"]
+[South "Gierulski"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KJ74.87.953.JT72 Q9.AT5.JT72.8653 AT6532.Q642.A6.Q 8.KJ93.KQ84.AK94 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1S X
+3S Pass Pass X
+Pass 4N Pass 5D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Sester"]
+[North "Skrzypczak"]
+[East "Levenko"]
+[South "Gierulski"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 874.3.K853.KQ954 T9.QJ86.Q97.J863 J6.KT7542.42.AT7 AKQ532.A9.AJT6.2 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 2D X XX
+2H Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Sester"]
+[North "Skrzypczak"]
+[East "Levenko"]
+[South "Gierulski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T6.98643.32.9763 A975.AT2.KQ87.84 QJ42.J.T9654.KJ5 K83.KQ75.AJ.AQT2 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 2N
+Pass 3C Pass 3D
+Pass 3H Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Sester"]
+[North "Skrzypczak"]
+[East "Levenko"]
+[South "Gierulski"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T974.K974.J2.J65 AQ.Q832.T763.KT9 J86.JT5.K5.Q7432 K532.A6.AQ984.A8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1N Pass
+2D Pass 3D Pass
+3S Pass 3N Pass
+4D Pass 6D Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2008 IMSA Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Sester"]
+[North "Skrzypczak"]
+[East "Levenko"]
+[South "Gierulski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J.8654.AQJT73.Q9 943.73.542.KT753 AKT862.J.K96.J82 Q75.AKQT92.8.A64 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1S 2H
+Pass Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+

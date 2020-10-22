@@ -1,0 +1,802 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQT5.432.98.K983 983.KT5.KT.QT762 J764.AQ98.J532.5 A2.J76.AQ764.AJ4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+SK S3 S4 S2
+S5 S8 SJ SA
+D8 DK D2 D4
+CK CT C5 C4
+SQ S9 S7 H7
+ST DT S6 H6
+H2 H5 HQ HJ
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 943.9.AKQ65.KQ72 AQ862.K643.J9.86 J5.875.T7432.AT5 KT7.AQJT2.8.J943 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1H 2D 2N an
+in 3D 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ4.K.QJ8.KT9432 K8.AJT9872.954.A T73.654.7632.Q85 Q9652.Q3.AKT.J76 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C 1H Pa 1S
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT532.AJ93.T.T42 A4.765.AKQ53.A83 K.K82.J984.KQ975 Q9876.QT4.762.J6 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D Pass 1S Pass
+2N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9642.AJ2.T52.A72 KQJ85.K54.A986.T AT3.973.KQ43.J53 7.QT86.J7.KQ9864 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 1N Pass 2D
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKJ975.K2.97.A93 Q82.QT643.T852.6 6.AJ875.KJ64.KQT T43.9.AQ3.J87542 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J73.7.AJT2.K8764 T986.AKQJ4.Q7.A5 AQ5.6532.K85.QJ9 K42.T98.9643.T32 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1H Pass Pass
+2C X Pass 2H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 4.T76.AQT97653.2 AKT975.53.4.AK43 J86.AK942.8.QJ75 Q32.QJ8.KJ2.T986 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S Pass 2S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 8.A2.Q9763.KT965 KQJ9653.K85.KT2.A74 JT96.J4.J742. T2.Q743.A85.AQ83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1N an 11
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 7.KT2.AQJ93.7542 JT63.AQ53.K7.AJ3 KQ954.97.5.KQT98 A82.J864.T8642.6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1N an
+14  s 2D an
+He X! Pa an
+Xm Pass 2S Pass
+3C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKT63.Q.T72.QJ94 J852.AJ7.Q6.A653 Q9.KT654.K3.KT87 74.9832.AJ9854.2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 1N 3D
+Pass Pass 3H Pass
+Pass 4D X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K94.J.532.KQT972 AQJ73.KQ8542.6.6 865.T9763.AKQT.4 T2.A.J9874.AJ853 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S Pass 1N 2C
+2H Pass 2S Pass
+3H Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 96.AJ4.2.KQ98765 T87.KT9872.Q96.J AQJ543.Q.A8543.3 K2.653.KJT7.AT42 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 2H X
+2S Pass 3C Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AJ5.9865.AQ54.74 T863.T4.JT87.932 K7.KJ732.93.AKQ5 Q942.AQ.K62.JT86 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +720"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass Pass 1H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QT8.T3.AKQ4.T986 J972.864.J95.QJ3 AK643.AJ7.83.AK2 5.KQ952.T762.754 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1S 2H
+2N Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K96.AKQ8762.A2.6 J87.J54.QJ765.Q4 A542.3.9843.K972 QT3.T9.KT.AJT853 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1C X
+1D 1S 2C 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQT82.K94.AK.QT7 KJ74.A87.J8764.K 53.53.52.AJ98532 96.QJT62.QT93.64 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+3C Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 3.K8763.JT9.KJ52 AQ94.JT54.Q643.Q K62.A2.A8752.T76 JT875.Q9.K.A9843 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K.AQJ.9864.AJ854 96.KT854.K73.T63 QJ875432.72.T.72 AT.963.AQJ52.KQ9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 2S an
+we 2N Pass 3D
+Pass 3H Pass Pass
+3S Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ872.A9842.K.A5 QT.K.Q98543.8643 93.QJ7653.J62.Q2 A654.T.AT7.KJT97 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 2D an 0-
+Pass 2N Pass 3C
+an he X 4H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K83.AKT3.KT98.A4 QJ642.Q8765.A5.7 AT.J92.J7632.J83 975.4.Q4.KQT9652 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 3C X Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ2.AT832.9.A875 AT8654.4.J42.QT6 J9.Q976.Q83.J932 73.KJ5.AKT765.K4 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N 2H an he
+3H an sP X
+3N Pass 4H Pass
+4S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 952.QT953.K872.6 J76.A84.AQT.K853 A8.J76.J64.J9742 KQT43.K2.953.AQT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 1N Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQJT8732.AK2.K9.AJ974 A4.J985.Q7.K62 5.T6.JT86432.QT853 96.Q743.A5."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S Pass 4S 5H
+Pass Pass X Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ3.A.Q9875.A843 852.K9.AK3.QJ976 T964.7654.2.KT52 AJ7.QJT832.JT64."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 2D Pass 2H
+Pass Pass X! Pass
+2S Pass Pass 3H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 862.AJT6432.8.74 QT9.KQ7.QJ.Q9853 AK743.95.A95.AJ2 J5.8.KT76432.KT6 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2006 Bergen Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Espås"]
+[North "Hantveit"]
+[East "Heitmann"]
+[South "Thomassen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A.75432.KQ7.Q842 KJ98.T6.T9832.A3 T53.J8.A64.JT976 Q7642.AKQ9.J5.K5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 1S
+X 2S Pass 3D
+Pass 4C Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

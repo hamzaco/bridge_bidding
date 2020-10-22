@@ -1,0 +1,594 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q962.T64.Q8.T653 KT7.9.JT97653.K2 8.AKQJ872.A.Q984 AJ543.53.K42.AJ7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "N"]
+1H 1S Pass 2H
+3C 3S 4H Pass
+Pass Pass
+[Play "E"]
+S2 S7 S8 SA
+H6 H9 HA H5
+HT D6 H8 H3
+C3 C2 C8 CJ
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q962.T64.Q8.T653 KT7.9.JT97653.K2 8.AKQJ872.A.Q984 AJ543.53.K42.AJ7 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "N"]
+2C 2S Pass 4S
+5H Pass Pass Pass
+[Play "E"]
+H4 H9 HJ H3
+H6 D3 HQ H5
+S2 ST S8 S3
+D8 D5 DA D2
+HT D9 H8 S5
+C3 C2 C9 CJ
+DQ D6 H2 DK
+C5 CK CQ C7
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9.KQT542.A54.KJ QJ42.J73.7.T8542 A5.9.KQT9862.Q97 K8763.A86.J3.A63 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "E"]
+1S 2H 2S 3D
+Pass Pass Pass
+[Play "E"]
+S9 SJ SA S3
+D4 D7 DQ D3
+HK H3 H9 H6
+H2 H7 D8 H8
+DA S2 D6 DJ
+H4 HJ D9 HA
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T9.KQT542.A54.KJ QJ42.J73.7.T8542 A5.9.KQT9862.Q97 K8763.A86.J3.A63 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "E"]
+1S 2H 3S 4D
+Pass 4H 4S X
+Pass Pass Pass
+[Play "S"]
+HK H3 H9 HA
+S9 SQ SA S6
+DA D7 D9 D3
+HQ H7 C7 H6
+HT HJ S5 H8
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT74.Q54.95.K632 KJ86.92.J82.A987 9532.KT86.KT73.4 Q.AJ73.AQ64.QJT5 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "S"]
+Pass Pass 1H Pass
+2H Pass Pass Pass
+[Play "E"]
+SA S6 S2 SQ
+D5 D2 DT DQ
+C2 C8 C4 CJ
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT74.Q54.95.K632 KJ86.92.J82.A987 9532.KT86.KT73.4 Q.AJ73.AQ64.QJT5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1S Pass 2C
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "S"]
+S4 S6 S9 SQ
+C2 C7 C4 CQ
+C6 C8 S2 CJ
+C3 C9 S3 CT
+CK CA S5 C5
+D5 D2 D3 DQ
+D9 D8 D7 DA
+S7 DJ DK D4
+ST S8 DT D6
+HQ H2 HT HJ
+SA SJ H6 H3
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T73.QJ9843.KT4.5 9842.2.7632.AQT4 KJ65.T76.AQ5.873 AQ.AK5.J98.KJ962 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "W"]
+Pass Pass 1C 2H
+X 3H 3N Pass
+Pass X Pass Pass
+4C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T73.QJ9843.KT4.5 9842.2.7632.AQT4 KJ65.T76.AQ5.873 AQ.AK5.J98.KJ962 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "W"]
+Pass Pass 1C 2H
+X 3H 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK732.AKQ74.T9.7 Q54.JT9.Q632.952 T.862.KJ7.AKQJ84 J986.53.A854.T63 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "13"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +720"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK732.AKQ74.T9.7 Q54.JT9.Q632.952 T.862.KJ7.AKQJ84 J986.53.A854.T63 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1470"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 2H Pass
+3N Pass 4N Pass
+6N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 983.Q9632.JT7.J6 T62.AJT4.Q65.AQ5 AJ754.K7.A98.873 KQ.85.K432.KT942 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "E"]
+Pass Pass 1C 1S
+2S Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 983.Q9632.JT7.J6 T62.AJT4.Q65.AQ5 AJ754.K7.A98.873 KQ.85.K432.KT942 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "E"]
+Pass Pass 1C 1S
+2S Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 8753.8.AJ43.J984 KJ92.T5.9872.A65 T64.KJ76.KQ65.K7 AQ.AQ9432.T.QT32 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "S"]
+Pass Pass 1D 1H
+X Pass 1N 2H
+3D 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 8753.8.AJ43.J984 KJ92.T5.9872.A65 T64.KJ76.KQ65.K7 AQ.AQ9432.T.QT32 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "S"]
+Pass Pass 1D 1H
+X Pass 1N 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ953.76.Q75.T87 T842.5432.KT86.6 A.JT.32.AKQJ5432 K76.AKQ98.AJ94.9 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "W"]
+Pass 1C X 1S
+Pass 2D 2H Pass
+4C X 4H Pass
+Pass 5C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ953.76.Q75.T87 T842.5432.KT86.6 A.JT.32.AKQJ5432 K76.AKQ98.AJ94.9 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "W"]
+Pass 1C 1H 1S
+3H X! 4D Pass
+4H 5C Pass Pass
+5D Pass 5H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ942.AQT9.K9.82 JT5.J3.J84.KJ654 763.8765.AT53.73 K8.K42.Q762.AQT9 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "N"]
+Pass 1C 1S 2C
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ942.AQT9.K9.82 JT5.J3.J84.KJ654 763.8765.AT53.73 K8.K42.Q762.AQT9 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "N"]
+Pass 1D 1S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 European Open Bridge Championship"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "FREDIN"]
+[North "D OVIDIO"]
+[East "BEKKOUCHE"]
+[South "CRONIER"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQT86.QJ2.AT6.92 932.6543.Q75.K75 J7.A98.KJ432.Q43 A54.KT7.98.AJT86 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "ZIMMERMANN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SCHALTZ"]
+[Auction "E"]
+1C 1S Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+

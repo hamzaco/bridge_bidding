@@ -1,0 +1,921 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ5.KQJ97.Q9.Q92 AQT8743.2.T754.K A8.KJ863.T76543. 962.T6543.A2.AJ8 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "N"]
+[Play "W"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ5.KQJ97.Q9.Q92 AQT8743.2.T754.K A8.KJ863.T76543. 962.T6543.A2.AJ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "N"]
+[Play "N"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ3.T863.KJ52.K8 9874.Q97.T74.JT7 A65.542.AQ93.A93 KT2.AKJ.86.Q6542 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "E"]
+[Play "E"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ3.T863.KJ52.K8 9874.Q97.T74.JT7 A65.542.AQ93.A93 KT2.AKJ.86.Q6542 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "E"]
+[Play "E"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J96.KQJ64.A7.A87 T7543.8.JT6.KT52 K8.9752.985.Q643 AQ2.AT3.KQ432.J9 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+CA C2 C3 CJ
+HQ H8 H2 H3
+HJ S5 H9 HA
+D7 DT D5 D3
+DA DJ D8 D2
+HK S3 H7 HT
+H6 C5 H5 S2
+H4 CT C4 SQ
+C7 CK C6 C9
+S6 S4 S8 SA
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J96.KQJ64.A7.A87 T7543.8.JT6.KT52 K8.9752.985.Q643 AQ2.AT3.KQ432.J9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "S"]
+[Play "S"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ952.JT862.832.J9632 Q.AK54.Q54.AKT75 7643.9.AJ9.Q84 KT8.Q73.KT76."]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "W"]
+1S Pass 2S an
+  Pass Pass Pass
+[Play "N"]
+H8 H9 HQ H7
+S2 SK S4 H2
+S3 H4 HT HJ
+D2 D4 D9 DQ
+C6 C2 CQ CA
+SA S8 C3 S6
+S5 SQ H5 S9
+D3 D8 DA S7
+H6 HK HA SJ
+ST D7 D6 DK
+C7 C8 D5 H3
+C9 CK DT C4
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJ952.JT862.832.J9632 Q.AK54.Q54.AKT75 7643.9.AJ9.Q84 KT8.Q73.KT76."]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "W"]
+1S Pass 1N Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "N"]
+H6 H8 H9 HQ
+S2 S5 SQ C8
+C6 C2 CQ CA
+HT HJ S3 H7
+D2 D4 D9 DQ
+D3 D6 DA S7
+C9 CK C3 C4
+CJ C7 H5 C5
+S6 H4 HK HA
+ST D7 D8 DK
+SA S4 H2 S9
+S8 DT SJ SK
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q742.973.K54.A83 J853.KT862.AQ.94 AT.AQJ4.T976.KT7 K96.5.J832.QJ652 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "N"]
+1D Pass 1S Pass
+1N Pass Pass 2H
+Pass Pass Pass
+[Play "N"]
+D4 DQ DT D2
+CA C4 C7 CQ
+S2 S3 SA S6
+S4 S5 ST SK
+H3 H8 HQ H5
+D5 DA D7 D3
+H7 H6 H4 C2
+SQ S8 CT S9
+S7 SJ HJ C5
+C3 C9 CK C6
+DK H2 D6 D8
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q742.973.K54.A83 J853.KT862.AQ.94 AT.AQJ4.T976.KT7 K96.5.J832.QJ652 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "N"]
+1N Pass Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q8.T765.T5.QJ942 AT96.932.43.AT75 J543.KQ4.AJ6.K83 K72.AJ8.KQ9872.6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "E"]
+1D Pass 1S Pass
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q8.T765.T5.QJ942 AT96.932.43.AT75 J543.KQ4.AJ6.K83 K72.AJ8.KQ9872.6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "E"]
+1D Pass 1S Pass
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T74.A6.KT96.J652 AQ.J43.J8532.K73 K3.KT85.A74.QT84 J98652.Q972.Q.A9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T74.A6.KT96.J652 AQ.J43.J8532.K73 K3.KT85.A74.QT84 J98652.Q972.Q.A9 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "S"]
+Pass Pass 1N X!
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 532.83.JT875.AT5 AKT9.KT75.K9.762 876.962.A62.QJ98 QJ4.AQJ4.Q43.K43 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "W"]
+1C Pass 1H Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 532.83.JT875.AT5 AKT9.KT75.K9.762 876.962.A62.QJ98 QJ4.AQJ4.Q43.K43 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "W"]
+1H Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K8.AQT9.A852.KQ7 T7654.K864.J9.A8 A92.J.QT3.JT5432 QJ3.7532.K764.96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "N"]
+Pass Pass 1D Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K8.AQT9.A852.KQ7 T7654.K864.J9.A8 A92.J.QT3.JT5432 QJ3.7532.K764.96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "N"]
+Pass Pass 1H Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q.K952.AKT.QT965 K72.A86.J76.AK43 AJT98653.J.54.82 4.QT743.Q9832.J7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 1N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q.K952.AKT.QT965 K72.A86.J76.AK43 AJT98653.J.54.82 4.QT743.Q9832.J7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "E"]
+Pass 1C 1N 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8.8653.K75.A974 J32.AK.Q6.KJT863 976.T974.AJT3.Q5 AKQ54.QJ2.9842.2 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "S"]
+Pass 1N Pass 2H
+Pass 2S Pass 3D
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T8.8653.K75.A974 J32.AK.Q6.KJT863 976.T974.AJT3.Q5 AKQ54.QJ2.9842.2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "S"]
+[Play "S"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 2.J9873.96.KJT85 JT974.5.AJ84.Q43 KQT2.QT532.9762. AKQ8653.A64.K7.A "]
+[Declarer "W"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "W"]
+2S Pass 2N Pass
+3S Pass 4N Pass
+5D Pass 7S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 2.J9873.96.KJT85 JT974.5.AJ84.Q43 KQT2.QT532.9762. AKQ8653.A64.K7.A "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "W"]
+[Play "S"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A4.8.KQT863.KT86 Q652.T9.AJ95.J32 KT97.AKQ63.742.Q J83.J7542.A9754."]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "N"]
+1H Pass 2D Pass
+3D Pass 3S Pass
+4S Pass 5D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A4.8.KQT863.KT86 Q652.T9.AJ95.J32 KT97.AKQ63.742.Q J83.J7542.A9754."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "N"]
+1H Pass 2D Pass
+2H Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q53.5.QT864.QT82 AKT972.942.AKJ5.AQT863 A732.964..J864 KJ7.KJ95.73."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "E"]
+Pass Pass 4S an
+  5H X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q53.5.QT864.QT82 AKT972.942.AKJ5.AQT863 A732.964..J864 KJ7.KJ95.73."]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "E"]
+Pass Pass 1S 2H
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q42.8.AK964.A964 AK873.AK7.J87.32 J96.Q92.Q32.QT87 T5.JT6543.T5.KJ5 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "S"]
+1D 1S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q42.8.AK964.A964 AK873.AK7.J87.32 J96.Q92.Q32.QT87 T5.JT6543.T5.KJ5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "S"]
+1D 1S X Pass
+2C 2S 3D 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Lady Milne Series"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Burns"]
+[North "Fitzgerald"]
+[East "Greenwood"]
+[South "CLEARY"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQ6.Q96.K93.9843 K84.AJ7.T2.AKQJ5 J753.K853.64.T72 T92.T42.AQJ875.6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Ireland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Northern Ireland"]
+[Auction "W"]
+1C Pass 2D Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+

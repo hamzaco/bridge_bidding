@@ -1,0 +1,938 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT532.K64.T2.KJT 9.Q853.J9863.Q32 AQ6.AT2.Q5.A8765 K874.J97.AK74.94 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "N"]
+1N Pass 2C Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "W"]
+CJ C2 C5 C4
+S3 S9 SQ SK
+D2 D9 D5 DK
+DT D3 DQ DA
+S2 D6 SA S4
+SJ H3 S6 S8
+ST H5 H2 S7
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT532.K64.T2.KJT 9.Q853.J9863.Q32 AQ6.AT2.Q5.A8765 K874.J97.AK74.94 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "N"]
+Pass an 0- Pass
+1H an (3 Pass
+1N an 15 Pass
+2H an xf Pass
+2S Pass 2N Pass
+4S Pass Pass Pass
+[Play "E"]
+D2 D9 D5 DA
+HK H3 H2 H7
+SJ S9 S6 SK
+H4 HQ HA H9
+S2 D3 SA S4
+S3 D6 SQ S7
+CT CQ C5 C4
+DT D8 DQ DK
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK6.AQT63.AT7.J2 QJ2.K4.J96.AQ654 T9853.2.Q53.KT83 74.J9875.K842.97 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "E"]
+Pass 1H X XX
+2D X Pass 2S
+Pass 2N Pass 3S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK6.AQT63.AT7.J2 QJ2.K4.J96.AQ654 T9853.2.Q53.KT83 74.J9875.K842.97 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "E"]
+2H an   Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ54.975.QJ5.AQ3 976.AJ3.AT972.K7 A.K8.863.JT98654 JT832.QT642.K4.2 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "S"]
+1C 1D 5C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ54.975.QJ5.AQ3 976.AJ3.AT972.K7 A.K8.863.JT98654 JT832.QT642.K4.2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "S"]
+1N an 11 Pass
+3C an to Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKJ52.2.K854.KJ6 T64.KQJ.A93.T984 Q873.763.Q76.A72 9.AT9854.JT2.Q53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "W"]
+Pass Pass 1H 1S
+2H 2S Pass 3D
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKJ52.2.K854.KJ6 T64.KQJ.A93.T984 Q873.763.Q76.A72 9.AT9854.JT2.Q53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "W"]
+Pass 1D an (1
+Pass 1S an XX
+Pass 2D Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT9.63.AJT2.AK84 53.T975.7653.975 AQ872.KQ4.9.JT32 J64.AJ82.KQ84.Q6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "N"]
+1S X 2H an
+  Pass 2S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT9.63.AJT2.AK84 53.T975.7653.975 AQ872.KQ4.9.JT32 J64.AJ82.KQ84.Q6 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "N"]
+1D an (1 X
+1S an XX Pass
+2C Pass 2D Pass
+3D an   Pass
+3H Pass 3S Pass
+4C an   Pass
+4H an   Pass
+4S Pass 5H Pass
+6C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT2.K5.K832.AKQ9 J9543.J2.AQ765.2 AK8.A97.T.T76543 76.QT8643.J94.J8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT2.K5.K832.AKQ9 J9543.J2.AQ765.2 AK8.A97.T.T76543 76.QT8643.J94.J8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "E"]
+Pass Pass an 0-
+1D Pass 1H X
+an st Pass 3C
+Pass 3N an 15
+Pass 4C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q54.AK64.63.T973 KT63.82.AJT4.AQ2 AJ82.T7.K752.KJ4 97.QJ953.Q98.865 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "4"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q54.AK64.63.T973 KT63.82.AJT4.AQ2 AJ82.T7.K752.KJ4 97.QJ953.Q98.865 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "S"]
+1H an 7- X
+an 13 XX an
+4+ Pass 1S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQJ.KQ54.KT86.T3 T862.T76.A5432.J K9753.32.Q97.872 4.AJ98.J.AKQ9654 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "W"]
+Pass Pass 1C an
+  X 1H an
+4+ 1S 2H 2S
+Pass Pass 3C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQJ.KQ54.KT86.T3 T862.T76.A5432.J K9753.32.Q97.872 4.AJ98.J.AKQ9654 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "W"]
+Pass Pass an 0-
+1C X an  
+1D 1S 2H Pass
+2S an   Pass
+3C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A97.QJ4.AJ8.JT63 K63.AT85.K3.K987 Q2.K96.T96542.Q4 JT854.732.Q7.A52 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S an   Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A97.QJ4.AJ8.JT63 K63.AT85.K3.K987 Q2.K96.T96542.Q4 JT854.732.Q7.A52 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "N"]
+1H an 7- Pass
+1N an to Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K73.J95.QT65.KQ7 AT964.A2.AK93.94 82.KQ4.87.AJT863 QJ5.T8763.J42.52 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "E"]
+Pass Pass 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: K73.J95.QT65.KQ7 AT964.A2.AK93.94 82.KQ4.87.AJT863 QJ5.T8763.J42.52 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "E"]
+Pass 1H an 7-
+1S 2C 2S 2N
+an   3D Pass
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 76.Q62.83.AJT852 AK9.754.T54.K764 QJ43.KJT.AJ62.93 T852.A983.KQ97.Q "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "S"]
+Pass Pass 1C X
+3C X Pass 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 76.Q62.83.AJT852 AK9.754.T54.K764 QJ43.KJT.AJ62.93 T852.A983.KQ97.Q "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "S"]
+3C an go Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T532.T72.K6.Q865 A76.J95.T72.A742 KQ8.KQ843.8543.3 J94.A6.AQJ9.KJT9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "W"]
+Pass Pass 1N Pass
+2S Pass 3C Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T532.T72.K6.Q865 A76.J95.T72.A742 KQ8.KQ843.8543.3 J94.A6.AQJ9.KJT9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "W"]
+Pass 1H an 7-
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ94.A82.K4.T964 87653.KQ63.T.KJ3 KT2.JT4.A85.Q752 Q.975.QJ97632.A8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "N"]
+Pass 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ94.A82.K4.T964 87653.KQ63.T.KJ3 KT2.JT4.A85.Q752 Q.975.QJ97632.A8 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "N"]
+1H an 7- Pass
+1N an to Pass
+Pass 2D X an
+  Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q42.QJ983.AJ.963 AT3.A2.5432.JT87 KJ9765.64.K8.AQ5 8.KT75.QT976.K42 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 2H Pass 2S
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q42.QJ983.AJ.963 AT3.A2.5432.JT87 KJ9765.64.K8.AQ5 8.KT75.QT976.K42 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "E"]
+Pass 1H an 7-
+Pass 2S X 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q42.T97.KQ9763.A T953.A4.A52.Q765 AKJ87.J86.8.JT84 6.KQ532.JT4.K932 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "S"]
+1D Pass 1S X
+XX 3C 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q42.T97.KQ9763.A T953.A4.A52.Q765 AKJ87.J86.8.JT84 6.KQ532.JT4.K932 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "S"]
+1S an 10 Pass
+2C an P/ Pass
+2D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Milne"]
+[North "Del'monte"]
+[East "Whibley"]
+[South "Green"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQJ54.AK763.T8.4 T73.Q9854.AJ632.986 Q653.KQT987.K2.JT2 AKJ9742.5."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "HORWITZ"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MILNE"]
+[Auction "W"]
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+*
+
+

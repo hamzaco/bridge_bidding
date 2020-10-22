@@ -1,0 +1,212 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Mattsson"]
+[North "Bessis"]
+[East "Humburg"]
+[South "Gaviard"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 9765.7.K32.K9864 AJ.K8654.AJT8.A5 KT.AJT3.Q9764.J3 Q8432.Q92.5.QT72 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+DK DA D4 D5
+D2 DT DQ H2
+S5 SJ SK S2
+D3 D8 D7 C2
+H7 H5 H3 HQ
+C4 H4 HT H9
+C6 DJ D6 S3
+S6 SA ST S4
+C8 CA C3 C7
+CK C5 CJ CQ
+C9 H6 HJ CT
+S7 H8 HA S8
+S9 HK D9 SQ
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Mattsson"]
+[North "Bessis"]
+[East "Humburg"]
+[South "Gaviard"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T97.T95.K43.T965 AQJ64.QJ8.JT9.K2 K2.K643.AQ85.Q74 853.A72.762.AJ83 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "E"]
+Pass Pass 1S X
+2S Pass Pass Pass
+[Play "N"]
+H9 HJ H4 H2
+C6 CK C4 C3
+C9 C2 C7 CJ
+C5 DJ CQ CA
+S9 SQ SK S3
+S7 SJ S2 S5
+ST SA D8 S8
+D3 DT DQ D2
+DK D9 D5 D6
+D4 S4 DA D7
+CT S6 H3 C8
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Mattsson"]
+[North "Bessis"]
+[East "Humburg"]
+[South "Gaviard"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK3.KQ54.5432.82 865.AT96.A6.QJT3 JT92.832.K98.K74 Q74.J7.QJT7.A965 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+C8 CQ CK CA
+C2 CT C4 C5
+D3 CJ C7 C6
+D4 C3 H2 C9
+D2 DA D8 DQ
+D5 D6 DK D7
+HK HA H3 H7
+HQ HT H8 HJ
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Mattsson"]
+[North "Bessis"]
+[East "Humburg"]
+[South "Gaviard"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K7.T9432.KJ96.A8 QJT98.6.AQ32.T92 A643.AQ.T84.KJ74 52.KJ875.75.Q653 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "S"]
+1H 1S X Pass
+2D Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Mattsson"]
+[North "Bessis"]
+[East "Humburg"]
+[South "Gaviard"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 843.J6.QT9864.83 T75.KT4.J7.AJT64 KQ96.A985.K3.KQ9 AJ2.Q732.A52.752 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "W"]
+Pass 1N Pass 2N
+an tX Pass 3D
+an ba Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Bonn Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Mattsson"]
+[North "Bessis"]
+[East "Humburg"]
+[South "Gaviard"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT842.74.Q.QT762 A7.AJT2.A86.A854 J93.95.T5432.KJ9 K65.KQ863.KJ97.3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Germany 2"]
+[Auction "N"]
+Pass 1H Pass 2N
+Pass 3C Pass 3D
+Pass 3H Pass 3S
+Pass 4C Pass 6H
+Pass Pass Pass
+[Play "N"]
+*
+
+

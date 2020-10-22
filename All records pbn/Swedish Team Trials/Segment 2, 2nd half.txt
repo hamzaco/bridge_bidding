@@ -1,0 +1,567 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ52.J84.Q97.632 KJT764.62.A.QJ54 3.AKQ93.643.K987 98.T75.KJT852.AT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "S"]
+Pass 1S 2H X
+3H 3S Pass Pass
+Pass
+[Play "N"]
+H8 H2 HQ H5
+H4 H6 HK H7
+HJ S4 HA HT
+C6 C4 C7 CT
+C2 C5 C8 CA
+D7 DA D6 D2
+C3 CQ C9 S9
+D9 S6 D3 D5
+SQ CJ CK S8
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ52.J84.Q97.632 KJT764.62.A.QJ54 3.AKQ93.643.K987 98.T75.KJT852.AT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "S"]
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J5.K853.AK7.JT87 KQT96.642.96.942 A2.AQ.QJ85432.K6 8743.JT97.T.AQ53 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2N Pass 3C
+Pass 3D Pass 3N
+Pass Pass Pass
+[Play "E"]
+SJ SQ SA S4
+H3 H6 HA H7
+H5 H2 HQ H9
+DA D6 D2 DT
+HK H4 S2 HT
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J5.K853.AK7.JT87 KQT96.642.96.942 A2.AQ.QJ85432.K6 8743.JT97.T.AQ53 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "W"]
+[Play "E"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "33"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T42.JT.K9832.AJ4 AK6.A986.T4.K983 853.K43.A65.T762 QJ97.Q752.QJ7.Q5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2C Pass 2H
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "33"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T42.JT.K9832.AJ4 AK6.A986.T4.K983 853.K43.A65.T762 QJ97.Q752.QJ7.Q5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "34"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT8.954.A982.KQ2 Q762.AK7.KQJ3.74 KJ5.QT32.T54.T53 943.J86.76.AJ986 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "E"]
+Pass 1C X Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "34"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT8.954.A982.KQ2 Q762.AK7.KQJ3.74 KJ5.QT32.T54.T53 943.J86.76.AJ986 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "E"]
+Pass 1D 1N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "35"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8.JT62.Q.JT97542 KJ43.9.K853.KQ83 2.AKQ854.AJT972. AQT9765.73.64.A6 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "S"]
+4C X 4H 4S
+4N an li Pass
+5D 5S Pass an
+no Pass 6D 6S
+X an He Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "35"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8.JT62.Q.JT97542 KJ43.9.K853.KQ83 2.AKQ854.AJT972. AQT9765.73.64.A6 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "S"]
+4C Pass 4H 4S
+5H 5S 6H Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "36"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 83.97652.AKQ873.AK94 AKQ942.JT5.T87532.J6 AQ4.64.QJ6.T75 KJT83.92."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "W"]
+1C 1S Pass 2C
+2H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "36"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 83.97652.AKQ873.AK94 AKQ942.JT5.T87532.J6 AQ4.64.QJ6.T75 KJT83.92."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "W"]
+1H Pass 1S 3C
+4C Pass 4D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK4.8632.J87.832 QJ95.T.9652.J764 762.A954.KQT4.Q9 T83.KQJ7.A3.AKT5 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK4.8632.J87.832 QJ95.T.9652.J764 762.A954.KQT4.Q9 T83.KQJ7.A3.AKT5 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "N"]
+1D 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 8742.Q87.5.T7643 T5.KT.KT873.QJ85 QJ96.AJ943.642.9 AK3.652.AQJ9.AK2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "E"]
+1C Pass 2D Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 8742.Q87.5.T7643 T5.KT.KT873.QJ85 QJ96.AJ943.642.9 AK3.652.AQJ9.AK2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "E"]
+2C Pass 2D Pass
+2N Pass 3C Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT863.J97.J83.82 QJ2.T85.T7642.94 54.AK42.AKQ95.JT K97.Q63.AKQ7653."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "S"]
+Pass Pass 1D 2C
+X Pass 3C X
+3D Pass 3H Pass
+3S Pass 4D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT863.J97.J83.82 QJ2.T85.T7642.94 54.AK42.AKQ95.JT K97.Q63.AKQ7653."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "S"]
+Pass Pass 1C an
+16 4C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "40"]
+[West "Petersson"]
+[North "Jansma"]
+[East "Ahlesved"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ9.KJ84.T762.K2 52.Q9632.K.AJ954 AT63.T5.AQ.QT763 K874.A7.J98543.8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gustawsson"]
+[Auction "W"]
+Pass 1C 1D X
+Pass 1N Pass Pass
+2C Pass 2D X
+Pass Pass Pass
+[Play "S"]
+*
+
+

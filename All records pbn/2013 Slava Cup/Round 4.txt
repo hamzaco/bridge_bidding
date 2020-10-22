@@ -1,0 +1,571 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ962.KT.K4.9653 A43.962.AT87.AT4 Q8.AQJ8.QJ53.QJ8 T75.7543.962.K72 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "S"]
+Pass 1N X Pass
+Pass XX Pass 2C
+X Pass Pass XX
+Pass 2D X Pass
+Pass Pass
+[Play "N"]
+C6 C4 CQ CK
+HK H6 H8 H3
+C5 CT CJ C2
+HT H2 HA H4
+S2 H9 HQ H5
+C3 CA C8 C7
+S6 SA S8 S5
+SK S4 SQ S7
+SJ S3 HJ ST
+D4 D7 DJ D2
+DK DA D3 D9
+C9 D8 DQ D6
+S9 DT D5 H7
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJ962.KT.K4.9653 A43.962.AT87.AT4 Q8.AQJ8.QJ53.QJ8 T75.7543.962.K72 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "S"]
+Pass 1D Pass Pass
+1S Pass 3N Pass
+Pass Pass
+[Play "E"]
+DK DA D3 D2
+D4 D7 DQ D6
+S2 S3 SQ S5
+SK SA S8 S7
+C3 C4 CQ CK
+C5 DT DJ D9
+HT H2 H8 H3
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 973.8.AK9652.953 Q.AKQ932.Q43.K74 642.T654.T.QT862 AKJT85.J7.J87.AJ "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "W"]
+1C 1N X 2C
+2H Pass 2S Pass
+3H Pass 6N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 973.8.AK9652.953 Q.AKQ932.Q43.K74 642.T654.T.QT862 AKJT85.J7.J87.AJ "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "W"]
+1H Pass 1S Pass
+3H Pass 4C Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "33"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT84.J5.A6.KJT98 A975.KQ83.QJ4.54 KQ2.T9.T932.Q763 63.A7642.K875.A2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "N"]
+Pass 1H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "33"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT84.J5.A6.KJT98 A975.KQ83.QJ4.54 KQ2.T9.T932.Q763 63.A7642.K875.A2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "N"]
+Pass 1H Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "34"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T3.Q5.AQJ96.KJT6 AQ652.AKJ86.3.93 K4.T732.K8754.A5 J987.94.T2.Q8742 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "E"]
+Pass 1N 2C 2S
+3S 4D 4S X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "34"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T3.Q5.AQJ96.KJT6 AQ652.AKJ86.3.93 K4.T732.K8754.A5 J987.94.T2.Q8742 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "E"]
+Pass 1D 2D X
+3S Pass 4S 5D
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "35"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT2.KQ53.85.KQ86 94.8.KJT974.T953 QJ87.AJ6.Q63.A72 K653.T9742.A2.J4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "35"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT2.KQ53.85.KQ86 94.8.KJT974.T953 QJ87.AJ6.Q63.A72 K653.T9742.A2.J4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "36"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J654.JT4.AQ2.K42 3.753.JT75.QJ953 AK8.AQ986.93.T87 QT972.K2.K864.A6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "W"]
+Pass 1N 2S 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "36"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J654.JT4.AQ2.K42 3.753.JT75.QJ953 AK8.AQ986.93.T87 QT972.K2.K864.A6 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "W"]
+Pass 1H 1S 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A6.Q765.9.AKQ752 KJ93.K8.A643.J84 82.A942.KJT752.3 QT754.JT3.Q8.T96 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "N"]
+Pass Pass 1C 1S
+X 3S 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "37"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A6.Q765.9.AKQ752 KJ93.K8.A643.J84 82.A942.KJT752.3 QT754.JT3.Q8.T96 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "N"]
+Pass Pass 2C Pass
+2D Pass 2H Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K853.A5.K8753.43 QJ762.QJT3.Q64.J T.62.AT92.KQ9865 A94.K9874.J.AT72 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "E"]
+1H Pass 2N 3C
+4H X Pass 5C
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "38"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K853.A5.K8753.43 QJ762.QJT3.Q64.J T.62.AT92.KQ9865 A94.K9874.J.AT72 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "E"]
+1H Pass 3H 4C
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 7.AKQJ94.Q.QJ853 AK9865.65.A73.A7 QJ42.32.KJ954.94 T3.T87.T862.KT62 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "S"]
+1H 1S Pass Pass
+3C Pass 3N Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "39"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 7.AKQJ94.Q.QJ853 AK9865.65.A73.A7 QJ42.32.KJ954.94 T3.T87.T862.KT62 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "S"]
+1H 1S Pass Pass
+2C X 2H Pass
+3H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "40"]
+[West "Dubinin"]
+[North "Nunes"]
+[East "Gromov"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: QJ85.9842.Q95.J5 AT2.AK5.A3.AK962 K93.Q76.KJ62.Q87 764.JT3.T874.T43 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Real"]
+[Auction "W"]
+1C Pass 1D Pass
+2N Pass Pass Pass
+[Play "N"]
+*
+
+

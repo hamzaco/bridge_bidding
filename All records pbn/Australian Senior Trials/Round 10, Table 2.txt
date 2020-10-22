@@ -1,0 +1,346 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 7.AT875.T9843.84 A52.J2.J2.Q96532 KQ84.Q64.65.AKJT JT963.K93.AKQ7.7 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "N"]
+1N 2S X Pass
+Pass Pass
+[Play "S"]
+DT DJ D6 D7
+HA H2 H6 HK
+C8 CQ CK C7
+H5 HJ HQ H3
+C4 C2 CA S6
+S7 S2 SQ S9
+D4 C3 CJ SJ
+HT S5 H4 H9
+D3 SA S4 S3
+D8 D2 D5 DQ
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT8.J94.AT8.JT97 J654.AQT7.976.32 973.K852.QJ.AQ84 AK2.63.K5432.K65 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "None"]
+CJ C2 C4 CK
+ST S4 S7 SA
+S8 S5 S3 SK
+SQ S6 S9 S2
+CT C3 C8 C5
+C7 H7 CA C6
+C9 D6 CQ D2
+DA D7 DQ DK
+DT D9 DJ D3
+HJ HQ H2 H3
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J986.863.K9653.7 A43.QJ5.QT82.QT6 Q2.T74.J7.KJ8542 KT75.AK92.A4.A93 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "S"]
+Pass Pass 2S X
+Pass Pass 3C Pass
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+C7 CT C5 C3
+S8 S3 S2 S7
+S6 S4 SQ SK
+D6 DQ D7 D4
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A92.KJ.QJ53.AK73 KT86.Q83.QT8654.J743 A754.A872.2.Q5 T962.KT964.J9."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 2N
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQJT.653.Q7632.A 864.AT872.J5.876 A93.KQ94.KT8.J94 752.J.A94.KQT532 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "N"]
+1C Pass 1D Pass
+1N Pass 2C Pass
+2D Pass 2S Pass
+2N Pass 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 973.K987.QT6.T54 A2.T63.83.KJ7632 Q84.QJ2.AK542.Q8 KJT65.A54.J97.A9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "E"]
+1S Pass 1N Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J974.KT85.Q972.7 AK2.J632.K53.A84 865.AJ86.KT9632.QT3 AQ974.T4.QJ5."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "S"]
+Pass 1N Pass 2D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT3.T2.KQ862.A75 KQ92.K95.AJ.T962 74.AQ873.T753.K3 A865.J64.94.QJ84 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J3.2.Q943.A87653 976.96.KJ72.QJ42 QT5.AQT84.AT6.K9 AK842.KJ753.85.T "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "N"]
+1N 2C 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J.QT54.AJ6.KQ832 T9762.A3.Q.AJT94 AQ.KJ8762.K92.76 K8543.9.T87543.5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2S Pass 2N
+Pass 3C Pass 4H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Australian Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "B McDonald"]
+[North "Z Nagy"]
+[East "A Walsh"]
+[South "R Klinger"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q.952.Q93.AKQ763 96432.K7.J862.92 J7.Q843.AT754.T8 AKT85.AJT6.K.J54 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Nagy-Klinger"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "McDonald-Walsh"]
+[Auction "S"]
+1C Pass 1H 1S
+X 3S Pass Pass
+4C 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+

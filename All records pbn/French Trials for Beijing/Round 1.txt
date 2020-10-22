@@ -1,0 +1,927 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT962.AJ72.T98.Q Q8.Q3.AKQJ742.A8 K43.T65.5.T97654 A75.K984.63.KJ32 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "E"]
+Pass Pass 2N Pass
+3C Pass 3D Pass
+3N Pass Pass Pass
+[Play "S"]
+S9 SQ S4 S5
+HA H3 H5 HK
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT962.AJ72.T98.Q Q8.Q3.AKQJ742.A8 K43.T65.5.T97654 A75.K984.63.KJ32 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "E"]
+Pass Pass 2C Pass
+2D Pass 3N Pass
+4C Pass 4D Pass
+4H X Pass Pass
+4S Pass 5D Pass
+Pass Pass
+[Play "S"]
+CQ CA C7 C2
+D8 DA D5 D3
+D9 DK C6 D6
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8.532.KJ9863.AKQ Q9.Q98.AQ2.T9842 AJT54.KJ7.T54.63 K7632.AT64.7.J75 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "S"]
+1D Pass 1S Pass
+2D Pass 3D Pass
+Pass Pass
+[Play "N"]
+CQ CT C3 C5
+S8 SQ SA S2
+DJ DQ D4 D7
+D3 DA D5 S3
+DK D2 DT C7
+H2 H8 HJ HA
+CA C2 C6 CJ
+CK C4 S4 S6
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 8.532.KJ9863.AKQ Q9.Q98.AQ2.T9842 AJT54.KJ7.T54.63 K7632.AT64.7.J75 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "S"]
+1D Pass 1S Pass
+2D Pass Pass Pass
+[Play "S"]
+CQ CT C3 C5
+H5 H8 HK HA
+D3 DQ D4 D7
+S8 SQ SA S2
+D8 S9 SJ SK
+CA C2 C6 C7
+CK C4 H7 CJ
+H2 HQ HJ H4
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ3.A.JT32.KQJ62 KT862.K643.765.4 J5.T872.KQ8.9753 974.QJ95.A94.AT8 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "W"]
+Pass Pass 1C 1N
+2C an la Pass
+2H 2N Pass 3C
+Pass Pass Pass
+[Play "W"]
+HA H3 H2 HQ
+CK C4 C3 C8
+CQ S2 C5 CA
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ3.A.JT32.KQJ62 KT862.K643.765.4 J5.T872.KQ8.9753 974.QJ95.A94.AT8 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass Pass 1N
+2H Pass Pass 2S
+Pass 2N Pass 3C
+Pass Pass 3H Pass
+Pass Pass
+[Play "W"]
+HA H3 H2 H5
+CK C4 C3 CA
+S3 SK S5 S4
+SQ S2 SJ S7
+CQ H4 C5 C8
+SA S8 D8 S9
+CJ H6 C7 CT
+D2 D5 DQ DA
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 943.AQJ8752.Q86.KQ87 K63.AQ6.AJ3.A5 T.KJT87.KT954.JT62 94.95432.72."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "N"]
+1D Pass 1H X
+2C Pass 3H Pass
+Pass Pass
+[Play "E"]
+S3 SK S5 SJ
+SA S2 S4 S7
+D2 H2 D6 D7
+S9 S8 HT S6
+D8 D3 H5 DQ
+HA H3 C4 H4
+HJ H6 DT H9
+CQ CA C5 C2
+D4 H7 HK C9
+DJ ST H8 SQ
+CT C7 C6 C3
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 943.AQJ8752.Q86.KQ87 K63.AQ6.AJ3.A5 T.KJT87.KT954.JT62 94.95432.72."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "N"]
+1D Pass 4H X
+Pass 4S X Pass
+Pass Pass
+[Play "N"]
+HA H3 HT H4
+HQ HK S5 H9
+S2 S9 S7 SA
+CQ CA CT C7
+S3 SK C5 S6
+H2 H6 D7 ST
+S4 S8 DT SJ
+H5 D6 D8 D2
+DQ DJ D3 H7
+C6 DA DK D4
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ985.5.95.JT63 J63.KQJ9.873.AQ7 74.T764.A6.K9842 T2.A832.KQJT42.5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "E"]
+1D 4S X Pass
+5D Pass Pass Pass
+[Play "W"]
+SA S3 S7 S2
+SK S6 S4 ST
+SQ SJ DA H2
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ985.5.95.JT63 J63.KQJ9.873.AQ7 74.T764.A6.K9842 T2.A832.KQJT42.5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "E"]
+1D 3S X Pass
+4H Pass Pass Pass
+[Play "S"]
+SA S3 S7 ST
+SK S6 S4 S2
+CJ CA C2 C5
+H5 HK H4 H2
+S5 H9 H6 HA
+D5 D3 DA DK
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT98.T654.A4.AT2 AJ2.K8.KT9873.73 73.A97.QJ65.KJ96 Q654.QJ32.2.Q854 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "S"]
+1C 1D 2N Pass
+Pass Pass
+[Play "S"]
+H4 HK HA H2
+HT H8 H7 H3
+D4 D7 DQ D2
+CT C3 C6 C4
+DA D3 D5 S4
+CA C7 C9 C5
+C2 D8 CK C8
+S8 SJ S3 S5
+S9 SA S7 S6
+H5 DK D6 HJ
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT98.T654.A4.AT2 AJ2.K8.KT9873.73 73.A97.QJ65.KJ96 Q654.QJ32.2.Q854 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "S"]
+1C 1D X Pass
+1S Pass 2N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J982.AK9.Q5.9765 QT5.432.AKT8.832 K763.JT65.7.AJT4 A4.Q87.J96432.KQ "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "W"]
+Pass Pass 1D Pass
+1N X 2D 2S
+3D 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J982.AK9.Q5.9765 QT5.432.AKT8.832 K763.JT65.7.AJT4 A4.Q87.J96432.KQ "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "W"]
+Pass 2H an bi
+Pass 2S an to
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT.98.Q754.J9764 KQ5.7.T632.AKT83 98763.A6432.J.Q2 J42.KQJT5.AK98.5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT.98.Q754.J9764 KQ5.7.T632.AKT83 98763.A6432.J.Q2 J42.KQJT5.AK98.5 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "N"]
+2H an M  Pass
+Pass X Pass Pass
+2S Pass Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT53.J.KQJ973.Q9 A982.A9763.JT52.J74 854.T862.K87.K6 KQT2.A54.A643."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "E"]
+1N X an Ma
+2C Pass 2H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT53.J.KQJ973.Q9 A982.A9763.JT52.J74 854.T862.K87.K6 KQT2.A54.A643."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "E"]
+1N 2D 3D Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A.8642.QT965432.K872 AJ3.3.AKJ87.T63 QT95.AJ9872.QJ954.K7 KQT654.."]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "S"]
+4C Pass Pass 4D
+Pass 4N Pass 5D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A.8642.QT965432.K872 AJ3.3.AKJ87.T63 QT95.AJ9872.QJ954.K7 KQT654.."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "S"]
+Pass 1C 1D 1S
+Pass 3S Pass 3N
+Pass 4C Pass 4D
+Pass 4H Pass 4S
+Pass 4N Pass 5C
+Pass 5S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: JT92.73.KJT42.JT AKQ.J6.AQ.A86542 64.9854.93.KQ973 8753.AKQT2.8765."]
+[Declarer "E"]
+[Contract "5"]
+[Result "8"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "W"]
+2N Pass 3C Pass
+3D Pass 3S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: JT92.73.KJT42.JT AKQ.J6.AQ.A86542 64.9854.93.KQ973 8753.AKQT2.8765."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "W"]
+2N Pass 3D X
+Pass Pass 3S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ7.AJ6.AQ43.J75 JT94.T97.J65.K82 532.Q32.KT972.AQ K86.K854.8.T9643 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ7.AJ6.AQ43.J75 JT94.T97.J65.K82 532.Q32.KT972.AQ K86.K854.8.T9643 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "N"]
+Pass Pass 1D Pass
+2D an 10 Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQ732.AJ.A6.T875 JT85.KT86.J5.943 K94.Q95.KT743.KQ 6.7432.Q982.AJ62 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "E"]
+Pass 1S Pass 3D
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AQ732.AJ.A6.T875 JT85.KT86.J5.943 K94.Q95.KT743.KQ 6.7432.Q982.AJ62 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 2N Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKJ74.65.T97.K98 9.87.AK62.AQ7642 QT853.KT42.83.JT 62.AQJ93.QJ54.53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "S"]
+1S 2C 4S X
+Pass 4N Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKJ74.65.T97.K98 9.87.AK62.AQ7642 QT853.KT42.83.JT 62.AQJ93.QJ54.53 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "S"]
+1S 2C 4S X
+Pass 4N Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Trials for Beijing"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Quantin"]
+[North "Volcker"]
+[East "Bompis"]
+[South "De Tessier"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJ96.AQJ64.J.854 2.T875.K972.KJ96 A8743.9.AQT.QT73 KT5.K32.86543.A2 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "VOLCKER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "MULTON"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 2S Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+

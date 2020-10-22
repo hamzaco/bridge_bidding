@@ -1,0 +1,910 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ83.K8.KQ532.A8 J954.T.J9.KQJT62 A6.J6532.T87.753 T72.AQ974.A64.94 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass 1H 1N Pass
+2C Pass 2D 3C
+3D Pass Pass Pass
+[Play "W"]
+H8 HT H2 HA
+CA C2 C3 C4
+S3 S4 SA S2
+D2 D9 D7 DA
+HK DJ H3 H7
+C8 CK C5 C9
+D3 CQ C7 S7
+SK S5 S6 ST
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ83.K8.KQ532.A8 J954.T.J9.KQJT62 A6.J6532.T87.753 T72.AQ974.A64.94 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass Pass Pass 3C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT.A85.T982.JT65 K8.QT973.A54.987 J5432.K6.KQ.AQ32 Q976.J42.J763.K4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 1N Pass 2S
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT.A85.T982.JT65 K8.QT973.A54.987 J5432.K6.KQ.AQ32 Q976.J42.J763.K4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass Pass 2D an
+mu 2S 3H an
+Pa X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQJT6.974.2.K742 92.QJ632.93.AJ85 87.AKT.KT754.T93 K543.85.AQJ86.Q6 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 1N Pass
+2C an CB Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQJT6.974.2.K742 92.QJ632.93.AJ85 87.AKT.KT754.T93 K543.85.AQJ86.Q6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1S Pass 1N Pass
+2C Pass 2N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKT974.9.Q7.AK98 Q53.J87652.K93.3 82.KT.T6542.QJT6 J6.AQ43.AJ8.7542 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 1N Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKT974.9.Q7.AK98 Q53.J87652.K93.3 82.KT.T6542.QJT6 J6.AQ43.AJ8.7542 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+Pass Pass 1H X
+4H Pass Pass 4S
+5H X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A653.K54.A986.A2 QJ72.J9873.K5.J8 K98.A62.74.97653 T4.QT.QJT32.KQT4 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A653.K54.A986.A2 QJ72.J9873.K5.J8 K98.A62.74.97653 T4.QT.QJT32.KQT4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass Pass 1N Pass
+Pass 2D Pass Pass
+X an oP Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ98.AT64.QT6.83 76.87.K832.QJT64 J4.QJ953.A975.92 KT532.K2.J4.AK75 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ98.AT64.QT6.83 76.87.K832.QJT64 J4.QJ953.A975.92 KT532.K2.J4.AK75 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1S Pass 1N Pass
+2C an na Pass
+2D Pass 2S Pass
+3C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K83.QJ98.A87.KJ8 AJ96.765.KT654.A Q754.A3.Q3.97542 T2.KT42.J92.QT63 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1C X 1S Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K83.QJ98.A87.KJ8 AJ96.765.KT654.A Q754.A3.Q3.97542 T2.KT42.J92.QT63 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 97642.T82.96.KT6 AJ53.KQ74.AJ.AQ5 KT.AJ9.T853.J732 Q8.653.KQ742.984 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1C an st Pass
+1D 1H X Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 97642.T82.96.KT6 AJ53.KQ74.AJ.AQ5 KT.AJ9.T853.J732 Q8.653.KQ742.984 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9843.KT.J74.AT92 KQJT.986.63.K863 6.Q42.AK9852.Q54 A752.AJ753.QT.J7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1D 1H X an
+4o 2H Pass Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9843.KT.J74.AT92 KQJT.986.63.K863 6.Q42.AK9852.Q54 A752.AJ753.QT.J7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+2D X 3D 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ64.752.QJ6.J54 A82.K943.542.K93 Q75.JT6.AK8.Q762 T93.AQ8.T973.AT8 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass Pass 1H Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KJ64.752.QJ6.J54 A82.K943.542.K93 Q75.JT6.AK8.Q762 T93.AQ8.T973.AT8 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass Pass Pass 1D
+an PX Pass 1S
+Pass 1N an co
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A7.9742.J54.QT63 8.KQT86.KQ832.52 KT9642.J3.AT6.A8 QJ53.A5.97.KJ974 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 1H 1S 1N
+Pass 2D 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A7.9742.J54.QT63 8.KQT86.KQ832.52 KT9642.J3.AT6.A8 QJ53.A5.97.KJ974 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 2H an 5M
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJT963.T64.AJ.65 A75.K87.KT2.QJT2 K4.AQ53.Q9875.84 82.J92.643.AK973 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1D 1H Pass 2S
+Pass 3D Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJT963.T64.AJ.65 A75.K87.KT2.QJT2 K4.AQ53.Q9875.84 82.J92.643.AK973 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1C 1D 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A975.AQ92.9.QJ54 K3.T853.J5.KT976 JT82.J4.KT863.A2 Q64.K76.AQ742.83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass 1D X Pass
+1S Pass 2S Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A975.AQ92.9.QJ54 K3.T853.J5.KT976 JT82.J4.KT863.A2 Q64.K76.AQ742.83 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT43.KQ.J87653.A 97.A9532.AT2.T92 Q85.764.K.KQ8765 AK62.JT8.Q94.J43 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: JT43.KQ.J87653.A 97.A9532.AT2.T92 Q85.764.K.KQ8765 AK62.JT8.Q94.J43 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass 1D 1H 2C
+2D Pass 2H 3C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 72.632.JT6.AQ643 T84.KT9854.43.85 K65.A7.AK8.KT972 AQJ93.QJ.Q9752.J "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass Pass 1C 1S
+2C Pass 2N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 72.632.JT6.AQ643 T84.KT9854.43.85 K65.A7.AK8.KT972 AQJ93.QJ.Q9752.J "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass Pass 1C 1S
+X! 2H 3C Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Netherlands-Sweden match"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Upmark"]
+[North "Brink"]
+[East "Cullin"]
+[South "Drijver"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 86.T852.AQT85.43 AKQ.K.42.AKT8652 T9754.Q9643.963. J32.AJ7.KJ7.QJ97 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1C 2D X 3H
+4C 4H Pass Pass
+4S Pass 6C Pass
+Pass Pass
+[Play "N"]
+*
+
+

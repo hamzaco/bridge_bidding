@@ -1,0 +1,241 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Morath"]
+[North "Auby"]
+[East "Efraimsso"]
+[South "Hallberg"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J642.Q653.Q6.873 K75.K984.K84.AT9 AT8.T72.J973.Q54 Q93.AJ.AT52.KJ62 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Göthe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Morath"]
+[Auction "N"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Morath"]
+[North "Auby"]
+[East "Efraimsso"]
+[South "Hallberg"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: JT53.K9.AQ2.K984 K9764.62.J8653.J Q2.QJ875.K9.Q753 A8.AT43.T74.AT62 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Göthe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Morath"]
+[Auction "E"]
+1C X! an 13
+Pass 1H Pass Pass
+1S 2C Pass Pass
+2D Pass Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Morath"]
+[North "Auby"]
+[East "Efraimsso"]
+[South "Hallberg"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q932.QT8.Q7.KJT5 AK4.9432.KT64.72 JT875.AJ75.J8.A6 6.K6.A9532.Q9843 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Göthe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Morath"]
+[Auction "S"]
+1N Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Morath"]
+[North "Auby"]
+[East "Efraimsso"]
+[South "Hallberg"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 32.8.QT9743.9876 5.AJT72.A862.K42 QJT74.543.J5.AJT AK986.KQ96.K.Q53 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Göthe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Morath"]
+[Auction "W"]
+1H 1S 2N an
+3! Pass 3C Pass
+4D an ko X
+XX Pass 4S Pass
+4N Pass 5S Pass
+6H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Morath"]
+[North "Auby"]
+[East "Efraimsso"]
+[South "Hallberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J8.AJ76.AQJ532.5 KT952.Q542.4.K83 6.KT93.K9.QJT642 AQ743.8.T876.A97 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Göthe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Morath"]
+[Auction "N"]
+Pass 1S X 4S
+5C Pass 5D Pass
+5H Pass Pass X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Morath"]
+[North "Auby"]
+[East "Efraimsso"]
+[South "Hallberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: T852.A654.T3.Q62 KJ9.Q.AQ2.AK9874 A73.T98732.K54.J Q64.KJ.J9876.T53 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Göthe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Morath"]
+[Auction "E"]
+Pass Pass 1C 2H
+Pass 3H X! Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Morath"]
+[North "Auby"]
+[East "Efraimsso"]
+[South "Hallberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQ63.A76.J.QJT75 J97.KQJ5.AK64.98 85.T8.QT975.AK62 AT42.9432.832.43 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Göthe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Morath"]
+[Auction "S"]
+1D X Pass 1S
+Pass Pass 2D 2H
+Pass Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Morath"]
+[North "Auby"]
+[East "Efraimsso"]
+[South "Hallberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q9742.J3.AKJ5.K3 K.QT97.T9732.AJ2 AT63.K84.Q86.974 J85.A652.4.QT865 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Göthe"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Morath"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 2H an 8-
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+

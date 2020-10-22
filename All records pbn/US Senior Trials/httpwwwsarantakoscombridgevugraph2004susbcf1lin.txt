@@ -1,0 +1,871 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A.932.AK643.T532 KJ875.54.Q87.Q98 T94.QJT76.JT52.7 Q632.AK8.9.AKJ64 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+Pass 1C 1D 1S
+3D 4D Pass 4S
+Pass Pass Pass
+[Play "N"]
+C2 C9 C7 CA
+SA S5 S4 S2
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A.932.AK643.T532 KJ875.54.Q87.Q98 T94.QJT76.JT52.7 Q632.AK8.9.AKJ64 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+Pass 1C 1D 1S
+2D 4D an !S
+ 0 Pass 4S Pass
+Pass Pass
+[Play "N"]
+C5 C9 C7 CA
+SA S5 S9 S2
+C2 C8 S4 C4
+DK D7 D2 D9
+C3 CQ ST C6
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ8643.6.K72.JT2 KJT.2.AJ85.K7654 952.T9743.Q4.983 7.AKQJ85.T963.AQ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+1H 1S X Pass
+4H Pass Pass Pass
+[Play "S"]
+CJ C4 C9 CA
+H6 H2 H3 HA
+S6 C5 H4 HK
+S3 ST H7 HQ
+S4 C6 H9 HJ
+C2 C7 C3 CQ
+SA SJ S2 S7
+S8 SK S5 D3
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ8643.6.K72.JT2 KJT.2.AJ85.K7654 952.T9743.Q4.983 7.AKQJ85.T963.AQ "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+1H 1S X Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q853.KJT84.T84.9 JT964.7.AQ5.KQJ3 Q9652.J9732.A87. AK72.A3.K6.T6542 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass 1S Pass 2N
+an A Pass 3D
+an a Pass 3H
+X 4H Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q853.KJT84.T84.9 JT964.7.AQ5.KQJ3 Q9652.J9732.A87. AK72.A3.K6.T6542 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass 1S Pass 3C
+an GF Pass 3D
+an a  Pass 3H
+an as X 4H
+5H 6S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J9762.K2.Q965.KT K3.QT65.A8.J6543 AQ8.J9874.J4.A82 T54.A3.KT732.Q97 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J9762.K2.Q965.KT K3.QT65.A8.J6543 AQ8.J9874.J4.A82 T54.A3.KT732.Q97 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 74.A942.KJT3.J75 AKQ.KT87.A65.T86 852.6.Q9742.KQ43 JT963.QJ53.8.A92 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2C Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 74.A942.KJT3.J75 AKQ.KT87.A65.T86 852.6.Q9742.KQ43 JT963.QJ53.8.A92 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+Pass Pass Pass 1N
+an 15 Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 965.J5.AT976.KJ6 KQ.AQ986.KJ85.42 74.K742.Q432.Q98 AJT832.T3.AT753."]
+[Declarer "E"]
+[Contract "6"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+1S Pass 2H Pass
+2S Pass 3S Pass
+4C Pass 4H Pass
+5D Pass 6S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 965.J5.AT976.KJ6 KQ.AQ986.KJ85.42 74.K742.Q432.Q98 AJT832.T3.AT753."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+1S Pass 2H Pass
+2S Pass 3D Pass
+3H Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ96.QJ53.QJ92.T Q842.82.A83.A873 A73.KT9.4.KQJ954 T5.A764.KT765.62 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 2C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KJ96.QJ53.QJ92.T Q842.82.A83.A873 A73.KT9.4.KQJ954 T5.A764.KT765.62 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT.T63.KQJ5.K642 3.AJ82.T742.AT97 AKQ52.Q97.A9.J85 98764.K54.863.Q3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT.T63.KQJ5.K642 3.AJ82.T742.AT97 AKQ52.Q97.A9.J85 98764.K54.863.Q3 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+Pass 1N an 15
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQT3.A82.A7.9743 982.K76.Q98542.5 6.T43.T63.AJT862 AJ754.QJ95.KJ.KQ "]
+[Declarer "W"]
+[Contract "5"]
+[Result "8"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+3C X 4C Pass
+Pass X Pass 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQT3.A82.A7.9743 982.K76.Q98542.5 6.T43.T63.AJT862 AJ754.QJ95.KJ.KQ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+3C X Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A732.42.AKQT862.KQT97632 J98.8.7.J85 KT6.AKT9.943.A4 Q54.QJ7653.J5."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+Pass 1C 4S X
+Pass 5C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A732.42.AKQT862.KQT97632 J98.8.7.J85 KT6.AKT9.943.A4 Q54.QJ7653.J5."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+Pass 1C 4S X
+an ca Pass 5S
+Pass 6C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ86.QT743.Q84.5 K94.J95.AK5.KJT6 Q75.AK.972.A9732 T32.862.JT63.Q84 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass 1N Pass Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ86.QT743.Q84.5 K94.J95.AK5.KJT6 Q75.AK.972.A9732 T32.862.JT63.Q84 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass 1N an 15
+Pass Pass 2C an
+Ma Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A5.QT95.A8532.K4 9842.AJ84.KT7.75 QT6.632.QJ64.A62 KJ73.K7.9.QJT983 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+Pass Pass 3C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A5.QT95.A8532.K4 9842.AJ84.KT7.75 QT6.632.QJ64.A62 KJ73.K7.9.QJT983 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "W"]
+Pass Pass 1C 1D
+X 3D an Mi
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J8.KQ9.QT76.T763 752.T76432.K.AQ2 A6.J5.AJ4.KJ9854 KQT943.A8.98532."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+1C 1S 2C Pass
+2N 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J8.KQ9.QT76.T763 752.T76432.K.AQ2 A6.J5.AJ4.KJ9854 KQT943.A8.98532."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "N"]
+1C 1S 2C X!
+an XX 3C 4C
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKT985.K6.T93.87 J7.AQ8752.54.963 Q4.T9.AKQ876.J54 632.J43.J2.AKQT2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 2S Pass 3C
+Pass 3D Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKT985.K6.T93.87 J7.AQ8752.54.963 Q4.T9.AKQ876.J54 632.J43.J2.AKQT2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "US Senior Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "BELL"]
+[North "BATES"]
+[East "MILES"]
+[South "STANSBY"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 65.K54.J9842.J92 3.AQJ832.Q3.KQ84 KT82.7.A76.AT763 AQJ974.T96.KT5.5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MELTZER"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ONSTOTT"]
+[Auction "S"]
+Pass 1H X 1S
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+

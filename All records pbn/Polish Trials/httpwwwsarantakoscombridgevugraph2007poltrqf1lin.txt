@@ -1,0 +1,691 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ92.8643.J.AK64 KQ8543.Q72.Q643.76 KJ9.K87.QJ975. T.AT5.AT952.T832 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "N"]
+Pass Pass 1C 2S
+3C Pass Pass Pass
+[Play "W"]
+SA SK S6 ST
+C4 S5 CJ C2
+C8 CK S4 C5
+H4 H7 H9 HT
+C6 D3 CQ CT
+D5 SJ SQ S7
+H3 H2 HK HA
+CA D4 C7 C3
+S9 S3 D7 D2
+H6 HQ HJ H5
+S2 S8 C9 D9
+DT DJ DQ D8
+H8 D6 DK DA
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ92.8643.J.AK64 KQ8543.Q72.Q643.76 KJ9.K87.QJ975. T.AT5.AT952.T832 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "N"]
+Pass Pass 1C 3S
+Pass Pass Pass
+[Play "N"]
+C2 C4 S3 CQ
+DJ D3 D8 DA
+S2 SK S6 ST
+SJ S4 S7 C3
+CA S5 CJ C8
+H3 DQ DK D2
+H5 H4 HQ H9
+S9 D4 D7 DT
+H6 H2 HJ HA
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J764.AQ54.K7.AQ6 A8.J9.AJ932.KT54 K2.KT832.T865.J9 QT953.76.Q4.8732 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J764.AQ54.K7.AQ6 A8.J9.AJ932.KT54 K2.KT832.T865.J9 QT953.76.Q4.8732 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A953.542.8763.97 QJ876.86.Q9.AKQT T.KQJ73.JT5.J632 K42.AT9.AK42.854 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2S Pass 2N
+Pass 3C Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A953.542.8763.97 QJ876.86.Q9.AKQT T.KQJ73.JT5.J632 K42.AT9.AK42.854 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "S"]
+Pass 1S 2H 3H
+Pass 3S Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 5.Q.QJT982.A9643 KJ.AJT98654.J75.AT87632 K7.7543..Q94 32.AK6.KQT82."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "W"]
+4H 4S X 4N
+Pass 5D X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 5.Q.QJT982.A9643 KJ.AJT98654.J75.AT87632 K7.7543..Q94 32.AK6.KQT82."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "W"]
+4H 4S X 4N
+Pass 5D X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J532.AJT4.T862.6 Q974.K2.A54.AKQT K8.Q7653.J3.8543 AT6.98.KQ97.J972 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J532.AJT4.T862.6 Q974.K2.A54.AKQT K8.Q7653.J3.8543 AT6.98.KQ97.J972 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q.QJ87.QJ96.A654 A84.K942.K54.T97 KJ2.AT63.AT82.K3 T97653.5.73.QJ82 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass 2C Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q.QJ87.QJ96.A654 A84.K942.K54.T97 KJ2.AT63.AT82.K3 T97653.5.73.QJ82 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2H Pass 2N
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT8732.Q75.AT.K4 A4.AKT.KQ93.AJ95 J96.J9643.J6.762 Q5.82.87542.QT83 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "S"]
+1S X 2S Pass
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT8732.Q75.AT.K4 A4.AKT.KQ93.AJ95 J96.J9643.J6.762 Q5.82.87542.QT83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "S"]
+1S X 2H Pass
+2S X Pass 2N
+3S X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T985.JT7.A8.AT84 AJ74.94.J9754.Q7 Q32.AQ632.QT2.J2 K6.K85.K63.K9653 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "W"]
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T985.JT7.A8.AT84 AJ74.94.J9754.Q7 Q32.AQ632.QT2.J2 K6.K85.K63.K9653 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 1N Pass
+2C Pass 2D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9.K974.KQJ96.K93 AJ7.AQ3.AT854.64 KQ54.T52.7.JT852 T8632.J86.32.AQ7 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 9.K974.KQJ96.K93 AJ7.AQ3.AT854.64 KQ54.T52.7.JT852 T8632.J86.32.AQ7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "N"]
+Pass Pass 1D 1N
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQT2.A86.K2.KJT4 8543.T52.J85.AQ6 J96.Q4.AT973.983 A7.KJ973.Q64.752 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "E"]
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQT2.A86.K2.KJT4 8543.T52.J85.AQ6 J96.Q4.AT973.983 A7.KJ973.Q64.752 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "E"]
+Pass 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ82.AQ8.AK83.93 J94.KJ4.92.KJ754 53.T963.JT4.QT82 AT76.752.Q765.A6 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQ82.AQ8.AK83.93 J94.KJ4.92.KJ754 53.T963.JT4.QT82 AT76.752.Q765.A6 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "PIKUS"]
+[North "PUCZYNSKI"]
+[East "CICHOCKI"]
+[South "STARKOWSKI"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK52.AQ.J.985432 T76.JT74.T976.AT J83.K8652.AQ85.7 Q94.93.K432.KQJ6 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "CICHOCKI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "PUCZYNSKI"]
+[Auction "W"]
+Pass Pass 1C Pass
+1D 1H Pass 1S
+Pass Pass Pass
+[Play "W"]
+*
+
+

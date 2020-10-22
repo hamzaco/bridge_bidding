@@ -1,0 +1,948 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ84.A3.J32.KT42 9765.K96.A97.A83 T3.T87.K854.Q975 AK2.QJ542.QT6.J6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+Pass 1H Pass 2N
+an 3  Pass 3N
+Pass Pass an 3!
+Pass
+[Play "N"]
+D2 D7 D4 DQ
+H3 HK H7 H2
+HA H6 H8 HQ
+C2 C3 CQ C6
+CK C8 C5 CJ
+C4 CA C7 S2
+S4 S5 S3 SK
+S8 S6 ST SA
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ84.A3.J32.KT42 9765.K96.A97.A83 T3.T87.K854.Q975 AK2.QJ542.QT6.J6 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1H Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+SQ S5 ST SK
+H3 HK H7 H2
+HA H6 H8 HJ
+C2 C3 CQ C6
+CK CA C5 CJ
+S4 H9 HT HQ
+D2 C8 D5 H4
+D3 D7 S3 H5
+S8 S6 D4 SA
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T54.K4.983.97653 AK72.Q732.KQT.QJ QJ98.5.AJ754.AT8 63.AJT986.62.K42 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+ST SA S8 S6
+H4 HQ H5 HA
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T54.K4.983.97653 AK72.Q732.KQT.QJ QJ98.5.AJ754.AT8 63.AJT986.62.K42 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+2H Pass 4H X
+Pass Pass Pass
+[Play "S"]
+S5 SA S8 S3
+H4 H2 H5 HA
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 74.QT.AQJ9.Q8765 A963.A54.K6.K943 KJ85.K9832.42.AJ QT2.J76.T8753.T2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+Pass 1C 1H Pass
+2C Pass 2S Pass
+3N Pass Pass Pass
+[Play "W"]
+S4 S3 SK S2
+HT H4 H2 H7
+HQ H5 H3 HJ
+C5 C3 CJ CT
+D9 HA H8 H6
+C6 C4 CA C2
+C7 S6 HK D8
+S7 C9 H9 D3
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 74.QT.AQJ9.Q8765 A963.A54.K6.K943 KJ85.K9832.42.AJ QT2.J76.T8753.T2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+1N X XX 2D
+X Pass 2H Pass
+2N Pass 3S Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 73.QJ965.T82.AQ8 54.732.AKQ4.KJ65 2.KT84.J653.T732 AKQJT986.A.97.94 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+1C Pass 1S Pass
+1N Pass 2C Pass
+2D an no Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 73.QJ965.T82.AQ8 54.732.AKQ4.KJ65 2.KT84.J653.T732 AKQJT986.A.97.94 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+1C Pass 1D 1H
+X 2H X Pass
+3C Pass 3S Pass
+4S Pass 5H Pass
+5S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK.KT.AQJ983.A87 97653.432.42.KQ6 T842.985.K65.JT9 QJ.AQJ76.T7.5432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D 1H 2D an
+fo Pass 3D Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK.KT.AQJ983.A87 97653.432.42.KQ6 T842.985.K65.JT9 QJ.AQJ76.T7.5432 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+Pass 1H X 2H
+Pass Pass X Pass
+2S Pass 3D Pass
+4S Pass 5D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q.AJT963.KJT983.KJ9532 J9.K742.5.AQT64 8543.8.AQ6.87 AKT762.Q5.742."]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+2H 2N Pass 3H
+Pass 4H Pass 4S
+Pass 4N Pass 5H
+Pass 6C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: Q.AJT963.KJT983.KJ9532 J9.K742.5.AQT64 8543.8.AQ6.87 AKT762.Q5.742."]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+2D 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 9865.AT84.J8.KT7 AT3.Q3.KQT42.Q82 42.K7652.A75.AJ6 KQJ7.J9.963.9543 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+Pass 1D 1H X
+2H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 9865.AT84.J8.KT7 AT3.Q3.KQT42.Q82 42.K7652.A75.AJ6 KQJ7.J9.963.9543 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+Pass 1C Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A3.J962.KQJ3.Q86 KT54.AT875.AT8.7 J987.43.7654.T53 Q62.KQ.92.AKJ942 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+1H Pass 2C an
+2+  F Pass 2H
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A3.J962.KQJ3.Q86 KT54.AT875.AT8.7 J987.43.7654.T53 Q62.KQ.92.AKJ942 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass 2H Pass
+2S Pass 2N Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q92.Q.AT73.AJT85 KJ53.842.J98.976 A87.JT76.Q62.K32 T64.AK953.K54.Q4 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+Pass 1H X Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q92.Q.AT73.AJT85 KJ53.842.J98.976 A87.JT76.Q62.K32 T64.AK953.K54.Q4 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass Pass X 1S
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T876.K2.QT976.85 AKJ953.A65.84.T9 4.QT83.AKJ.AKQ73 Q2.J974.532.J642 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+Pass Pass 1S X
+Pass 2D 2S X
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T876.K2.QT976.85 AKJ953.A65.84.T9 4.QT83.AKJ.AKQ73 Q2.J974.532.J642 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+1S X Pass 2D
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T975.QJ75.K92.98 K842.A983.A753.3 A6.QJT864.KQJ64.QJ3 KT642.AT752."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T975.QJ75.K92.98 K842.A983.A753.3 A6.QJT864.KQJ64.QJ3 KT642.AT752."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+Pass 1C 4D X
+Pass 4H 5C X
+5D X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJT3.AT4.J3.Q765 865.Q93.KQT65.K9 974.652.A87.T832 KQ2.KJ87.942.AJ4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+Pass Pass 1C 1S
+2D Pass 2N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AJT3.AT4.J3.Q765 865.Q93.KQT65.K9 974.652.A87.T832 KQ2.KJ87.942.AJ4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+1N Pass 2C Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ7.AQJ873.73.AK 6532.54.K82.T876 K98.KT.AQJT4.Q93 QT4.962.965.J542 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1020"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+1D Pass 1H Pass
+1S an no Pass
+2C an ch Pass
+2D an no Pass
+4N an as Pass
+5D Pass 5N an
+as Pass 6H Pass
+6N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AJ7.AQJ873.73.AK 6532.54.K82.T876 K98.KT.AQJT4.Q93 QT4.962.965.J542 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "N"]
+1N Pass 2D Pass
+2H Pass 2S Pass
+3H Pass 4C Pass
+4D Pass 4N Pass
+5H Pass 5N Pass
+6D Pass 7H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J643.J52.Q63.T98 K2.Q3.T542.J7642 AQ7.K8764.AJ97.5 T985.AT9.K8.AKQ3 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J643.J52.Q63.T98 K2.Q3.T542.J7642 AQ7.K8764.AJ97.5 T985.AT9.K8.AKQ3 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "E"]
+1C Pass 1H X
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A2.AJT5432.Q843.Q53 54.KQ96.JT95.KJ98764 AQ82.72.T.KJT9763 87.AK6."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+2D an 12 Pass
+2S 4H 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A2.AJT5432.Q843.Q53 54.KQ96.JT95.KJ98764 AQ82.72.T.KJT9763 87.AK6."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "S"]
+2D Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Italian Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "GIUBILO"]
+[North "PAGANI"]
+[East "VERSACE"]
+[South "PINGUELLO"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 8765.A8.9875.A93 KT.K97.AKQJT3.T7 Q.QJT643.62.KJ52 AJ9432.52.4.Q864 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "BASSINI"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ANGELINI"]
+[Auction "W"]
+1D 1H 2H Pass
+2N an XX Pass
+3C an 6! Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+

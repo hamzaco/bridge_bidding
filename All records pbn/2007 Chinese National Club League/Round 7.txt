@@ -1,0 +1,575 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J2.A86532.Q2.J54 QT965.9.KJ6.KQ76 K743.QJT.A84.T92 A8.K74.T9753.A83 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "N"]
+Pass 1D 1H 1S
+2D Pass 2H Pass
+Pass 2N Pass Pass
+Pass
+[Play "S"]
+H5 H9 HJ HK
+DQ DK DA DT
+H2 S5 HQ H4
+HA S6 HT H7
+H8 S9 D4 D3
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJ97542.65.Q.Q43 T8.AQ3.J965.AKT8 AK6.K842.KT87.97 3.JT97.A432.J652 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "E"]
+Pass 2D X 3H
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+C4 CK C7 C6
+C3 CA C9 C2
+DQ D6 D7 DA
+H6 HA H2 HJ
+H5 H3 HK H7
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J5.93.JT.AK98762 Q9863.A864.87.JT AT42.QJ5.AKQ3.Q5 K7.KT72.96542.43 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "S"]
+3C Pass 3N Pass
+Pass Pass
+[Play "W"]
+H3 HA H5 H2
+H9 H4 HQ HK
+C2 H6 HJ HT
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J8.J9753.QJ8.KQ8 4.A864.732.J9652 A653.QT2.AK9.AT3 KQT972.K.T654.74 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "W"]
+Pass 1C an Pa
+2S 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 94.AKQJ7.432.965 A872.98.QJ6.KT74 KQJ5.542.KT875.J T63.T63.A9.AQ832 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "N"]
+Pass Pass 1H X
+XX 2C Pass Pass
+2H 3C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J3.QJT2.K43.KT92 AKQT2.9763.7.J83 98765.5.AQT52.A5 4.AK84.J986.Q764 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "E"]
+Pass Pass 1S 2D
+X 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 5.KJT94.AQ.96432 K96.83.T986.A875 AJT84.Q652.K4.KQ Q732.A7.J7532.JT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "S"]
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J52.K.T82.AJ9753 7.A732.AKQ643.T4 Q9863.QJT64.7.62 AKT4.985.J95.KQ8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "W"]
+1D Pass 1S Pass
+2D Pass 3C X
+3H Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AKQ43.AQT.T3.954 82.J9632.QJ.AKT2 J76.K754.A9652.3 T95.8.K874.QJ876 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "N"]
+Pass Pass 1S Pass
+2C Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T4.J6.T853.97432 K9.KQ53.AKQJ92.Q 532.A972.74.KJ85 AQJ876.T84.6.AT6 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "E"]
+1S Pass 2D Pass
+2S Pass 3H Pass
+3S Pass 4N Pass
+5S Pass 6D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KT7.876.A963.K94 52.KT53.QJ42.AT2 J9843.J92.KT75.8 AQ6.AQ4.8.QJ7653 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1H Pass 2C
+Pass 3C Pass 5C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 654.A9852.T53.T9 J7.K7.A976.J7543 KQT83.QJ6.Q842.8 A92.T43.KJ.AKQ62 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "W"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K4.J963.KQ5.AKQ8 J532.A87.JT4.T72 AT96.KQT.7632.J5 Q87.542.A98.9643 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "N"]
+Pass Pass 1C Pass
+1N Pass 2C Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ75.Q2.K5.AKT92 43.KJ4.T9643.J75 AK9862.987.AQ7.3 T.AT653.J82.Q864 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "E"]
+Pass 1N Pass 2H
+X 3S Pass 4C
+Pass 4D X XX
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 985.AT932.A8642.AJT J975.J86.T73.K43 AKQT82.K4.Q9.Q762 643.Q75.KJ5."]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "S"]
+Pass Pass 1C Pass
+2D Pass 2H Pass
+3C Pass 3H Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K97542.QJ9.AKQ5.JT A85.63.AQJ976.83 KT432.872.T53. AQ6.76.JT94.K842 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "W"]
+1C Pass 1N 2S
+3C Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT.AJ7.KT2.QJT98 A85.K653.95.AK43 KQ973.Q42.AJ63.2 642.T98.Q874.765 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "N"]
+1S Pass 1N X
+Pass 2D 2N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 42.Q643.J9532.72 T653.2.KQ864.KT8 QJ87.AKT7.AJ654.AK9 J985.AT7.Q93."]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "E"]
+1C Pass 1S Pass
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Chinese National Club League"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Zhang XF"]
+[North "Gu Ling"]
+[East "Jiang Tong"]
+[South "Zhang YL"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T5.Q97.AK8652.76 K6.A52.J973.KT32 AQJ932.4.Q4.A984 874.KJT863.T.QJ5 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Hua Yuan"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1390"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "San Chen"]
+[Auction "S"]
+3D Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,931 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A53.J932.A.KQ632 KQJ4.T4.KQT7.JT7 T62.875.9843.A84 987.AKQ6.J652.95 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "N"]
+Pass Pass 1C 1S
+Pass 2C Pass 2D
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+H2 H4 H8 HQ
+S3 SQ S6 S7
+SA SK S2 S8
+HJ HT H5 HK
+DA D7 D3 D2
+C2 C7 CA C5
+CQ CT C8 C9
+CK CJ C4 S9
+H9 S4 H7 H6
+S5 SJ ST D5
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A53.J932.A.KQ632 KQJ4.T4.KQT7.JT7 T62.875.9843.A84 987.AKQ6.J652.95 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "N"]
+Pass Pass 1H X
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A9872.K72.K.QJ75 J643.T5.QT75.K98 KQ5.AQ986.8642.3 T.J43.AJ93.AT642 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "E"]
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A9872.K72.K.QJ75 J643.T5.QT75.K98 KQ5.AQ986.8642.3 T.J43.AJ93.AT642 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ76.Q86432.4.K5 KJ95.A5.QJ973.JT T42.K7.8652.9632 83.JT9.AKT.AQ874 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "S"]
+1H Pass 1N 2C
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ76.Q86432.4.K5 KJ95.A5.QJ973.JT T42.K7.8652.9632 83.JT9.AKT.AQ874 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "S"]
+1H an ca X
+Pass 2H Pass 2S
+Pass 3C Pass 3D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J862.AJ92.J43.K4 Q4.Q8543.K8.QJ72 AK9.KT7.A762.853 T753.6.QT95.AT96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J862.AJ92.J43.K4 Q4.Q8543.K8.QJ72 AK9.KT7.A762.853 T753.6.QT95.AT96 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "W"]
+Pass 1D an sh
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A62.Q543.KJ8632.87 A753.KJ72.AT9.KT954 KJ986.A8.7.QJ3 QT42.T96.Q54."]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 2N Pass
+3S Pass 4D X
+XX Pass 4H Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A62.Q543.KJ8632.87 A753.KJ72.AT9.KT954 KJ986.A8.7.QJ3 QT42.T96.Q54."]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "N"]
+1S an !s Pass
+2C Pass 2H Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J873.KJ86.KQT98.QT65 AK987.AT.A3.K9 QT543.7532.52.A42 J62.Q94.J764."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "E"]
+Pass 2C X Pass
+2D Pass 2H Pass
+4H Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J873.KJ86.KQT98.QT65 AK987.AT.A3.K9 QT543.7532.52.A42 J62.Q94.J764."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "E"]
+Pass Pass 1H Pass
+2H X XX Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 7.QJ9643.KT7.743 AT32.A872.A9.AK8 K854.5.QJ42.QJ96 QJ96.KT.8653.T52 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "S"]
+Pass 2N Pass 3C
+Pass 3D Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 7.QJ9643.KT7.743 AT32.A872.A9.AK8 K854.5.QJ42.QJ96 QJ96.KT.8653.T52 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "S"]
+Pass 2N Pass 3C
+Pass 3D Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ9865.8.A72.AK3 T7.KQ763.Q6.QJT9 AT942.J954.8762. AJ432.J5.KT83.54 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 1N Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ9865.8.A72.AK3 T7.KQ763.Q6.QJT9 AT942.J954.8762. AJ432.J5.KT83.54 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "W"]
+Pass Pass 1S Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 752.T42.T85.A975 AJ643.J9.KQ6.J64 T98.AKQ86.A973.8 KQ.753.J42.KQT32 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "N"]
+2H Pass Pass X
+Pass 3H Pass 3S
+Pass 4C Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 752.T42.T85.A975 AJ643.J9.KQ6.J64 T98.AKQ86.A973.8 KQ.753.J42.KQT32 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "N"]
+1H an !h Pass
+1N Pass 2D Pass
+2H 2S X Pass
+3H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 65.T65.K8642.AQ8 Q84.JT3.KJT9652.A3 QJ9832.AQ95.3.KJT972 AK74.7.74."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "E"]
+1S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 65.T65.K8642.AQ8 Q84.JT3.KJT9652.A3 QJ9832.AQ95.3.KJT972 AK74.7.74."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "E"]
+1S Pass 2N an
+3  3H 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KT5.932.J974.762 QJ863.AQ87.Q6.K9 974.J65.T32.QT85 A2.KT4.AK85.AJ43 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2H Pass 2N
+Pass 3N Pass 6N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KT5.932.J974.762 QJ863.AQ87.Q6.K9 974.J65.T32.QT85 A2.KT4.AK85.AJ43 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2H Pass 2N
+an al Pass 3N
+an 14 Pass 6N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJT952.753.4.643 Q7.AKQ9642.T7.T7 84.JT.KQ32.AKJ82 A63.8.AJ9865.Q95 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "W"]
+3N Pass Pa Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KJT952.753.4.643 Q7.AKQ9642.T7.T7 84.JT.KQ32.AKJ82 A63.8.AJ9865.Q95 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "W"]
+1H Pass 2D Pass
+3H Pass 4D Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T5.Q.97642.KQJ65 AQJ7.AK862.AT3.7 43.JT543.J8.9432 K9862.97.KQ5.AT8 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "N"]
+Pass 1S Pass 2N
+Pass 3C Pass 4C
+Pass 4D Pass 4H
+Pass 4N Pass 7S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T5.Q.97642.KQJ65 AQJ7.AK862.AT3.7 43.JT543.J8.9432 K9862.97.KQ5.AT8 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "N"]
+Pass 1S Pass 2H
+Pass 2S Pass 3S
+Pass 3N an mi
+Pass 4C Pass 4D
+Pass 4H Pass 4S
+Pass 4N Pass 5H
+Pass 7S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J8653.J92.62.KT8 KQ.Q8763.K.QJ954 A942.AK4.QT4.732 T7.T5.AJ98753.A6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "E"]
+Pass Pass 1H X
+XX 1S 2C Pass
+2D 2S Pass Pass
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J8653.J92.62.KT8 KQ.Q8763.K.QJ954 A942.AK4.QT4.732 T7.T5.AJ98753.A6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "E"]
+1D Pass 1H Pass
+2D Pass 3C Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A32.KT.6532.9864 K9765.A864.J98.A Q84.J2.KT7.KQJ32 JT.Q9753.AQ4.T75 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "S"]
+Pass 1C Pass 1N
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A32.KT.6532.9864 K9765.A864.J98.A Q84.J2.KT7.KQJ32 JT.Q9753.AQ4.T75 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Italian Societario"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Mariani C."]
+[North "Nunes C."]
+[East "Mina A."]
+[South "Fantoni F."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A84.AQ84.QJ94.K3 K7.J3.A53.QJ9875 QT9653.T75.K.AT2 J2.K962.T8762.64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "ANGELINI BT TCP"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "REGGIO EMILIA"]
+[Auction "W"]
+2C 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

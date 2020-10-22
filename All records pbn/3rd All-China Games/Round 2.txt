@@ -1,0 +1,677 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q6.T85432.T97.AQ AK75.J.653.JT432 T843.AK97.KQJ84. J92.Q6.A2.K98765 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "N"]
+1D Pass 1H 1S
+4C 4S 5H Pass
+6H Pass Pass Pass
+[Play "W"]
+S6 SA S3 S2
+SQ SK S4 S9
+H2 S5 S8 SJ
+H3 HJ HA H6
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q6.T85432.T97.AQ AK75.J.653.JT432 T843.AK97.KQJ84. J92.Q6.A2.K98765 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "N"]
+1D Pass 1H 1S
+4H X Pass Pass
+Pass
+[Play "W"]
+SQ SA S3 S2
+CA C2 S4 CK
+H2 HJ HA H6
+H3 D3 HK HQ
+D7 D5 D4 DA
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT98.QT86.53.A86 A763.KJ9752.T.KT J542.A43.A84.QJ4 K.KQJ9762.97532."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "E"]
+4D Pass Pass 
+Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT98.QT86.53.A86 A763.KJ9752.T.KT J542.A43.A84.QJ4 K.KQJ9762.97532."]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "E"]
+3D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T9732.A62.Q9.AJ8 J4.7.AKJ76542.Q3 AKQ85.KT93.KT96.6 QJ854.T83.7542."]
+[Declarer "S"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "S"]
+Pass 4D  X
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T9732.A62.Q9.AJ8 J4.7.AKJ76542.Q3 AKQ85.KT93.KT96.6 QJ854.T83.7542."]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "S"]
+1S 2D 3D Pass
+3S Pass 4D Pass
+4H Pass 4N Pass
+5H Pass 6S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 97532.T.865.8742 KJ8.AK9.Q32.JT53 AQ.6532.AK4.AQ96 T64.QJ874.JT97.K "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "W"]
+1N X XX 
+Pass 2C X 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 97532.T.865.8742 KJ8.AK9.Q32.JT53 AQ.6532.AK4.AQ96 T64.QJ874.JT97.K "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "W"]
+1C X 1H Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 42.KT6.A873.5432 KT3.A43.KQJ42.98 98.QJ872.T.AQJT7 AQJ765.95.965.K6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "N"]
+1H 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 42.KT6.A873.5432 KT3.A43.KQJ42.98 98.QJ872.T.AQJT7 AQJ765.95.965.K6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "N"]
+1H 1S 2H 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K97532.32.T62.86 QJ.T84.K983.J742 A8.QJ9765.A4.AKT T64.AK.QJ75.Q953 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "E"]
+1D Pass Pass X
+Pass 1S Pass 3H
+Pass 3S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: K97532.32.T62.86 QJ.T84.K983.J742 A8.QJ9765.A4.AKT T64.AK.QJ75.Q953 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "E"]
+1D Pass 1N X
+2C 2S Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKT.765.Q976.K75 QJ9853.932.AJ5.4 642.AQ.42.AQJT83 7.KJT84.KT83.962 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "S"]
+1D 2S 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKT.765.Q976.K75 QJ9853.932.AJ5.4 642.AQ.42.AQJT83 7.KJT84.KT83.962 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "S"]
+1D 1S 2C Pass
+Pass 2S 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T964.Q5.AJT9.Q52 K2.JT643.Q754.74 AQ85.A9.8632.AK6 J73.K872.K.JT983 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "W"]
+Pass 1C Pass 1N
+Pass 2C Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T964.Q5.AJT9.Q52 K2.JT643.Q754.74 AQ85.A9.8632.AK6 J73.K872.K.JT983 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "W"]
+Pass 1C Pass 1N
+Pass 2C Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T653.QJ.A54.J864 AKQJ7.76.982.T53 9842.AKT.QJ3.AK9 .985432.KT76.Q72 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "N"]
+1C Pass 1D 1S
+Pass Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T653.QJ.A54.J864 AKQJ7.76.982.T53 9842.AKT.QJ3.AK9 .985432.KT76.Q72 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "N"]
+1C Pass 1N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 72.K72.AJ4.T9542 Q4.Q9.QT863.KQJ8 JT983.T54.K92.73 AK65.AJ863.75.A6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "E"]
+1C Pass 1N Pass
+2C Pass 3C Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 72.K72.AJ4.T9542 Q4.Q9.QT863.KQJ8 JT983.T54.K92.73 AK65.AJ863.75.A6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "E"]
+1H Pass 2D Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ4.64.AK9543.64 J972.AK73.T.KJT5 6.QJT985.Q86.Q97 KT853.2.J72.A832 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "S"]
+1N Pass 2H 2S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ4.64.AK9543.64 J972.AK73.T.KJT5 6.QJT985.Q86.Q97 KT853.2.J72.A832 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "S"]
+1D X 1H 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "3rd All-China Games"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Shi ZJ"]
+[North "You JY"]
+[East "Ju CC"]
+[South "Cao XL"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 82.854.AK742.K54 K3.KT6.T65.QJ987 A975.AJ9732.Q3.3 QJT64.Q.J98.AT62 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Zhejiang"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hubei"]
+[Auction "W"]
+Pass 1H 2S 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+

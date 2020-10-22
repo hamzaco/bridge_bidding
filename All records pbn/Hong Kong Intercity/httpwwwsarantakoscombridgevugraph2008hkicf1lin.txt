@@ -1,0 +1,929 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ54.KJ982.Q3.AQ 986.QT4.KJ972.JT T7.A65.T65.K7642 AJ32.73.A84.9853 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "N"]
+Pass Pass 1H Pass
+2H X XX 3D
+Pass Pass 4H Pass
+Pass Pass
+[Play "W"]
+CA CJ C2 C9
+CQ CT C4 C3
+H2 H4 HA H3
+D3 HT CK C5
+DQ D9 D5 DA
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ54.KJ982.Q3.AQ 986.QT4.KJ972.JT T7.A65.T65.K7642 AJ32.73.A84.9853 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "N"]
+Pass Pass 1H Pass
+1N X XX 2D
+2H Pass Pass Pass
+[Play "W"]
+CA CJ C2 C5
+CQ CT C4 C3
+HK H4 H5 H3
+H2 HT HA H7
+D3 D7 CK C8
+SQ S9 S7 S2
+S4 S6 ST SJ
+DQ DK D5 D4
+H8 HQ H6 D8
+H9 D2 D6 DA
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J9.94.A963.KJ874 73.K53.JT2.Q9653 KQT62.JT6.854.A2 A854.AQ872.KQ7.T "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "E"]
+1H Pass 2H Pass
+2S Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J9.94.A963.KJ874 73.K53.JT2.Q9653 KQT62.JT6.854.A2 A854.AQ872.KQ7.T "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "E"]
+1H Pass 1N an
+fo Pass 2D Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK843.K72.5.Q532 T62.Q865.QJ982.4 9.AT94.KT63.AJT6 QJ75.J3.A74.K987 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "S"]
+1S Pass 1N Pass
+2C Pass 2D Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AK843.K72.5.Q532 T62.Q865.QJ982.4 9.AT94.KT63.AJT6 QJ75.J3.A74.K987 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "S"]
+1S Pass 2N an
+in Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q82.A97.A93.A976 96.Q65432.Q752.5 AJ73.KJ8.J6.KJT4 KT54.T.KT84.Q832 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "W"]
+Pass 1C Pass 2C
+Pass 2D Pass 2H
+an Fo X 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q82.A97.A93.A976 96.Q65432.Q752.5 AJ73.KJ8.J6.KJT4 KT54.T.KT84.Q832 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "W"]
+Pass 1C Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q976.3.AK.AQT843 52.975.J73.K9762 843.AKJ642.QT86. AKJT.QT8.9542.J5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "N"]
+1H 1S 2C Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q976.3.AK.AQT843 52.975.J73.K9762 843.AKJ642.QT86. AKJT.QT8.9542.J5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "N"]
+1H 1S 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 6.JT6.J73.AK8643 AQ43.AKQ43.Q9.QT J9872.975.AK642. KT5.82.T85.J9752 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "E"]
+Pass Pass 1C 1S
+Pass 1N 2H an
+18 Pass Pass 3C
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 6.JT6.J73.AK8643 AQ43.AKQ43.Q9.QT J9872.975.AK642. KT5.82.T85.J9752 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "E"]
+Pass 3C X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A9854.94.AJ7.KQT KJ2.65.KQT43.963 QT7.QT73.9852.J2 63.AKJ82.6.A8754 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "S"]
+1S Pass 1N 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A9854.94.AJ7.KQT KJ2.65.KQT43.963 QT7.QT73.9852.J2 63.AKJ82.6.A8754 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "S"]
+1S Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQT953.KT62.53.6 K876.A.AK6.Q9732 J4.975.QT972.KJT 2.QJ843.J84.A854 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "4"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +250"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "W"]
+1C Pass 1H 2S
+3C Pass 3H Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQT953.KT62.53.6 K876.A.AK6.Q9732 J4.975.QT972.KJT 2.QJ843.J84.A854 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "W"]
+1C Pass 1H 2S
+Pass Pass 3C Pass
+3S an as X
+Pass Pass 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T4.7632.KT42.T96 A92.AQT84.J853.8 QJ8753.J.Q76.543 K6.K95.A9.AKQJ72 "]
+[Declarer "E"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -2220"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "N"]
+2S X Pass 4H
+Pass 4N Pass 5S
+Pass 7N Pass Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T4.7632.KT42.T96 A92.AQT84.J853.8 QJ8753.J.Q76.543 K6.K95.A9.AKQJ72 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1470"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 2N Pass 3C
+an tX Pass 3D
+Pass 3N an st
+Pass 4C Pass 4N
+Pass 6C Pass 6N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKT932.5.Q74.A54 J7.JT843.J.JT873 Q4.AQ762.AKT85.9 865.K9.9632.KQ62 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 2S Pass 3D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKT932.5.Q74.A54 J7.JT843.J.JT873 Q4.AQ762.AKT85.9 865.K9.9632.KQ62 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1010"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "E"]
+Pass 1S Pass 2H
+Pass 3S Pass 4D
+Pass 4S Pass 5S
+Pass 6S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 962.9732.Q42.T32 QT87.KJ54.A85.K6 KJ3.A6.T976.QJ94 A54.QT8.KJ3.A875 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "S"]
+Pass 1C Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 962.9732.Q42.T32 QT87.KJ54.A85.K6 KJ3.A6.T976.QJ94 A54.QT8.KJ3.A875 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "S"]
+Pass 1D X XX
+Pass Pass 1H 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ97632.A63.K.J5 J5.QT4.QJT85.T84 KT8.85.963.AKQ92 4.KJ972.A742.763 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "W"]
+Pass 1C 1H 1S
+2H X Pass 3H
+Pass 4C Pass 4N
+Pass 5H Pass 6S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQ97632.A63.K.J5 J5.QT4.QJT85.T84 KT8.85.963.AKQ92 4.KJ972.A742.763 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "W"]
+Pass 1C 1H 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A4.AK9432.Q975.2 JT97.5.AKT6.QJ75 65.T87.J843.AT98 KQ832.QJ6.2.K643 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "N"]
+Pass 1S 2H 2N
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A4.AK9432.Q975.2 JT97.5.AKT6.QJ75 65.T87.J843.AT98 KQ832.QJ6.2.K643 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "N"]
+Pass 1S 2H 3H
+an !s  i Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ64.KT96.K.9872 AQT7.2.J984.KQ63 9.AQJ543.QT652.4 8532.87.A73.AJT5 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "E"]
+Pass Pass 1S 4H
+4S 5H X Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ64.KT96.K.9872 AQT7.2.J984.KQ63 9.AQJ543.QT652.4 8532.87.A73.AJT5 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "E"]
+Pass Pass 1D 1H
+X XX 1S 2H
+2S 4H 4S 5H
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT762.AQ864.Q93.AJ5 K83.J92.T765.93 AT97642.K.A42.Q84 QJ5.T753.KJ8."]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "S"]
+1S Pass 2H Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KT762.AQ864.Q93.AJ5 K83.J92.T765.93 AT97642.K.A42.Q84 QJ5.T753.KJ8."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "S"]
+1S Pass 2H Pass
+2S Pass 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Hong Kong Intercity"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Kotorowicz"]
+[North "Hestein Li"]
+[East "J Kalita"]
+[South "Jonky Chun"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QT6.JT87.Q963.K3 KJ52.AK5.J5.A972 843.Q32.A42.QT64 A97.964.KT87.J85 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Weide"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Warsaw"]
+[Auction "W"]
+1N Pass 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+

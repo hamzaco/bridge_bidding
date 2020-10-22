@@ -1,0 +1,897 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "1,BOARD 1"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQJT4.KQT52.97.7 A983.J4.QJ86.943 6.A973.T53.QJ862 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D 2D 3D
+4H Pass Pass Pass
+[Play "E"]
+D7 DQ D5 DK
+C7 C3 C8 CK
+D9 DJ D3 D2
+S4 SA S6 S2
+ST S3 H7 S5
+HK H4 H3 H6
+H2 HJ HA H8
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "2,BOARD 2"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J6.Q753.J7.QJT53 K743.J96.6432.94 AT985.AT2.985.K8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1S Pass
+2N Pass 3C Pass
+3D Pass Pass Pass
+[Play "None"]
+CQ C4 C8 C2
+C3 C9 CK CA
+D7 D2 D8 DA
+CT D3 D5 C6
+HQ H6 H2 H4
+CJ D4 D9 C7
+H3 H9 HA H8
+H5 HJ HT HK
+DJ D6 S5 DK
+S6 S3 SA SQ
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "3,BOARD 3"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KT2.J9432.7.8532 53.T7.KQJ32.KQJ9 AQ4.AKQ8.A9654.T "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2C X Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+C2 CK CT C7
+SK S5 S4 SJ
+D7 D2 DA D8
+H3 D3 D4 DT
+H2 H7 HA H5
+H4 DJ D5 C4
+S2 S3 SQ S9
+H9 DQ D6 CA
+HJ HT H8 H6
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "4,BOARD 4"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 7.AKT8.J32.AQ763 J964.QJ2.AK8.542 T532.9753.7.KJT8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1D Pass
+1S Pass 2S X
+Pass 3C 3S Pass
+Pass Pass
+[Play "None"]
+D2 DK D7 D4
+S7 S4 S2 SA
+C7 S6 S3 SK
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "5,BOARD 5"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K8.JT98753.73.42 Q762.KQ6.KJ642.Q AJ543.42.T9.T975 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 3H Pass 4C
+Pass 5C Pass 6D
+Pass Pass Pass
+[Play "W"]
+S8 S2 SA S9
+SK S6 S3 ST
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "6,BOARD 6"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT76.73.9732.AK3 KQ52.JT54.KQJ6.7 943.AK82.A8.J654 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 3N
+Pass Pass Pass
+[Play "None"]
+C3 C7 CJ CT
+ST SQ S3 S8
+D2 DJ DA D4
+SA S2 S4 SJ
+S6 SK S9 C8
+H3 HJ HA H9
+CK S5 C5 C2
+S7 D6 D8 D5
+D7 DQ C4 DT
+H7 H5 H2 HQ
+CA H4 C6 C9
+D3 DK H8 H6
+D9 HT HK CQ
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "7,BOARD 7"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AQ87653.JT.42.86 KJT.Q76.A75.AJ75 94.K9854.KQT96.2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+2S 3N Pass Pass
+Pass
+[Play "N"]
+D4 DA DQ D3
+C6 C7 C2 CK
+SA ST S4 S2
+D2 D5 DK D8
+S5 D7 D6 DJ
+C8 CA H4 C3
+HJ H7 H8 HA
+S3 CJ H5 C4
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "8,BOARD 8"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 874.J854.AKJ65.T AJ.K3.T9743.KQJ8 Q92.QT6.2.A95432 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N Pass 2C 2D
+X Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "9,BOARD 9"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: Q.K85.J7.QT97654 AK872.AQ3.84.J82 JT954.7642.KT9.3 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D 3C 3S
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "10,BOARD 10"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 85.875.KJ82.K872 KT7.QJ93.AT74.AQ A2.AKT6.Q3.J9543 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1N Pass
+2S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "11,BOARD 11"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT984.QJ63.K3.T8 65.K97.QJ654.Q76 732.84.A8.AKJ942 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+3H Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "12,BOARD 12"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 973.Q4.AQ83.AJ97 AK62.K853.75.QT8 T854.A96.42.K642 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 2H Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "13,BOARD 13"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 84.873.J54.AT754 K3.QJ9.QT9876.86 QJT752.T42.K2.J9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2S X Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "14,BOARD 14"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K9764.T8765.JT4.AJ52 3.KT542.AQ8.T83 AKQ94.Q87.K5."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1D 1H
+2H 4H X Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "15,BOARD 15"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT62.T93.K72.QT5 K73.A87.A63.9864 95.KJ6542.QJ5.J7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 1N Pass 2C
+Pass 2D Pass 2N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "16,BOARD 16"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T6.AQ8652.AT5.T3 A932.3.KJ76.AJ97 J874.KJT7.9.8542 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D Pass 2D 2H
+2S 4H Pass Pass
+5D Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "17,BOARD 17"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJ43.Q75.KQ64.97 86.KT832.982.KQ6 75.A6.AJ75.JT832 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "18,BOARD 18"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A.98532.J83.KQ98 J8642.T62.AJ432.QT973 KQJT4.Q4.T."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N Pass 2C 2H
+Pass 4H 4S Pass
+Pass 5H X Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "19,BOARD 19"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ97.Q.AKJT2.964 3.K9843.Q9754.AK AKT2.JT5.QJT875."]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D 1H X 3H
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "20,BOARD 20"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q6432.9.3.QJ9762 AKT7.K54.K62.A83 J.A82.AQJT84.KT5 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1N X 2D Pass
+2H 3D Pass Pass
+3H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "21,BOARD 21"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K9532.T2.A74.A84 KJ985.Q52.KQJT7. QT6.AQ64.JT93.92 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1S 2S
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "22,BOARD 22"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT954.Q75.T.J85 632.KJ632.AJ64.3 7.AT98.KQ2.AKT76 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "23,BOARD 23"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A94.J98643.KJ6.5 KQ3.Q75.Q94.KQ72 J876.KT2.73.9643 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 1D
+1H 1N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "24,BOARD 24"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q642.JT93.Q962.Q K8.K874.KT8.J763 AT9753.5.A753.K9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S 2C 2S
+2N 3S 3N 4S
+Pass Pass X Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "25,BOARD 25"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J643.K83.6.JT842 Q.J742.K42.AKQ53 T.A96.QJT985.976 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+3D 3S Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "26,BOARD 26"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ54.AT5.97.KJ82 Q96.J8763.Q32.96 832.42.AKT865.T4 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1N Pass 2D X
+2H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "27,BOARD 27"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A732.9532.976.JT KT8.AQT4.K8.AKQ7 964.KJ876.T3.854 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C Pass 3C
+Pass 3N Pass 4C
+Pass 4H Pass 5N
+Pass 6C Pass 6N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "28,BOARD 28"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQJ87.53.K43.AJ6 9.AJ98.AJ972.Q98 642.KT62.5.T7532 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D Pass 1S Pass
+2D Pass 3D Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "1999 Cavendish"]
+[Site "00"]
+[Date "00"]
+[Board "29,BOARD 29"]
+[West "Cohen"]
+[North "Stansby"]
+[East "Berkowitz"]
+[South "Martel"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QJ82.9852.74.J64 7.JT6.AKJ82.A872 A6543.AKQ3.9.QT3 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1S Pass 1N X
+2H 3D Pass Pass
+Pass
+[Play "N"]
+*
+
+

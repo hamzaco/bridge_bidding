@@ -1,0 +1,678 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A752.K764.AK8.92 K93.AJT8.75432.T J84.52.JT.AJ8754 QT6.Q93.Q96.KQ63 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "N"]
+Pass Pass 1N Pass
+2S Pass 3C Pass
+Pass Pass
+[Play "W"]
+C2 CT CA C3
+DA D4 DJ DQ
+D8 D3 DT D6
+C9 D2 C4 CQ
+H4 H8 H2 H9
+H6 HT H5 H3
+SA S9 SJ SQ
+DK D5 S4 D9
+S2 SK S8 S6
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A752.K764.AK8.92 K93.AJT8.75432.T J84.52.JT.AJ8754 QT6.Q93.Q96.KQ63 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "N"]
+Pass Pass 1D Pass
+1N Pass Pass Pass
+[Play "E"]
+SA S9 S4 SQ
+C2 CT CJ CK
+DA D5 DT D6
+C9 D2 CA C3
+S2 D3 C7 CQ
+DK D4 DJ DQ
+S7 SK S8 S6
+D8 D7 C4 D9
+H4 H8 H2 HQ
+H6 HT H5 H9
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT42.T9865.654.K KQJ97.K7.T72.AQ7 6.AQJ43.KQ3.9643 853.2.AJ98.JT852 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "E"]
+Pass Pass 1S 2H
+2S 4H 4S Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+CK CA C6 CJ
+S2 SK S6 S3
+S4 SQ H4 S5
+H5 HK HA H2
+D6 D7 DK DA
+D5 D2 D3 D8
+D4 DT DQ D9
+ST C7 C3 CT
+SA S7 C4 S8
+H9 H7 HQ C2
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT97.KT8.85.JT94 J654.9.J7642.AKQ 83.AQJ42.A9.8732 AK2.7653.KQT3.65 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "S"]
+Pass 1D 1H 2C
+2H Pass 3H 3S
+Pass 5D Pass Pass
+Pass
+[Play "N"]
+HT H9 HA H3
+HK D2 H4 H5
+D8 D4 D9 DK
+H8 D6 H2 H6
+S7 S4 S3 SA
+D5 D7 HJ H7
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT97.KT8.85.JT94 J654.9.J7642.AKQ 83.AQJ42.A9.8732 AK2.7653.KQT3.65 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "S"]
+Pass Pass 1H Pass
+2H X Pass 2S
+Pass Pass Pass
+[Play "N"]
+CJ CK C2 C5
+D5 D2 DA DQ
+H8 H9 HQ H6
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT3.6.K83.QJ9854 A52.QT9.AQJ65.T2 K987.AK72.T2.AK6 J64.J8543.974.73 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "W"]
+1N Pass 2D Pass
+2H X Pass 3C
+Pass Pass Pass
+[Play "S"]
+H6 HT HK H3
+C4 C2 CA C7
+CQ CT C6 C3
+S3 S2 S7 SJ
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT3.6.K83.QJ9854 A52.QT9.AQJ65.T2 K987.AK72.T2.AK6 J64.J8543.974.73 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "W"]
+1D X Pass 2C
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 2.K96.AJT84.AQ96 AKQ84.T43.5.KT87 J97.AQ5.Q62.J543 T653.J872.K973.2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "N"]
+Pass Pass 1D 1S
+2D 3S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 2.K96.AJT84.AQ96 AKQ84.T43.5.KT87 J97.AQ5.Q62.J543 T653.J872.K973.2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "N"]
+Pass Pass 1D 1S
+2D 3S 4D Pass
+5D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT8.K86.J43.9765 Q742.AJT3.92.KJT AJ96.975.AK8.Q42 53.Q42.QT765.A83 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "E"]
+Pass Pass 1C X
+2C Pass 2D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT8.K86.J43.9765 Q742.AJT3.92.KJT AJ96.975.AK8.Q42 53.Q42.QT765.A83 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "E"]
+Pass Pass 1C X
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A874.T98.JT.8742 QT92.Q753.A94.QT 53.KJ2.K8763.AKJ KJ6.A64.Q52.9653 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A874.T98.JT.8742 QT92.Q753.A94.QT 53.KJ2.K8763.AKJ KJ6.A64.Q52.9653 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K86.432.2.AKT965 QJT.J985.Q95.742 97.KQ76.K874.J83 A5432.AT.AJT63.Q "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "W"]
+Pass Pass 1S 2C
+2S X 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K86.432.2.AKT965 QJT.J985.Q95.742 97.KQ76.K874.J83 A5432.AT.AJT63.Q "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "W"]
+Pass Pass 1S 2C
+2S X 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K82.864.A97.JT63 AT7.T3.QT53.AQ54 J643.AQ975.KJ2.7 Q95.KJ2.864.K982 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "N"]
+1H Pass 2H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K82.864.A97.JT63 AT7.T3.QT53.AQ54 J643.AQ975.KJ2.7 Q95.KJ2.864.K982 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "N"]
+1H Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT853.T.Q87.AK62 762.K652.A92.875 KQ4.QJ9843.4.JT4 A9.A7.KJT653.Q93 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "4"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "E"]
+1D 1S X XX
+3D Pass Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT853.T.Q87.AK62 762.K652.A92.875 KQ4.QJ9843.4.JT4 A9.A7.KJT653.Q93 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "E"]
+1D 1S X 2H
+3D Pass Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT3.4.AKQJ92.62 Q97.975.T7.Q9874 8542.JT8.864.AJT K6.AKQ632.53.K53 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "S"]
+1D Pass 1S 2H
+4H Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJT3.4.AKQJ92.62 Q97.975.T7.Q9874 8542.JT8.864.AJT K6.AKQ632.53.K53 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "S"]
+1D Pass 1S 2H
+4H Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2012 Polish Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bizon"]
+[North "Buras"]
+[East "D.Kowalski"]
+[South "Narkiewicz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K.AK3.AKJ8653.Q6 AT6.QJT42.T9.AK2 Q9542.8.Q4.T9843 J873.9765.72.J75 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "CONSUS Kalisz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASKO TECH Warsaw"]
+[Auction "W"]
+1N Pass 2C 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,941 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ7.K8743.KQ7.86 964.JT2.942.KQT2 82.A965.865.J543 AQT53.Q.AJT3.A97 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+Pass 1S Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+DK D2 D8 DA
+C6 CK C3 C9
+SK S4 S8 SQ
+DQ D4 D6 DT
+C8 CT CJ CA
+S7 S6 S2 SA
+H3 C2 C5 C7
+D7 D9 D5 D3
+SJ CQ C4 HQ
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KJ7.K8743.KQ7.86 964.JT2.942.KQT2 82.A965.865.J543 AQT53.Q.AJT3.A97 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass 2C Pass 2S
+Pass Pass Pass
+[Play "S"]
+DK D2 D8 DA
+C6 CK C3 C7
+SK S4 S2 SQ
+C8 C2 C4 C9
+S7 S6 S8 SA
+H3 CT CJ CA
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K4.QJ52.AJ73.AQ7 T832.4.K9852.852 A95.AT983.QT4.T6 QJ76.K76.6.KJ943 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+1C an ! 1N
+Pass 2D Pass 2H
+Pass 3N Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K4.QJ52.AJ73.AQ7 T832.4.K9852.852 A95.AT983.QT4.T6 QJ76.K76.6.KJ943 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2N Pass 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT973.Q9.QT83.Q9 KQJ8.642.J74.KT8 642.KT85.2.A7643 5.AJ73.AK965.J52 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+Pass Pass Pass 1D
+an ! 1S 3S
+an ! Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT973.Q9.QT83.Q9 KQJ8.642.J74.KT8 642.KT85.2.A7643 5.AJ73.AK965.J52 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+Pass Pass Pass 1D
+1S 1N 2D Pass
+2S X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ.T972.KJT73.J6 732.85.842.AKT82 T864.AQJ.Q6.Q973 AQ95.K643.A95.54 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "W"]
+Pass Pass 1C an
+! 1D Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ.T972.KJT73.J6 732.85.842.AKT82 T864.AQJ.Q6.Q973 AQ95.K643.A95.54 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "W"]
+Pass Pass 1C 1D
+2C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J975.T9654.7.T85 AKQ4.K7.K93.KQ73 T86.QJ8.AQ85.J92 32.A32.JT642.A64 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+Pass Pass Pass 2C
+an !  Pass 2D
+an !  Pass 2H
+an !  Pass 2S
+an !  Pass 2N
+an ! Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J975.T9654.7.T85 AKQ4.K7.K93.KQ73 T86.QJ8.AQ85.J92 32.A32.JT642.A64 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+Pass Pass Pass 2C
+Pass 2D Pass 2H
+Pass 2S Pass 2N
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK743.7.65.AQT83 98.53.AKQJT7.K62 T5.AK964.982.954 QJ62.QJT82.43.J7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+Pass 1S 2D X
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK743.7.65.AQT83 98.53.AKQJT7.K62 T5.AK964.982.954 QJ62.QJT82.43.J7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+Pass 1C 1D 1H
+Pass 1S 2D Pass
+Pass 2S Pass 3C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT82.Q762.9764.7 QJ.AJ4.QJT.T9843 A9543.K983.AK2.K 76.T5.853.AQJ652 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+Pass Pass 1S 2C
+3S X 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT82.Q762.9764.7 QJ.AJ4.QJT.T9843 A9543.K983.AK2.K 76.T5.853.AQJ652 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+Pass Pass 1S 2C
+3S X XX 4C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 54.T.QJT64.KJT63 AJ762.A976.985.8 KQT9.KJ53.K3.A52 83.Q842.A72.Q974 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "W"]
+Pass 1N Pass 2N
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 54.T.QJT64.KJT63 AJ762.A976.985.8 KQT9.KJ53.K3.A52 83.Q842.A72.Q974 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "W"]
+Pass 1N Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT952.9842.KT5.T J8.AJ6.J82.A8753 4.KT3.Q964.KJ642 KQ763.Q75.A73.Q9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+Pass 1C an ! 
+1S X! Pass 1N
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT952.9842.KT5.T J8.AJ6.J82.A8753 4.KT3.Q964.KJ642 KQ763.Q75.A73.Q9 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J94.87.QJ432.654 Q852.K9542.KT.Q9 AT7.AJ3.A98.K832 K63.QT6.765.AJT7 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+Pass Pass 1C an
+!  1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: J94.87.QJ432.654 Q852.K9542.KT.Q9 AT7.AJ3.A98.K832 K63.QT6.765.AJT7 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K8.9.AT87632.543 AJ9.Q7652.KQ.AK8 Q64.KJ83.954.762 T7532.AT4.J.QJT9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+3D X Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K8.9.AT87632.543 AJ9.Q7652.KQ.AK8 Q64.KJ83.954.762 T7532.AT4.J.QJT9 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+3D X Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 87.K9.A9643.AJ32 K53.Q65.KQT5.Q85 AQJ642.842.J2.94 T9.AJT73.87.KT76 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "W"]
+1C an  ! 1S
+2D an !  X
+2H 2S Pass 3S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 87.K9.A9643.AJ32 K53.Q65.KQT5.Q85 AQJ642.842.J2.94 T9.AJT73.87.KT76 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "W"]
+1C 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T943.AQ76.A.QJ93 AJ72.T953.83.A85 8.K4.KQT972.T764 KQ65.J82.J654.K2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+2D Pass Pass X
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T943.AQ76.A.QJ93 AJ72.T953.83.A85 8.K4.KQT972.T764 KQ65.J82.J654.K2 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "N"]
+2D Pass Pass X
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ42.AKJ82.72.T4 A963.Q74.A93.K82 KT87.T3.QJT4.AJ5 5.965.K865.Q9763 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2S Pass 2N
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ42.AKJ82.72.T4 A963.Q74.A93.K82 KT87.T3.QJT4.AJ5 5.965.K865.Q9763 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2S Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J753.983.J42.754 Q.KQ754.K9763.63 A9.T62.QT8.KJ982 KT8642.AJ.A5.AQT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+Pass 1H Pass 1N
+an !  Pass 2C
+an ! Pass 2D
+an !  Pass 2S
+an ! Pass 2N
+an ! Pass 3D
+an ! Pass 3H
+an !! Pass 3S
+an !  Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J753.983.J42.754 Q.KQ754.K9763.63 A9.T62.QT8.KJ982 KT8642.AJ.A5.AQT "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 3H Pass 3S
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2013 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Welland"]
+[North "Rosenthal"]
+[East "Auken"]
+[South "Silverstei"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AJ3.97643.T85.Q8 98542.K2.Q76.AKT QT76.QJT.J32.976 K.A85.AK94.J5432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Rosenthal"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Auken"]
+[Auction "W"]
+1C an !  Pass
+1S an !  Pass
+1N Pass 2C an
+!  Pass 2D an
+!  Pass 2H an
+!  Pass 2S an
+! Pass 2N an
+! Pass 3C an
+! Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+

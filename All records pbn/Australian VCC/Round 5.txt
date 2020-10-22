@@ -1,0 +1,923 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT5.5.K964.AKQJ7 Q3.J3.AT3.965432 K97.KT842.Q872.8 A8642.AQ976.J5.T "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+2H 2S 3C Pass
+3D Pass Pass Pass
+[Play "E"]
+CA C6 C8 CT
+D4 D3 DQ D5
+DK DA D2 DJ
+D6 DT D7 S2
+H5 HJ HK HA
+S5 H3 H8 H6
+D9 C5 H4 H7
+CK C4 H2 S4
+CQ C3 HT H9
+CJ C2 S7 S6
+SJ S3 S9 SA
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT5.5.K964.AKQJ7 Q3.J3.AT3.965432 K97.KT842.Q872.8 A8642.AQ976.J5.T "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1S 2C Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+ST SQ SK SA
+S5 S3 S9 S8
+DK DA D2 D5
+H5 HJ HK HA
+SJ C2 S7 S6
+C7 H3 H8 H9
+D4 D3 DQ DJ
+D9 DT D7 CT
+CJ C3 H2 HQ
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT852.JT8.A32.Q5 J63.7.QJT8654.K7 Q9.A965432.7.J43 K74.KQ.K9.AT9862 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT852.JT8.A32.Q5 J63.7.QJT8654.K7 Q9.A965432.7.J43 K74.KQ.K9.AT9862 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1C Pass 1D 1H
+1N an 15 2H
+3D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q32.AT5.KJ9.QJ65 KJ6.J74.Q65.9743 84.Q863.A842.K82 AT975.K92.T73.AT "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q32.AT5.KJ9.QJ65 KJ6.J74.Q65.9743 84.Q863.A842.K82 AT975.K92.T73.AT "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 8532.T3.AKQ82.T4 T.J9652.4.KQ9632 K.AQ8.T9763.AJ87 AQJ9764.K74.J5.5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass 1D 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 8532.T3.AKQ82.T4 T.J9652.4.KQ9632 K.AQ8.T9763.AJ87 AQJ9764.K74.J5.5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass 1D 1S 2S
+an li Pass 3C
+Pass 3D Pass Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J84.AKT.64.AJT97 Q5.J876432.JT5.2 AT9762.Q.AKQ87.K K3.95.932.Q86543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+1S Pass 2C 4H
+X Pass 4S Pass
+4N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J84.AKT.64.AJT97 Q5.J876432.JT5.2 AT9762.Q.AKQ87.K K3.95.932.Q86543 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+1C Pass 1D an
+Pa 2H 2S Pass
+3H Pass 4N Pass
+5H Pass 6S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ82.T765.K6.632 AJ4.QJ84.854.QT5 9753.A932.QJ97.8 T6.K.AT32.AKJ974 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1C Pass 1H Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQ82.T765.K6.632 AJ4.QJ84.854.QT5 9753.A932.QJ97.8 T6.K.AT32.AKJ974 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1C Pass 1H Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT964.T763.KT3.J Q8.K5.J764.AQ873 A5.A982.AQ85.T92 K732.QJ4.92.K654 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 1C Pass 2C
+Pass Pass X Pass
+2S 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: JT964.T763.KT3.J Q8.K5.J764.AQ873 A5.A982.AQ85.T92 K732.QJ4.92.K654 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T.K9852.T.QJT754 K85.AQJT4.J842.A Q974.763.K76.K32 AJ632.AQ953.986."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1H Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T.K9852.T.QJT754 K85.AQJT4.J842.A Q974.763.K76.K32 AJ632.AQ953.986."]
+[Declarer "E"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass 3C Pass
+3S Pass 4S Pass
+5C Pass 5N Pass
+6S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.9752.A9.AK7532 9865.AKT8.J62.T9 K4.43.KQ8543.J84 AQJT32.QJ6.T7.Q6 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+3D 3S 5D 5S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.9752.A9.AK7532 9865.AKT8.J62.T9 K4.43.KQ8543.J84 AQJT32.QJ6.T7.Q6 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+3D 3S 4C 4S
+Pass Pass 4N Pass
+5C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T873.T3.A643.QT5 942.AJ762.75.987 QJ6.K84.KQJT92.K AK5.Q95.8.AJ6432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1C Pass 1H 2D
+2H 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T873.T3.A643.QT5 942.AJ762.75.987 QJ6.K84.KQJT92.K AK5.Q95.8.AJ6432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+1C Pass 1H 2D
+X 3D Pass Pass
+X Pass 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKT863.J74.K987.952 AT986.Q652.A.74 KQ3.AK74.T654.QJ 52.JT983.QJ32."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1S 2H 2N Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AKT863.J74.K987.952 AT986.Q652.A.74 KQ3.AK74.T654.QJ 52.JT983.QJ32."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1S Pass 1N Pass
+2C Pass 2D Pass
+2S Pass 3S Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K8654.98.AT2.A82 T73.AQJ532.9543.AQJ2 76.KJ76.KQT. 9.KT4.Q8.J976543 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+4H X 4N 5S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K8654.98.AT2.A82 T73.AQJ532.9543.AQJ2 76.KJ76.KQT. 9.KT4.Q8.J976543 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+2D an mu X
+2S Pass 3H X
+Pass 4S 5H X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 654.JT85.AKQ42.2 K9832.Q3.J9.A873 JT.AK62.763.Q964 AQ7.974.T85.KJT5 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass Pass 1D 1S
+X 2D Pass 2S
+3D Pass Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 654.JT85.AKQ42.2 K9832.Q3.J9.A873 JT.AK62.763.Q964 AQ7.974.T85.KJT5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass Pass 1D 1S
+X 2C 2H 3C
+3H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K976.KQJT.Q2.K82 AQJ.953.AK9865.9 T82.A2.T43.AQT65 543.8764.J7.J743 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 1N 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K976.KQJT.Q2.K82 AQJ.953.AK9865.9 T82.A2.T43.AQT65 543.8764.J7.J743 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 1N 2D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J65.JT73.AJ97.Q5 732.AKQ64.5.A873 AK94.8.KQ64.J942 QT8.952.T832.KT6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 1H X 2H
+X 3C Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J65.JT73.AJ97.Q5 732.AKQ64.5.A873 AK94.8.KQ64.J942 QT8.952.T832.KT6 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 1H X 2H
+an ba X 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Courtney"]
+[North "Lester"]
+[East "Prescott"]
+[South "Cormack"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q43.J63.A842.J52 K2.7.QJ765.QT964 JT9875.KQ8.K3.73 A6.AT9542.T9.AK8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Lester"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass Pass 1H Pass
+1N Pass 2H Pass
+Pass 2S Pass Pass
+2N Pass 3C Pass
+Pass Pass
+[Play "S"]
+*
+
+

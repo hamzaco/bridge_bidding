@@ -1,0 +1,291 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Blakset"]
+[North "Steinar"]
+[East "Fredin"]
+[South "Birkir"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 8765.AQ93.KT4.J9 KQJ9.JT85.J3.852 2.K4.Q8652.KT643 AT43.762.A97.AQ7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Saladmasters"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hect Johansen"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1S Pass 2S
+3D Pass Pass Pass
+[Play "E"]
+D4 DJ DQ D7
+H3 H5 HK H2
+HA H8 H4 H7
+HQ HT S2 H6
+CJ C5 C3 CQ
+S5 S9 D2 SA
+C9 C2 C4 C7
+S6 SJ D5 S3
+DT C8 C6 CA
+S7 SQ D6 S4
+S8 D3 CT ST
+H9 HJ D8 D9
+DK SK CK DA
+*
+
+
+[Event "2006 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Blakset"]
+[North "Steinar"]
+[East "Fredin"]
+[South "Birkir"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T.A75.9763.QJ653 J98.QJ942.KJ2.A7 654.K863.A854.T2 AKQ732.T.QT.K984 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Saladmasters"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hect Johansen"]
+[Auction "E"]
+1S Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+CQ CA C2 C4
+D3 D2 DA DT
+HA H2 H6 HT
+CJ C7 CT CK
+*
+
+
+[Event "2006 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Blakset"]
+[North "Steinar"]
+[East "Fredin"]
+[South "Birkir"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ7.KQ4.A.KJT832 QT9.AJ9.KQ54.Q54 A432.T875.873.96 865.632.JT962.A7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Saladmasters"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hect Johansen"]
+[Auction "S"]
+1C Pass 1H Pass
+2N Pass Pass Pass
+[Play "S"]
+DA D5 D3 D9
+S7 S9 SA S5
+C2 CQ C9 C7
+C3 DQ D7 D2
+C8 DK D8 D6
+H4 D4 S2 DT
+CT ST S3 DJ
+HK HA H5 H2
+HQ H9 H7 H6
+CJ C4 C6 CA
+*
+
+
+[Event "2006 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Blakset"]
+[North "Steinar"]
+[East "Fredin"]
+[South "Birkir"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ862.942.QJ5.J2 Q3.AJT5.A98.AQ97 9754.83.7643.853 AT.KQ76.KT2.KT64 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Saladmasters"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hect Johansen"]
+[Auction "W"]
+1N Pass 2C Pass
+2H Pass 3S X
+Pass Pass XX Pass
+4C Pass 4D Pass
+4N Pass 5S Pass
+6H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Blakset"]
+[North "Steinar"]
+[East "Fredin"]
+[South "Birkir"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9.AKT754.AK7.972 KQJT3.J2.Q94.KT3 62.Q863.JT852.84 A8754.9.63.AQJ65 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "Saladmasters"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hect Johansen"]
+[Auction "N"]
+Pass 1S 2H 3H
+X 4S X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Blakset"]
+[North "Steinar"]
+[East "Fredin"]
+[South "Birkir"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J98753.QT.AKQ82.K2 KT9.AKJ85.JT5.T6 85432.964.973.AQ4 AQJ76.732.64."]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Saladmasters"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hect Johansen"]
+[Auction "E"]
+1H 2H 2N Pass
+3C 4C 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Blakset"]
+[North "Steinar"]
+[East "Fredin"]
+[South "Birkir"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 75.QJ975.Q3.K432 4.T64.AJ87542.65 KQ962.K8.T96.QT8 AJT83.A32.K.AJ97 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Saladmasters"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hect Johansen"]
+[Auction "S"]
+Pass 2C Pass 2N
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Blakset"]
+[North "Steinar"]
+[East "Fredin"]
+[South "Birkir"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK97.Q83.A.98763 84.KJT7.K85.AQJ2 T5.A964.J97432.T QJ632.52.QT6.K54 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Saladmasters"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hect Johansen"]
+[Auction "W"]
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 Icelandair Open"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Blakset"]
+[North "Steinar"]
+[East "Fredin"]
+[South "Birkir"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: J9.K7654.A95.K42 AK72.2.Q74.AQJT5 T83.AJ93.T86.987 Q654.QT8.KJ32.63 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Saladmasters"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Hect Johansen"]
+[Auction "N"]
+Pass Pass 1H X
+2H 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+

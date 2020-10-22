@@ -1,0 +1,457 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT3.QJ86.Q63.AQ5 5.KT953.AJ75.KT2 87.42.KT4.J98764 AKQ9642.A7.982.3 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "N"]
+Pass 1S Pass 2H
+Pass 3S Pass 3N
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+H6 H3 H2 H7
+S3 S5 S7 SA
+ST D5 S8 SK
+SJ C2 C7 SQ
+H8 H5 H4 HA
+CA CT C4 C3
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT3.QJ86.Q63.AQ5 5.KT953.AJ75.KT2 87.42.KT4.J98764 AKQ9642.A7.982.3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "N"]
+Pass 1S X XX
+2C 3C Pass 3N
+Pass Pass Pass Pass
+[Play "N"]
+CA C2 C9 C3
+D3 DA D4 D2
+S3 S5 S8 SA
+ST H3 S7 SK
+SJ HT H4 SQ
+H6 D5 C4 S9
+H8 D7 H2 S6
+HJ DJ C6 S4
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A764.QJ8.A7.QT86 Q853.T92.J9.K972 KJT2.5.KQ832.J53 9.AK7643.T654.A4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "E"]
+1H X 2H 3H
+4H X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A764.QJ8.A7.QT86 Q853.T92.J9.K972 KJT2.5.KQ832.J53 9.AK7643.T654.A4 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "E"]
+1H Pass 1S Pass
+2H Pass Pass X
+Pass 2N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9753.KQ9852.K4.K K6.J76.JT32.J643 AQ84.4.987.QT975 JT2.AT3.AQ65.A82 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "S"]
+1H Pass 1S X
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 9753.KQ9852.K4.K K6.J76.JT32.J643 AQ84.4.987.QT975 JT2.AT3.AQ65.A82 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "S"]
+Pass Pass Pass 1N
+2D an we Pass
+2H an P/ Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK9764.8.K6.AT87 T53.J6.9542.J642 2.Q743.J873.KQ53 QJ8.AKT952.AQT.9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "W"]
+Pass Pass 1H 2S
+Pass Pass X Pass
+3H Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK9764.8.K6.AT87 T53.J6.9542.J642 2.Q743.J873.KQ53 QJ8.AKT952.AQT.9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "W"]
+Pass Pass 1H 1S
+Pass 1N X 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJT97.Q642.T.J87 852.A97.K9765.T4 AQ6.53.AQJ.KQ965 43.KJT8.8432.A32 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "N"]
+1C Pass 1S Pass
+2D Pass 2S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJT97.Q642.T.J87 852.A97.K9765.T4 AQ6.53.AQJ.KQ965 43.KJT8.8432.A32 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "N"]
+1C Pass 1S Pass
+2N Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9862.KJ93.A62.K7 Q75.T6.K5.T98652 AK4.52.JT943.AJ3 JT3.AQ874.Q87.Q4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "E"]
+Pass 1D Pass 2C
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9862.KJ93.A62.K7 Q75.T6.K5.T98652 AK4.52.JT943.AJ3 JT3.AQ874.Q87.Q4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "E"]
+Pass Pass Pass 1D
+1H X Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 3.KQJ97.K653.Q94 AJ4.83.AJT82.AK7 K976.A52.Q4.T632 QT852.T64.97.J85 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "S"]
+1H X XX 1S
+Pass Pass 2H 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 3.KQJ97.K653.Q94 AJ4.83.AJT82.AK7 K976.A52.Q4.T632 QT852.T64.97.J85 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "S"]
+1H X 2N an
+10 Pass 3H Pass
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Northern Greece Regional Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Eidi"]
+[North "Manolas"]
+[East "Fantoni"]
+[South "Zotos"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT3.943.JT76.AQ7 K876.AQ85.A3.JT4 Q92.KT.K9854.865 A54.J762.Q2.K932 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Roussos"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Eidi"]
+[Auction "W"]
+1C Pass 1H Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+

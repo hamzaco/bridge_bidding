@@ -1,0 +1,922 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT42.3.AJT7.J965 63.Q9875.K862.32 987.KJT642.5.Q84 AKJ5.A.Q943.AKT7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+SQ S3 S9 SJ
+H3 H5 H2 HA
+D7 DK D5 D3
+DT D2 H6 D4
+S2 S6 S7 SA
+S4 D6 S8 SK
+ST H7 H4 S5
+C5 C2 CQ CA
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT42.3.AJT7.J965 63.Q9875.K862.32 987.KJT642.5.Q84 AKJ5.A.Q943.AKT7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+2H X Pass 2N
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ983.8.AK742.A7 AJT4.AKQ5.6.KT62 65.742.QT93.QJ43 72.JT963.J85.985 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass 2D X 3D
+Pass Pass X Pass
+3H 4C Pass 4D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KQ983.8.AK742.A7 AJT4.AKQ5.6.KT62 65.742.QT93.QJ43 72.JT963.J85.985 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ75.Q72.J85.T72 83.KJ83.A762.853 AK4.654.94.AQ964 T962.AT9.KQT3.KJ "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QJ75.Q72.J85.T72 83.KJ83.A762.853 AK4.654.94.AQ964 T962.AT9.KQT3.KJ "]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 1H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT963.Q987.5.AJT 842.JT3.K732.732 AK7.5.AQT98.KQ65 Q5.AK642.J64.984 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+Pass 1D 1H X!
+Pass 2H Pass 2N
+Pass 3C Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT963.Q987.5.AJT 842.JT3.K732.732 AK7.5.AQT98.KQ65 Q5.AK642.J64.984 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+Pass 1D 1H X
+Pass 2H Pass 2N
+Pass 3C Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A85.AKJT.Q.Q9852 KQ4.Q52.K98753.4 J96.9843.AJ42.AK T732.76.T6.JT763 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1N Pass 2C Pass
+2H Pass 4D Pass
+4N Pass 5C Pass
+5H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A85.AKJT.Q.Q9852 KQ4.Q52.K98753.4 J96.9843.AJ42.AK T732.76.T6.JT763 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+1D Pass 2C Pass
+2N Pass 3H Pass
+4C Pass 5C Pass
+5H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 765.7.Q4.AKQ7632 43.QJT93.KJ75.95 KQT2.A652.62.JT4 AJ98.K84.AT983.8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1D 2C X 2D
+2S 3D Pass 4C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 765.7.Q4.AKQ7632 43.QJT93.KJ75.95 KQT2.A652.62.JT4 AJ98.K84.AT983.8 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1D 2C 2H X
+3C 3H 4D 4H
+X 5C Pass Pass
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J5.QJ7532.T54.75 A864.AKT4.AQJ2.J K93.6.K.AQT96432 QT72.98.98763.K8 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass 1D 4C 4D
+Pass 4H Pass 5D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J5.QJ7532.T54.75 A864.AKT4.AQJ2.J K93.6.K.AQT96432 QT72.98.98763.K8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1H 2C X!
+Pass 3C Pass 3D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJ.K5.AKQT42.QJ Q72.983.J975.742 98654.62.3.A8653 T3.AQJT74.86.KT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+Pass Pass 3H 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AKJ.K5.AKQT42.QJ Q72.983.J975.742 98654.62.3.A8653 T3.AQJT74.86.KT9 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+Pass Pass 3H X
+Pass 4S Pass 4N
+Pass 5C Pass 5S
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KT8.A84.A763.KQ9 AQ.76.982.JT8763 97542.J2.K54.A54 J63.KQT953.QJT.2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 2H 2N Pass
+3H Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KT8.A84.A763.KQ9 AQ.76.982.JT8763 97542.J2.K54.A54 J63.KQT953.QJT.2 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 2D 2N Pass
+3H X 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q632.AT92.AJ842.J75 64.QT5.J9653.AT94 KJ73.76.K82. K8.Q85.K93.AQT74 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1N X! Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q632.AT92.AJ842.J75 64.QT5.J9653.AT94 KJ73.76.K82. K8.Q85.K93.AQT74 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJ94.86.A63.K954 K7653.K93.72.876 2.AT752.Q9854.AJ AT8.QJ4.KJT.QT32 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QJ94.86.A63.K954 K7653.K93.72.876 2.AT752.Q9854.AJ AT8.QJ4.KJT.QT32 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+Pass Pass 1H X
+XX 2S 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQJ832.T43.KQ5.8 54.A765.A6.AT632 T96.Q.J832.QJ954 A7.KJ982.T974.K7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1C Pass 1H 1S
+2H 2S 4H 4S
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: KQJ832.T43.KQ5.8 54.A765.A6.AT632 T96.Q.J832.QJ954 A7.KJ982.T974.K7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1C Pass 1H 1S
+2H 2S 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K3.AKT3.A987.AT8 Q75.Q62.653.6532 AT6.974.T42.KQ94 J9842.J85.KQJ.J7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K3.AKT3.A987.AT8 Q75.Q62.653.6532 AT6.974.T42.KQ94 J9842.J85.KQJ.J7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass Pass 2D Pass
+2S Pass 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK96.K.86.QJ8752 53.987.J72.AK963 Q72.AQT42.953.T4 JT84.J653.AKQT4."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1D 2C Pass 2H
+Pass 2S Pass 3C
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK96.K.86.QJ8752 53.987.J72.AK963 Q72.AQT42.953.T4 JT84.J653.AKQT4."]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+1D 2C Pass 2H
+Pass 2S Pass 3C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K9.T942.A5.AQT82 AJ7.8763.KT3.643 T6542.AKJ.QJ6.J5 Q83.Q5.98742.K97 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1N Pass 2H Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K9.T942.A5.AQT82 AJ7.8763.KT3.643 T6542.AKJ.QJ6.J5 Q83.Q5.98742.K97 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1C Pass 1S Pass
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 NEC Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Madala"]
+[North "Nunes"]
+[East "Bocchi"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 7.KQ8753.T4.K875 K92.J9.AKJ8.JT64 AQT653.4.72.AQ92 J84.AT62.Q9653.3 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Zimmermann"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1C 1S X Pass
+1N 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+

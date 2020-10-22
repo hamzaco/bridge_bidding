@@ -1,0 +1,443 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QT752.KQ2.43.QJ6 43.A86.AKT2.K982 A96.T9543.97.T75 KJ8.J7.QJ865.A43 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1D 1S 2S
+X 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+S5 S3 SA S8
+SQ S4 S9 SJ
+ST H6 S6 SK
+D3 DA D7 D5
+D4 DK D9 D6
+S7 D2 H3 DQ
+S2 DT C5 DJ
+H2 H8 H4 D8
+C6 C8 CT C4
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T3.863.J7542.Q87 A82.AKQJT9.AK.32 KJ5.42.Q986.KT54 Q9764.75.T3.AJ96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+2S an al Pass
+2N an st Pass
+3C Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+H3 HA H2 H5
+H6 HK H4 H7
+H8 HQ D9 D3
+S3 S2 S5 SQ
+ST SA SJ S4
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 965.AT9765.Q.K94 J742.J4.943.T732 Q3.Q2.AK852.A865 AKT8.K83.JT76.QJ "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+S5 S2 S3 SK
+S6 S4 SQ SA
+CK C2 C5 CQ
+DQ D3 D2 D6
+S9 S7 H2 S8
+C4 D4 DA D7
+C9 C3 CA CJ
+HA H4 HQ HK
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 7432.QJ842.97.53 J9.763.KQT832.K4 AK65.A.A65.AQ762 QT8.KT95.J4.JT98 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass 1C Pass 1H
+2D X Pass 2H
+Pass 3D Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+D7 DK D5 D4
+D9 DQ DA DJ
+C3 D2 D6 SQ
+H2 H7 HA H9
+C5 C4 CA C8
+S2 CK C2 C9
+S3 S9 SA S8
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJT63.T54.K83.32 A42.KQ.QT42.AK95 K9875.963.AJ96.Q .AJ872.75.JT8764 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 2H an we
+Pass 2N Pass 3C
+an al Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J85.62.62.AJT984 642.T954.AKJ73.K AQT9.AKJ73.84.65 K73.Q8.QT95.Q732 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KT973.43.AQ74.Q8 AJ2.KT976.52.KJ9 Q6.AQJ85.KT83.T7 854.2.J96.A65432 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+1S Pass 2H Pass
+2S Pass 3D Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJT84.Q63.QJ4.95 A962.KT82.A3.KJ3 Q73.A754.K8.A872 5.J9.T97652.QT64 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+1N Pass 2N an
+al Pass 3C Pass
+3D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT9753.AT752.K7.Q82 A84.J9.J8432.KJ4 Q97652.Q.QT5.6 KJT3.K8643.A96."]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+2H Pass 2S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 62.J852.9853.762 KJ754.A6.A2.AT83 AQT98.K.Q6.KQJ94 3.QT9743.KJT74.5 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+3H Pass 4H 4S
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q8643.T5.K72.765 75.QJ632.J865.Q3 AJ2.A94.T94.K842 KT9.K87.AQ3.AJT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "S"]
+Pass 2H Pass 2N
+Pass 3D Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K6.T87.AKQ97.K43 A753.9432.843.J6 T984.KQ5.T2.AT75 QJ2.AJ6.J65.Q982 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1S Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QJ73.KJ83.K3.J54 86.AQ72.98642.QT T52.T.J75.A98632 AK94.9654.AQT.K7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Gold Coast Congress"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bagchi"]
+[North "Armstrong"]
+[East "P Gue"]
+[South "Marston"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJT.AJ.9864.KQJ9 A86.K9876.A7.872 97.QT432.JT.AT63 Q5432.5.KQ532.54 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "John Holland"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Noble"]
+[Auction "E"]
+2S 2N Pass 3D
+X Pass Pass 3N
+Pass Pass X Pass
+Pass Pass
+[Play "None"]
+*
+
+

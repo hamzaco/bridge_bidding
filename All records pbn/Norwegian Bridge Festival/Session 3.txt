@@ -1,0 +1,860 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "61"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ92.42.A642.J72 765.T97.K97.Q984 KT8.AKJ65.T3.KT6 J43.Q83.QJ85.A53 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass 2C Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "E"]
+D2 DK D3 D5
+D4 D9 DT DJ
+DA D7 C6 D8
+H2 H7 HJ HQ
+D6 C4 S8 DQ
+C2 C8 CT CA
+C7 C9 CK C3
+S2 S5 SK S3
+SA S7 ST S4
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "62"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 832.AK.AQJ762.A6 QJ5.Q875.983.K83 K4.JT643.K54.T52 AT976.92.T.QJ974 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D Pass 1H
+1S 3D Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "63"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 83.K87.Q32.QJT32 72.J53.K9864.A74 AKQT9.4.JT5.K865 J654.AQT962.A7.9 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1S 2H
+2S 3H X! 4H
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "64"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q4.AKJT3.QJ2.T52 AKT85.874.K765.8 97.Q952.T94.AK97 J632.6.A83.QJ643 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass Pass 1H
+1S 2S 3S Pass
+Pass X Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "65"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 943.K5.JT8754.97 AKJT62.73.9.Q843 87.QJT862.A2.AJ6 Q5.A94.KQ63.KT52 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1H Pass Pass 1S
+Pass 1N 2D 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "66"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A54.T2.AKJ7.AK54 K72.AQJ987.42.Q7 QT6.K43.QT3.J832 J983.65.9865.T96 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 1H 1N
+Pass 3N Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "67"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T4.QJ43.J643.KT5 AK865.987.T87.A9 Q932.KT.AK.QJ862 J7.A652.Q952.743 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass 2S Pass Pass
+X! Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "68"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J7.K9642.64.K876 QT853.3.Q52.JT54 64.AJT8.J873.AQ3 AK92.Q75.AKT9.92 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1D 1N 2D
+2S 3H 3S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "69"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9.J5.AQ764.AQT65 KQ86.7632.T92.K4 A753.AQ8.J8.J973 JT42.KT94.K53.82 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C Pass 1D Pass
+1N Pass 2D Pass
+2S Pass 3C Pass
+3H Pass 3S Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "70"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AT52.T654.KQ874.64 AK93.A63.AT86.87 QJ72.J95.QJ95. KQJ93.8.T2.K7432 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2S Pass 3N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "71"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 54.752.T86.KT762 AKQ62.J93.J3.843 3.A.AKQ9754.AQ95 JT987.KQT864.2.J "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1S X 4S
+Pass Pass 5D 5S
+Pass Pass 6D X
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "72"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T62.52.QT932.K97 975.J43.AKJ7.T85 Q4.Q9876.64.AQ42 AKJ83.AKT.85.J63 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "73"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 86.J86.KJT63.872 Q432.Q3.A9542.AT J7.AK974.87.J654 AKT95.T52.Q.KQ93 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2H 2S 3H 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "74"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T7.KQ6.Q8742.QT7 Q6.A54.AJT96.J63 A843.J97.3.AK542 KJ952.T832.K5.98 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+2H an 4! Pass
+2S 3C Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "75"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K862.32.KQ93.J93 97.T976.JT864.KQ 53.KJ5.A72.A8642 AQJT4.AQ84.5.T75 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass 1C 1S
+1N X! an !X
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "76"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AT.T96.A974.T832 K853.J4.KQT65.Q7 QJ642.752.J2.J65 97.AKQ83.83.AK94 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "77"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 965.AQ8.T642.Q98 KT7.J97643.K8.J7 AQ4.K5.AQ953.A63 J832.T2.J7.KT542 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "78"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ.AQJ.J872.Q765 AT843.KT.4.AK932 92.97652.AQ953.T Q765.843.KT6.J84 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1C 1S X!
+2S Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "79"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ86.A95.T93.T73 K9.T874.AJ862.Q4 T742.J62.Q75.AJ9 Q53.KQ3.K4.K8652 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "80"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJ.854.AQ974.J97 KT976.97.J8.KQ42 853.AKT632.K53.6 A42.QJ.T62.AT853 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1H Pass 2H
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "81"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K987.T52.K5.J982 A653.A986.T4.K43 JT42.43.A986.AT5 Q.KQJ7.QJ732.Q76 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1370"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "82"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 73.AKT7.753.AKJ2 KQ854.Q43.AQ86.Q T9.J965.T42.T764 AJ62.82.KJ9.9853 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1N 2S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "83"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT86.KJ843.54.84 KQ.95.QJT98.QT63 974.T2.732.J9752 A532.AQ76.AK6.AK "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass Pass Pass 2D
+Pass 2H Pass 2N
+Pass 3S Pass 3N
+Pass 6N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "84"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT9652.Q.J84.T96 KQ843.K7.AT62.73 JT86542.K5.AKJ2. J7.A93.Q973.Q854 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1S 2H 2S Pass
+Pass 3H Pass Pass
+3S Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "85"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQT.432.AT5.T962 K9854.876.KJ93.5 3.K95.Q8642.A843 J762.AQJT.7.KQJ7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "86"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 965.QJ98743.J4.Q KJT73.A5.AT6.J86 A84.KT62.Q8532.9 Q2.K97.AKT75432."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1S Pass
+3C Pass 3D Pass
+4C Pass 4H X
+XX Pass 5C Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "87"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AT8.J4.K32.AQJ65 K654.6.Q9765.983 J72.AKQ98.AJ8.T7 Q93.T7532.T4.K42 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1H Pass
+2N Pass 6N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "88"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q854.5.QT3.AKJT4 63.Q987.KJ2.8732 AKJT2.AJ6.84.965 97.KT432.A9765.Q "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1S Pass 3H
+an si Pass 4S
+Pass 4N Pass 5D
+Pass 6S Pass Pass
+Pass
+[Play "None"]
+*
+
+
+[Event "Norwegian Bridge Festival"]
+[Site "00"]
+[Date "00"]
+[Board "89"]
+[West "Anfinnsen"]
+[North "Sørlie"]
+[East "Solheim"]
+[South "Kopstad"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 53.AK862.93.QT83 J9.9.AQJT85.J642 KQT86.JT53.642.7 A742.Q74.K7.AK95 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2H an 4! X
+3H 3S X 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+

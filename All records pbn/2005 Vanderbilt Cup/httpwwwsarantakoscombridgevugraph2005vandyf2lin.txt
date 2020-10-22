@@ -1,0 +1,928 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ3.Q973.QJT9.98 764.J4.AK73.KQT7 T82.T852.85.5432 AK95.AK6.642.AJ6 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "N"]
+Pass 1C Pass 2C
+Pass 2N Pass 3N
+Pass 4N Pass 6C
+Pass Pass Pass
+[Play "S"]
+DJ DA D5 D4
+HQ HJ H5 H6
+DT DK D8 D6
+D9 D3 C2 D2
+S3 S4 S2 SA
+C8 CK C3 C6
+DQ D7 S8 CA
+C9 CQ C4 CJ
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ3.Q973.QJT9.98 764.J4.AK73.KQT7 T82.T852.85.5432 AK95.AK6.642.AJ6 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "N"]
+Pass 1C Pass 2C
+an In Pass 2S
+Pass 3D Pass 3H
+Pass 3N Pass 4N
+Pass 6C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ8.K732.3.AKJ83 K64.84.AT74.T952 JT952.AQ6.QJ65.6 73.JT95.K982.Q74 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "E"]
+Pass 1C an 16
+Pass 1S an na
+Pass 2C Pass 2D
+Pass 2S Pass 3H
+Pass 3S Pass 4H
+an no Pass 4N
+an RK Pass 5D
+an 1  Pass 5S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ8.K732.3.AKJ83 K64.84.AT74.T952 JT952.AQ6.QJ65.6 73.JT95.K982.Q74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2H Pass 2N
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J842.QT4.J98.842 Q3.KJ96.K54.Q763 AT65.A83.QT32.K5 K97.752.A76.AJT9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "S"]
+Pass Pass 1D an
+10  2 X Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J842.QT4.J98.842 Q3.KJ96.K54.Q763 AT65.A83.QT32.K5 K97.752.A76.AJT9 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "S"]
+Pass Pass 1D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ2.J8.KJ32.JT93 874.AT743.Q9875.J6 KQ65.AT4.K762. AT953.92.6.AQ854 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "W"]
+Pass 1D an 10
+ 2 1S 2N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ2.J8.KJ32.JT93 874.AT743.Q9875.J6 KQ65.AT4.K762. AT953.92.6.AQ854 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "W"]
+Pass 1C 1S 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K94.K2.Q54.JT975 QJ82.AT95.A8.Q62 AT7.J7643.KT32.3 653.Q8.J976.AK84 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1D Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K94.K2.Q54.JT975 QJ82.AT95.A8.Q62 AT7.J7643.KT32.3 653.Q8.J976.AK84 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 2C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 6.743.QT7.AT8542 7.KJ86.AKJ842.J7 KT93.AT92.9.Q963 AQJ8542.Q5.653.K "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "E"]
+1S Pass 2D Pass
+2S Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 6.743.QT7.AT8542 7.KJ86.AKJ842.J7 KT93.AT92.9.Q963 AQJ8542.Q5.653.K "]
+[Declarer "E"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "E"]
+1S 3C 3D 5C
+Pass Pass X Pass
+5S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 764.754.AT2.QJ84 A2.KJ982.J873.A9 KQJ95.AQT.94.K73 T83.63.KQ65.T652 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "S"]
+Pass 1H 1S Pass
+2S Pass 2N an
+aX Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 764.754.AT2.QJ84 A2.KJ982.J873.A9 KQJ95.AQT.94.K73 T83.63.KQ65.T652 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "S"]
+Pass 1H 1S Pass
+2S Pass 3C Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ952.T954.6.543 KT.Q73.972.JT986 743.AJ82.AK53.AK Q86.K6.QJT84.Q72 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "W"]
+Pass 1C an 16
+Pass 1D an 0-
+Pass 2N Pass 3C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AJ952.T954.6.543 KT.Q73.972.JT986 743.AJ82.AK53.AK Q86.K6.QJT84.Q72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2N Pass 3C
+an ch Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K94.QT7.K7432.J7 AQ6.53.JT9.KQ632 87532.AJ6.85.854 JT.K9842.AQ6.AT9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "N"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: K94.QT7.K7432.J7 AQ6.53.JT9.KQ632 87532.AJ6.85.854 JT.K9842.AQ6.AT9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 3C Pass 3S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ7.T86.QJ853.64 A5.32.K9642.KQJ5 T98432.AKQ5.T.A8 J6.J974.A7.T9732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "E"]
+Pass Pass 1D 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KQ7.T86.QJ853.64 A5.32.K9642.KQJ5 T98432.AKQ5.T.A8 J6.J974.A7.T9732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "E"]
+Pass Pass 1D 1S
+X 2H Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J743.Q963.3.AQJ3 T65.JT2.Q9852.K7 KQ8.K8.AJT4.T954 A92.A754.K76.862 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "S"]
+2D Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J743.Q963.3.AQJ3 T65.JT2.Q9852.K7 KQ8.K8.AJT4.T954 A92.A754.K76.862 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "S"]
+Pass Pass 1D X
+1H Pass 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 32.K95.AQJT964.7 T974.AQ4.2.QT643 AK86.J62.K73.J98 QJ5.T873.85.AK52 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "W"]
+Pass 1D an 10
+ 2 Pass 2D an
+fo X Pass 3H
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 32.K95.AQJT964.7 T974.AQ4.2.QT643 AK86.J62.K73.J98 QJ5.T873.85.AK52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT53.J92.AKQ4.K8 86.AQT.T975.J762 J972.K87.J82.A43 AK4.6543.63.QT95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "N"]
+Pass Pass 1N Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT53.J92.AKQ4.K8 86.AQT.T975.J762 J972.K87.J82.A43 AK4.6543.63.QT95 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "N"]
+Pass Pass 1N Pass
+2C Pass 2S Pass
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQ72.A74.AK74.6 963.K93.T865.AJ8 J5.J652.J92.K752 T84.QT8.Q3.QT943 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "E"]
+Pass 1C an 16
+Pass 1D an 0-
+Pass 1S Pass 2C
+an aX 2D Pass
+2S Pass 3H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQ72.A74.AK74.6 963.K93.T865.AJ8 J5.J652.J92.K752 T84.QT8.Q3.QT943 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "E"]
+Pass 1S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K83.K65.T93.Q872 Q54.AJ872.7.K943 A2.QT43.AKQ2.AJ5 JT976.9.J8654.T6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "S"]
+Pass Pass 2N an
+21 Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: K83.K65.T93.Q872 Q54.AJ872.7.K943 A2.QT43.AKQ2.AJ5 JT976.9.J8654.T6 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "S"]
+Pass Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "S. Cohen"]
+[North "L. Cohen"]
+[East "Compton"]
+[South "Berkowitz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 742.T82.J86.K543 KT.AQJ5.T7543.Q2 A83.K973.AQ2.JT6 QJ965.64.K9.A987 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Schwartz"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Onstott"]
+[Auction "W"]
+1D X 1S Pass
+1N Pass 2C Pass
+2D an fo Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+

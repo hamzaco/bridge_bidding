@@ -1,0 +1,965 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ98.AJ5.QT2.Q54 AKT.Q87.964.AT76 4.T6432.KJ753.J9 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "N"]
+P P 1C P
+1H P 1S P
+1N P P P
+[Play "E"]
+C4 CT CJ C2
+DQ D4 D7 D8
+D2 D6 DK DA
+C5 CA C9 C3
+CQ C7 H3 CK
+S8 C6 H2 C8
+HJ HQ H4 H9
+S9 SK S4 S2
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ98.AJ5.QT2.Q54 AKT.Q87.964.AT76 4.T6432.KJ753.J9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "N"]
+P P 1C D
+1H 3S P P
+P
+[Play "S"]
+HA H7 H6 H9
+D2 D4 DK DA
+S8 SA S4 S2
+H5 H8 H4 HK
+SJ SK DJ S3
+HJ HQ H2 D8
+C4 C6 C9 CK
+C5 C7 CJ C8
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A9542.Q843.KT54.J86 AKQT862.A72.KT73.AK95 753.Q8."]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "E"]
+2D P P D
+P 3D D 3H
+P 4H 4S D
+5D P P D
+P P P
+[Play "S"]
+H3 D2 H9 H2
+SA S6 S3 SQ
+H4 D6 H5 H6
+S2 S8 S7 D4
+HK H7 H8 D8
+SK D9 S4 SJ
+C4 DA D3 DJ
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A9542.Q843.KT54.J86 AKQT862.A72.KT73.AK95 753.Q8."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "E"]
+P P 1D D
+1H 4S 5D P
+P 5S P P
+P
+[Play "W"]
+DK D3 D4 S2
+S4 S6 SK SQ
+H7 SA S8 S3
+C7 CQ C3 C4
+D5 D9 S5 D2
+H3 D6 HA H2
+D8 D7 DJ S9
+H4 DT HK H6
+C8 C9 CT CA
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A8.T7.AQJ976.KJ8 K742.J543.K3.742 J93.Q862.T85.QT9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "S"]
+1D P 1H D
+3D 3S P P
+P
+[Play "N"]
+DA D3 D8 D2
+DQ DK D5 D4
+H7 H4 H2 HA
+S8 SK S3 S5
+SA S2 S9 ST
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A8.T7.AQJ976.KJ8 K742.J543.K3.742 J93.Q862.T85.QT9 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "S"]
+1D P 1H P
+3D P P P
+[Play "W"]
+CK C2 C9 CA
+H7 H3 H2 HK
+HT H4 H6 HA
+SA S2 S3 S5
+DA D3 D5 D2
+CJ C4 CQ C3
+S8 H5 HQ H9
+D6 DK D8 D4
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ9862.AK72.JT8.AT3 J984.6543.K3. 54.T63.AK72.T765 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "W"]
+P P 3C 3S
+P P P
+[Play "W"]
+C5 CA S2 CK
+SK S3 S4 S7
+HA H4 H3 H5
+HK H8 H6 HQ
+H2 HJ HT C2
+D8 D3 DA D9
+S6 C3 C6 C9
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KQ9862.AK72.JT8.AT3 J984.6543.K3. 54.T63.AK72.T765 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "W"]
+P P 3C 3S
+P 4S P P
+P
+[Play "W"]
+C5 CA S2 CK
+SK SA S4 S7
+C3 C6 C8 S6
+SQ S3 S5 SJ
+DJ D3 D2 DQ
+H3 H5 HA H4
+S8 ST CT CQ
+D7 D9 DT D4
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT7.AQ8.872.A963 65.T642.QT3.K742 A93.J95.96.QJT85 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "N"]
+P 1S P P
+P
+[Play "S"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT7.AQ8.872.A963 65.T642.QT3.K742 A93.J95.96.QJT85 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "N"]
+P 1S P P
+P
+[Play "S"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT532.J732.QT7.2 9.T64.K92.AK8543 876.AKQ5.A854.T7 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "E"]
+1C P 2C P
+2S P 3D P
+3H P 4C P
+5C P P P
+[Play "S"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT532.J732.QT7.2 9.T64.K92.AK8543 876.AKQ5.A854.T7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "E"]
+1C P 2C P
+2H 2S P P
+D P 3S P
+3N P P P
+[Play "S"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q87.T96.AQT763.7 J.AQ42.92.AQT983 K53.KJ5.84.KJ654 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "6"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "S"]
+2C 3C P 3S
+P 4C P P
+P
+[Play "N"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: Q87.T96.AQT763.7 J.AQ42.92.AQT983 K53.KJ5.84.KJ654 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "3"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "S"]
+2D 3C P 3N
+P P P
+[Play "S"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q95.J9542.Q6.QJ4 K62.KT7.JT543.93 A84.A83.K82.T865 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "W"]
+P P 1N P
+P P
+[Play "S"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q95.J9542.Q6.QJ4 K62.KT7.JT543.93 A84.A83.K82.T865 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "W"]
+P P 1C P
+1N P P P
+[Play "N"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 54.Q98.QT842.A53 KQJ.K763.KJ5.J87 T962.542.A9.T964 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "N"]
+P 1C 1D 1H
+P 2H P 3N
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 54.Q98.QT842.A53 KQJ.K763.KJ5.J87 T962.542.A9.T964 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "N"]
+P 1C 1D 1H
+P 1S P 3N
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT75.43.AJ872.A8 J2.97.T943.KT972 K9643.J862.KQ6.3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "E"]
+1H P P 1S
+2C 3D P 4S
+P P P
+[Play "E"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: QT75.43.AJ872.A8 J2.97.T943.KT972 K9643.J862.KQ6.3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "E"]
+1H P P 1S
+2C 4S P P
+P
+[Play "E"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 75.943.Q842.J753 J.Q52.KJ763.AT86 KQ632.KT87.T.Q92 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "S"]
+P 1D 1S P
+P D P P
+P
+[Play "E"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 75.943.Q842.J753 J.Q52.KJ763.AT86 KQ632.KT87.T.Q92 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "S"]
+P 1D 1S 3N
+P P P
+[Play "S"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K7653.72.K43.QJ3 JT842.AJ9.T7.K52 9.KQT64.J985.864 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "W"]
+P P 1N P
+2H D P P
+3N P 4S P
+P P
+[Play "S"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K7653.72.K43.QJ3 JT842.AJ9.T7.K52 9.KQT64.J985.864 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "W"]
+P P 1N P
+2H D P P
+3N P P P
+[Play "S"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J74.98.AQ5.Q9873 AK9.KQ5.JT2.JT65 T3.AJT32.K87.AK4 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "N"]
+1H P 1N P
+2C P 2H P
+P P
+[Play "E"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J74.98.AQ5.Q9873 AK9.KQ5.JT2.JT65 T3.AJT32.K87.AK4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "N"]
+1H P 1N P
+2C P 3C P
+3N P P P
+[Play "W"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 832.963.975.8762 T4.AQ75.AJ3.AKT4 QJ765.K4.KQ86.Q9 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "E"]
+P P 1C 1S
+D P 4H P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 832.963.975.8762 T4.AQ75.AJ3.AKT4 QJ765.K4.KQ86.Q9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "E"]
+P P 1C 1S
+1N P 3N P
+P P
+[Play "S"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJT6.AKQ83.K7.J2 K8.95.98542.KQ95 Q543.J2.AT6.A876 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "S"]
+1H P 1S P
+2N P 3N P
+4D P 4N P
+5H P 6S P
+P P
+[Play "E"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJT6.AKQ83.K7.J2 K8.95.98542.KQ95 Q543.J2.AT6.A876 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "S"]
+1H P 1S P
+4S P 4N P
+5H P 6S P
+P P
+[Play "E"]
+*
+
+
+[Event "2000 Venice Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Sokolow"]
+[North "Van der Pas"]
+[East "Seamon"]
+[South "Vriend"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 965.J8762.T.9874 Q843.Q543.32.JT6 AKT72.AQJ765.AK."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Netherlands"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "USA I"]
+[Auction "W"]
+P 2C P 2D
+P 3D P 3H
+P 3S P 3N
+P 4S P P
+P
+[Play "E"]
+*
+
+

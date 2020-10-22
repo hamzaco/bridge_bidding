@@ -1,0 +1,453 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T32.T75.Q8753.A4 J974.Q98.AKT42.9 Q65.K2.J6.QT8765 AK8.AJ643.9.KJ32 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1H Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+CA C9 CT C3
+S2 S4 SQ SA
+H5 H8 H2 HA
+H7 HQ HK H3
+S3 S9 S6 S8
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T32.T75.Q8753.A4 J974.Q98.AKT42.9 Q65.K2.J6.QT8765 AK8.AJ643.9.KJ32 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1H Pass 2D
+Pass 3C Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A9.KJ976.J632.KJ K72.T4.Q97.Q8643 JT6.A853.K54.T52 Q8543.Q2.AT8.A97 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S 2H 2S 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A9.KJ976.J632.KJ K72.T4.Q97.Q8643 JT6.A853.K54.T52 Q8543.Q2.AT8.A97 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1S X 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T9764.Q542.6.Q76 J.AKT972.AJT984.KJ5 AKT7.Q854.32. AQ832.9863.J3.K5 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 3C Pass 3H
+Pass 4C Pass 4S
+Pass 5C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T9764.Q542.6.Q76 J.AKT972.AJT984.KJ5 AKT7.Q854.32. AQ832.9863.J3.K5 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1D 1H X
+3H 4C Pass 4H
+Pass 6C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 643.JT7.AKQ73.K8 QT82.65.J8652.62 AJ5.AKQ832.QT75.K97 94.T94.AJ943."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 2D
+Pass 2H Pass 3H
+Pass 3S Pass 4C
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 643.JT7.AKQ73.K8 QT82.65.J8652.62 AJ5.AKQ832.QT75.K97 94.T94.AJ943."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C Pass 2D
+Pass 2H Pass 3H
+Pass 3S Pass 4D
+Pass 4H Pass 5C
+Pass 6H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T8654.Q753.AJ98.Q3 AJ53.KT62.QT4.J92 K72.AJ98.K65.AK7 QT9864.4.732."]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C 1H X an
+4+ 3C an 4h
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T8654.Q753.AJ98.Q3 AJ53.KT62.QT4.J92 K72.AJ98.K65.AK7 QT9864.4.732."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1C 1H 1S 2D
+X 2H Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QT2.7652.A97.J98 AK9643.Q4.Q643.A J5.KJT3.T52.Q643 87.A98.KJ8.KT752 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1S Pass
+1N Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QT2.7652.A97.J98 AK9643.Q4.Q643.A J5.KJT3.T52.Q643 87.A98.KJ8.KT752 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C Pass 1S Pass
+1N Pass 2D Pass
+3C Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A86.AKQ.KQJT3.Q3 32.T432.A4.JT862 754.J7.975.AK974 KQJT9.9865.862.5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1N Pass
+2D Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A86.AKQ.KQJT3.Q3 32.T432.A4.JT862 754.J7.975.AK974 KQJT9.9865.862.5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1N 2S
+3D Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Slava Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Bessis"]
+[North "Khokhlov"]
+[East "Volker"]
+[South "Matushko"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AT42.9.T987.KQ52 J98.853.J652.A98 765.AJ2.AKQ.JT73 KQ3.KQT764.43.64 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1C 1H X
+an 4+ Pass 1S
+an 3s Pass Pass
+Pass
+[Play "E"]
+*
+
+

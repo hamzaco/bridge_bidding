@@ -1,0 +1,910 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 4.KT43.J9543.AKT T876.72.K87.J965 AQJ93.QJ986.T2.Q K52.A5.AQ6.87432 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1S Pass 2D Pass
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+D3 D8 D2 DA
+D4 DK DT D6
+D5 D7 H9 DQ
+H3 H2 HJ H5
+H4 H7 H6 HA
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 4.KT43.J9543.AKT T876.72.K87.J965 AQJ93.QJ986.T2.Q K52.A5.AQ6.87432 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1S Pass 1N Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 42.KT9.J5.KQ6542 K75.A54.K92.J987 AT9.J872.AQ43.A3 QJ863.Q63.T876.T "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass 1C X
+1S 1N Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 42.KT9.J5.KQ6542 K75.A54.K92.J987 AT9.J872.AQ43.A3 QJ863.Q63.T876.T "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass 1N X
+2S 3C Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A985.QT7.J84.AJ2 Q73.AK82.T976.93 4.J53.AKQ53.KQ86 KJT62.964.2.T754 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A985.QT7.J84.AJ2 Q73.AK82.T976.93 4.J53.AKQ53.KQ86 KJT62.964.2.T754 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+1C Pass 1D Pass
+1N Pass 3S X
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 42.Q6.KT9653.T96 AJ3.AT5.AJ742.J4 Q9875.J872.Q8.87 KT6.K943.AKQ532."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1N Pass 2C Pass
+2D Pass 3C Pass
+3D Pass 6C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 42.Q6.KT9653.T96 AJ3.AT5.AJ742.J4 Q9875.J872.Q8.87 KT6.K943.AKQ532."]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1D Pass 2C Pass
+2D Pass 2H Pass
+2N Pass 3C Pass
+3H Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T872.AQJ987.AJ3.K4 K542.Q975.KQ8.9653 T6.84.J6543. AQJ.3.KT62.AT972 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass 1C 1H 2D
+Pass 3H X 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: T872.AQJ987.AJ3.K4 K542.Q975.KQ8.9653 T6.84.J6543. AQJ.3.KT62.AT972 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass 1C 1H 3N
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 964.AT2.AK762.84 K7.QJ98653.Q8.96 AT852.K.T5.AKJT5 QJ3.74.J943.Q732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass 1D 2H 2S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 964.AT2.AK762.84 K7.QJ98653.Q8.96 AT852.K.T5.AKJT5 QJ3.74.J943.Q732 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass 1D 1H 1S
+Pass 2S Pass 3C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 2.QJ753.T8.KQ863 A4.AT9.QJ764.T94 KQJ863.K862.A.AJ T975.4.K9532.752 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass Pass 1S Pass
+1N Pass 2N Pass
+3C Pass 3H Pass
+4C Pass 4D X
+4H Pass 4N Pass
+5C Pass 5H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 2.QJ753.T8.KQ863 A4.AT9.QJ764.T94 KQJ863.K862.A.AJ T975.4.K9532.752 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass 1N X 2D
+3H Pass 4D Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT3.T432.K7.AQ54 A984.AJ87.QJ3.62 KQ72.KQ9.64.KT97 65.65.AT9852.J83 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1D X 3D 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT3.T432.K7.AQ54 A984.AJ87.QJ3.62 KQ72.KQ9.64.KT97 65.65.AT9852.J83 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+1N X 2D X
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQT64.KT5.J863.6 KJ.Q632.AT72.A92 732.94.KQ54.J543 985.AJ87.9.KQT87 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass Pass 1S X
+2S 4H 4S X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQT64.KT5.J863.6 KJ.Q632.AT72.A92 732.94.KQ54.J543 985.AJ87.9.KQT87 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+Pass Pass 1S X
+2S X 3S Pass
+Pass X Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 975.JT4.KQ74.K62 K3.A7532.J82.AJ5 AQJT62.9.A653.T4 84.KQ86.T9.Q9873 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass 1H 1S
+2D 2H 3H 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 975.JT4.KQ74.K62 K3.A7532.J82.AJ5 AQJT62.9.A653.T4 84.KQ86.T9.Q9873 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+Pass Pass 1H 1S
+2D Pass 3D Pass
+3H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT8764.Q.AQ5.Q95 K3.AJ98754.J63.3 Q95.KT32.T2.JT64 J2.6.K9874.AK872 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+1S 3H Pass Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AT8764.Q.AQ5.Q95 K3.AJ98754.J63.3 Q95.KT32.T2.JT64 J2.6.K9874.AK872 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+1S 3H 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J9.AQJ62.KQ942.2 Q42.K9754.7653.3 A87653.83.JT.AJT KT.T.A8.KQ987654 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+Pass 2S 3C 3H
+Pass 3N Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J9.AQJ62.KQ942.2 Q42.K9754.7653.3 A87653.83.JT.AJT KT.T.A8.KQ987654 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+Pass 2S 5C X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J9653.2.K7642.T8 T8.K96.Q95.A9632 KQ72.AQ843.AT8.Q A4.JT75.J3.KJ754 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1H Pass 1N Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: J9653.2.K7642.T8 T8.K96.Q95.A9632 KQ72.AQ843.AT8.Q A4.JT75.J3.KJ754 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "N"]
+1H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK83.53.Q82.J952 QJT42.J87.A964.8 9765.KT92.T3.T73 .AQ64.KJ75.AKQ64 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+1C Pass 1S Pass
+2H Pass 2N Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AK83.53.Q82.J952 QJT42.J87.A964.8 9765.KT92.T3.T73 .AQ64.KJ75.AKQ64 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "E"]
+1C 1S 1N 3S
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT9.AK2.T863.864 K65.Q64.A9.AQ953 Q8742.T983.K7.T2 J3.J75.QJ542.KJ7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+1D X 1S 1N
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT9.AK2.T863.864 K65.Q64.A9.AQ953 Q8742.T983.K7.T2 J3.J75.QJ542.KJ7 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo Cup Final"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "VilasBoas"]
+[North "Ghobril"]
+[East "Chagas"]
+[South "Dib"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: J87.653.AK82.654 T965.AJT7.Q953.7 KQ2.84.JT6.AKQJ9 A43.KQ92.74.T832 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Maia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Chagas"]
+[Auction "W"]
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+

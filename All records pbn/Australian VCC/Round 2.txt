@@ -1,0 +1,888 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.QJ8.A862.J9632 6.T32.JT9754.T85 AT742.AK954.AQ7.KQ9853 76.KQ3.K4."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "N"]
+1S Pass 1N Pass
+3H Pass 4D Pass
+4H Pass Pass Pass
+[Play "E"]
+HQ H2 H4 H7
+C2 C8 CQ CK
+H8 H3 H5 H6
+C3 CT CA C4
+SJ S6 SA S3
+HJ C5 S2 S5
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J.QJ8.A862.J9632 6.T32.JT9754.T85 AT742.AK954.AQ7.KQ9853 76.KQ3.K4."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "N"]
+1S Pass 1N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+HQ H3 H4 H6
+C2 C8 CQ CK
+DA DJ S2 DK
+H8 H2 HA H7
+C4 C3 C5 CA
+HJ HT H5 S3
+CJ CT C7 S5
+C9 D4 S4 S8
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9876.J4.AK.AK953 QT3.AQT72.53.QJ4 AKJ42.K5.T987.82 5.9863.QJ642.T76 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "E"]
+Pass 1N Pass 2H
+an TX Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9876.J4.AK.AK953 QT3.AQT72.53.QJ4 AKJ42.K5.T987.82 5.9863.QJ642.T76 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "E"]
+Pass 1N Pass 2H
+Pass 3S an 4!
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T87.T.QJ9732.QT3 KQ4.Q63.KT85.K62 AJ9532.9.6.AJ974 6.AKJ87542.A4.85 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "S"]
+3D Pass 3S 4H
+4S X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T87.T.QJ9732.QT3 KQ4.Q63.KT85.K62 AJ9532.9.6.AJ974 6.AKJ87542.A4.85 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "S"]
+3D Pass Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 2.QJ5.J7432.J864 AT53.K942.85.A72 J9864.A86.T9.T95 KQ7.T73.AKQ6.KQ3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 2.QJ5.J7432.J864 AT53.K942.85.A72 J9864.A86.T9.T95 KQ7.T73.AKQ6.KQ3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "W"]
+1C Pass 1D Pass
+1N Pass 4N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 8654.Q9.A9865.T4 KJ97.J765.KJ952.T2 K82.KQT73.863.AQ3 AT43.J42.AQ7."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 8654.Q9.A9865.T4 KJ97.J765.KJ952.T2 K82.KQT73.863.AQ3 AT43.J42.AQ7."]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 5.984.A972.AK875 842.J75.JT654.J3 JT.AKT632.K8.T62 AKQ9763.Q.Q3.Q94 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "E"]
+1S 2C Pass 2H
+2S 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 5.984.A972.AK875 842.J75.JT654.J3 JT.AKT632.K8.T62 AKQ9763.Q.Q3.Q94 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "E"]
+1S X Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT6.AT754.765.T6 AK852.AK8.KJ742.943 KJ9.QJT43.98.J7 Q8632.92.AQ53."]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass 3C Pass 4C
+Pass 6C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT6.AT754.765.T6 AK852.AK8.KJ742.943 KJ9.QJT43.98.J7 Q8632.92.AQ53."]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "S"]
+Pass 1C Pass 2H
+an fi Pass 2S
+Pass 3C Pass 6C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K972.J84.KQ92.K8 T4.AKQ6.654.AJ42 Q5.T752.JT3.QT63 AJ863.93.A87.975 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "W"]
+1H Pass 1S Pass
+1N Pass 2C Pass
+2N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K972.J84.KQ92.K8 T4.AKQ6.654.AJ42 Q5.T752.JT3.QT63 AJ863.93.A87.975 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "W"]
+1C Pass 1S Pass
+1N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 87.K.KQJT97.KQ96 AKJ543.T93.83.A5 T962.QJ52.A2.J72 Q.A8764.654.T843 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "N"]
+Pass Pass 1D 1S
+X Pass 2D 2S
+Pass Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 87.K.KQJT97.KQ96 AKJ543.T93.83.A5 T962.QJ52.A2.J72 Q.A8764.654.T843 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "N"]
+Pass Pass 1D 1S
+X Pass 2D 2S
+Pass Pass 3C Pass
+3D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 653.K9763.AKQ53.AKQJT A42.K93.J8.2 QJT85.AT84.976.9874 QJ7652.T42."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "E"]
+Pass 1H 1S 3S
+Pass 4C 4S X
+Pass 6H X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 653.K9763.AKQ53.AKQJT A42.K93.J8.2 QJT85.AT84.976.9874 QJ7652.T42."]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "E"]
+Pass 1H 1S 4H
+4S 5H 5S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AJ864.AT2.JT2.Q7 K2.Q9873.A643.T9 Q93.J65.Q.J86543 T75.K4.K9875.AK2 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "S"]
+1S Pass 2S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 973.AT95.Q76.Q87 A5.QJ32.KT842.A4 J642.K864.95.632 KQT8.7.AJ3.KJT95 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "W"]
+1N Pass 3C Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 973.AT95.Q76.Q87 A5.QJ32.KT842.A4 J642.K864.95.632 KQT8.7.AJ3.KJT95 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "W"]
+1N Pass 2C Pass
+2H Pass 3C Pass
+3D Pass 3S Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T765.6.JT75.JT75 AK8.JT74.2.A8432 QJ3.KQ9532.K863. 942.A8.AQ94.KQ96 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "N"]
+1H 1N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T765.6.JT75.JT75 AK8.JT74.2.A8432 QJ3.KQ9532.K863. 942.A8.AQ94.KQ96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "N"]
+1H X Pass 2H
+Pass 3C Pass 4C
+Pass 4D Pass 4S
+Pass 5C Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 74.AK5.Q432.JT53 Q95.J6.J8765.982 J63.QT84.T.KQ764 AKT82.9732.AK9.A "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "E"]
+1S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 74.AK5.Q432.JT53 Q95.J6.J8765.982 J63.QT84.T.KQ764 AKT82.9732.AK9.A "]
+[Declarer "E"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "E"]
+1S Pass 2S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J.AK62.KQ96432.7 A9742.J5.T.JT432 T.9874.J85.AKQ86 KQ8653.QT3.A7.95 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "S"]
+1D 1S X 4S
+5D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J.AK62.KQ96432.7 A9742.J5.T.JT432 T.9874.J85.AKQ86 KQ8653.QT3.A7.95 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "S"]
+1D 1S X 3D
+an 4+ 4H 4S
+5H 5S 6D 6S
+X Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Australian VCC"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Gill"]
+[North "Kanetkar"]
+[East "M. Robb"]
+[South "Nunn"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: QJ93.K.AT9873.64 K5.AT9743.K.QT97 A8742.J6.J42.KJ8 T6.Q852.Q65.A532 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Kanetkar"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bloom"]
+[Auction "W"]
+1H Pass 2H X
+3H 3S 4H 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+

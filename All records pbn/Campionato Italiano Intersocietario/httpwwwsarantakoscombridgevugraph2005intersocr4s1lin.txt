@@ -1,0 +1,695 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK2.AQJ42.QT8.32 QJ4.K7653.962.AQ 85.T.KJ753.JT864 T9763.98.A4.K975 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "N"]
+Pass Pass 1C 1H
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+H2 HK HT H9
+SA SQ S5 S7
+DQ D6 D3 DA
+SK SJ S8 S3
+HA H3 C4 H8
+HQ H5 C6 D4
+HJ H7 C8 C5
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK2.AQJ42.QT8.32 QJ4.K7653.962.AQ 85.T.KJ753.JT864 T9763.98.A4.K975 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "N"]
+Pass Pass 1H Pass
+1N Pass 2C Pass
+2S Pass 3D Pass
+Pass Pass
+[Play "W"]
+D8 D2 D3 DA
+DT D6 D5 D4
+H2 HK HT H8
+SK SQ S5 ST
+DQ D9 D7 C5
+HA H3 C4 H9
+HJ H5 C6 S3
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T983.KJ76.J6.T63 7652.983.9842.Q9 AK.AQT.KT753.AK7 QJ4.542.AQ.J8542 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1D Pass 2C
+Pass 2D Pass 2N
+Pass 3C Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T983.KJ76.J6.T63 7652.983.9842.Q9 AK.AQT.KT753.AK7 QJ4.542.AQ.J8542 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1D Pass 2C
+Pass 2D Pass 2H
+Pass 2S Pass 2N
+Pass 3C Pass 3D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT954.9542.94.T2 J76.KT3.JT.Q9763 3.J76.KQ632.AK85 KQ82.AQ8.A875.J4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "S"]
+Pass Pass 2D X
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT954.9542.94.T2 J76.KT3.JT.Q9763 3.J76.KQ632.AK85 KQ82.AQ8.A875.J4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "S"]
+Pass Pass 1D 1N
+2C 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK86.J542.Q8753.QT9 9.QJ98743.K4.3 AQT76.KT62.AT9.J7542 K83.A5.J62."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "W"]
+3D Pass Pass X
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK86.J542.Q8753.QT9 9.QJ98743.K4.3 AQT76.KT62.AT9.J7542 K83.A5.J62."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "W"]
+Pass 1H 1S 4H
+4S Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ32.K8.AK532.92 K987.A763.JT6.A4 T5.QT94.Q9.JT873 J64.J52.874.KQ65 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ32.K8.AK532.92 K987.A763.JT6.A4 T5.QT94.Q9.JT873 J64.J52.874.KQ65 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "N"]
+Pass Pass 1D X
+Pass 1H X Pass
+2C Pass Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ3.KQ.A43.Q987 T97.AT986.QT2.A6 52.J752.96.JT432 A864.43.KJ875.K5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "E"]
+1D 1N X Pass
+Pass 2C 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ3.KQ.A43.Q987 T97.AT986.QT2.A6 52.J752.96.JT432 A864.43.KJ875.K5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "E"]
+1D 1N X 2C
+Pass Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 52.Q98.K87532.65 984.3.QJ4.AKJT98 AKQ6.76542.A96.Q JT73.AKJT.T.7432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "S"]
+Pass 1C an na
+1S X Pass 2C
+Pass 3C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 52.Q98.K87532.65 984.3.QJ4.AKJT98 AKQ6.76542.A96.Q JT73.AKJT.T.7432 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "S"]
+Pass 1C X XX
+2D Pass 3C Pass
+3D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ8652.T3.J76.83 7.A854.T82.JT972 A43.KJ97.A4.Q654 QT9.Q62.KQ953.AK "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "W"]
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KJ8652.T3.J76.83 7.A854.T82.JT972 A43.KJ97.A4.Q654 QT9.Q62.KQ953.AK "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "W"]
+Pass 1D 1N 2S
+X Pass 3D Pass
+Pass 3S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A832.AKJ8.T732.Q KQJ65.72.98654.6 97.QT653.AJ.KJ72 T4.94.KQ.AT98543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "N"]
+1H 2C 3C an
+aP Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A832.AKJ8.T732.Q KQJ65.72.98654.6 97.QT653.AJ.KJ72 T4.94.KQ.AT98543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "N"]
+1H 2C 2N Pass
+3H Pass 3S Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT95.QJ.K96.AK97 762.AT865.J52.J8 83.K432.T4.QT632 AQJ4.97.AQ873.54 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "E"]
+1D 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: KT95.QJ.K96.AK97 762.AT865.J52.J8 83.K432.T4.QT632 AQJ4.97.AQ873.54 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "E"]
+1D 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QT95.J.AQ6.QJT96 AKJ64.Q854.32.85 7.AKT3.JT987.A74 832.9762.K54.K32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "S"]
+1D 1S X 2S
+Pass Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QT95.J.AQ6.QJT96 AKJ64.Q854.32.85 7.AKT3.JT987.A74 832.9762.K54.K32 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "S"]
+2C Pass 2D Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Pulga"]
+[North "Sementa"]
+[East "Rinaldi"]
+[South "Angelini"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: A.T73.T652.KT743 T6.Q6.KJ843.J852 KQ84.K84.Q7.AQ96 J97532.AJ952.A9."]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Tennis Club Parioli"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ASD Villa Fabbriche"]
+[Auction "W"]
+Pass 1C X an
+la XX an 4+
+1D Pass 1S 2N
+Pass Pass Pass
+[Play "W"]
+*
+
+

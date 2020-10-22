@@ -1,0 +1,944 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJT9.J.Q965.AJT7 7632.K96.K32.652 K54.A87542.87.Q4 Q8.QT3.AJT4.K983 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1N Pass Pass
+2H Pass Pass Pass
+[Play "E"]
+SA S6 S4 SQ
+HJ H6 HA H3
+D5 H9 H8 HT
+S9 S7 SK S8
+ST S3 S5 HQ
+D6 D3 D7 DJ
+D9 DK D8 D4
+DQ D2 H2 DT
+C7 HK H4 C3
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AJT9.J.Q965.AJT7 7632.K96.K32.652 K54.A87542.87.Q4 Q8.QT3.AJT4.K983 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "N"]
+2D Pass 2H Pass
+Pass Pass
+[Play "W"]
+D5 D2 D7 DA
+D6 D3 D8 DJ
+HJ HK HA H3
+S9 H6 H2 HT
+C7 C2 CQ C3
+D9 H9 H4 HQ
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q98743.43.AQ94.Q 5.AQ82.JT75.A964 J2.KJT6.K62.KT87 AKT6.975.83.J532 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "E"]
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+DA DJ D2 D8
+CQ CA C7 C2
+D4 D5 DK D3
+H3 C4 CK C3
+S3 C6 C8 C5
+S4 S5 SJ SK
+S7 C9 CT CJ
+H4 HA H6 H5
+D9 D7 D6 S6
+DQ HQ HK H7
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q98743.43.AQ94.Q 5.AQ82.JT75.A964 J2.KJT6.K62.KT87 AKT6.975.83.J532 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "E"]
+Pass 2D Pass 2H
+Pass 2S X Pass
+3C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J86432.76.K9.Q92 QT9.Q52.J4.A8654 AK7.A943.86.KJT7 5.KJT8.AQT7532.3 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "S"]
+Pass Pass 1C 1D
+1H Pass 1S 2D
+2S 3D 3S 4D
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J86432.76.K9.Q92 QT9.Q52.J4.A8654 AK7.A943.86.KJT7 5.KJT8.AQT7532.3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "S"]
+Pass Pass 1N 3D
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 72.AQ432.A42.KJT KJT.KT7.653.Q943 AQ9654.8.KT87.82 83.J965.QJ9.A765 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "W"]
+Pass 2S Pass 2N
+Pass 3D Pass 3H
+Pass 4C Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 72.AQ432.A42.KJT KJT.KT7.653.Q943 AQ9654.8.KT87.82 83.J965.QJ9.A765 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 2S Pass 3C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ852.KJ.2.KQJ92 73.Q9764.QT98.54 AQ4.AT85.J7653.7 T96.32.AK4.AT863 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "N"]
+2D Pass 2H Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ852.KJ.2.KQJ92 73.Q9764.QT98.54 AQ4.AT85.J7653.7 T96.32.AK4.AT863 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "N"]
+1D Pass 1S Pass
+2S Pass 3C Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ765.T3.AQ64.T7 2.AJ94.T7.AKQ862 983.Q865.KJ85.94 AQT4.K72.932.J53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "E"]
+Pass Pass 2C Pass
+2D Pass 2H Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ765.T3.AQ64.T7 2.AJ94.T7.AKQ862 983.Q865.KJ85.94 AQT4.K72.932.J53 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2H Pass
+3D Pass 4C Pass
+4H Pass 5C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 54.K32.Q954.A974 AKJ72.J75.832.T8 T83.T964.A6.J532 Q96.AQ8.KJT7.KQ6 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 2C Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 54.K32.Q954.A974 AKJ72.J75.832.T8 T83.T964.A6.J532 Q96.AQ8.KJT7.KQ6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 2H Pass 2S
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT842.A9.AK872.2 J6.J8.J943.J9765 Q53.T542.QT5.A43 K97.KQ763.6.KQT8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "W"]
+Pass Pass 1H 3C
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT842.A9.AK872.2 J6.J8.J943.J9765 Q53.T542.QT5.A43 K97.KQ763.6.KQT8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "W"]
+Pass Pass 1H 2H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 8.J72.AJT86.AQ93 T63.AQ94.KQ32.84 AKQJ97542.K3.T5. T865.9754.KJ762."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "N"]
+1S Pass 2D Pass
+3S Pass 4C Pass
+5D Pass 5S Pass
+6S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 8.J72.AJT86.AQ93 T63.AQ94.KQ32.84 AKQJ97542.K3.T5. T865.9754.KJ762."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "N"]
+1C Pass 2D Pass
+2S Pass 3C Pass
+3S Pass 3N Pass
+4D Pass 4N Pass
+6S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 76.Q7.T7642.K987 AJT953.J43.3.AT4 KQ8.K9652.J85.J6 42.AT8.AKQ9.Q532 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "E"]
+1N Pass 4H Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 76.Q7.T7642.K987 AJT953.J43.3.AT4 KQ8.K9652.J85.J6 42.AT8.AKQ9.Q532 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "E"]
+1N Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T2.K63.A5.JT8652 QJ64.Q7.Q8642.Q9 853.95.KT973.743 AK97.AJT842.J.AK "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "S"]
+Pass Pass Pass 1C
+2C 2D 3C 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T2.K63.A5.JT8652 QJ64.Q7.Q8642.Q9 853.95.KT973.743 AK97.AJT842.J.AK "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "S"]
+Pass Pass Pass 2C
+Pass 2D Pass 2H
+Pass 2N Pass 3S
+Pass 4D X Pass
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKQ6.AJ942.53.65 953.T6.QJ972.KQT T84.K.AK84.J9742 J72.Q8753.T6.A83 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 2C Pass 2D
+Pass 2S Pass 3D
+Pass 3N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AKQ6.AJ942.53.65 953.T6.QJ972.KQT T84.K.AK84.J9742 J72.Q8753.T6.A83 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "11"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 8643.96.AKQT76.9 A5.A754.J94.J874 J92.QT82.852.KQ6 KQT7.KJ3.3.AT532 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1S 2D Pass
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 8643.96.AKQT76.9 A5.A754.J94.J874 J92.QT82.852.KQ6 KQT7.KJ3.3.AT532 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "N"]
+Pass 1C 3D X
+Pass 3S Pass 4C
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ642.76.KJ742.A AQ83.K83.AQ93.85 T.Q9542.65.QJT96 975.AJT.T8.K7432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "E"]
+Pass 2S 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: KJ642.76.KJ742.A AQ83.K83.AQ93.85 T.Q9542.65.QJT96 975.AJT.T8.K7432 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "E"]
+Pass 1S 1N 2H
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q72.AK8743.J6.Q9 AJ4.Q5.KQ532.J64 98.JT62.A97.AT82 KT653.9.T84.K753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "S"]
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: Q72.AK8743.J6.Q9 AJ4.Q5.KQ532.J64 98.JT62.A97.AT82 KT653.9.T84.K753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "S"]
+1H X XX 3S
+Pass Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2014 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Passell"]
+[North "Nunes"]
+[East "Lynch"]
+[South "Fantoni"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AQT9432.T95.J.KJ 43.Q8742.T98765.KJ6 KQJ762.AT9.2. 875.A8.K653.AQ43 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Monaco"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lynch"]
+[Auction "W"]
+Pass 1H Pass 2S
+Pass 2N Pass 3D
+Pass 3H Pass 3S
+Pass 4C Pass 4D
+Pass 4H Pass 5C
+Pass 5D Pass 5S
+Pass Pass Pass
+[Play "W"]
+*
+
+

@@ -1,0 +1,929 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT653.Q842.KQ8.6 J82.J963.932.AJT Q4.K5.J75.KQ8542 K97.AT7.AT64.973 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 2H Pass
+3C Pass Pass Pass
+[Play "E"]
+C6 CT CK C3
+DQ D2 D5 D4
+S3 S8 SQ SK
+SA S2 S4 S9
+H2 H3 HK HA
+HQ H6 H5 H7
+H4 HJ C2 HT
+D8 D3 D7 DA
+ST SJ C4 S7
+DK D9 DJ D6
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT653.Q842.KQ8.6 J82.J963.932.AJT Q4.K5.J75.KQ8542 K97.AT7.AT64.973 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "N"]
+2C Pass 2S Pass
+3C Pass 3H Pass
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A73.9543.K53.832 J864.6.AT6.AKJ96 Q952.J87.42.Q754 KT.AKQT2.QJ987.T "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "E"]
+1H Pass 2C Pass
+2H Pass 2S an
+XX Pass 3C Pass
+3D an XX Pass
+3H an 5! Pass
+3S an XX Pass
+4C an se Pass
+4D Pass 4S an
+oX Pass 5D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A73.9543.K53.832 J864.6.AT6.AKJ96 Q952.J87.42.Q754 KT.AKQT2.QJ987.T "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "E"]
+1H Pass 2C Pass
+2D Pass 2S Pass
+3D Pass 3S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 95.KQJ63.863.KJ5 AQT87.T4.54.AQT8 K4.52.AQJT7.9632 J632.A987.K92.74 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "S"]
+Pass 1S 2D 3D
+an 9-  3 3H
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 95.KQJ63.863.KJ5 AQT87.T4.54.AQT8 K4.52.AQJT7.9632 J632.A987.K92.74 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "S"]
+Pass 1S 2D 2N
+3D Pass Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K75.T875.AK9.T96 T9843.K6.J87.853 QJ6.AQJ432.T2.J2 A2.9.Q6543.AKQ74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "W"]
+Pass 2H an 8-
+ 6 3C 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K75.T875.AK9.T96 T9843.K6.J87.853 QJ6.AQJ432.T2.J2 A2.9.Q6543.AKQ74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "W"]
+Pass 1H 2N 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT4.K732.JT83.63 A872.QJ54.K6.852 J63.A98.AQ7542.9 Q95.T6.9.AKQJT74 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "N"]
+1D 2C 2D X
+3D X Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT4.K732.JT83.63 A872.QJ54.K6.852 J63.A98.AQ7542.9 Q95.T6.9.AKQJT74 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "N"]
+1D 2C X 2D
+Pass 3D Pass 3N
+X Pass Pass 4C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 742.974.A72.AKQ2 Q.AT.Q843.T98643 KJ953.K83.JT96.J AT86.QJ652.K5.75 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 1N Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 742.974.A72.AKQ2 Q.AT.Q843.T98643 KJ953.K83.JT96.J AT86.QJ652.K5.75 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "E"]
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J9653.K8.5.AQ765 KQ7.QT7.AJ3.T432 AT42.62.K9874.98 8.AJ9543.QT62.KJ "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "S"]
+Pass 1C Pass 1D
+an 4+ 1S Pass
+3S 4H 4S X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J9653.K8.5.AQ765 KQ7.QT7.AJ3.T432 AT42.62.K9874.98 8.AJ9543.QT62.KJ "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "S"]
+1S Pass 3C 3H
+4S X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T97.AJ32.AKQ862.Q84 K75.97.AKT82.63 Q9864.JT4.654. AKJ52.T.53.QJ973 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "W"]
+1N Pass 3S an
+  Pass 4C Pass
+5C X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T97.AJ32.AKQ862.Q84 K75.97.AKT82.63 Q9864.JT4.654. AKJ52.T.53.QJ973 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "W"]
+1C Pass 1S 2D
+Pass Pass X 2H
+2S 3H 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ42.T532.Q8.Q74 T76.J86.AJ.AKJ85 J53.AK9.T973.T96 K98.Q74.K6542.32 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1S an !D
+Pass 1N an 15
+Pass Pass X 2C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ42.T532.Q8.Q74 T76.J86.AJ.AKJ85 J53.AK9.T973.T96 K98.Q74.K6542.32 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2C Pass 2D
+Pass 2N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q932.KQJ7.QT854.AKT4 J93.982.963.AKT4 A6543.AKJ7..J8765 Q87652.T.2."]
+[Declarer "N"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +940"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "E"]
+Pass Pass Pass 1D
+2D an !S 2H
+3S 4S Pass 5H
+Pass 5S Pass 6D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q932.KQJ7.QT854.AKT4 J93.982.963.AKT4 A6543.AKJ7..J8765 Q87652.T.2."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "E"]
+Pass Pass Pass 1C
+2D X 4S X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J97.J.A42.KJ8754 T6.AQ753.KJ876.3 K8432.K8642.T.A2 AQ5.T9.Q953.QT96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "S"]
+Pass 1H 1S 1N
+2S 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J97.J.A42.KJ8754 T6.AQ753.KJ876.3 K8432.K8642.T.A2 AQ5.T9.Q953.QT96 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "6"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "S"]
+Pass Pass 1S Pass
+2C 2H Pass Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T8.JT542.Q85.J96 AJ73.KQ.AT.Q7532 Q9542.A986.96.K4 K6.73.KJ7432.AT8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "W"]
+1C 1S 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T8.JT542.Q85.J96 AJ73.KQ.AT.Q7532 Q9542.A986.96.K4 K6.73.KJ7432.AT8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "W"]
+1C Pass 1D Pass
+1S Pass 2C Pass
+2S Pass 3D Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT.J652.T65.A765 64.KT973.Q94.KQJ J98752.AQ.J8.842 AQ3.84.AK732.T93 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "N"]
+2D an mu Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KT.J652.T65.A765 64.KT973.Q94.KQJ J98752.AQ.J8.842 AQ3.84.AK732.T93 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "N"]
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K642.Q6.Q82.T954 AJT7.K2.65.QJ732 Q985.A983.J4.K86 3.JT754.AKT973.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "E"]
+1H Pass 1S Pass
+2D Pass 2N Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K642.Q6.Q82.T954 AJT7.K2.65.QJ732 Q985.A983.J4.K86 3.JT754.AKT973.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "E"]
+1D Pass 2C Pass
+2H Pass 2N Pass
+3D Pass 3N Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J865.QT98.96.K83 AT32.7.JT752.642 KQ4.K532.A.QT975 97.AJ64.KQ843.AJ "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "S"]
+Pass Pass 1C 1D
+Pass 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J865.QT98.96.K83 AT32.7.JT752.642 KQ4.K532.A.QT975 97.AJ64.KQ843.AJ "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "S"]
+Pass Pass 2C 2D
+3C 5D X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2014 Italian Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "DUBOIN"]
+[North "DELLE CAVE"]
+[East "BOCCHI"]
+[South "CARPENTIER"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KJ97632.53.QJ93.T84 T9543.87.T52.AQ5 AK8.KJT4.A64. QJ762.AQ962.K87."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "LANCIANO"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "LAVAZZA"]
+[Auction "W"]
+Pass 2N Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+

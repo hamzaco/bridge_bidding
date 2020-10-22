@@ -1,0 +1,452 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 2.K9.AKQ9865.KQ9 A87.JT65.JT3.T52 JT964.874.2.AJ43 KQ53.AQ32.74.876 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 3N Pass
+Pass Pass
+[Play "W"]
+H9 H5 H8 HA
+HK H6 H4 H2
+CK C2 C3 C6
+CQ C5 C4 C7
+C9 CT CJ C8
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K52.AQJT73.985.6 AQT97.965.K3.AK3 43.K82.AJ76.QT42 J86.4.QT42.J9875 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "E"]
+Pass 1H 1S 2S
+3S 4H 4S X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AQ85.643.96.KQ93 KT3.AJ872.QT2.82 42.95.AJ753.T654 J976.KQT.K84.AJ7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "S"]
+Pass Pass 2S 2N
+3C 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J4.T863.KQT4.Q92 983.9.AJ7.JT8543 AKT52.AQ75.8632. Q76.KJ42.95.AK76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "W"]
+Pass 1S Pass 1N
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A65.K843.Q74.KJT 72.J762.82.A9874 Q98.AQT9.KJ9.632 KJT43.5.AT653.Q5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "N"]
+1C an 2+ 1S
+X Pass 2H 3D
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A9.AJ3.QT932.Q83 JT852.6542.4.K92 4.KQT987.K65.T54 KQ763.AJ87.AJ76."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "E"]
+1S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQ2.42.AK9.K7653 J3.QT6.QJ87.QJ98 A974.AK9853.2.A2 T865.J7.T6543.T4 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "S"]
+1N Pass 2D Pass
+2H Pass 2S Pass
+2N Pass 3H Pass
+3S Pass 4C Pass
+4D Pass 4N Pass
+5C Pass 5D Pass
+5H Pass 6H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K.6.T6543.KJT852 JT986.J54.K92.76 AQ532.A98732.QJ. 74.KQT.A87.AQ943 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "W"]
+Pass 1S 2C Pass
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ8.T7643.J5.A53 AT97.AK984.KJ97.432 KQ85.Q6.QT62.K65 AJ92.T732.84."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1H Pass 1S
+Pass 2D Pass 3C
+Pass 3S Pass 4D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9.AQ987.97.AKT93 KQJ743.K6.5432.5 AT5.J42.J86.QJ72 862.T53.AKQT.864 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "E"]
+Pass 1H 2S 3H
+3S 4C Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: JT754.A92.J942.Q AQ9.KQT3.K63.T75 K83.J54.Q875.AK3 62.876.AT.J98642 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "S"]
+Pass 1C Pass 3C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J9.QJT762.T3.KT8 QT642.9.KJ754.Q3 K753.A8.A986.974 A8.K543.Q2.AJ652 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "W"]
+Pass Pass 1C 1H
+1S X XX 2H
+2S 2N Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 762.A943.8632.JT KQJT4.5.JT9.KQ52 953.JT86.AQ74.96 A8.KQ72.K5.A8743 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "N"]
+Pass 1N Pass 2H
+an sP Pass 2S
+Pass 3C Pass 4C
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 5.AQJ82.AK32.AT9 K743.3.QJ6.QJ642 AT82.K654.T974.7 QJ96.T97.85.K853 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "E"]
+Pass 1H Pass 2N
+an an Pass 3D
+Pass 4H Pass 4S
+Pass 5C Pass 6H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Stancu"]
+[North "Bloom"]
+[East "Gruia"]
+[South "Bloom"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 7.KQ86.J732.QJ54 T5.J9742.AQ85.K7 KQJ862.T5.4.AT92 A943.A3.KT96.863 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Marston"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gruia"]
+[Auction "S"]
+Pass Pass 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+

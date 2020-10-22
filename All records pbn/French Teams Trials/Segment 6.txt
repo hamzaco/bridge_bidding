@@ -1,0 +1,926 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q86.Q7643.52.AT8 AKT52.KJT.A84.64 J743.A98.QJ73.K2 9.52.KT96.QJ9753 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 1N Pass 2D
+Pass Pass Pass
+[Play "N"]
+D5 D8 D3 D6
+C8 C6 CK C3
+D2 DA DJ D9
+CA C4 C2 CJ
+H3 HJ HA H2
+H4 HT H9 H5
+H6 D4 D7 DT
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q86.Q7643.52.AT8 AKT52.KJT.A84.64 J743.A98.QJ73.K2 9.52.KT96.QJ9753 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "10"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+H4 HJ HA H5
+D5 D8 D3 D6
+C8 C4 CK C3
+H6 HT H9 H2
+CA C6 C2 CJ
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ2.K2.AKT8.JT53 KJ986.4.64.KQ984 T754.QJT8.95.A72 3.A97653.QJ732.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "E"]
+Pass 1N 2D an
+!S X Pass 3N
+Pass Pass Pass
+[Play "W"]
+C5 CQ C2 C6
+C3 CK CA H5
+D8 D6 D5 D3
+HK H4 H8 H6
+H2 S6 HT HA
+SA S8 S4 S3
+DA D4 D9 D2
+DK S9 C7 D7
+CJ C4 S5 H3
+CT C8 S7 H7
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQ2.K2.AKT8.JT53 KJ986.4.64.KQ984 T754.QJT8.95.A72 3.A97653.QJ732.6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "E"]
+Pass 1N 2S an
+!s X! Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT7.A.KJT742.K32 AK952.983.A63.A7 J864.J762.8.8654 3.KQT54.Q95.QJT9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "S"]
+1D 1S Pass 1N
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT7.A.KJT742.K32 AK952.983.A63.A7 J864.J762.8.8654 3.KQT54.Q95.QJT9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "S"]
+1D 1S Pass 1N
+2D 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 763.QT9.Q64.AQ53 AT852.K.72.KJ762 Q94.A8753.KT93.T KJ.J642.AJ85.984 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "W"]
+1S Pass 1N Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 763.QT9.Q64.AQ53 AT852.K.72.KJ762 Q94.A8753.KT93.T KJ.J642.AJ85.984 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "W"]
+1S Pass 1N Pass
+2C Pass 2S Pass
+Pass X Pass 2N
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ3.AT8742.JT65.985 J963.KQ86.K7.72 KQ.A9742.8432.KJT64 5.JT53.AQ9."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "N"]
+Pass 1S 2H 2S
+3H 3S 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ3.AT8742.JT65.985 J963.KQ86.K7.72 KQ.A9742.8432.KJT64 5.JT53.AQ9."]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "N"]
+Pass 1S 2H 2S
+X 3S 4C Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A8742.J965.KT75.KQ9 9832.QJT852..KQ87432 QJ4.A97..JT653 AT.A6.K643."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "E"]
+1S Pass 2N an
+10 3H Pass 3S
+X XX an Fi
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A8742.J965.KT75.KQ9 9832.QJT852..KQ87432 QJ4.A97..JT653 AT.A6.K643."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "E"]
+1S Pass 2N 4H
+4S 4N Pass 5C
+X 5H Pass 6H
+X Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A954.AQ.A85.KQ74 K73.T975.64.J853 QJ86.J86.K932.A9 T2.K432.QJT7.T62 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "S"]
+1C Pass 1S Pass
+4S Pass 5C Pass
+6S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A954.AQ.A85.KQ74 K73.T975.64.J853 QJ86.J86.K932.A9 T2.K432.QJT7.T62 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "S"]
+1C Pass 1S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQT65.Q96.J2.874 872.5432.763.KT5 943.AJT8.T5.J963 KJ.K7.AKQ984.AQ2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "W"]
+Pass Pass 2D an
+GF Pass 2H an
+No Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQT65.Q96.J2.874 872.5432.763.KT5 943.AJT8.T5.J963 KJ.K7.AKQ984.AQ2 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "W"]
+Pass Pass 2C an
+fo 2S Pass an
+fa 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ9.73.952.JT952 7652.A94.K76.KQ4 4.KJT5.QT843.A63 AJT83.Q862.AJ.87 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "N"]
+Pass 1S Pass 3C
+an 4  Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KQ9.73.952.JT952 7652.A94.K76.KQ4 4.KJT5.QT843.A63 AJT83.Q862.AJ.87 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "N"]
+Pass 1S Pass 3N
+an fi Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQ75.QJ8.AQ.T984 T9843.AT.J9.AQJ5 J6.K7654.K874.72 K2.932.T6532.K63 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQ75.QJ8.AQ.T984 T9843.AT.J9.AQJ5 J6.K7654.K874.72 K2.932.T6532.K63 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J3.AK8.542.KQ975 K54.J63.AQJ8.AJ2 QT7.Q752.KT7.T83 A9862.T94.963.64 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "S"]
+1C 1N Pass 2H
+an !S Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J3.AK8.542.KQ975 K54.J63.AQJ8.AJ2 QT7.Q752.KT7.T83 A9862.T94.963.64 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "S"]
+1C 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 8.A93.AJ85.QT543 QT54.K7.KQT42.98 AJ62.JT4.63.AJ62 K973.Q8652.97.K7 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "W"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 8.A93.AJ85.QT543 QT54.K7.KQT42.98 AJ62.JT4.63.AJ62 K973.Q8652.97.K7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "W"]
+Pass Pass Pass 1C
+1D 1S Pass 1N
+Pass 2D Pass 2N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ9654.K2.7.Q532 72.7543.AK64.K98 K83.AQJT8.T32.T6 JT.96.QJ985.AJ74 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "N"]
+Pass Pass 1S Pass
+2C Pass 2S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AQ9654.K2.7.Q532 72.7543.AK64.K98 K83.AQJT8.T32.T6 JT.96.QJ985.AJ74 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "N"]
+Pass Pass 1S Pass
+2C Pass 2S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 32.A9763.AJ7432.JT7 AJ9532.K.Q65.9654 KQ86.T84.98.AKQ8 T74.QJ52.KT."]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "E"]
+1N 2C 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 32.A9763.AJ7432.JT7 AJ9532.K.Q65.9654 KQ86.T84.98.AKQ8 T74.QJ52.KT."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "E"]
+1N 2N an mi
+3D Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 42.83.KQ54.Q9875 AJ75.5.T82.AKJ63 KQ6.J62.AJ973.T2 T983.AKQT974.6.4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "S"]
+Pass 1C 1D 1H
+2D Pass Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 42.83.KQ54.Q9875 AJ75.5.T82.AKJ63 KQ6.J62.AJ973.T2 T983.AKQT974.6.4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "S"]
+Pass 1C 1D 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Teams Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Meyer"]
+[North "Eisenberg"]
+[East "Guillaumin"]
+[South "Faigenbaum"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KQ.T653.KT83.943 T97.K842.Q.AKQT8 J843.AQJ97.4.J72 A652.AJ97652.65."]
+[Declarer "W"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Eisenberg"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Delfour"]
+[Auction "W"]
+1C 1H 2D 3H
+3N Pass Pass Pass
+[Play "N"]
+*
+
+

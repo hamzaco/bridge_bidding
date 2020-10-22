@@ -1,0 +1,805 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ73.J965.KJ3.Q6 T9542.872.75.A83 86.K4.QT842.KJ92 KJ.AQT3.A96.T754 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+SA S2 S6 SK
+DK D5 D2 D6
+DJ D7 D4 D9
+D3 H8 D8 DA
+SQ S4 S8 SJ
+C6 C3 CJ C5
+H5 C8 DQ C4
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AQ73.J965.KJ3.Q6 T9542.872.75.A83 86.K4.QT842.KJ92 KJ.AQT3.A96.T754 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "S"]
+1C Pass 1N Pass
+Pass 2S 3C X
+3N Pass Pass X
+Pass Pass Pass
+[Play "E"]
+SA S5 S6 SK
+DK D5 D2 D9
+D3 D7 D8 D6
+DJ H8 D4 DA
+S3 S2 S8 SJ
+CQ CA C2 C5
+H5 H7 HK HA
+H6 H2 H4 HQ
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 96.95432.QJT54.3 AQ.AK.AK6.KQ9762 KJ7543.QJ.973.JT T82.T876.82.A854 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "W"]
+2C 2S X! Pass
+3C Pass 3S Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 96.95432.QJT54.3 AQ.AK.AK6.KQ9762 KJ7543.QJ.973.JT T82.T876.82.A854 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "13"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1390"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "W"]
+2C Pass 2D Pass
+3C Pass 5C Pass
+6C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT532.A85.QJ654.87 JT94.K32.AT83.AK94 53.QJT94.K7.Q6 AKQ8762.76.92."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "N"]
+1D 1H 1S an
+5c 3H 3S 4H
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: JT532.A85.QJ654.87 JT94.K32.AT83.AK94 53.QJT94.K7.Q6 AKQ8762.76.92."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "N"]
+1D 4H 4S 5H
+5S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T965.65.AJ8.A532 2.AKT74.965.T987 AK73.Q932.Q32.Q4 QJ84.J8.KT74.KJ6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T965.65.AJ8.A532 2.AKT74.965.T987 AK73.Q932.Q32.Q4 QJ84.J8.KT74.KJ6 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "E"]
+Pass Pass 2D Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 754.5432.J952.AK 86.J8.T87.J85432 92.KQT6.AK6.T976 AKQJT3.A97.Q43.Q "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "S"]
+Pass Pass 1N 2C
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 754.5432.J952.AK 86.J8.T87.J85432 92.KQT6.AK6.T976 AKQJT3.A97.Q43.Q "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "S"]
+Pass Pass 1C X
+1H Pass 2H 2S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 83.AKJ32.QJ3.A97 76.976.765.QT854 KQJT42.Q854.A2.K A95.T.KT984.J632 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 4C Pass 4D
+Pass 4H Pass 4N
+Pass 5C Pass 6H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 83.AKJ32.QJ3.A97 76.976.765.QT854 KQJT42.Q854.A2.K A95.T.KT984.J632 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 4C Pass 4N
+Pass 5D X Pass
+Pass XX Pass 6H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQT.K8.KQJ87.K92 65432.A76.A2.873 J98.J95.T54.AJ64 A7.QT432.963.QT5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "N"]
+Pass Pass 2C Pass
+2D Pass 2N Pa
+3C Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KQT.K8.KQJ87.K92 65432.A76.A2.873 J98.J95.T54.AJ64 A7.QT432.963.QT5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "N"]
+Pass Pass 1D Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A53.KQ7543.KJ32.QJ KT86.JT2.A975.AT8762 J72.A8.Q6.K9543 Q94.96.T84."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2C Pass 2S
+Pass 3D Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A53.KQ7543.KJ32.QJ KT86.JT2.A975.AT8762 J72.A8.Q6.K9543 Q94.96.T84."]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2C Pass 2H
+Pass 3D Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J94.J874.KJ3.532 K.AQ.AQ9875.AK86 AQT87.K92.T.JT97 6532.T653.642.Q4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "S"]
+Pass 1D 1S Pass
+Pass X Pass 2D
+Pass 3C Pass 3D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J94.J874.KJ3.532 K.AQ.AQ9875.AK86 AQT87.K92.T.JT97 6532.T653.642.Q4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "S"]
+Pass 2D Pass 2H
+Pass 3C Pass 3D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T8543.AJT7.T2.Q2 AQ.6.K975.KJ6543 KJ.KQ952.AQJ3.87 9762.843.864.AT9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "W"]
+1C 1H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T8543.AJT7.T2.Q2 AQ.6.K975.KJ6543 KJ.KQ952.AQJ3.87 9762.843.864.AT9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "W"]
+1C 1H Pass 3H
+an . Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 5.98642.975.9543 J986.K.QJT82.J87 AKQT73.AJ73.A4.Q 42.QT5.K63.AKT62 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "N"]
+2C X 2H Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 5.98642.975.9543 J986.K.QJT82.J87 AKQT73.AJ73.A4.Q 42.QT5.K63.AKT62 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "N"]
+1S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A8653.982.AQ63.8 K.AK7643.T4.KJT4 T942.QJ.K985.A97 QJ7.T5.J72.Q6532 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "E"]
+Pass 1S 2H 2N
+Pass 3C Pass 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A8653.982.AQ63.8 K.AK7643.T4.KJT4 T942.QJ.K985.A97 QJ7.T5.J72.Q6532 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "E"]
+Pass Pass 1H Pass
+Pass 1S 2C 2S
+3C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 62.K6532.T2.AK86 KT43.AJT4.KQ9.53 QJ98.Q98.543.QJ9 A75.7.AJ876.T742 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "S"]
+Pass 1D Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 62.K6532.T2.AK86 KT43.AJT4.KQ9.53 QJ98.Q98.543.QJ9 A75.7.AJ876.T742 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "S"]
+Pass 1D Pass 2N
+Pass 3H an .
+Pass 5D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Rottneros Nordic Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Tondel"]
+[North "Krojgaard"]
+[East "Lindqvist"]
+[South "Caspersen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 932.QJ864.A6.Q43 KT7.32.85432.KJ5 AJ4.95.QT9.T9876 Q865.AKT7.KJ7.A2 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Norway"]
+[Auction "W"]
+Pass Pass 1N Pass
+Pass Pass
+[Play "S"]
+*
+
+

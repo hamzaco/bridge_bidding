@@ -1,0 +1,984 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[HomeTeam "Cayne"]
+[VisitTeam "Schwartz"]
+[Board "1"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KT.A8542.J52.853 Q7.QJ73.Q93.A974 9642.K6.AKT874.T AJ853.T9.6.KQJ62"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "5"]
+[Room "Closed"]
+[Score "-200"]
+[Auction "N"]
+Pass Pass 1D 1S
+X 1NT 2D 3C
+3D 3S Pass Pass
+Pass
+[Play "N"]
+D2 D3 D8 D6
+DJ D9 DK S3
+SK S7 S2 S5
+D5 DQ DA S8
+ST SQ S4 SA
+H5 H3 S6 SJ
+C3 CA CT CJ
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "1"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KT.A8542.J52.853 Q7.QJ73.Q93.A974 9642.K6.AKT874.T AJ853.T9.6.KQJ62"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Room "Open"]
+[Score "-50"]
+[Auction "N"]
+Pass Pass 3D 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+D2 D3 D7 D6
+DJ D9 DA S3
+SK S7 S2 S5
+D5 DQ DK H9
+H8 SQ D8 HT
+C3 C4 CT CK
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "2"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:87.T973.AKQ2.742 KQT542.J52.65.J6 AJ9.AK8.J943.AT3 63.Q64.T87.KQ985"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Closed"]
+[Score "-50"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+3NT Pass Pass Pass
+[Play "N"]
+C8 C2 CJ C3
+CQ C4 C6 CT
+C9 C7 S5 CA
+D7 DA D5 D3
+H4 H3 H2 HA
+D8 DK D6 D9
+H6 H7 H5 HK
+HQ H9 HJ H8
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "2"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:87.T973.AKQ2.742 KQT542.J52.65.J6 AJ9.AK8.J943.AT3 63.Q64.T87.KQ985"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Score "+400"]
+[Auction "E"]
+Pass 2D 2NT Pass
+3NT Pass Pass Pass
+[Play "N"]
+S6 S7 SQ SA
+H4 H3 H2 HK
+H6 H7 H5 HA
+D7 DA D6 D3
+S3 S8 SK S9
+C9 C2 CJ CA
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "3"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A3.743.K9853.K52 6.AKQT96.J64.963 T98752.52.T2.AT7 KQJ4.J8.AQ7.QJ84"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Score "+630"]
+[Auction "S"]
+Pass 2H Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+D5 DJ DT D7
+SA S6 S7 SK
+C2 C3 CA C4
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "3"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A3.743.K9853.K52 6.AKQT96.J64.963 T98752.52.T2.AT7 KQJ4.J8.AQ7.QJ84"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "7"]
+[Room "Open"]
+[Score "-500"]
+[Auction "S"]
+Pass 1H 2S 3NT
+4S Pass Pass X
+Pass Pass Pass
+[Play "E"]
+HJ H3 HQ H5
+H8 H4 HA H2
+SJ H7 HK S7
+CJ CK C6 C7
+CQ C2 C3 CT
+C4 C5 C9 CA
+DA D3 D6 D2
+D7 DK D4 DT
+DQ D5 DJ S2
+SQ SA S6 ST
+- S3 - -
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "4"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J.KQ72.K932.AJ86 QT3.93.764.QT542 9865.AT5.QJT8.K3 AK742.J864.A5.97"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "11"]
+[Room "Closed"]
+[Score "+150"]
+[Auction "W"]
+1D Pass 1S Pass
+2C Pass 3D Pass
+Pass Pass
+[Play "N"]
+H9 HA H4 H7
+D6 DQ DA D2
+S3 S5 SA SJ
+D4 D8 D5 D3
+ST S6 S2 D9
+C2 CK C7 C6
+SQ S8 S4 DK
+C4 C3 C9 CA
+CT DT S7 C8
+D7 DJ H6 CJ
+H3 H5 H8 HQ
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "4"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J.KQ72.K932.AJ86 QT3.93.764.QT542 9865.AT5.QJT8.K3 AK742.J864.A5.97"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "10"]
+[Room "Open"]
+[Score "+130"]
+[Auction "W"]
+1C Pass 1D 1S
+X Pass 1NT Pass
+2D Pass Pass Pass
+[Play "S"]
+SA SJ SQ S5
+S4 D2 S3 S6
+C7 C6 C2 CK
+H6 HK H9 H5
+C9 CA C4 C3
+S2 C8 C5 D8
+H4 HQ H3 HT
+DA CJ CQ DQ
+D5 D3 D6 DJ
+S7 DK D4 DT
+H8 D9 D7 S8
+- H7 - -
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "5"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJT7.KQT9.T.JT94 8.62.AK842.87652 K96542.54.Q3.AKQ A3.AJ873.J9765.3"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Room "Closed"]
+[Score "+400"]
+[Auction "N"]
+Pass 2D 2S 5D
+Pass Pass Pass
+[Play "S"]
+CK C3 C4 C5
+S2 SA S7 S8
+D3 D6 DT DA
+DQ D5 ST DK
+H4 H3 H9 H6
+H5 HJ HT H2
+CQ HA HQ C2
+S4 H7 HK D4
+CA D7 - C6
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "5"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJT7.KQT9.T.JT94 8.62.AK842.87652 K96542.54.Q3.AKQ A3.AJ873.J9765.3"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Room "Open"]
+[Score "-100"]
+[Auction "N"]
+Pass Pass 2S Pass
+4S Pass Pass Pass
+[Play "W"]
+C3 C4 C5 CK
+SA S7 S8 S5
+D7 DT DK D3
+S3 CJ C2 CA
+HA H9 H2 H4
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "6"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQ982.KT62.842.6 T.J9853.KQ5.QT97 K65.Q.A973.AKJ54 J743.A74.JT6.832"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Room "Closed"]
+[Score "+620"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2D Pass
+2H Pass 2S Pass
+4S Pass Pass Pass
+[Play "S"]
+D5 DA D6 D2
+CT CA C3 C6
+C9 CK C2 D8
+H3 HQ HA H2
+CQ C5 C8 D4
+DK D3 DT S2
+H8 D7 H7 HK
+H9 S5 H4 H6
+DQ D9 DJ S8
+HJ S6 S7 HT
+- - S3 S9
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "6"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQ982.KT62.842.6 T.J9853.KQ5.QT97 K65.Q.A973.AKJ54 J743.A74.JT6.832"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Room "Open"]
+[Score "+620"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2C Pass
+2D Pass 2H Pass
+4S Pass Pass Pass
+[Play "S"]
+DK DA D6 D2
+CT CA C3 C6
+C7 CK C2 D4
+H3 HQ HA H2
+ST SK S4 S8
+C9 C4 C8 S2
+H8 S5 H7 H6
+H5 S6 S3 SA
+H9 D3 H4 HK
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "7"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J7.JT953.KJT5.KQ A53.AKQ4.A4.T965 Q9642.7.Q2.J8732 KT8.862.98763.A4"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Room "Closed"]
+[Score "+90"]
+[Auction "S"]
+Pass 1NT Pass Pass
+X Pass 2C 2D
+Pass Pass Pass
+[Play "S"]
+HJ HA H7 H6
+D5 DA D2 D3
+DT D4 DQ D6
+CQ C5 C3 CA
+DJ C6 S2 D7
+HT HK C2 H2
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "7"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J7.JT953.KJT5.KQ A53.AKQ4.A4.T965 Q9642.7.Q2.J8732 KT8.862.98763.A4"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Room "Open"]
+[Score "-100"]
+[Auction "S"]
+Pass 1NT Pass Pass
+X Pass 2C 2D
+X Pass 2S Pass
+Pass Pass
+[Play "E"]
+D9 D5 DA DQ
+H8 H3 HQ H7
+H2 H5 HK S2
+CA CQ C5 C3
+H6 H9 HA S4
+C4 CK CT C7
+D3 DK D4 D2
+D6 DJ S5 S6
+S8 SJ C6 C2
+D7 DT C9 C8
+ST HT H4 S9
+D8 HJ SA -
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "8"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:53.QT.Q7.KQT6432 KQ9642.5.T9543.9 AJ8.K86.AKJ82.75 T7.AJ97432.6.AJ8"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Room "Closed"]
+[Score "-100"]
+[Auction "W"]
+3C Pass 3NT 4H
+Pass 4S X Pass
+Pass Pass
+[Play "E"]
+DA D6 D7 D5
+C7 CA C2 C9
+H6 HA HT H5
+C5 C8 CT S2
+D2 S7 DQ D3
+H8 H2 HQ S4
+D8 ST C3 D4
+HK H3 C4 S6
+DJ H7 C6 DT
+DK CJ CQ D9
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "8"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:53.QT.Q7.KQT6432 KQ9642.5.T9543.9 AJ8.K86.AKJ82.75 T7.AJ97432.6.AJ8"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Room "Open"]
+[Score "-50"]
+[Auction "W"]
+3C Pass Pass 3H
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+DK D6 D7 D4
+C7 CA C4 C9
+H8 HA HT H5
+C5 C8 CT S2
+D2 S7 DQ D3
+H6 H2 HQ S4
+D8 ST C2 DT
+HK H3 C3 S6
+DJ H4 S3 D9
+SA CJ CK SK
+DA H7 C6 D5
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "9"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT74.84.9754.763 .T97532.JT.AQT84 AJ32.J6.AKQ8632. K9865.AKQ..KJ952"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "8"]
+[Room "Closed"]
+[Score "-150"]
+[Auction "N"]
+Pass Pass 2D Pass
+2H Pass 2S Pass
+3C X 3D 5C
+5D Pass Pass Pass
+[Play "W"]
+HA H4 HT H6
+S9 SQ DT S2
+HQ H8 H9 HJ
+S5 S4 DJ S3
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "9"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT74.84.9754.763 .T97532.JT.AQT84 AJ32.J6.AKQ8632. K9865.AKQ..KJ952"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "8"]
+[Room "Open"]
+[Score "-500"]
+[Auction "N"]
+Pass Pass 1D 1S
+Pass 2H 2S 4H
+5D X Pass Pass
+Pass
+[Play "W"]
+HQ H4 HT H6
+S9 S4 DT S3
+HK H8 H7 HJ
+S5 S7 DJ SJ
+C2 C3 CA D3
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "10"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:95.KJ972.9532.53 JT4.853.7.T97642 AQ.64.AT864.AKJ8 K87632.AQT.KQJ.Q"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Room "Closed"]
+[Score "-300"]
+[Auction "E"]
+Pass Pass 1D 1S
+X Pass 2NT Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "N"]
+S6 S5 ST SQ
+DQ D3 D7 DA
+DK D2 SJ D6
+SK S9 S4 SA
+DJ D5 H3 D4
+S8 H2 C2 C8
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "10"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:95.KJ972.9532.53 JT4.853.7.T97642 AQ.64.AT864.AKJ8 K87632.AQT.KQJ.Q"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Room "Open"]
+[Score "-300"]
+[Auction "E"]
+Pass Pass 1D 1S
+X Pass 3NT Pass
+Pass Pass
+[Play "N"]
+S6 S5 ST SQ
+DJ D2 D7 DA
+DQ D3 SJ D8
+SK S9 S4 SA
+DK D5 H3 D4
+S8 H2 C2 H4
+S7 C3 C4 C8
+HA H7 H8 H6
+S3 H9 C6 CJ
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "11"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKQ65.AJ5.K6.AJ4 T2.T6.87543.QT72 J843.KQ43.J9.963 97.9872.AQT2.K85"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Room "Closed"]
+[Score "+450"]
+[Auction "S"]
+2NT Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+D3 D9 DA D6
+C7 C3 C5 CA
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "11"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKQ65.AJ5.K6.AJ4 T2.T6.87543.QT72 J843.KQ43.J9.963 97.9872.AQT2.K85"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Room "Open"]
+[Score "+450"]
+[Auction "S"]
+2C Pass 2D Pass
+2NT Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+D3 D9 DA D6
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "12"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T94.AQT865.K4.AT J62.732.Q2.J8532 Q75.9.T8763.KQ94 AK83.KJ4.AJ95.76"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Room "Closed"]
+[Score "-200"]
+[Auction "W"]
+1H Pass 1NT Pass
+2H Pass Pass 2S
+Pass Pass Pass
+[Play "W"]
+HA H2 H9 H4
+H6 H3 S7 HJ
+CA C2 C4 C7
+H5 H7 S5 HK
+CT C3 CK C6
+S4 C5 C9 D5
+ST S2 SQ SK
+S9 SJ D3 S3
+DK DQ D6 D9
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "12"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T94.AQT865.K4.AT J62.732.Q2.J8532 Q75.9.T8763.KQ94 AK83.KJ4.AJ95.76"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Room "Open"]
+[Score "+110"]
+[Auction "W"]
+1H Pass 1NT X
+2H Pass Pass Pass
+[Play "N"]
+DQ D3 DA D4
+D2 D6 D9 DK
+C2 C4 C7 CA
+C3 CK C6 CT
+C5 CQ HJ S4
+S2 S5 SK ST
+S6 S7 SA S9
+SJ D7 D5 HA
+H2 H9 HK H5
+C8 SQ S3 HQ
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "13"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ85.8.AJ98742.4 A943.A7632.Q6.Q2 T2.KQT.K5.A98765 Q76.J954.T3.KJT3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Score "+630"]
+[Auction "N"]
+Pass 1H 2C 2H
+3D Pass 3NT Pass
+Pass Pass
+[Play "W"]
+H4 H8 HA HT
+H5 S5 H3 HK
+D3 D2 D6 DK
+DT DA DQ D5
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "13"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ85.8.AJ98742.4 A943.A7632.Q6.Q2 T2.KQT.K5.A98765 Q76.J954.T3.KJT3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "4"]
+[Room "Open"]
+[Score "-500"]
+[Auction "N"]
+Pass 2D Pass 2H
+3D Pass 3NT Pass
+Pass Pass
+[Play "W"]
+H5 H8 HA HT
+HJ S5 H6 HK
+CT C4 C2 C9
+H9 S8 H3 HQ
+D3 D2 D6 DK
+C3 SJ CQ CA
+DT DJ DQ D5
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "14"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJT72.Q6.Q864.53 5.K9832.J75.AJT9 K643.AJ75.AT.Q82 A98.T4.K932.K764"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Room "Closed"]
+[Score "+140"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "S"]
+H3 H5 HT HQ
+S5 S3 SA SJ
+CJ S4 S9 ST
+H8 HJ H4 H6
+H2 HA S8 C3
+CA C2 C4 C5
+CT C8 C6 S2
+D5 DT DK D6
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "14"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJT72.Q6.Q864.53 5.K9832.J75.AJT9 K643.AJ75.AT.Q82 A98.T4.K932.K764"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Room "Open"]
+[Score "+140"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "S"]
+H2 H5 HT HQ
+D5 DA D2 D4
+DJ DT D3 D6
+H3 HA H4 H6
+H8 H7 C4 S2
+D7 S6 D9 D8
+H9 HJ C6 S7
+S5 SK DK DQ
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "15"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q9865.2.9752.QJ8 A43.QT.AKQT.A932 KT7.AJ8653.3.K54 J2.K974.J864.T76"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Room "Closed"]
+[Score "+110"]
+[Auction "S"]
+Pass 1D 1H 3D
+Pass Pass Pass
+[Play "N"]
+D3 D4 D2 DT
+H6 D6 D7 DK
+C4 CT CJ C2
+HA H4 H2 HT
+H5 H7 D5 HQ
+C5 C6 C8 CA
+H8 D8 D9 DA
+CK C7 CQ C3
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "15"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q9865.2.9752.QJ8 A43.QT.AKQT.A932 KT7.AJ8653.3.K54 J2.K974.J864.T76"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Room "Open"]
+[Score "+120"]
+[Auction "S"]
+Pass 1C 1H Pass
+Pass X Pass 1NT
+Pass 2NT Pass Pass
+Pass
+[Play "S"]
+H2 HT HA H4
+SQ S3 ST SJ
+S5 S4 SK S2
+S6 SA S7 C6
+D2 DA D3 D4
+D5 DK H5 D6
+D7 DQ H6 D8
+D9 HQ H3 H7
+CQ CA C5 C7
+C8 DT CK DJ
+S9 C2 H8 HK
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "16"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q63.T75.864.8732 AK72.A64.932.QT5 J9854.K32.7.AK94 T.QJ98.AKQJT5.J6"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Closed"]
+[Score "+460"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1NT Pass 2D
+Pass 2S Pass 3NT
+Pass Pass Pass
+[Play "E"]
+S5 ST SQ SA
+D7 DA D4 D3
+HK HQ H5 H4
+CK C6 C3 C5
+S8 CJ S6 SK
+H3 DK D6 D2
+H2 DQ D8 D9
+*
+
+[Event "Vanderbilt 1997 Final"]
+[Site "Dallas, Texas"]
+[Date "1997.03.14"]
+[Board "16"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q63.T75.864.8732 AK72.A64.932.QT5 J9854.K32.7.AK94 T.QJ98.AKQJT5.J6"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Open"]
+[Score "+460"]
+[Auction "W"]
+Pass 1C 1S 3D
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+H2 HQ H7 H6
+CK C6 C2 CT
+CA CJ C3 C5
+*

@@ -1,0 +1,857 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q9874.Q3.765.653 JT65.AJ42.KT2.T9 K32.K9876.983.A8 A.T5.AQJ4.KQJ742 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 2D Pass 2S
+an ! Pass 3C
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+HQ HA H7 H5
+C3 CT C8 C2
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q9874.Q3.765.653 JT65.AJ42.KT2.T9 K32.K9876.983.A8 A.T5.AQJ4.KQJ742 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+Pass 1C an 2+
+Pass 1D an !h
+Pass 2D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT.AJ75.AT532.76 3.KT9432.Q8.AKJ5 AKJ9852.8.J4.832 764.Q6.K976.QT94 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+Pass Pass 1H 1S
+X XX 2H 2S
+Pass 3H 4C 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT.AJ75.AT532.76 3.KT9432.Q8.AKJ5 AKJ9852.8.J4.832 764.Q6.K976.QT94 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+Pass 1D 1H 1S
+Pass 1N 2C 3S
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q632.54.QT5.KQ95 9.A862.AK4.T7632 J85.QJT3.9762.A8 AKT74.K97.J83.J4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q632.54.QT5.KQ95 9.A862.AK4.T7632 J85.QJT3.9762.A8 AKT74.K97.J83.J4 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q9.T95.AJ974.Q93 K873.J3.K2.AK876 T65.A7.Q85.JT542 AJ42.KQ8642.T63."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 2D Pass
+3C Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q9.T95.AJ974.Q93 K873.J3.K2.AK876 T65.A7.Q85.JT542 AJ42.KQ8642.T63."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "W"]
+1C an 2+ Pass
+1D an !h Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A72.5.KQ7642.J82 98.K82.J8.AK9643 QT64.JT973.A5.Q5 KJ53.AQ64.T93.T7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+Pass Pass 2D 3C
+Pass 3D Pass 4C
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A72.5.KQ7642.J82 98.K82.J8.AK9643 QT64.JT973.A5.Q5 KJ53.AQ64.T93.T7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+Pass Pass 1D 2C
+X XX 2D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ97.4.K76.A975 J8642.T97.Q2.642 T5.AQJ.AJ85.KQ83 3.K86532.T943.JT "]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+Pass 1S Pass 2C
+an gf  c Pass
+3H an sP Pass
+4C Pass 4D Pass
+4H Pass 4S Pass
+4N Pass 5H Pass
+6C Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQ97.4.K76.A975 J8642.T97.Q2.642 T5.AQJ.AJ85.KQ83 3.K86532.T943.JT "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 3H Pass 4D
+Pass 4N Pass 5D
+Pass 6N Pass 7C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A9863.QT64.J974.Q72 KJ52.AKJ5.AK.KJT5 A987.T2.Q65.4 3.Q987643.T832."]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A9863.QT64.J974.Q72 KJ52.AKJ5.AK.KJT5 A987.T2.Q65.4 3.Q987643.T832."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+Pass 2N Pass 4C
+Pass 4D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ2.KJ43.A85.T96 AT63.A95.K764.A4 4.QT62.T92.KJ872 J9875.87.QJ3.Q53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "W"]
+1N Pass 2H Pass
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: KQ2.KJ43.A85.T96 AT63.A95.K764.A4 4.QT62.T92.KJ872 J9875.87.QJ3.Q53 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "W"]
+1N Pass 2H an
+!s Pass 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ.QJ4.A532.K952 KJ54.K975.94.Q86 982.A86.KJ.AJT73 T763.T32.QT876.4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+1C Pass 2N an
+! Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ.QJ4.A532.K952 KJ54.K975.94.Q86 982.A86.KJ.AJT73 T763.T32.QT876.4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+1C Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9.J.QJT9863.Q542 Q872.T7632.K876.AKJ65 A9854.K2.3.T43 KQ.A754.AJT9."]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+1C 3D Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9.J.QJT9863.Q542 Q872.T7632.K876.AKJ65 A9854.K2.3.T43 KQ.A754.AJT9."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+1C an 2+ 3D
+Pass 4C Pass 4D
+Pass 5D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T.AJ984.AKT63.87 J3.KQ32.Q95.JT92 AK8762.T.J7.Q543 Q954.765.842.AK6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+1H Pass 2S an
+! Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T.AJ984.AKT63.87 J3.KQ32.Q95.JT92 AK8762.T.J7.Q543 Q954.765.842.AK6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J6.8654.AJ863.J2 82.T.Q95.KT76543 K975.A93.KT7.A98 AQT43.KQJ72.42.Q "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "W"]
+3C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J6.8654.AJ863.J2 82.T.Q95.KT76543 K975.A93.KT7.A98 AQT43.KQJ72.42.Q "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "W"]
+3C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 63.KQT852.J.KQ72 8742.3.T742.A963 QJT9.94.K95.JT85 AK5.AJ76.AQ863.4 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+Pass 1D 1H X
+Pass 2H Pass 3D
+Pass 3S Pass 4D
+Pass 5D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 63.KQT852.J.KQ72 8742.3.T742.A963 QJT9.94.K95.JT85 AK5.AJ76.AQ863.4 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "N"]
+Pass 1D 1H 3D
+Pass 5D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 92.AJ82.AQJT73.2 KQ86.9764.95.JT5 A73.Q53.62.KQ874 JT54.KT.K84.A963 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+Pass 1D Pass 2H
+an ! Pass 2S
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 92.AJ82.AQJT73.2 KQ86.9764.95.JT5 A73.Q53.62.KQ874 JT54.KT.K84.A963 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "E"]
+1C an 2+ 1D
+X an !h XX
+Pass 1H Pass 1N
+Pass 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2015 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Garner"]
+[North "Willenken"]
+[East "Smith"]
+[South "Rosenberg"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AKQT76.2.AJT65.7 5.AQJ98.K72.KJ93 42.K743.Q84.AQ84 J983.T65.93.T652 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Fleisher"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Meltzer"]
+[Auction "S"]
+1S 2H Pass Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+

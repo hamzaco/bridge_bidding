@@ -1,0 +1,638 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KQ98.Q962.KQ2.K9 T53.J8.A984.QJ32 64.AT53.753.T854 AJ72.K74.JT6.A76 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "N"]
+Pass 1C X 2C
+Pass Pass X Pass
+2H Pass Pass 3C
+Pass Pass Pass
+[Play "E"]
+H6 H8 HA H4
+SQ S3 S6 S2
+DK DA D7 D6
+C9 C2 C5 CA
+CK C3 C4 C6
+S8 ST S4 S7
+H2 CJ C8 C7
+H9 CQ CT H7
+D2 D4 D3 DJ
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQJ.JT.AT2.QT853 K8643.53.K73.K72 97642.QJ965.A94. T9752.AKQ8.84.J6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "E"]
+Pass 1N Pass 3D
+an   Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T74.K8.J94.QT843 Q98653.T3.T8.J75 A.Q754.AK7632.A2 KJ2.AJ962.Q5.K96 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "S"]
+[Play "W"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T74.K8.J94.QT843 Q98653.T3.T8.J75 A.Q754.AK7632.A2 KJ2.AJ962.Q5.K96 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "S"]
+Pass Pass 1D 1H
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q3.AQJ6.K97.AK87 KJ94.7.Q842.Q943 T652.T432.63.T62 A87.K985.AJT5.J5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "W"]
+[Play "E"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q3.AQJ6.K97.AK87 KJ94.7.Q842.Q943 T652.T432.63.T62 A87.K985.AJT5.J5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "W"]
+Pass Pass 1D X
+1S Pass Pass X
+2D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 87.952.T6.QT8753 AQ94.KJ8.Q83.A64 J65.T7.AJ9542.KJ KT32.AQ643.K7.92 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "N"]
+[Play "S"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 87.952.T6.QT8753 AQ94.KJ8.Q83.A64 J65.T7.AJ9542.KJ KT32.AQ643.K7.92 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2S Pass 2N
+Pass 4S an so
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 943.962.Q5.AJ874 AQ865.J4.T64.K65 JT.AKQT87.J98.T9 K72.53.AK732.Q32 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "E"]
+[Play "N"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 943.962.Q5.AJ874 AQ865.J4.T64.K65 JT.AKQT87.J98.T9 K72.53.AK732.Q32 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "E"]
+1D Pass 1S 2H
+X! 3C 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A74.T43.KQ8.KJ85 QT.A965.6543.Q92 52.KQJ7.J972.A64 KJ9863.82.AT.T73 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "S"]
+[Play "N"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A74.T43.KQ8.KJ85 QT.A965.6543.Q92 52.KQJ7.J972.A64 KJ9863.82.AT.T73 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "S"]
+1C Pass 1H 1S
+X! XX 2C 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A7.A72.KJ52.J432 KT8432.QT.KQ865.QJ65 954.43.AT97.9 KQJT863.A9876."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "W"]
+[Play "E"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A7.A72.KJ52.J432 KT8432.QT.KQ865.QJ65 954.43.AT97.9 KQJT863.A9876."]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "W"]
+1S Pass 2H Pass
+2S Pass 3H Pass
+3S Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ95.764.KQ85.T7 AT.KQ8.T7632.KJ3 2.T932.9.Q986542 K87643.AJ5.AJ4.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "N"]
+[Play "S"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ95.764.KQ85.T7 AT.KQ8.T7632.KJ3 2.T932.9.Q986542 K87643.AJ5.AJ4.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "N"]
+Pass 1S Pass 2D
+Pass 2S Pass 2N
+Pass 3D Pass 3N
+Pass 4C Pass 4S
+Pass 6D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AKJT5.JT.KQJ2.Q2 Q8764.K85.T7.A43 32.943.654.J9765 9.AQ762.A983.KT8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "E"]
+1H 1S 2H Pass
+Pass X XX Pass
+Pass 2S Pass Pass
+3D Pass 3H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KQJT2.K72.95.AT7 A53.643.KQT84.95 4.AQT98.7.KQ8632 9876.J5.AJ632.J4 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "S"]
+1S Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K9875.AQ93.J3.Q4 AT2.JT.8.JT98532 6.K652.AKT9742.6 QJ43.874.Q65.AK7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "W"]
+Pass 1D X XX
+3C 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ94.72.Q74.Q652 J8.Q8653.T86.K74 A75.K94.KJ.AJT83 T632.AJT.A9532.9 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "N"]
+1N Pass 2C Pass
+2D Pass 2N Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K543.KQT2.Q.K954 87.653.JT6.AJT72 JT2.AJ874.A42.Q6 AQ96.9.K98753.83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "E"]
+Pass 1C Pass 1H
+X 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005-6 Norwegian Premier League"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Nybo"]
+[North "Helgemo"]
+[East "Davidsen"]
+[South "Helness"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J52.AQ6.AJT9643.T4 43.K72.KQ9873.AKQ8 KJT9.Q.AT42. 9763.8752.85.J65 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Midt-Trøndelag 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Nord-Trøndelag 1"]
+[Auction "S"]
+1D 2C X Pass
+2D Pass 3C Pass
+4C Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,574 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q6.AK5.Q9653.T53 AKJ32.Q982.T2.K8 9875.76.J84.QJ97 T4.JT43.AK7.A642 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "S"]
+1N 2C an ?
+Pass 2N an ?
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "S"]
+D3 DT DJ DA
+H5 H8 H6 H3
+HK H2 H7 HT
+C3 C8 CJ CA
+S6 S2 S5 ST
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q6.AK5.Q9653.T53 AKJ32.Q982.T2.K8 9875.76.J84.QJ97 T4.JT43.AK7.A642 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "S"]
+Pass 1S Pass 2N
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK753.QJ3.K74.87 QJ8.A82.AQJ5.AQJ 2.KT974.98632.K2 T964.65.T.T96543 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "W"]
+1C an ? 1H
+Pass 2C an ?
+X 2H Pass 2S
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK753.QJ3.K74.87 QJ8.A82.AQJ5.AQJ 2.KT974.98632.K2 T964.65.T.T96543 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "W"]
+2N Pass 3C Pass
+3D Pass 3H Pass
+3N Pass 5C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T85.9652.AQ6.T95 J63.A84.J3.AQ763 K2.QT7.T9854.J42 AQ974.KJ3.K72.K8 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "N"]
+Pass 1N Pass 2S
+an ? Pass 3S
+an ? Pass 4C
+Pass 4D Pass 4H
+Pass 4N Pass 5H
+Pass 5S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T85.9652.AQ6.T95 J63.A84.J3.AQ763 K2.QT7.T9854.J42 AQ974.KJ3.K72.K8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2S Pass 2N
+Pass 3S Pass 4D
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQ975.T962.K6.6 T8632.Q75.AJT7.4 J.K8.Q942.QJT987 4.AJ43.853.AK532 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "E"]
+1C an ? 1S
+Pass 1N Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AKQ975.T962.K6.6 T8632.Q75.AJT7.4 J.K8.Q942.QJT987 4.AJ43.853.AK532 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "E"]
+1C 1S 1N Pass
+Pass 2S Pass Pass
+X Pass 3D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT94.876.AJ983.5 7532.QJT5.KT54.A K8.42.Q76.JT8632 QJ6.AK93.2.KQ974 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +70"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "S"]
+Pass Pass Pass 1C
+an ? X XX
+Pass Pass 1D Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT94.876.AJ983.5 7532.QJT5.KT54.A K8.42.Q76.JT8632 QJ6.AK93.2.KQ974 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "S"]
+Pass Pass Pass 1C
+1D X 2D 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KQJ9.4.QT872.QJ9 764.K9832.AJ.874 T3.AQJT75.64.AK2 A852.6.K953.T653 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KQJ9.4.QT872.QJ9 764.K9832.AJ.874 T3.AQJT75.64.AK2 A852.6.K953.T653 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "W"]
+Pass 1H Pass 2D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T43.AJ932.A7.K87 J.K876.985.AQJ42 5.Q54.KJT43.9653 AKQ98762.T.Q62.T "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "N"]
+2D 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T43.AJ932.A7.K87 J.K876.985.AQJ42 5.Q54.KJT43.9653 AKQ98762.T.Q62.T "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "N"]
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A9.863.86.QT9742 QJ85.75.JT94.AK8 763.KT942.K75.63 KT42.AQJ.AQ32.J5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "E"]
+1N Pass 2S an
+? Pass 3C an
+? Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A9.863.86.QT9742 QJ85.75.JT94.AK8 763.KT942.K75.63 KT42.AQJ.AQ32.J5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "E"]
+1C Pass 1S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J9743.T9.J.KQ832 T62.Q5.AK6532.94 Q8.62.QT8.AJT765 AK5.AKJ8743.974."]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "S"]
+2S Pass Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J9743.T9.J.KQ832 T62.Q5.AK6532.94 Q8.62.QT8.AJT765 AK5.AKJ8743.974."]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "S"]
+2S Pass Pass 4H
+Pass 5D Pass 5S
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 ANC"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "hoffman"]
+[North "wilkinson"]
+[East "wawn"]
+[South "nunn"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: JT932.A2.T73.Q74 K54.KJT73.2.A965 AQ76.Q654.A965.2 8.98.KQJ84.KJT83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "NSW"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACT"]
+[Auction "W"]
+1H 1S X 3H
+an ? Pass 4S
+Pass Pass Pass
+[Play "E"]
+*
+
+

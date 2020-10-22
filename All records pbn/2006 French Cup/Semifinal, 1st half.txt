@@ -1,0 +1,961 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q6.A3.KJ9852.965 AT98.T87.7.KJT87 43.QJ9654.QT.AQ4 KJ752.K2.A643.32 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+1H 1S X 3C
+Pass 3S 4D Pass
+Pass Pass
+[Play "W"]
+S6 SA S3 S2
+SQ S8 S4 SK
+C5 C7 CQ C3
+H3 H7 HQ H2
+HA H8 H4 HK
+D2 D7 DT DA
+C6 C8 CA C2
+D5 HT HJ D3
+D8 CT DQ D4
+D9 S9 H9 D6
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q6.A3.KJ9852.965 AT98.T87.7.KJT87 43.QJ9654.QT.AQ4 KJ752.K2.A643.32 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+1H 1S 2D 3H
+X 4S Pass Pass
+Pass
+[Play "S"]
+HA H7 H4 H2
+H3 H8 H9 HK
+S6 SA S3 S2
+SQ S8 S4 SK
+C5 CT CQ C2
+D5 D7 DQ DA
+C6 CJ CA C3
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q98.K875.42.K853 KT76.AJ2.AKT76.7 J.QT963.Q95.AQJ2 A5432.4.J83.T964 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+Pass Pass 1D 1H
+1S 2H 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "S"]
+H7 HA H3 H4
+S8 S6 SJ SA
+S9 ST H6 S2
+SQ SK H9 S3
+D2 DA D5 D3
+H5 H2 HT S4
+D4 DT DQ D8
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q98.K875.42.K853 KT76.AJ2.AKT76.7 J.QT963.Q95.AQJ2 A5432.4.J83.T964 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+Pass Pass 1D 1H
+1S 2H 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+H7 HA H3 H4
+H5 H2 H6 S2
+D4 DA D5 D3
+H8 HJ H9 S3
+S8 SK SJ S4
+S9 S6 C2 SA
+D2 D6 DQ DJ
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT9543.Q98.8.KJ8 K6.T652.AK954.75 AQ72.A4.J632.T42 8.KJ73.QT7.AQ963 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+D8 DA D2 D7
+C8 C7 C2 CA
+CJ C5 C4 C6
+SJ S6 S2 S8
+S3 SK SA C3
+CK D4 CT CQ
+HQ H2 H4 HK
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT9543.Q98.8.KJ8 K6.T652.AK954.75 AQ72.A4.J632.T42 8.KJ73.QT7.AQ963 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 2S Pass
+2N Pass 3S Pass
+Pass Pass
+[Play "W"]
+D8 DK D2 D7
+S3 D5 D3 DT
+SJ SK SA S8
+S5 S6 SQ C6
+H8 H5 HA H7
+H9 H2 H4 HK
+C8 C5 C2 CA
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A.K972.KQ84.K842 KQ86432.3.73.QT5 T7.AT.A965.AJ973 J95.QJ8654.JT2.6 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+3S Pass 4S X
+Pass 4N Pass 5C
+Pass 6C Pass Pass
+Pass
+[Play "W"]
+SA SK S7 S5
+C2 C5 CA C6
+CK CT C3 H6
+DK D3 D5 D2
+D4 D7 DA DT
+C4 S2 ST S9
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A.K972.KQ84.K842 KQ86432.3.73.QT5 T7.AT.A965.AJ973 J95.QJ8654.JT2.6 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+3S Pass 4S X
+Pass 4N Pass 5C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J543.J74.A76.KT7 KQ2.8653.K8.QJ63 97.KT2.QJ53.A852 AT86.AQ9.T942.94 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J543.J74.A76.KT7 KQ2.8653.K8.QJ63 97.KT2.QJ53.A852 AT86.AQ9.T942.94 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A84.AQJ52.J842.J Q6.T9.AK76.96432 T93.876.QT95.K85 KJ752.K43.3.AQT7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+1S 2H X Pass
+2S Pass Pass 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A84.AQJ52.J842.J Q6.T9.AK76.96432 T93.876.QT95.K85 KJ752.K43.3.AQT7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+1S 2H X Pass
+2S Pass Pass 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT972.T52.T2.K95 43.Q3.AQJ863.T64 AJ6.J984.K97.Q72 K85.AK76.54.AJ83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QT972.T52.T2.K95 43.Q3.AQJ863.T64 AJ6.J984.K97.Q72 K85.AK76.54.AJ83 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T874.KQT7.AJ2.A7 KQ65.9.Q65.Q9652 AJ92.AJ8543.T4.4 3.62.K9873.KJT83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+Pass 1H Pass 2N
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T874.KQT7.AJ2.A7 KQ65.9.Q65.Q9652 AJ92.AJ8543.T4.4 3.62.K9873.KJT83 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+Pass 1H Pass 2N
+X 3H 3N 4C
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT84.JT.AJT3.AJ2 K2.K2.Q7.QT96543 A753.AQ984.K94.8 J96.7653.8652.K7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+1H Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT84.JT.AJT3.AJ2 K2.K2.Q7.QT96543 A753.AQ984.K94.8 J96.7653.8652.K7 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+1H Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ42.JT4.53.K876 K983.76.Q86.AJ95 65.AQ95.KJ9742.T QT7.K832.AT.Q432 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AJ42.JT4.53.K876 K983.76.Q86.AJ95 65.AQ95.KJ9742.T QT7.K832.AT.Q432 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+Pass Pass Pass 1D
+X 1S X 2D
+Pass Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T76.873.AQT7.AT4 Q3.6.KJ86542.J83 AJ94.J954.K9652.K852 AKQT2.93.Q7."]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T76.873.AQT7.AT4 Q3.6.KJ86542.J83 AJ94.J954.K9652.K852 AKQT2.93.Q7."]
+[Declarer "N"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass Pass 1C 1H
+X! an 4  Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T63.J76.K9432.K4 J9872.52.76.Q972 K4.T983.JT8.A853 AQ5.AKQ4.AQ5.JT6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 2N Pass
+3H Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T63.J76.K9432.K4 J9872.52.76.Q972 K4.T983.JT8.A853 AQ5.AKQ4.AQ5.JT6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 2N Pass
+3H Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK32.A82.QJT54.5 T965.T764.8.AKT4 J84.KQJ95.K72.J7 Q7.3.A963.Q98632 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+2C Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AK32.A82.QJT54.5 T965.T764.8.AKT4 J84.KQJ95.K72.J7 Q7.3.A963.Q98632 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+2C Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q4.AT7.AQ976.852 AJT7.J9532.T54.Q 9652.8.K832.AJ63 K83.KQ64.J.KT974 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+1C 1D X 1S
+2H Pass Pass 3D
+Pass Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: Q4.AT7.AQ976.852 AJT7.J9532.T54.Q 9652.8.K832.AJ63 K83.KQ64.J.KT974 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "E"]
+1C 1D X! an
+le 2C 2H Pass
+3D 4D Pass Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A632.96.QJ962.98 KJT98.KQ3.T5.AJ5 Q4.AJT54.A873.32 75.872.K4.KQT764 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass 1S Pass 1N
+Pass Pass 2H 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A632.96.QJ962.98 KJT98.KQ3.T5.AJ5 Q4.AJT54.A873.32 75.872.K4.KQT764 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "S"]
+Pass 1S 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006 French Cup"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "St Marie"]
+[North "Rigaud"]
+[East "Toffier"]
+[South "Jeanneteau"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AT954.AQ4.J96.J7 QJ76.8.AK732.KQ3 8.KT532.T84.A642 K32.J976.Q5.T985 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "QUERAN"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "TOFFIER"]
+[Auction "W"]
+1D Pass 1H 1S
+Pass Pass Pass
+[Play "W"]
+*
+
+

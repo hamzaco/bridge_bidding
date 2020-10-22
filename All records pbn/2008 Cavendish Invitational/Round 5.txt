@@ -1,0 +1,71 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Svendsen"]
+[North "Moss"]
+[East "Saelinsmin"]
+[South "Gitelman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: QT9.AKJ832.QT84.85 T954.765.J763.A72 Q76.AKT98.52.KJ643 QJ432.AK9."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D 1S 2H Pass
+4H Pass Pass Pass
+[Play "W"]
+SA S3 S9 S8
+D2 ST D5 DA
+D3 SQ D6 DK
+C7 C2 CK C4
+H8 S5 S2 SJ
+C3 C5 CA CT
+HJ D7 S7 SK
+HA H4 H6 S4
+C6 D8 C9 CQ
+C8 CJ H7 S6
+*
+
+
+[Event "2008 Cavendish Invitational"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Svendsen"]
+[North "Moss"]
+[East "Saelinsmin"]
+[South "Gitelman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 843.98.J87532.73 T952.KQT64.AT64.QJ7 AKQJ542.K95.AK6.T763 A9.QJ82."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1C an al Pass
+1D an al 4H
+Pass Pass X Pass
+Pass Pass
+[Play "None"]
+*
+
+

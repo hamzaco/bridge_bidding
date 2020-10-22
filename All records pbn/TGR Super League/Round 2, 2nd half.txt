@@ -1,0 +1,748 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 6.9763.J984.AJ92 842.KJT8.K62.K65 AKQJ9.Q.AT53.QT8 T753.A542.Q7.743 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "N"]
+1S Pass 1N Pass
+3D Pass 4D Pass
+4S Pass Pass Pass
+[Play "E"]
+C2 CK C8 C4
+H3 HJ HQ HA
+C9 C6 CQ C7
+S6 S2 SA S3
+H6 S4 SK S5
+H7 S8 SQ S7
+H9 C5 SJ ST
+CJ H8 CT C3
+CA HT D3 H2
+DJ D2 D5 DQ
+D4 HK S9 H5
+D8 D6 DA D7
+D9 DK DT H4
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 6.9763.J984.AJ92 842.KJT8.K62.K65 AKQJ9.Q.AT53.QT8 T753.A542.Q7.743 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "N"]
+1S Pass 1N Pass
+2D Pass Pass Pass
+[Play "E"]
+CJ CK C8 C4
+H3 HJ HQ HA
+H6 H8 D3 H2
+S6 S2 SA S5
+H7 S4 SK S3
+H9 S8 SQ S7
+D4 D2 DA D7
+D9 D6 D5 DQ
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J53.9.AQ86.J8762 8.KJ65.T95.AKT53 AK76.AQ743.J432. QT942.T82.K7.Q94 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "E"]
+Pass Pass 1C X
+1S 2D Pass 3C
+X Pass Pass 4D
+Pass 5D Pass Pass
+Pass
+[Play "W"]
+C2 CK D2 C9
+S3 S8 SA S2
+H9 H6 HA H2
+D6 H5 H3 H8
+C6 C3 D3 C4
+D8 HJ H4 HT
+C7 C5 D4 CQ
+S5 D5 SK S4
+DA D9 DJ DK
+DQ DT S6 D7
+C8 CT S7 S9
+CJ CA H7 ST
+SJ HK HQ SQ
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J53.9.AQ86.J8762 8.KJ65.T95.AKT53 AK76.AQ743.J432. QT942.T82.K7.Q94 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "E"]
+Pass Pass 1C 1H
+1S Pass 2C X
+3C X Pass Pass
+Pass
+[Play "N"]
+S3 S8 SA S2
+DA D5 D2 DK
+H9 HJ HQ H2
+S5 H5 HA H8
+C2 H6 H3 HT
+D6 DT DJ D7
+D8 HK H7 CQ
+C6 CT S6 C4
+DQ D9 D3 C9
+SJ C3 S7 S4
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QJ976.K98.T86.76 3.62.KJ94.QJT532 AKT82.AJ743.52.4 54.QT5.AQ73.AK98 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "S"]
+Pass Pass 1S X
+3S 4C 4S 5C
+Pass Pass Pass
+[Play "N"]
+SJ S3 SK S4
+SQ C2 SA S5
+C6 CQ C4 C8
+C7 C3 ST CA
+D6 DK D2 D3
+D8 DJ D5 D7
+DT D4 H3 DQ
+S6 D9 H4 DA
+H8 H2 HJ HT
+H9 H6 HA H5
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QJ976.K98.T86.76 3.62.KJ94.QJT532 AKT82.AJ743.52.4 54.QT5.AQ73.AK98 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "S"]
+Pass Pass 1S X
+3S Pass 4S Pass
+Pass 4N X 5C
+Pass Pass Pass
+[Play "S"]
+SQ S3 SK S4
+H9 H2 HA H5
+HK H6 H4 HT
+H8 CQ H3 HQ
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q2.872.Q2.AQ9542 9863.A54.K854.K3 K754.T963.A7.876 AJT.KQJ.JT963.JT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "W"]
+Pass Pass 1D 2C
+X Pass 2D Pass
+3D Pass Pass Pass
+[Play "S"]
+H7 H4 H9 HK
+D2 DK DA D3
+SQ S3 S4 ST
+H8 H5 H3 HQ
+DQ D4 D7 DT
+H2 HA H6 HJ
+C5 D5 HT DJ
+CA C3 C7 CJ
+C2 CK C6 CT
+S2 S6 S5 SA
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: Q2.872.Q2.AQ9542 9863.A54.K854.K3 K754.T963.A7.876 AJT.KQJ.JT963.JT "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "W"]
+Pass Pass 1N an
+12 Pass Pass Pass
+[Play "S"]
+C5 CK C6 CT
+H8 H4 H3 HK
+D2 D4 DA DJ
+CQ C3 C8 CJ
+CA S3 C7 ST
+C9 S6 S7 D3
+C4 S8 D7 SJ
+C2 D5 S4 D6
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ.K8653.853.AK6 T2.974.Q74.Q9874 K987.2.KJ62.JT53 A6543.AQJT.AT9.2 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "N"]
+Pass 1S X Pass
+1N 2H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ.K8653.853.AK6 T2.974.Q74.Q9874 K987.2.KJ62.JT53 A6543.AQJT.AT9.2 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -80"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "N"]
+Pass 1S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KT7643.K2.T43.87 QJ2.T63.872.AJT5 5.AQJ54.J95.KQ64 A98.987.AKQ6.932 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "E"]
+1D Pass 1N Pass
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KT7643.K2.T43.87 QJ2.T63.872.AJT5 5.AQJ54.J95.KQ64 A98.987.AKQ6.932 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "E"]
+1N an 12 Pass
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 84.J54.K863.AT76 KJT53.8.AT74.432 AQ62.KQ96.QJ5.98 97.AT732.92.KQJ5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "S"]
+Pass Pass 1N Pass
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 84.J54.K863.AT76 KJT53.8.AT74.432 AQ62.KQ96.QJ5.98 97.AT732.92.KQJ5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "S"]
+Pass Pass 1C an
+Pa 1H X 1S
+Pass 2C Pass Pass
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJT742.Q983.Q6.3 KQ.AK7.87532.QJ7 63.JT6.KT94.KT84 985.542.AJ.A9652 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "W"]
+1D Pass 1N 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AJT742.Q983.Q6.3 KQ.AK7.87532.QJ7 63.JT6.KT94.KT84 985.542.AJ.A9652 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "W"]
+1N an 12 Pass
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 84.AK.983.AKJ965 AJ9632.T9765.QT.K QJ43.KQJ742.74.QT75 82.AT65.832."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "N"]
+1D Pass 2C 2S
+X 3S 5C 5S
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 84.AK.983.AKJ965 AJ9632.T9765.QT.K QJ43.KQJ742.74.QT75 82.AT65.832."]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "N"]
+1D Pass 2C 2N
+3D 3S 4H Pass
+5D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 653.A6.T96.QJ842 KQT94.QT8.J4.T63 J.K9542.AQ82.K95 A872.J73.K753.A7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "E"]
+1D Pass 1S Pass
+2S Pass Pass 3H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 653.A6.T96.QJ842 KQT94.QT8.J4.T63 J.K9542.AQ82.K95 A872.J73.K753.A7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "E"]
+1N an 12 Pass
+2H Pass 2S Pass
+Pass X Pass 3C
+Pass Pass 3S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 9865.95.K85.T532 AT.QJ7432.A6.K87 K73.AKT.Q43.QJ96 QJ42.86.JT972.A4 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "S"]
+Pass 1H 1N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 9865.95.K85.T532 AT.QJ7432.A6.K87 K73.AKT.Q43.QJ96 QJ42.86.JT972.A4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "S"]
+Pass 1H 1N 2D
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "TGR Super League"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Hackett Ja"]
+[North "Palmer Ric"]
+[East "de Botton"]
+[South "Mueller Ca"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: K93.KJ95.85.AJ53 82.Q7642.QT7.Q97 A764.AT83.J32.62 QJT5.AK964.KT84."]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Scerri"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "de Botton"]
+[Auction "W"]
+Pass Pass 1D X
+1H 1S Pass Pass
+Pass
+[Play "E"]
+*
+
+

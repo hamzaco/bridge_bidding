@@ -1,0 +1,313 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Järvi"]
+[North "Uskali"]
+[East "Mylläri"]
+[South "Sundsten"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: J864.AKJ.KQ84.A3 Q9532.Q652.J.J54 K.T984.AT753.986 AT7.73.962.KQT72 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+1N Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+CA C5 C6 CK
+HA H2 H4 H3
+DK DJ D3 D2
+DQ H5 D5 D6
+D4 S2 DA D9
+D8 S3 DT S7
+C3 CJ D7 SA
+S4 S5 SK ST
+HK H6 H8 H7
+HJ HQ H9 C2
+S6 SQ C8 C7
+S8 C4 C9 CT
+SJ S9 HT CQ
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Järvi"]
+[North "Uskali"]
+[East "Mylläri"]
+[South "Sundsten"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK76.AQT975.KJ.Q JT2.J32.86.T9432 98.K.T973.AKJ875 Q543.864.AQ542.6 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1H Pass 2C
+X 2S Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+DJ D8 D3 DA
+DK D6 D7 D2
+H5 H2 HK H4
+SK S2 S8 S4
+HA H3 D9 H6
+HQ HJ C5 H8
+CQ C2 CA C6
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Järvi"]
+[North "Uskali"]
+[East "Mylläri"]
+[South "Sundsten"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A87.A863.KT.K942 KJ6.J95.98542.JT 932.KQ74.QJ7.763 QT54.T2.A63.AQ85 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1C Pass 1H X
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Järvi"]
+[North "Uskali"]
+[East "Mylläri"]
+[South "Sundsten"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: T.AK5.QJ873.Q862 K762.JT4.T962.AK 843.87632.A4.T94 AQJ95.Q9.K5.J753 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -440"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1D Pass 1S Pass
+2S Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Järvi"]
+[North "Uskali"]
+[East "Mylläri"]
+[South "Sundsten"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: Q.KQJ4.7643.6543 K6.9872.K852.AKQ T8754.T6.AQJ.T87 AJ932.A53.T9.J92 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1S Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Järvi"]
+[North "Uskali"]
+[East "Mylläri"]
+[South "Sundsten"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT942.654.8.T765 A7653.T9765.Q42.AJT9732 AQ4.AK8..KJ8 KQ8.KJ32.J93."]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1S X
+1N Pass 2D 4H
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Järvi"]
+[North "Uskali"]
+[East "Mylläri"]
+[South "Sundsten"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 842.AQT92.A5.K74 AK9765.KT43.J93.QJ K7643.J986.A8.T3 J85.Q72.QT652."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 1S 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Järvi"]
+[North "Uskali"]
+[East "Mylläri"]
+[South "Sundsten"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q84.5.95.KJT8542 J652.KJ9872.J32.KT Q643.Q764.A76. A973.AT.AKT8.Q93 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass 1D 1N 2C
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Järvi"]
+[North "Uskali"]
+[East "Mylläri"]
+[South "Sundsten"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: A954.8632.AQ542.62 A72.T954.KJT9.JT87 KQ543.7.763.KQ3 JT986.AKQJ.8."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1H 2C 2H
+Pass 4H 4S X
+Pass 5H Pass Pass
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Pairs"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Järvi"]
+[North "Uskali"]
+[East "Mylläri"]
+[South "Sundsten"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q8.AQT42.987.AQ7 AJ954.9.K6543.J5 7.KJ875.Q.T98643 KT632.63.AJT2.K2 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1H 1S 4H 4S
+Pass Pass 5H Pass
+Pass Pass
+[Play "N"]
+*
+
+

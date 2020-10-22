@@ -1,0 +1,915 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A.QT4.AK.AJT8752 9632.K82.Q63.KQ9 KJT74.A95.8752.6 Q85.J763.JT94.43 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "N"]
+2S Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+DK D6 D8 DJ
+CA C9 C6 C3
+CJ CQ S4 C4
+DA DQ D2 D4
+CT CK S7 H3
+H4 D3 D7 D9
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A.QT4.AK.AJT8752 9632.K82.Q63.KQ9 KJT74.A95.8752.6 Q85.J763.JT94.43 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S Pass 3C Pass
+3D Pass 3N Pass
+Pass Pass
+[Play "W"]
+HT S2 S2 DT
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 92.Q9.KJT75.AKQ8 T5.J87.Q94.JT953 KJ863.K32.A63.42 AQ74.AT654.82.76 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "E"]
+Pass 1N Pass 2H
+Pass 2S Pass 3N
+Pass Pass Pass
+[Play "W"]
+CA CJ C2 C6
+D5 D4 DA D2
+DJ DQ D3 D8
+C8 C5 C4 C7
+H9 H8 HK HA
+HQ H7 H2 H6
+DK D9 D6 S4
+DT S5 S3 S7
+D7 C3 S6 H4
+CK C9 H3 H5
+CQ CT S8 SQ
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 92.Q9.KJT75.AKQ8 T5.J87.Q94.JT953 KJ863.K32.A63.42 AQ74.AT654.82.76 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "E"]
+Pass 1D Pass 1S
+2H 3C Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J8752.QJT9754.9.K3 A2.KJT4.QT753.T94 86.AQ732.942. AQ6.K3.865.AKJ86 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "S"]
+4H Pass Pass X
+Pass 4N Pass 5C
+Pass 6C Pass Pass
+6H Pass Pass X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J8752.QJT9754.9.K3 A2.KJT4.QT753.T94 86.AQ732.942. AQ6.K3.865.AKJ86 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "S"]
+3H Pass 4H X
+Pass 4N Pass 5C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q7.Q9872.KT32.A4 AJT85.AKT5.97.63 K43.63.J864.KQ85 962.J4.AQ5.JT972 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "W"]
+1S Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q7.Q9872.KT32.A4 AJT85.AKT5.97.63 K43.63.J864.KQ85 962.J4.AQ5.JT972 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "W"]
+1S Pass 2S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKJT95.K.T2.A973 4.A87432.A83.QT5 862.QJT95.954.62 Q73.6.KQJ76.KJ84 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "N"]
+Pass 1D 1S 2H
+Pass 2N Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKJT95.K.T2.A973 4.A87432.A83.QT5 862.QJT95.954.62 Q73.6.KQJ76.KJ84 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "N"]
+Pass 1D 1S 2H
+Pass 2N Pass 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9862.AQJ9.KT42.K QJ.T82.Q93.T9743 K53.73.J765.Q852 AT74.K654.A8.AJ6 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "E"]
+1N 2C Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 9862.AQJ9.KT42.K QJ.T82.Q93.T9743 K53.73.J765.Q852 AT74.K654.A8.AJ6 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J98.74.AKJT732.4 T4.T92.Q9.A97652 KQ7653.QJ.4.KQJ3 A2.AK8653.865.T8 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "S"]
+3D Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J98.74.AKJT732.4 T4.T92.Q9.A97652 KQ7653.QJ.4.KQJ3 A2.AK8653.865.T8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "S"]
+3D Pass Pass 3H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T54.Q974.976.743 Q32.KT832.QT2.T8 AKJ6.J5.8543.J52 987.A6.AKJ.AKQ96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 2N Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T54.Q974.976.743 Q32.KT832.QT2.T8 AKJ6.J5.8543.J52 987.A6.AKJ.AKQ96 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "W"]
+Pass Pass 2N Pass
+3D Pass 3H Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK2.T73.A653.KJ5 QJ863.64.Q842.A4 T5.AKJ952.K.9872 974.Q8.JT97.QT63 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "N"]
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK2.T73.A653.KJ5 QJ863.64.Q842.A4 T5.AKJ952.K.9872 974.Q8.JT97.QT63 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "N"]
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A74.T.AK952.J943 J832.K2.T743.QT8 Q9.AJ98753.Q86.7 KT65.Q64.J.AK652 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "E"]
+1C 1D 1S 2H
+2S Pass Pass 3D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A74.T.AK952.J943 J832.K2.T743.QT8 Q9.AJ98753.Q86.7 KT65.Q64.J.AK652 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "E"]
+1C 1D 1S 2H
+3S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T76.8.AKQT964.85 J95.AK753.J32.73 AK842.Q92.85.T94 Q3.JT64.7.AKQJ62 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "S"]
+3D Pass Pass X
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T76.8.AKQT964.85 J95.AK753.J32.73 AK842.Q92.85.T94 Q3.JT64.7.AKQJ62 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "S"]
+3D Pass Pass 4C
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT97.QT72.AJT7.6 J8532.A4.93.AT95 64.K9863.KQ6.874 AK.J5.8542.KQJ32 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 2C X
+XX 2H Pass Pass
+4C Pass 4S Pass
+5C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT97.QT72.AJT7.6 J8532.A4.93.AT95 64.K9863.KQ6.874 AK.J5.8542.KQJ32 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "W"]
+Pass Pass 1N Pass
+2H Pass 2S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T764.K2.KJ4.AT53 J953.J83.7.KJ872 Q82.9764.9653.96 AK.AQT5.AQT82.Q4 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2H Pass 2N
+Pass 3N X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T764.K2.KJ4.AT53 J953.J83.7.KJ872 Q82.9764.9653.96 AK.AQT5.AQT82.Q4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "N"]
+Pass 2N Pass 3C
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J7.KQJ2.T853.643 543.AT74.Q94.KJ5 AKQ9.8653.AK2.98 T862.9.J76.AQT72 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "E"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J7.KQJ2.T853.643 543.AT74.Q94.KJ5 AKQ9.8653.AK2.98 T862.9.J76.AQT72 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "E"]
+Pass Pass 1C X
+3C 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT954.K3.KJ875.K 32.AQ.Q2.Q987653 Q86.J987654.AT6. KJ7.T2.943.AJT42 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "S"]
+1S 3C 3S 5C
+X Pass 5S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AT954.K3.KJ875.K 32.AQ.Q2.Q987653 Q86.J987654.AT6. KJ7.T2.943.AJT42 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "S"]
+1S 2C 2H 2S
+3D Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Sao Paolo State Championship Finals"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Amaral"]
+[North "VillasBoas"]
+[East "Chagas"]
+[South " M"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AKQT.T32.82.AQ76 62.75.AKQT54.KJ8 J954.KQ4.976.T93 873.AJ986.J3.542 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Chagas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Amaral"]
+[Auction "W"]
+1D Pass 1H X
+3D Pass Pass Pass
+[Play "N"]
+*
+
+

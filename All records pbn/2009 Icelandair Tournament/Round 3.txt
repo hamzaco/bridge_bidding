@@ -1,0 +1,561 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q4.76.76542.J732 J96.AJ8.KT3.9865 T53.KQT42.AQ.AT4 AK872.953.J98.KQ "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "E"]
+SQ S6 S5 S2
+H6 H8 HT H3
+H7 HA HQ H5
+S4 SJ S3 S7
+D2 S9 ST SA
+D4 D3 C4 SK
+D5 C8 CT S8
+C2 C5 CA CK
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q4.76.76542.J732 J96.AJ8.KT3.9865 T53.KQT42.AQ.AT4 AK872.953.J98.KQ "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "N"]
+1H 1S Pass 2S
+Pass Pass Pass
+[Play "S"]
+H7 HA H2 H3
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK963.JT5.KQ965.54 AKQ.KJ98652.J.QT2 982.AT74.A73.J87 7643.Q3.T842."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +1430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "E"]
+Pass 1S 2D 2S
+Pass 4D X XX
+Pass 4S Pass 5C
+Pass 6C X 6S
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AK963.JT5.KQ965.54 AKQ.KJ98652.J.QT2 982.AT74.A73.J87 7643.Q3.T842."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "E"]
+Pass 1S 2D 2S
+Pass 3C 3D 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ7.987542.KQ42.KT95 84.J.JT9853.AQJ82 JT9632.A7.7643.A5 AKQT63.6."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "S"]
+Pass Pass 1S 2D
+Pass Pass 2H 3D
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KQ7.987542.KQ42.KT95 84.J.JT9853.AQJ82 JT9632.A7.7643.A5 AKQT63.6."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "S"]
+Pass Pass 1S 2D
+Pass Pass 2H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT9765.AT8.KQ3.7 K83.73.AT54.QT32 J4.QJ2.J9762.A84 A2.K9654.8.KJ965 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "W"]
+Pass Pass 1H 1S
+X Pass 2C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT9765.AT8.KQ3.7 K83.73.AT54.QT32 J4.QJ2.J9762.A84 A2.K9654.8.KJ965 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "W"]
+Pass Pass 1H 1S
+X Pass 2C Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J73.98.QJ84.AKT3 A9652.J74.3.9874 8.AKQT6.T92.J652 KQT4.532.AK765.Q "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "N"]
+1H X 1S X
+2C Pass 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J73.98.QJ84.AKT3 A9652.J74.3.9874 8.AKQT6.T92.J652 KQT4.532.AK765.Q "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "N"]
+Pass 1D Pass 1S
+2H 2S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ3.KQJ.A7.J973 92.9653.JT543.AT A654.842.K62.KQ6 T87.AT7.Q98.8542 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KQJ3.KQJ.A7.J973 92.9653.JT543.AT A654.842.K62.KQ6 T87.AT7.Q98.8542 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "E"]
+Pass 1N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T52.KT7.AJT9863.J987 AJ8532.QT6.K643.64 J8754.74..AQ Q9.AK932.KQ52."]
+[Declarer "W"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "S"]
+3C 3H Pass 4C
+Pass 4H Pass 4S
+Pass 5H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T52.KT7.AJT9863.J987 AJ8532.QT6.K643.64 J8754.74..AQ Q9.AK932.KQ52."]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "S"]
+3C Pass Pass 3N
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 875.4.KQJT94.AQ5 AQ64.QJT3.A6.972 KT9.AK982.73.J83 J32.765.852.KT64 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "W"]
+1C 1H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 875.4.KQJT94.AQ5 AQ64.QJT3.A6.972 KT9.AK982.73.J83 J32.765.852.KT64 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "W"]
+1C 1H Pass 2D
+Pass 2H Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ7632.J2.93.Q74 T9854.3.K64.J952 KJ.KT75.Q85.A863 .AQ9864.AJT72.KT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "N"]
+1C 1H X Pass
+1N 2D 2H Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AQ7632.J2.93.Q74 T9854.3.K64.J952 KJ.KT75.Q85.A863 .AQ9864.AJT72.KT "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "N"]
+1C 1H 1S Pass
+1N 3D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2009 Icelandair Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Oddur"]
+[North "Hauge"]
+[East "Sveinn R"]
+[South "Sælensmind"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 85.J754.KQ95.KJ8 QJ4.Q2.J72.97532 T762.KT3.AT84.T6 AK93.A986.63.AQ4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Svendsen"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Grant Thornton"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "S"]
+*
+
+

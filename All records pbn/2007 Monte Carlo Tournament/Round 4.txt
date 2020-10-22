@@ -1,0 +1,464 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K9.QJ652.52.AQ86 A3.87.AK643.KJ73 874.A93.QJT98.54 QJT652.KT4.7.T92 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 2S Pass 2N
+Pass 3C an mi
+Pass 3D X Pa
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+D5 DA DQ D7
+D2 DK DJ H4
+S9 SA S4 S2
+SK S3 S7 SQ
+HQ H7 HA HT
+H2 H8 H9 HK
+H5 D3 S8 SJ
+C6 C7 C4 C9
+CA C3 C5 C2
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K9.QJ652.52.AQ86 A3.87.AK643.KJ73 874.A93.QJT98.54 QJT652.KT4.7.T92 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+HQ H7 H3 HK
+SK SA S4 SJ
+S9 S3 S7 SQ
+H2 H8 S8 ST
+D2 DA D8 D7
+D5 DK D9 H4
+H5 D3 DT S2
+CQ CK C4 CT
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K92.AKJ962.5.AT4 J43.Q8.KQJT98.J9 AQT8.T73.2.K7652 765.54.A7643.Q83 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1H 2D X
+4D 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K92.AKJ962.5.AT4 J43.Q8.KQJT98.J9 AQT8.T73.2.K7652 765.54.A7643.Q83 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1H 2D 2N
+an 3! X an
+go Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT72.AKJ52.6.A94 9653.4.AKQT3.J53 4.QT9763.874.Q82 AKQ8.8.J952.KT76 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1H 2D 4H X!
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT72.AKJ52.6.A94 9653.4.AKQT3.J53 4.QT9763.874.Q82 AKQ8.8.J952.KT76 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1H Pass 4H X
+Pass 4S 5H Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ.A.AKT753.AK82 KJT.KQT875.Q62.T 64.6432.984.QJ74 987532.J9.J.9653 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1H Pass 1N an
+5! X 2S Pass
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ.A.AKT753.AK82 KJT.KQT875.Q62.T 64.6432.984.QJ74 987532.J9.J.9653 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "12"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+1H Pass 1S X
+2H Pass Pass X
+Pass 3C Pass 3H
+Pass 4C Pass 4H
+Pass 5C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ52.JT97.K76.T3 98.A64.AJ943.654 A76.53.T52.KQJ97 KT43.KQ82.Q8.A82 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: QJ52.JT97.K76.T3 98.A64.AJ943.654 A76.53.T52.KQJ97 KT43.KQ82.Q8.A82 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1H Pass 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT52.AQJT9.A92.Q94 T9863.86.KJ8.A763 KQ.K75.Q763.8 AJ7542.432.T54."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 3C Pass 3S
+Pass 4D Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJT52.AQJT9.A92.Q94 T9863.86.KJ8.A763 KQ.K75.Q763.8 AJ7542.432.T54."]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 3D Pass 3S
+Pass 4C Pass 4D
+Pass 4H Pass 4S
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A5.T87.AQT42.AQ5 JT74.Q9.J53.K962 8632.J62.K96.T73 KQ9.AK543.87.J84 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A5.T87.AQT42.AQ5 JT74.Q9.J53.K962 8632.J62.K96.T73 KQ9.AK543.87.J84 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "S"]
+1N Pass Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Monte Carlo Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Bocchi"]
+[North "Chemla"]
+[East "Duboin"]
+[South "Zaleski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 852.9653.A5.KT85 AQT4.AK2.KQ63.Q6 73.JT.T984.AJ973 KJ96.Q874.J72.42 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Zaleski"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Lavazza"]
+[Auction "W"]
+2N Pass 3C Pass
+3D Pass 4D Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+

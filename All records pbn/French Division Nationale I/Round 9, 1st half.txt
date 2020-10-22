@@ -1,0 +1,733 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 92.8763.AKT82.75 76.KJT.J74.KQJ82 QJ543.AQ52.63.64 AKT8.94.Q95.AT93 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "N"]
+Pass 1C 1D 3C
+X Pass 3D Pass
+Pass Pass
+[Play "W"]
+C7 CK C4 CT
+S9 S7 S3 ST
+C5 C8 C6 CA
+S2 S6 S4 SA
+D8 DJ S5 S8
+H3 HJ HQ H4
+DT D4 D3 D5
+DA D7 D6 D9
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 92.8763.AKT82.75 76.KJT.J74.KQJ82 QJ543.AQ52.63.64 AKT8.94.Q95.AT93 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "N"]
+Pass 1C 1D 1S
+X Pass Pass 3C
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT54.Q965.AK76.6 J92.843.Q954.T72 3.AT72.T83.AKQ95 AK876.KJ.J2.J843 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "E"]
+1S Pass Pass X
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QT54.Q965.AK76.6 J92.843.Q954.T72 3.AT72.T83.AKQ95 AK876.KJ.J2.J843 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "E"]
+1S Pass 1N Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T87.98.AK8532.QJ J63.5432.T.K9753 Q952.J7.Q964.AT8 AK4.AKQT6.J7.642 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "S"]
+Pass Pass Pass 1H
+2D 2H X XX
+Pass 3C Pass 3S
+Pass 4H 5D X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: T87.98.AK8532.QJ J63.5432.T.K9753 Q952.J7.Q964.AT8 AK4.AKQT6.J7.642 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "S"]
+Pass Pass Pass 1H
+2D 2H X 3C
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J983.K.KQ986.J43 T2.J762.A72.AQ52 AK54.8543.3.K876 Q76.AQT9.JT54.T9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "W"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J983.K.KQ986.J43 T2.J762.A72.AQ52 AK54.8543.3.K876 Q76.AQT9.JT54.T9 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "W"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT32.T987.87.AT8 85.432.JT953.K54 QJ64.6.AQ42.9763 K97.AKQJ5.K6.QJ2 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "N"]
+Pass 1H Pass 1N
+Pass 3N Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AT32.T987.87.AT8 85.432.JT953.K54 QJ64.6.AQ42.9763 K97.AKQJ5.K6.QJ2 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "N"]
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQT963.K32.43.4 87.AQ4.96.AKT932 42.J6.AKQJT.Q875 J5.T9875.8752.J6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "E"]
+Pass 3N an Go
+Pass 4H an XX
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AKQT963.K32.43.4 87.AQ4.96.AKT932 42.J6.AKQJT.Q875 J5.T9875.8752.J6 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "E"]
+Pass 1S 2C 2D
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T63.5.AQJT87.652 AJ92.KJ873.3.AQ9 7.AQT6.9642.KJT4 KQ854.942.K5.873 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "S"]
+Pass 1H Pass 2H
+3D 4H X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: T63.5.AQJT87.652 AJ92.KJ873.3.AQ9 7.AQT6.9642.KJT4 KQ854.942.K5.873 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "S"]
+Pass 1H Pass 2H
+3D X Pass 3H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT3.762.Q42.A643 KQ542.Q43.K97.J5 976.AKJ.T85.KT82 A8.T985.AJ63.Q97 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "W"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT3.762.Q42.A643 KQ542.Q43.K97.J5 976.AKJ.T85.KT82 A8.T985.AJ63.Q97 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "W"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT97.JT9.4.Q9832 AJ83.82.32.KJ654 64.AKQ765.AT75.A K52.43.KQJ986.T7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "N"]
+2C Pass 2D an
+XX Pass 2H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QT97.JT9.4.Q9832 AJ83.82.32.KJ654 64.AKQ765.AT75.A K52.43.KQJ986.T7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "N"]
+2C Pass 2D Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 532.QJ4.K943.J73 KQ8.KT985.A.AQ42 J764.A.QJT76.K98 AT9.7632.852.T65 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "E"]
+Pass Pass 1H X
+Pass 1N X 2D
+2H 3D 3H Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 532.QJ4.K943.J73 KQ8.KT985.A.AQ42 J764.A.QJT76.K98 AT9.7632.852.T65 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "E"]
+Pass Pass 1H Pass
+1N Pass 2C Pass
+2H Pass 2S Pass
+4H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J72.3.KQ985.K764 A983.AK97.AT74.9 Q4.JT52.J62.Q832 KT65.Q864.3.AJT5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J72.3.KQ985.K764 A983.AK97.AT74.9 Q4.JT52.J62.Q832 KT65.Q864.3.AJT5 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J.AK96.KT65.T852 AT9763.85.42.J96 K2.JT3.QJ7.AKQ43 Q854.Q742.A983.7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2D Pass 3N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J.AK96.KT65.T852 AT9763.85.42.J96 K2.JT3.QJ7.AKQ43 Q854.Q742.A983.7 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "W"]
+2D X 3H X
+3S 3N 4S 4N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "French Division Nationale I"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "MICHAUD L."]
+[North "Ste MARIE "]
+[East "HUIBAN J-M"]
+[South "TOFFIER P."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 76542.QJ74.AT86.AQ3 T862.Q32.863.KT9 95.KJ.AT7542. J8.AK3.9754.KQJ9 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "BLUMENTAL"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ELLIA"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 2H Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+

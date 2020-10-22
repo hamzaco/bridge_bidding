@@ -1,0 +1,416 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 764.AKJ2.K.KJT54 QT95.Q3.T32.Q876 2.T865.AQ984.932 AKJ83.974.J765.A "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+Pass 1S an 5+
+2C 3S X Pass
+4H Pass Pass 4S
+Pass Pass Pass
+[Play "S"]
+HA H3 H8 H4
+HK HQ H5 H7
+DK D2 D4 D5
+S4 S5 S2 SA
+S6 SQ D9 S3
+C5 D3 DQ D7
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T876.8432.3.J752 J5.QT96.T9762.T4 AQ43.AK7.QJ85.A8 K92.J5.AK4.KQ963 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: K532.T64.AK7.QJ8 98.J93.98652.743 J.KQ87.43.AKT652 AQT764.A52.QJT.9 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+1N Pass 2C 2S
+Pass an Xe Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q853.965.763.T84 AK4.QT874.T9.A97 J97.A2.K854.KJ65 T62.KJ3.AQJ2.Q32 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+1H an 5+ Pass
+2S an 11 Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K98.KJ64.K954.Q9 JT75.AT875.QJ3.6 Q42.A876.KJT742.A63 Q932.T2.A853."]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+1C Pass 1H Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KT7.Q943.7.J9865 A62.2.KT543.AQ73 Q54.T75.QJ862.K4 J983.AKJ86.A9.T2 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+1D an 4+ Pass
+2C an ! Pass
+2H Pass 2S Pass
+2N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: J96.Q98762.Q5.T8 KQ43.4.K98.76542 AT75.J3.A7432.AQ 82.AKT5.JT6.KJ93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass Pass 1D Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: J7.A76.Q876.A765 AQ985.KQ.JT52.QT KT62.4.AK943.J98 43.JT98532.K432."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+1S an 5+ Pass
+Pass X Pass 2S
+3H Pass Pass 4D
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 64.AT2.AJ9753.KJ 52.Q86.6.AQ97543 AKJT3.953.KQ842. Q987.KJ74.T.T862 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+Pass 5D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QT875.JT65.J832.K94 873.KJ965.97.J KQ4.A7432.AK64.A632 A92.QT8.QT5."]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 2C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: Q52.JT5.KJ75.JT8 64.AQ7.AT982.A73 KJT8.963.63.K965 A973.K842.Q4.Q42 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "W"]
+1C Pass 1H Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 97.JT753.KQ8.J64 QT65.6.AJ95.K985 KJ8.AQ98.T72.A32 A432.K42.643.QT7 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "N"]
+1N Pass 2D Pass
+2N Pass 3D an
+XX Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 4.T753.KT643.K87 8.K4.J972.AQ9653 KT65.AJ982.5.T42 AQJ9732.Q6.AQ8.J "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "E"]
+1C an 12 Pass
+2C Pass 2S Pass
+3C Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2005 Australian Summer Festival"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Rothfield"]
+[North "Peake"]
+[East "Browne"]
+[South "Wiltshire"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: JT4.9832.QJT5.74 A83.KQT64.A743.J KQ.J.K986.AKQ986 97652.A75.2.T532 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Wiltshire"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Rothfield"]
+[Auction "S"]
+Pass 1H 2C 2H
+Pass 3D Pass 3H
+Pass Pass Pass
+[Play "E"]
+*
+
+

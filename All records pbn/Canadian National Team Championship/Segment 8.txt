@@ -1,0 +1,932 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T6.6543.7.Q97432 J3.QT7.K864.AT65 Q987542.J.A95.KJ AK.AK982.QJT32.8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+1S 2S an He
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+S6 S3 S5 SK
+H3 HT HJ HK
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: T6.6543.7.Q97432 J3.QT7.K864.AT65 Q987542.J.A95.KJ AK.AK982.QJT32.8 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "8"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+2S 4D Pass 5C
+Pass Pass Pass
+[Play "N"]
+S6 S3 S5 SK
+C2 C5 CJ C8
+ST SJ S7 SA
+H4 HQ HJ H2
+C3 CA CK D2
+H5 HT S2 HA
+H3 H7 S4 HK
+H6 D4 D5 H8
+C7 CT S8 H9
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K874.AT63.K7.AT3 AQ62.KJ4.642.Q64 T9.Q.AQJT85.9852 J53.98752.93.KJ7 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass 1N an 14
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: K874.AT63.K7.AT3 AQ62.KJ4.642.Q64 T9.Q.AQJT85.9852 J53.98752.93.KJ7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass 1N Pass 3D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 53.QJ83.543.KT75 QT96.AK7.AQ8642.AK4 542.AKQT87.9.J872 T96.J962.J3."]
+[Declarer "S"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+Pass 1C 1D Pass
+2D X 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 53.QJ83.543.KT75 QT96.AK7.AQ8642.AK4 542.AKQT87.9.J872 T96.J962.J3."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+Pass 1C 1D Pass
+2D X 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK853.T742.9.KQ7 QT94.AJ9.AK8.A94 J.K86.T752.T8632 762.Q53.QJ643.J5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+1C Pass 1D 1S
+2N an 18 Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AK853.T742.9.KQ7 QT94.AJ9.AK8.A94 J.K86.T752.T8632 762.Q53.QJ643.J5 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+1C Pass 1S an
+1n X 2N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK32.AT7.Q6.QT54 J64.6.KT95432.87 975.J943.J7.KJ92 QT8.KQ852.A8.A63 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass 1H Pass 1N
+an fo Pass 2C
+an 2+ Pass 2D
+an Ba Pass 2H
+Pass 3D an to
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK32.AT7.Q6.QT54 J64.6.KT95432.87 975.J943.J7.KJ92 QT8.KQ852.A8.A63 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass 1H 1N 3D
+Pass 3N Pass Pass
+X 4D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A5.85.A8653.AQ83 QJT86.KT42.K7.J9 972.J9.QT92.KT64 K43.AQ763.J4.752 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass 1D 1S 2D
+2S 3D an co
+3S an co Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A5.85.A8653.AQ83 QJT86.KT42.K7.J9 972.J9.QT92.KT64 K43.AQ763.J4.752 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass 1D 1S 2D
+2H 3D 3H Pass
+3S 4C Pass 4D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 97.JT8.AQJT.QJ84 KJT532.9532.8.T3 Q64.Q64.75432.A2 A8.AK7.K96.K9765 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+Pass 2D an we
+Pass 2N an as
+Pass 3D an go
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 97.JT8.AQJT.QJ84 KJT532.9532.8.T3 Q64.Q64.75432.A2 A8.AK7.K96.K9765 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+Pass 2D an m
+Pass 2N Pass 3D
+an wk Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q8.AKQ2.K7643.AK 632.JT5.Q8.Q9763 AT95.643.A95.842 KJ74.987.JT2.JT5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1S an 3 
+Pass 2H Pass 3D
+an Pa Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q8.AKQ2.K7643.AK 632.JT5.Q8.Q9763 AT95.643.A95.842 KJ74.987.JT2.JT5 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass Pass Pass 2N
+Pass 3C Pass 3D
+Pass 3H Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ74.AQT96.32.75 Q62.J3.K86.AKJ83 AT5.74.QJ95.QT62 983.K852.AT74.94 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass Pass 2H an
+GO Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KJ74.AQT96.32.75 Q62.J3.K86.AKJ83 AT5.74.QJ95.QT62 983.K852.AT74.94 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass Pass 1H Pass
+1N Pass Pass 2C
+X Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q932.K7632.94.K4 7.JT9.KT6.AT8652 A865.8.AQ87.QJ97 KJT4.AQ54.J532.3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+1D Pass 1H X
+2H an 4  Pass
+2S an ga Pass
+2N an sh Pass
+4H Pass Pass X
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q932.K7632.94.K4 7.JT9.KT6.AT8652 A865.8.AQ87.QJ97 KJT4.AQ54.J532.3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+1D Pass 1H X
+2H 2S 3D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A7.643.J6.KQJ864 K854.K972.KT98.9 Q9.QJT8.AQ74.732 JT632.A5.532.AT5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+1C X XX 2S
+3C Pass Pass 3S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: A7.643.J6.KQJ864 K854.K972.KT98.9 Q9.QJT8.AQ74.732 JT632.A5.532.AT5 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+1C Pass 1H Pass
+2C Pass 2N Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K5.A9743.98.QT83 JT74.T85.543.AJ7 963.K62.KJT72.52 AQ82.QJ.AQ6.K964 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K5.A9743.98.QT83 JT74.T85.543.AJ7 963.K62.KJT72.52 AQ82.QJ.AQ6.K964 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT76.AKQJ8643.J.K52 T84.AKT9752.Q943.72 Q73.Q843..J8 T95.AK9652.J6."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass Pass 4H 5C
+Pass Pass 5H X
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: AT76.AKQJ8643.J.K52 T84.AKT9752.Q943.72 Q73.Q843..J8 T95.AK9652.J6."]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "N"]
+Pass Pass 1H 2C
+Pass 2D 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J954.QT98.982.QT T86.J73.Q543.A82 KQ.A4.AJT76.K543 A732.K652.K.J976 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass Pass Pass 1D
+X 1H Pass 2N
+an 17 Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J954.QT98.982.QT T86.J73.Q543.A82 KQ.A4.AJT76.K543 A732.K652.K.J976 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "E"]
+Pass Pass Pass 1D
+X Pass 1H 1N
+2H 2N Pass 3C
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ982.KJ86.3.K98 Q6.T3.T72.AQJT52 K43.Q975.AKQ96.4 T75.A42.J854.763 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+1S 3C 3D 4C
+Pass Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AJ982.KJ86.3.K98 Q6.T3.T72.AQJT52 K43.Q975.AKQ96.4 T75.A42.J854.763 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "S"]
+1S 3C 3D Pass
+3N Pass 4C Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Canadian National Team Championship"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "D. Fraser"]
+[North "Fergani"]
+[East "S. Fraser"]
+[South "L'Ecuyer"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: A754.75.AK83.AQ9 QJ.AQ984.9764.K6 KT2.JT2.J5.JT752 9863.K63.QT2.843 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "L'Ecuyer"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fraser"]
+[Auction "W"]
+1H Pass 1N an
+fo X Pass 2C
+2H X Pass 3C
+Pass Pass Pass
+[Play "E"]
+*
+
+

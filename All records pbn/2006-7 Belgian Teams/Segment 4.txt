@@ -1,0 +1,949 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q3.A75.AKQT872.K A6.842.J96.J8764 JT9754.QJT9.54.2 K82.K63.3.AQT953 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "N"]
+Pass 1C X 2C
+3S 4C 4D Pass
+4S Pass Pass Pass
+[Play "E"]
+DA D6 D5 D3
+S3 S6 SJ SK
+CK C4 C2 CA
+SQ SA S4 S2
+D2 D9 D4 S8
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q3.A75.AKQT872.K A6.842.J96.J8764 JT9754.QJT9.54.2 K82.K63.3.AQT953 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "N"]
+Pass 1C X 2C
+4S 5C X Pass
+Pass Pass
+[Play "S"]
+DK D6 D5 D3
+SQ SA SJ S8
+CK CJ C2 CA
+S3 S6 S7 SK
+D7 C4 S4 S2
+D2 D9 D4 CT
+D8 C6 S5 C5
+DT DJ S9 C9
+H5 C7 ST C3
+H7 H2 H9 H3
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 87.K.QJT97.KT864 J9.T653.653.AQ73 AK52.A984.K842.5 QT643.QJ72.A.J92 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "E"]
+Pass Pass Pass 1D
+an   1S 3D
+Pass 5D Pass Pass
+Pass
+[Play "E"]
+HK H5 H4 HQ
+S7 S9 SA S3
+S8 H3 HA H2
+CK CA C5 C2
+D7 D3 D2 DA
+D9 H6 H8 H7
+C4 C3 D4 C9
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 87.K.QJT97.KT864 J9.T653.653.AQ73 AK52.A984.K842.5 QT643.QJ72.A.J92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "E"]
+2C an bi Pass
+2H Pass Pass 2N
+an bi Pass 3N
+Pass Pass Pass
+[Play "W"]
+HK H6 H4 HJ
+DJ D3 D2 DA
+CT CQ C5 C9
+S7 H5 H8 HQ
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 87.A843.KJ92.743 A642.K6.A543.T95 Q.Q952.QT87.AK62 KJT953.JT7.6.QJ8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "S"]
+Pass Pass 1C 2S
+X 4S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 87.A843.KJ92.743 A642.K6.A543.T95 Q.Q952.QT87.AK62 KJT953.JT7.6.QJ8 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "S"]
+Pass Pass 1D 1S
+X an   XX
+2H 2S 3H 4S
+X Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKT.843.Q54.A964 QJ874.9.AKT9.Q32 65.AJT.J8762.T75 932.KQ7652.3.KJ8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "W"]
+1S Pass 2H Pass
+2S Pass 3S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKT.843.Q54.A964 QJ874.9.AKT9.Q32 65.AJT.J8762.T75 932.KQ7652.3.KJ8 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "W"]
+1S Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 654.53.KJ87.AQ43 QJT9732.J.T43.82 A8.KQT982.5.T976 K.A764.AQ962.KJ5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "N"]
+2D an mu Pass
+2H Pass Pass 2N
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 654.53.KJ87.AQ43 QJT9732.J.T43.82 A8.KQT982.5.T976 K.A764.AQ962.KJ5 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "N"]
+1H Pass 1N 3S
+Pass 4S X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J43.AK63.K87.Q82 AQ975.J42.9632.9 KT62.T98.Q4.KT63 8.Q75.AJT5.AJ754 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "E"]
+1D Pass 1S Pass
+2C Pass 2D Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J43.AK63.K87.Q82 AQ975.J42.9632.9 KT62.T98.Q4.KT63 8.Q75.AJT5.AJ754 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "E"]
+1C X 1S X
+2C Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ943.K9532.2.AT 5.AJ87.KJT7.KJ93 K72.4.A954.87542 QT86.QT6.Q863.Q6 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "S"]
+1S X 2S Pass
+3S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AJ943.K9532.2.AT 5.AJ87.KJT7.KJ93 K72.4.A954.87542 QT86.QT6.Q863.Q6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "S"]
+1S X an  
+2S X 3S X
+XX Pass Pass 4C
+X 4D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A8753.A9.K.AK842 K8654.Q98754.J7.KQT62 T72.AJT.Q9. J94.QJ3.632.T653 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "W"]
+Pass 1S Pass 2N
+Pass 3N Pass 4C
+Pass 4D Pass 4N
+Pass 5S Pass 6C
+Pass 6N an X 
+Pass 7S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A8753.A9.K.AK842 K8654.Q98754.J7.KQT62 T72.AJT.Q9. J94.QJ3.632.T653 "]
+[Declarer "N"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2210"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "W"]
+Pass 1S Pass 2C
+an FM Pass 2S
+Pass 3S Pass 4D
+Pass 4N Pass 5S
+Pass 5N Pass 6C
+Pass 6S Pass 7S
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJT.J984.96.AQJ7 8652.KT.KJ85.T62 K43.A2.AT43.K983 Q97.Q7653.Q72.54 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "N"]
+1C an   Pass
+1N Pass 2N Pass
+3C Pass 3D Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJT.J984.96.AQJ7 8652.KT.KJ85.T62 K43.A2.AT43.K983 Q97.Q7653.Q72.54 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "N"]
+1D Pass 1H Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A5.KJ7.T9642.962 J987.T83.A8.AKQ8 43.A94.KJ753.J43 KQT62.Q652.Q.T75 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: A5.KJ7.T9642.962 J987.T83.A8.AKQ8 43.A94.KJ753.J43 KQT62.Q652.Q.T75 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "E"]
+2C Pass 2D Pass
+2S an fa Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ976.94.AK87.98 JT542.K63.64.J65 K.JT872.Q52.T432 83.AQ5.JT93.AKQ7 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "S"]
+1S Pass 1N X
+2D Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: AQ976.94.AK87.98 JT542.K63.64.J65 K.JT872.Q52.T432 83.AQ5.JT93.AKQ7 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "S"]
+1S Pass 1N X
+Pass 2C Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK97.762.7.AQT84 Q865.K9843.A5.J9 42.QT.KJT432.K73 JT3.AJ5.Q986.652 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "W"]
+Pass Pass Pass 1C
+X 3D an  
+Pass 3S Pass 4C
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK97.762.7.AQT84 Q865.K9843.A5.J9 42.QT.KJT432.K73 JT3.AJ5.Q986.652 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "W"]
+2C an bi Pass
+2D an as Pass
+2H an 5   4
+Pass Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T2.A983.Q7.KT962 AK84.52.J9832.J3 7653.QT4.KT.A874 QJ9.KJ76.A654.Q5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1N Pass 2C
+Pass 2D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T2.A983.Q7.KT962 AK84.52.J9832.J3 7653.QT4.KT.A874 QJ9.KJ76.A654.Q5 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1N Pass 2D
+Pass Pass X XX
+Pass Pass 3C 3D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT72.A964.62.QT2 J865.T75.874.986 Q.KQJ2.AKT953.J7 K943.83.QJ.AK543 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "E"]
+1C Pass Pass X
+Pass 1H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: AT72.A964.62.QT2 J865.T75.874.986 Q.KQJ2.AKT953.J7 K943.83.QJ.AK543 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "E"]
+1C Pass Pass X
+Pass 2C Pass 2H
+Pass 3H Pass 3S
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QJ982.K63.9875.3 K3.AQ7.JT32.K765 T75.J842.KQ.AT42 A64.T95.A64.QJ98 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1N Pass 2C
+Pass 2D Pass 2N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: QJ982.K63.9875.3 K3.AQ7.JT32.K765 T75.J842.KQ.AT42 A64.T95.A64.QJ98 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "S"]
+Pass 1D Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2006-7 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Dehaye"]
+[North "Bocken"]
+[East "Coenraets"]
+[South "Renard"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 8.632.T64.AK9643 AJ75.KJ9875.J7.J KQT9642.4.AKQ9.8 3.AQT.8532.QT752 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "UCCLE"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "BCOB I"]
+[Auction "W"]
+1H 4S Pass Pass
+Pass
+[Play "E"]
+*
+
+

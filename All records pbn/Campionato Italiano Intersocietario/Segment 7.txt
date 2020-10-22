@@ -1,0 +1,916 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKJ9765.874.4.63 KQT5.AQ96.T9854.83 J963.32.AKQJ2. QT42.A2.KJT875.7 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "N"]
+Pass 1D 4S 4N
+5C Pass 5S Pass
+Pass 6D Pass Pass
+Pass
+[Play "S"]
+C6 C4 CA C7
+D5 C3 C5 C2
+S7 D6 S3 S2
+CJ D7 H4 CT
+S5 D9 S8 S4
+H7 C8 CQ D8
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKJ9765.874.4.63 KQT5.AQ96.T9854.83 J963.32.AKQJ2. QT42.A2.KJT875.7 "]
+[Declarer "E"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -920"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "N"]
+2C 2D 4S 4N
+Pass 5C 5D 5S
+Pass 6D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A8.QT743.QT8.J54 T97642.5.943.QT6 J5.A2.AJ52.98732 KQ3.KJ986.K76.AK "]
+[Declarer "S"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "E"]
+1H Pass Pass X
+XX 1N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A8.QT743.QT8.J54 T97642.5.943.QT6 J5.A2.AJ52.98732 KQ3.KJ986.K76.AK "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "E"]
+1H Pass 1S Pass
+2C Pass 2S Pass
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q8754.K83.94.K63 AT3.QJ42.AQT.AT2 62.65.KJ8632.J87 KJ9.AT97.75.Q954 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q8754.K83.94.K63 AT3.QJ42.AQT.AT2 62.65.KJ8632.J87 KJ9.AT97.75.Q954 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "S"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 7.J82.AJ86.QJ532 95.KQ3.KQT97.T96 AKJT62.765.42.A4 Q843.AT94.53.K87 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "W"]
+Pass 2S Pass 2N
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 7.J82.AJ86.QJ532 95.KQ3.KQT97.T96 AKJT62.765.42.A4 Q843.AT94.53.K87 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "W"]
+Pass 2S Pass Pass
+X Pass 3H Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKQT.J.K763.Q953 97432.KQ654.A8.K J85.932.J4.AJT76 6.AT87.QT952.842 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "N"]
+Pass Pass 1C 1H
+1S 4H Pass Pass
+5C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AKQT.J.K763.Q953 97432.KQ654.A8.K J85.932.J4.AJT76 6.AT87.QT952.842 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "N"]
+Pass Pass 1C 2D
+an ma 3C 4H
+Pass Pass X Pass
+5C Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 97643.A6543.8.K5 Q2.QJ7.AJ65.JT32 A.KT92.KT732.976 KJT85.8.Q94.AQ84 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "E"]
+1S Pass 2C 2D
+3C Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 97643.A6543.8.K5 Q2.QJ7.AJ65.JT32 A.KT92.KT732.976 KJT85.8.Q94.AQ84 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "E"]
+1S Pass 1N X
+2C 4H X Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKQJ74.A95.Q752.T52 T82.K732.A96.9 AJ7.QJT4.JT843.863 KQ96543.86.K."]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "S"]
+1S Pass 1N 2H
+3S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKQJ74.A95.Q752.T52 T82.K732.A96.9 AJ7.QJT4.JT843.863 KQ96543.86.K."]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "S"]
+1S Pass 1N 2H
+X XX Pass 3H
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQ6.A96532.3.K85 KT97.8.JT974.AQ9 542.KJT74.Q6.T73 J83.Q.AK852.J642 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "W"]
+Pass Pass 1D 1H
+X 3H Pass 4H
+4S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AQ6.A96532.3.K85 KT97.8.JT974.AQ9 542.KJT74.Q6.T73 J83.Q.AK852.J642 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "W"]
+Pass Pass 1D 1H
+Pass 3H Pass Pass
+4D Pass Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.T9643.JT94.Q94 83.J5.AKQ753.T86 AQ6.AK872.86.A75 KJT9542.Q.2.KJ32 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "N"]
+1H 3S 4H 4S
+X Pass 5H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 7.T9643.JT94.Q94 83.J5.AKQ753.T86 AQ6.AK872.86.A75 KJT9542.Q.2.KJ32 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "N"]
+1H 3S 4H 4S
+X Pass 5H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 872.K4.J83.AKQT5 AKQJT.732.65.943 93.JT98.AKQT72.7 654.AQ65.94.J862 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "E"]
+Pass 1N Pass 2C
+Pass 2D Pass 3D
+Pass 3H Pass 5D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 872.K4.J83.AKQT5 AKQJT.732.65.943 93.JT98.AKQT72.7 654.AQ65.94.J862 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "E"]
+Pass 1N Pass 2N
+Pass 3C Pass 3H
+Pass 4C Pass 4H
+Pass 5D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 8754.QT.AQ84.Q43 J96.K72.T76.KJ87 AQT32.863.KJ3.T9 K.AJ954.952.A652 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "S"]
+Pass Pass 2S X
+4S X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 8754.QT.AQ84.Q43 J96.K72.T76.KJ87 AQT32.863.KJ3.T9 K.AJ954.952.A652 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "4"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -250"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK743.K6.43.K765 Q86.AJ753.KJ9.Q3 J952.T94.QT5.AT2 T.Q82.A8762.J984 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "W"]
+1H Pass 2H 2S
+Pass 3S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AK743.K6.43.K765 Q86.AJ753.KJ9.Q3 J952.T94.QT5.AT2 T.Q82.A8762.J984 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "W"]
+1H Pass 2H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ942.K5.72.T853 87.AJ8432.T4.J72 AQ.Q976.AQ983.KQ T653.T.KJ65.A964 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "N"]
+1D Pass 1S Pass
+1N Pass 2C Pass
+2H Pass 2S Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ942.K5.72.T853 87.AJ8432.T4.J72 AQ.Q976.AQ983.KQ T653.T.KJ65.A964 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "N"]
+1D Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K5.Q2.T764.AQ632 A43.T98.KQ83.J84 Q6.AKJ765.A2.K75 JT9872.43.J95.T9 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "E"]
+2S Pass 3S 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K5.Q2.T764.AQ632 A43.T98.KQ83.J84 Q6.AKJ765.A2.K75 JT9872.43.J95.T9 "]
+[Declarer "S"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "E"]
+Pass 1N Pass 2D
+Pass 2H Pass 4N
+Pass 5D Pass 6H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A8653.QT.854.K64 4.K4.KT762.QT975 QT7.9653.AQJ9.A2 KJ92.AJ872.3.J83 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "S"]
+Pass Pass 1N 2C
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A8653.QT.854.K64 4.K4.KT762.QT975 QT7.9653.AQJ9.A2 KJ92.AJ872.3.J83 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "S"]
+Pass Pass 1N 2C
+an ma X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Campionato Italiano Intersocietario"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "RUSSO"]
+[North "NUNES"]
+[East "BURATTI"]
+[South "FANTONI"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: KJ4.JT75.92.J984 A65.K8.KQT53.K75 93.A94.AJ76.AT62 QT872.Q632.84.Q3 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "TCP RM Angelini"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Gr.Sp.Ass. Allegra"]
+[Auction "W"]
+1N Pass 2H Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,931 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKQT74.J974.J8.Q 865.Q83.Q92.9862 J32.AT2.43.KJT75 9.K65.AKT765.A43 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+Pass 1D 1S Pass
+2S 3D 3S Pass
+Pass Pass
+[Play "W"]
+ST S5 S2 S9
+SA S6 S3 D6
+CQ C8 C5 CA
+D8 D2 D3 DK
+DJ D9 D4 DA
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AKQT74.J974.J8.Q 865.Q83.Q92.9862 J32.AT2.43.KJT75 9.K65.AKT765.A43 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+Pass 2D 2S Pass
+3S Pass Pass Pass
+[Play "W"]
+SQ S5 S2 S9
+CQ C2 C5 C4
+SA S6 S3 D5
+S4 S8 SJ D6
+S7 C6 CK CA
+HJ H8 HA H5
+D8 C8 CJ C3
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQJ2.54.AT632.96 K.KQ963.KJ54.QJ7 93.A872.9.AKT532 T87654.JT.Q87.84 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+Pass 1D 1H 2C
+Pass 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AQJ2.54.AT632.96 K.KQ963.KJ54.QJ7 93.A872.9.AKT532 T87654.JT.Q87.84 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+Pass 1D 1H 2C
+Pass 2D Pass 3C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT653.K.QT76.Q42 K842.T83.J98653.A AQ754.KJ9532.7.J97 J962.A84.AKT."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 2D Pass
+3D Pass 3H Pass
+3S Pass 4C Pass
+4D Pass 4H Pass
+5D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: QT653.K.QT76.Q42 K842.T83.J98653.A AQ754.KJ9532.7.J97 J962.A84.AKT."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 2H Pass
+3D Pass 3H Pass
+5D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKT.92.KJ965432.QJ9732 JT765.73.65.AQ43 87.AKJT5..84 K8.AQT.Q98642."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass 1N Pass 3C
+Pass 3D Pass 3H
+Pass 3N Pass 4C
+Pass 4N Pass 5C
+Pass 5D Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AKT.92.KJ965432.QJ9732 JT765.73.65.AQ43 87.AKJT5..84 K8.AQT.Q98642."]
+[Declarer "S"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass 1C Pass 1D
+2C Pass 2H 2S
+Pass 3H X 3S
+Pa 3N Pass 4D
+Pass 4H Pass 5C
+Pass 6C Pass 6D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ76.KJ953.Q4.A4 K985.T842.T76.65 432.76.AJ82.Q982 JT.AQ.K953.KJT73 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+Pass 1N 2C Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AQ76.KJ953.Q4.A4 K985.T842.T76.65 432.76.AJ82.Q982 JT.AQ.K953.KJT73 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+Pass 1N 2C Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ865.KQ2.KJ6.85 QT97.7643.A943.2 2.985.T752.AQT43 A43.AJT.Q8.KJ976 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "5"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+1N Pass 2C X
+XX Pass 2D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ865.KQ2.KJ6.85 QT97.7643.A943.2 2.985.T752.AQT43 A43.AJT.Q8.KJ976 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+1N Pass 2C X
+XX Pass 2D Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 72.K32.AQ8753.62 AT98.J984.J.9843 543.AQT.T964.K75 KQJ6.765.K2.AQJT "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+2C Pass 2D 2N
+Pass Pass 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 72.K32.AQ8753.62 AT98.J984.J.9843 543.AQT.T964.K75 KQJ6.765.K2.AQJT "]
+[Declarer "E"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+Pass Pass Pass 1N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT42.KQ64.6.QT87 87.JT83.T8754.AK K96.A972.AQ2.654 QJ53.5.KJ93.J932 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass 1C an 11
+Pass 1D an he
+Pass 2H an 4 
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT42.KQ64.6.QT87 87.JT83.T8754.AK K96.A972.AQ2.654 QJ53.5.KJ93.J932 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ42.J74.8753.64 K876.AQ9.QJT.AQ5 AT5.K8653.K2.T92 93.T2.A964.KJ873 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+Pass Pass Pass 1C
+1H 3C an mi
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: QJ42.J74.8753.64 K876.AQ9.QJT.AQ5 AT5.K8653.K2.T92 93.T2.A964.KJ873 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+Pass Pass Pass 1C
+1H X! 2H Pa
+Pass 3C Pass 3N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK2.A5.Q874.Q763 6.Q987643.T62.92 J543.T.J95.AJT54 QT987.KJ2.AK3.K8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+1N Pass 2D Pass
+2H Pass Pass X
+Pass 2N 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AK2.A5.Q874.Q763 6.Q987643.T62.92 J543.T.J95.AJT54 QT987.KJ2.AK3.K8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+1C Pass 1D Pass
+1S Pass 2D Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J9.K865.6.AQT975 KQ542.T2.AQ74.K8 A763.AQ97.JT9.63 T8.J43.K8532.J42 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+1C 1S X Pass
+2H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J9.K865.6.AQT975 KQ542.T2.AQ74.K8 A763.AQ97.JT9.63 T8.J43.K8532.J42 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+1C 1S X Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J72.KQJ.8532.AT4 A6.4.KJT97.J9872 Q3.98532.Q6.KQ63 KT9854.AT76.A4.5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "12"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -480"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass Pass 1S Pass
+1N Pass 2H Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J72.KQJ.8532.AT4 A6.4.KJT97.J9872 Q3.98532.Q6.KQ63 KT9854.AT76.A4.5 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+Pass Pass 1S Pass
+1N Pass 2H Pass
+2S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A962.AJ.2.KQJ952 KQJ7.972.Q75.A83 T8.KQT65.9643.76 543.843.AKJT8.T4 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 1S Pass
+1N Pass 2C Pass
+Pass 2D Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: A962.AJ.2.KQJ952 KQJ7.972.Q75.A83 T8.KQT65.9643.76 543.843.AKJT8.T4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ43.K4.Q8654.K8 98.932.AJT9.A952 T52.AT65.732.764 AK76.QJ87.K.QJT3 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+1N Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QJ43.K4.Q8654.K8 98.932.AJT9.A952 T52.AT65.732.764 AK76.QJ87.K.QJT3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "E"]
+1D Pass 1N Pass
+2N Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQJT54.K9.Q72.K5 A976.T753.A93.Q4 82.AQ82.KT6.A632 3.J64.J854.JT987 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+1S Pass 2C Pass
+2S Pass 2N Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KQJT54.K9.Q72.K5 A976.T753.A93.Q4 82.AQ82.KT6.A632 3.J64.J854.JT987 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "S"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 2N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Vanderbilt Cup"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "SWeinstein"]
+[North "Fallenius"]
+[East "Levin"]
+[South "Fredin"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: AJT52.J5.82.AJ96 6.T7632.AKQJ73.4 K973.KQ84.T94.K2 Q84.A9.65.QT8753 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "De Knijff"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Fleisher"]
+[Auction "W"]
+1D Pass 1N 2D
+2N X 3C X
+3D 4H Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+

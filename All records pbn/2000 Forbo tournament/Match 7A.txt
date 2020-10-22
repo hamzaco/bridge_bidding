@@ -1,0 +1,463 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K976.7.QT65.J732 AJ3.AT632.4.AQ98 4.KQJ8.A982.K654 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "N"]
+1D P 1S D
+1N P 2D D
+P P P
+[Play "E"]
+C2 C8 CK CT
+H7 HA HJ H5
+C3 CQ C4 H4
+C7 CA C5 H9
+CJ C9 C6 D3
+SK SA S4 SQ
+D5 D4 D2 DK
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: K976.7.QT65.J732 AJ3.AT632.4.AQ98 4.KQJ8.A982.K654 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "N"]
+1D P 1S 2H
+P P P
+[Play "N"]
+CJ CQ C5 CT
+C2 C9 C4 S2
+D6 D4 D2 DK
+S7 SJ S4 S5
+H7 HA H8 H4
+C3 CA C6 D3
+C7 C8 CK H5
+S6 S3 HJ SQ
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT6.J82.J653.K65 QJ9732.K5.7.T843 4.AQ93.AKT92.A92 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "E"]
+P P 3S D
+4S D P P
+P
+[Play "N"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AT6.J82.J653.K65 QJ9732.K5.7.T843 4.AQ93.AKT92.A92 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "E"]
+P P 2D 2H
+P 3D P 3S
+P 3N P P
+P
+[Play "W"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q75.QT73.T6.A864 T8.K864.Q93.Q752 K96432.2.A75.J93 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "S"]
+P P 2D 2N
+P P P
+[Play "S"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q75.QT73.T6.A864 T8.K864.Q93.Q752 K96432.2.A75.J93 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "S"]
+P P P 1C
+P 1H 1S 4H
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT542.AKT3.K9.KT KJ9.Q8.AJ62.8652 863.J42.43.AJ973 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "W"]
+P P P 1C
+P 1D P 1H
+P 2C P 2S
+P 3S P 4S
+P P P
+[Play "W"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AT542.AKT3.K9.KT KJ9.Q8.AJ62.8652 863.J42.43.AJ973 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "W"]
+P P P 1S
+P 2S P 4S
+P P P
+[Play "W"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K87.AJ742.KQ632.J952 QJ54.K63.AT.A43 A832.QT9.J85."]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "N"]
+P P 1D P
+1H P 2C P
+2S P 3S P
+3N P P P
+[Play "E"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: K87.AJ742.KQ632.J952 QJ54.K63.AT.A43 A832.QT9.J85."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "N"]
+P P 1D P
+1H P 2C P
+3D P 5D P
+P P
+[Play "W"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J54.AT832.T7.742 AT97.9.AQJ.AQJT6 K862.KQJ7.832.98 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "E"]
+P P 1C P
+1D P 1S P
+2C P 2D P
+3H P 4H P
+4N P 5C P
+P P
+[Play "N"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: J54.AT832.T7.742 AT97.9.AQJ.AQJT6 K862.KQJ7.832.98 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "E"]
+P P 1C P
+1N P 2C P
+2D P 2S P
+3C P 3D P
+4C P 4D P
+5C P P P
+[Play "N"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT74.8.732.J964 32.AK97.QT4.AT53 5.QJ63.KJ9865.K7 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "S"]
+P 1C 1D 1S
+2D P P D
+P 2H 3D 4H
+P P P
+[Play "N"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: KQT74.8.732.J964 32.AK97.QT4.AT53 5.QJ63.KJ9865.K7 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "S"]
+2S D 2N D
+3C D 3D D
+P P P
+[Play "E"]
+*
+
+
+[Event "2000 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Mittelman"]
+[North "Petrunin"]
+[East "Kokish"]
+[South "Gromov"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: Q752.KQ6.962.952 93.AJT97.AKQ4.J8 864.54.J87.AKT74 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Russia"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Canada"]
+[Auction "W"]
+1H P 2H P
+2N P 3C P
+3H P P P
+[Play "N"]
+*
+
+

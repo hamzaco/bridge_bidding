@@ -1,0 +1,341 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 6432.K4.AJT52.A6 97.T87532.63.QT9 A85.AQJ96.K7.J82 KQJT.Q984.K7543."]
+[Declarer "S"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "N"]
+1H 1N X 2C
+Pass Pass 2D Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "W"]
+C6 CT C2 C7
+CA CQ C8 C5
+HK H5 H6 D4
+H4 H7 H9 ST
+S4 H3 HA SJ
+S3 H8 HQ D8
+S2 H2 HJ D9
+D2 D3 DK DQ
+*
+
+
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 6432.K4.AJT52.A6 97.T87532.63.QT9 A85.AQJ96.K7.J82 KQJT.Q984.K7543."]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "N"]
+1N Pass 2C Pass
+2H Pass 3N Pass
+Pass Pass
+[Play "E"]
+S2 S7 S5 SK
+S3 S9 SA SQ
+D2 D3 DK D4
+DT D6 D7 D8
+*
+
+
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J.KT952.KQJT.543 K864.A9542.KJT9.Q93 AJ843.876.A6.AT752 Q76.3.Q872."]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "E"]
+Pass Pass 1D 1H
+1S 2S 3S Pass
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J.KT952.KQJT.543 K864.A9542.KJT9.Q93 AJ843.876.A6.AT752 Q76.3.Q872."]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "E"]
+Pass Pass 1D 1H
+1S 3S 4H Pass
+4S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q984.QJ974.QJ3.J K53.K82.986.T654 AJ6.T6.AT2.AK973 T72.A53.K754.Q82 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "S"]
+Pass Pass 1N Pass
+2C Pass 2D Pass
+3D Pass 3S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q984.QJ974.QJ3.J K53.K82.986.T654 AJ6.T6.AT2.AK973 T72.A53.K754.Q82 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "S"]
+Pass Pass 1N Pass
+2D Pass 2H Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ.A7.854.J98754 653.QJ6532.AJT7.AQ42 T9.Q93.AT32. T987.K84.K62.KQ6 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "W"]
+2D Pass 2H Pass
+Pass X 3H 4C
+Pass Pass X Pass
+4H Pass Pass X
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: KJ.A7.854.J98754 653.QJ6532.AJT7.AQ42 T9.Q93.AT32. T987.K84.K62.KQ6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "W"]
+2D Pass 2S Pass
+3D Pass 3H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A4.K754.T43.9653 J732.A.AKQ95.QT7 K965.JT863.J6.42 QT8.Q92.872.AKJ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1N Pass 3D
+Pass 3S Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A4.K754.T43.9653 J732.A.AKQ95.QT7 K965.JT863.J6.42 QT8.Q92.872.AKJ8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "N"]
+Pass 1C Pass 2D
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Vilnius Cup"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Szochan"]
+[North "Kaczanowsk"]
+[East "Karbanovic"]
+[South "Walczak"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 53.87.AT75.AJT76 A98.A962.K43.432 QJT7642.KQ53.8.Q K.JT4.QJ962.K985 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "HOME"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "AWAY"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 1N Pass 2S
+Pass Pass Pass
+[Play "E"]
+*
+
+

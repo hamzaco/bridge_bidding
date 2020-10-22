@@ -1,0 +1,574 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ764.K75.T8.Q32 32.AT4.65.AK9874 KJ985.62.KQJ97.6 T.QJ983.A432.JT5 "]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "N"]
+Pass Pass 1S 2C
+4D 4H Pass Pass
+4S Pass Pass 4N
+Pass 5C Pass Pass
+5S X Pass Pass
+Pass
+[Play "W"]
+H7 HA H2 HQ
+C2 CA C6 C5
+D8 D6 D7 DA
+DT D5 D9 D2
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AQ764.K75.T8.Q32 32.AT4.65.AK9874 KJ985.62.KQJ97.6 T.QJ983.A432.JT5 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "N"]
+Pass Pass 1S 2C
+3D an fi 3H
+Pass 4H 4S Pass
+Pass Pass
+[Play "W"]
+C3 CK C6 C5
+SA S3 S5 ST
+D8 D6 DK DA
+HK HA H2 HQ
+H5 HT H6 H8
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJT6.AK6.KJ9432.7 J95.QJT9762.A8.A52 Q32.K843.Q75.K9843 T874.A5.T6."]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "E"]
+Pass 1C 4D Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: QJT6.AK6.KJ9432.7 J95.QJT9762.A8.A52 Q32.K843.Q75.K9843 T874.A5.T6."]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "E"]
+3C Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A85.J976.KQ7.T86 T9.AT84.JT3.AJ73 K632.KQ2.A86.K94 QJ74.53.9542.Q52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "S"]
+Pass Pass 1N Pass
+2C Pass 2S Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: A85.J976.KQ7.T86 T9.AT84.JT3.AJ73 K632.KQ2.A86.K94 QJ74.53.9542.Q52 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "S"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J752.AJ32.Q8.J75 K86.9.KJT7.AK982 AQ.QT764.6542.63 T943.K85.A93.QT4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "W"]
+1D 1H X 2H
+X Pass 2S Pass
+3D Pass 3H Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: J752.AJ32.Q8.J75 K86.9.KJT7.AK982 AQ.QT764.6542.63 T943.K85.A93.QT4 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "W"]
+1C 1H X 3H
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: JT94.43.64.KQ987 AQ76532.K2.5.J63 8.JT87.AQT72.AT4 K.AQ965.KJ983.52 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "N"]
+1D 1H 1S Pass
+2D Pass Pass 2S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AK85.QJT42.A532.AKJ JT42.K.Q9764.T987432 Q93.63.K.Q65 76.A9875.JT8."]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "E"]
+Pass 1D X 1S
+1N 2C Pass 2D
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 983.6.JT86532.K9 T4.J954.Q4.Q7542 Q7652.T832.A97.T AKJ.AKQ7.K.AJ863 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: JT987.K84.T985.3 K4.AQ96.Q732.J64 AQ3.753.J6.AK972 652.JT2.AK4.QT85 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "W"]
+1D X XX 1S
+1N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: T8.AT93.AK96.Q84 J2.K7642.87.KJT6 K95.Q8.J432.9532 AQ7643.J5.QT5.A7 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "N"]
+Pass 1S X Pass
+2D Pass Pass X
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T86.98654.643.J5 AK3.JT2.KQJ.KT97 J974.A73.AT97.86 Q52.KQ.852.AQ432 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "E"]
+1D Pass 1N Pass
+2D Pass 2H Pass
+2S Pass 2N Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: KT9862.AK.AK74.2 74.QT9863.J5.Q43 AJ53.Q962.KT876.Q J7542.T83.AJ95."]
+[Declarer "W"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "S"]
+1S Pass 2C an
+GF Pass 2D Pass
+2S Pass 3S Pass
+4C X Pass Pass
+4H Pass 4N Pass
+6S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ.Q6.QJ96543.97 9543.AT8753.7.Q5 AT872.42.KT8.A43 K6.KJ9.A2.KJT862 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "W"]
+2C X 4H 5D
+Pass Pass X Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KJ3.J.85.AKQ9874 T762.A76.Q642.T5 54.985.KJT73.632 AQ98.KQT432.A9.J "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "N"]
+Pass 1H 2C 2H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 974.AK9874.9.J76 KQT5.Q62.QT832.4 J632.T3.K7.KQ853 A8.J5.AJ654.AT92 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "E"]
+1N Pass 2D Pass
+2N an ma Pass
+3N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "2010 Belgian Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Amsel"]
+[North "Colinet"]
+[East "Cornelis"]
+[South "Neve"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T97.752.943.JT63 65.T3.K652.Q7542 K843.QJ86.AT.AK8 AQJ2.AK94.QJ87.9 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "BCOB"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SQUEEZE"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 1D X XX
+Pass Pass 1H X
+Pass Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,662 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A862.K6542.9.KT2 QJ954.3.KQJ82.Q5 KT.T7.T743.A9743 73.AQJ98.A65.J86 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "7"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +150"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 1N Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+H2 H3 HT HA
+HK S5 H7 HQ
+D9 D8 D3 DA
+H4 C5 ST H8
+S2 D2 D4 D5
+C2 CQ CA C6
+S6 DJ DT D6
+CK S4 C3 C8
+S8 S9 SK S3
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: A862.K6542.9.KT2 QJ954.3.KQJ82.Q5 KT.T7.T743.A9743 73.AQJ98.A65.J86 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2C Pass 2D
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+H4 H3 HT HQ
+HK S4 H7 HJ
+C2 C5 CA C6
+CK CQ C4 C8
+SA S5 ST S3
+CT S9 C3 CJ
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J765.AJ84.J3.QJ5 KQ.7653.AT82.864 43.Q2.KQ754.AKT3 AT982.KT9.96.972 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1H Pass 2C
+Pass 2N Pass 3N
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: J765.AJ84.J3.QJ5 KQ.7653.AT82.864 43.Q2.KQ754.AKT3 AT982.KT9.96.972 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "E"]
+Pass Pass Pass 1D
+1S X 2S 3C
+Pass 3N Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT73.KQJ3.J42.Q5 82.T54.765.KT432 Q965.6.AK93.AJ76 KJ4.A9872.QT8.98 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "S"]
+1N Pass 2C Pass
+2D Pass 2S Pass
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AT73.KQJ3.J42.Q5 82.T54.765.KT432 Q965.6.AK93.AJ76 KJ4.A9872.QT8.98 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "S"]
+1C Pass 1D 1H
+1N Pass 2C Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K32.KT82.QT82.A9 A.Q943.AK753.JT4 Q974.J6.J94.KQ87 JT865.A75.6.6532 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "5"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "W"]
+1D Pass 1S Pass
+2C Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K32.KT82.QT82.A9 A.Q943.AK753.JT4 Q974.J6.J94.KQ87 JT865.A75.6.6532 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "W"]
+1D Pass 1S Pass
+2D Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT7.AT8762.543.6 85.54.AK982.A743 A632.KQ3.T6.KJ85 QJ94.J9.QJ7.QT92 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "N"]
+1N Pass 2D X
+2H 3D 3H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KT7.AT8762.543.6 85.54.AK982.A743 A632.KQ3.T6.KJ85 QJ94.J9.QJ7.QT92 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "N"]
+1N Pass 2D Pass
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AT.K642.QJT94.KT J93.AT3.K83.Q743 K54.QJ8.A7652.A9 Q8762.975.J8652."]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "N"]
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQT5.T3.J97.K632 2.KJ542.5.QJ9875 J98.A9876.AT6.AT K7643.Q.KQ8432.4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "E"]
+2S Pass Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T84.K62.J9.AQ852 QJ96.JT8.KT54.T3 K7.973.AQ873.K94 A532.AQ54.62.J76 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "S"]
+Pass Pass 1D X
+2C 2S 3C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: T84.K62.J9.AQ852 QJ96.JT8.KT54.T3 K7.973.AQ873.K94 A532.AQ54.62.J76 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "S"]
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 975432.AK4.T5.Q3 KJ.7532.AJ92.K65 QT8.87643.JT972. AQT86.J96.KQ.A84 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "W"]
+1D Pass 1S Pass
+1N Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: 975432.AK4.T5.Q3 KJ.7532.AJ92.K65 QT8.87643.JT972. AQT86.J96.KQ.A84 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "W"]
+1N Pass 2H Pass
+2S Pass 3N Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 2.QT.AK63.AQJ762 KT987.KJ763.K94.AQ4 842.QJT98.53.J653 A95.7542.T8."]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "N"]
+Pass Pass 1C 2H
+Pass 4S 5C Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 2.QT.AK63.AQJ762 KT987.KJ763.K94.AQ4 842.QJT98.53.J653 A95.7542.T8."]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "N"]
+Pass Pass 1C 2C
+2D Pass 3S Pass
+4D Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J862.JT932.KT63.3 KQ75.Q2.JT9754.AQT9 4.J9854.K86. K754.A86.A7.AQ32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "E"]
+1N Pass 2S an
+!c Pass 2N an
+su Pass 3H Pass
+4C Pass 5C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: J862.JT932.KT63.3 KQ75.Q2.JT9754.AQT9 4.J9854.K86. K754.A86.A7.AQ32 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "E"]
+1C Pass 1H X
+1N Pass 3C Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 5432.73.742.AJ86 7.KQ.KT83.KQT752 KJ986.AT64.AJ95. AQT.J9852.Q6.943 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "S"]
+Pass 1C X 1H
+Pass 2C X Pass
+2S Pass Pass 3C
+Pass Pass 3S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2008 Australian National Open Teams"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Kaplan"]
+[North "Fuller"]
+[East "Schroor"]
+[South "Clark"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: 5432.73.742.AJ86 7.KQ.KT83.KQT752 KJ986.AT64.AJ95. AQT.J9852.Q6.943 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Havas"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Creet"]
+[Auction "S"]
+Pass 1C X 1H
+1S 2C 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+

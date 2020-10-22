@@ -1,0 +1,281 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Bakkeren"]
+[North "Ahlesved"]
+[East "Bertens"]
+[South "Petersson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: Q6543.63.AKQ952.AKQ754 KJ.42.J84.98632 AT.AQ85.T6.JT 9872.KJT97.73."]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gustawsson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass Pass 2C 2S
+Pass Pass Pass
+[Play "N"]
+CQ C8 CT C3
+H2 H4 HJ HA
+H7 H3 HK HT
+C4 C6 C7 C9
+S6 H8 HQ S5
+DA D7 D3 D4
+D5 DK D6 D2
+S4 S2 ST H5
+D9 C2 S7 D8
+SJ C5 CJ DQ
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Bakkeren"]
+[North "Ahlesved"]
+[East "Bertens"]
+[South "Petersson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: QT42.Q86.42.KJT7 A97.AT92.QJ.Q543 K86.J5.9863.A862 J53.K743.AKT75.9 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Gustawsson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+1D Pass 1H Pass
+2H Pass 2S Pass
+3C X 4H Pass
+Pass Pass
+[Play "N"]
+HQ HA H5 H3
+D2 DQ D3 D5
+H6 H9 HJ HK
+D4 DJ D6 D7
+H8 HT D9 H4
+CT C3 C2 C9
+C7 C4 C6 H7
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Bakkeren"]
+[North "Ahlesved"]
+[East "Bertens"]
+[South "Petersson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A963.KQT843.AQ2.AKJ2 J8742.2.J96.T96 KQ5.J975.T85.Q87543 T.A6.K743."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Gustawsson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+1D 1H Pass 1S
+2D 4S 5D 5S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Bakkeren"]
+[North "Ahlesved"]
+[East "Bertens"]
+[South "Petersson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: T65.A94.AT943.A9 KJ7.J52.Q7.KT742 832.KT8763.8.Q86 AQ94.Q.KJ652.J53 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gustawsson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+Pass 2H X 3H
+X Pass 4D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Bakkeren"]
+[North "Ahlesved"]
+[East "Bertens"]
+[South "Petersson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 543.Q43.K876.KJ7 K8.AT75.54.A9865 JT976.K9.A93.Q42 AQ2.J862.QJT2.T3 "]
+[Declarer "E"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Gustawsson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+Pass Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Bakkeren"]
+[North "Ahlesved"]
+[East "Bertens"]
+[South "Petersson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q92.QT7.A84.QT54 85.K6.KT95.AK986 AT764.A943.732.3 KJ3.J852.QJ6.J72 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Gustawsson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "E"]
+Pass Pass 1C Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Bakkeren"]
+[North "Ahlesved"]
+[East "Bertens"]
+[South "Petersson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: Q6.QJ9652.82.QT3 84.83.K943.AK972 AKJT53.AK.QJ.J86 972.T74.AT765.54 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Gustawsson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "S"]
+2H Pass 2N Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Bakkeren"]
+[North "Ahlesved"]
+[East "Bertens"]
+[South "Petersson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQ864.AK.A73.A84 954.QJ96.JT9652.K92 T872.K842.73. JT753.QJ63.T5.KQ "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Gustawsson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "W"]
+Pass Pass Pass 1C
+an 16 Pass 1D
+Pass 1H an 20
+Pass 1S Pass 2S
+an 20 Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Swedish Team Trials"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Bakkeren"]
+[North "Ahlesved"]
+[East "Bertens"]
+[South "Petersson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 98532.AJ7.K2.KT7 AT764.T2.T754.93 K.KQ54.A986.J542 QJ.9863.QJ3.AQ86 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Gustawsson"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Netherlands"]
+[Auction "N"]
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "None"]
+*
+
+

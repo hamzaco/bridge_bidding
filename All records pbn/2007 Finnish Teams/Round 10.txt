@@ -1,0 +1,942 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT2.QJT8.953.KT5 Q976.97.K764.832 8543.AK3.QT8.976 KJ.6542.AJ2.AQJ4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+HQ H7 HK H2
+H8 H9 HA H4
+CK C2 C9 CQ
+HJ C3 H3 H5
+HT D4 C6 H6
+C5 C8 C7 C4
+SA S6 S3 SK
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AT2.QJT8.953.KT5 Q976.97.K764.832 8543.AK3.QT8.976 KJ.6542.AJ2.AQJ4 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "N"]
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+HQ H7 HK H6
+H8 H9 HA H2
+HT C2 H3 H5
+HJ D4 C6 H4
+D9 D6 DQ DA
+SA S6 S3 SK
+S2 S7 S4 SJ
+CK C3 C7 CJ
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9765.84.8432.AJT T83.AKQ93.A9.962 K42.765.JT765.87 AQJ.JT2.KQ.KQ543 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "E"]
+1C an 17 Pass
+1H Pass 2C Pass
+2D an   Pass
+2N Pass 3H Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "N"]
+CT C2 C8 CK
+H4 H3 H5 HJ
+H8 HA H6 H2
+D2 HK H7 HT
+CJ C6 C7 C3
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 9765.84.8432.AJT T83.AKQ93.A9.962 K42.765.JT765.87 AQJ.JT2.KQ.KQ543 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "E"]
+1N Pass 2D Pass
+2H Pass 3N Pass
+4H Pass Pass Pass
+[Play "S"]
+S6 ST SK SA
+H4 H3 H5 HJ
+H8 HA H6 H2
+D2 HK H7 HT
+CA C2 C7 CK
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 964.KJ.KQJT7.T96 A8752.A62.63.J85 KJT.T8543.A5.AKQ Q3.Q97.9842.7432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "S"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "E"]
+HJ HA H4 H7
+S4 S2 SK S3
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: 964.KJ.KQJT7.T96 A8752.A62.63.J85 KJT.T8543.A5.AKQ Q3.Q97.9842.7432 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "S"]
+2D Pass 3N Pass
+Pass Pass
+[Play "E"]
+S4 S2 SK SQ
+HK HA H3 H7
+S6 S7 ST S3
+D7 D3 DA D2
+DT D6 D5 D8
+DK H6 H4 D4
+DQ H2 H5 D9
+DJ S5 SJ H9
+C6 C8 CA C2
+C9 C5 CK C3
+HJ S8 H8 HQ
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 42.Q64.A9876.J32 AK53.T87.K98654.JT87 A532.KJ5.A7.Q96 KJ9.QT432.QT."]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "W"]
+2C X XX 2D
+Pass Pass X Pass
+2S Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 42.Q64.A9876.J32 AK53.T87.K98654.JT87 A532.KJ5.A7.Q96 KJ9.QT432.QT."]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "W"]
+1C X 1D Pass
+1S Pass 1N Pass
+2C Pass 2N Pass
+3C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK82.K987.Q5.964 93.AJ63.A8764.83 JT764.KJ92.AKJ5.Q5 QT542.T3.QT72."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "N"]
+1C 2H X! 4H
+4S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: AK82.K987.Q5.964 93.AJ63.A8764.83 JT764.KJ92.AKJ5.Q5 QT542.T3.QT72."]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "N"]
+1S Pass 2N Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT973.JT62.J98.J 62.KQ853.K4.Q732 AK5.94.32.KT9654 J84.A7.AQT765.A8 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "E"]
+1D Pass 1H Pass
+2D Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: QT973.JT62.J98.J 62.KQ853.K4.Q732 AK5.94.32.KT9654 J84.A7.AQT765.A8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "E"]
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 82.K64.AQT97.K32 954.QJT.K8532.54 AJ763.A972.J.JT8 KQT.853.64.AQ976 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "S"]
+1N Pass 2C X
+2D Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 82.K64.AQT97.K32 954.QJT.K8532.54 AJ763.A972.J.JT8 KQT.853.64.AQ976 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "S"]
+1D Pass 1S Pass
+1N Pass 2H Pass
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 853.AQ96.5.KT642 KJT6.KJ8543.T7.7 Q9.AQJ82.AQ9853.A742 T72.K9643.J."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "W"]
+Pass 1C an 12
+Pass 1H an 8-
+Pass 1N an !C
+Pass 2C an 3+
+Pass 2D Pass 2S
+Pass 5C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 853.AQ96.5.KT642 KJT6.KJ8543.T7.7 Q9.AQJ82.AQ9853.A742 T72.K9643.J."]
+[Declarer "N"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +600"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 2C Pass 3C
+Pass 5C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 4.Q74.A86532.KJ8 986.K93.T9.AQT32 AQJ75.T52.KQJ.94 KT32.AJ86.74.765 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "N"]
+1N Pass 2C X
+Pa an no Pass
+2D Pass 2S Pass
+2N Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 4.Q74.A86532.KJ8 986.K93.T9.AQT32 AQJ75.T52.KQJ.94 KT32.AJ86.74.765 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "9"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "N"]
+1S Pass 1N Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T54.AT94.QJ.AT94 AJ76.KQ.942.KJ73 Q93.J876.KT73.85 K82.532.A865.Q62 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "E"]
+Pass Pass 1N an
+14 Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: T54.AT94.QJ.AT94 AJ76.KQ.942.KJ73 Q93.J876.KT73.85 K82.532.A865.Q62 "]
+[Declarer "E"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D Pass 1S Pass
+1N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 4.7.QJT9765.KJ62 QJT3.AKJ962.K32.K876 Q4.84.AT754. A952.T853.A.Q983 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "S"]
+2D an 8- 2H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 4.7.QJT9765.KJ62 QJT3.AKJ962.K32.K876 Q4.84.AT754. A952.T853.A.Q983 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "13"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -510"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "S"]
+3D 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T.K73.AQ842.AKQ7 Q52.QJ9842.96.42 AJ9843.A.KJT73.3 K76.T65.5.JT9865 "]
+[Declarer "S"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "W"]
+2D an mu 2S
+Pass 3D Pass 4H
+Pass 4N Pass 5C
+Pass 7D Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: T.K73.AQ842.AKQ7 Q52.QJ9842.96.42 AJ9843.A.KJT73.3 K76.T65.5.JT9865 "]
+[Declarer "S"]
+[Contract "7"]
+[Result "13"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +2140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "W"]
+Pass 1S Pass 2D
+Pass 4D Pass 5C
+Pass 5H Pass 7D
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T32.93.K9864.QJ9 AJ5.AT54.T732.T5 K864.K62.AQ5.K62 Q97.QJ87.J.A8743 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "N"]
+1C Pass 1D an
+we Pass 1N an
+15 Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "29"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: T32.93.K9864.QJ9 AJ5.AT54.T732.T5 K864.K62.AQ5.K62 Q97.QJ87.J.A8743 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K53.KT976.84.T95 QJ762.853.Q2.A84 AT9.J4.AKJ953.J7 84.AQ2.T76.KQ632 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "4"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "E"]
+1C an 17 Pass
+1S 2D Pa Pass
+2S Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "30"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K53.KT976.84.T95 QJ762.853.Q2.A84 AT9.J4.AKJ953.J7 84.AQ2.T76.KQ632 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "12"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1H Pass 2D
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJT7.42.K83.AK96 Q3.AKQT965.4.Q43 A9854.J3.Q972.52 62.87.AJT65.JT87 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "S"]
+1N 2C 2S Pass
+Pass 3H Pass Pass
+3S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "31"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: KJT7.42.K83.AK96 Q3.AKQT965.4.Q43 A9854.J3.Q972.52 62.87.AJT65.JT87 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "S"]
+1C Pass 1S Pass
+2S 3H 3S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "2007 Finnish Teams"]
+[Site "00"]
+[Date "00"]
+[Board "32"]
+[West "Valta"]
+[North "Nyberg"]
+[East "Vihtilä"]
+[South "Koistinen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: 53.T653.9852.AQ4 972.AK82.QJ64.T5 KJ8.94.KT3.KJ876 AQT64.QJ7.A7.932 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JuuTools"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Vihtilä"]
+[Auction "W"]
+Pass 1N 2C Pass
+2D Pass 2S Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+

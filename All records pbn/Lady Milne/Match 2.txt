@@ -1,0 +1,822 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J653.3.AJ54.J987 AT.K952.986.Q632 KQ872.AJT84.3.K4 94.Q76.KQT72.AT5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "S"]
+Pass Pass 1S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+DA D6 D3 DK
+H3 H5 HA H6
+S3 H2 H4 H7
+D4 D8 S2 D2
+S5 H9 H8 HQ
+D5 D9 S7 D7
+S6 HK HT DT
+SJ ST S8 S4
+C7 C2 CK CA
+DJ C3 SQ DQ
+C8 C6 HJ S9
+C9 CQ C4 C5
+CJ SA SK CT
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: J653.3.AJ54.J987 AT.K952.986.Q632 KQ872.AJT84.3.K4 94.Q76.KQT72.AT5 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "S"]
+Pass Pass 1S X
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+DA D6 D3 DK
+D4 D8 S2 D7
+H3 H2 HA H6
+S3 H5 H4 H7
+D5 D9 S7 D2
+S5 H9 H8 HQ
+DJ C3 S8 DT
+SJ HK HJ S9
+S6 ST SK S4
+C7 SA HT C5
+C8 C2 C4 CA
+CJ CQ CK CT
+C9 C6 SQ DQ
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K96.Q84.AT83.K53 854.J765.KQ6.A87 T732.T2.542.QJT9 AQJ.AK93.J97.642 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "W"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "S"]
+D3 DK D2 D7
+SK S4 S2 SQ
+DA DQ D4 D9
+D8 D6 D5 DJ
+C3 C7 C9 C2
+H8 H5 HT HA
+H4 H6 H2 HK
+HQ H7 S3 H3
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "16"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N: K96.Q84.AT83.K53 854.J765.KQ6.A87 T732.T2.542.QJT9 AQJ.AK93.J97.642 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "W"]
+Pass Pass 1H Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ873.AQ76.K872.KT94 K2.AQ974.AJ.A2 853.T8632.Q96.65 JT94.KJ5.T543."]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "N"]
+Pass Pass 1S 1N
+Pass Pass 2C 2D
+Pass Pass 2H Pass
+2S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: QJ873.AQ76.K872.KT94 K2.AQ974.AJ.A2 853.T8632.Q96.65 JT94.KJ5.T543."]
+[Declarer "W"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "N"]
+Pass Pass 1S 1N
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKT32.A96.632.Q9 975.K754.KT84.A6 84.T8.AQ97.KT742 QJ6.QJ32.J5.J853 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: AKT32.A96.632.Q9 975.K754.KT84.A6 84.T8.AQ97.KT742 QJ6.QJ32.J5.J853 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +90"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "E"]
+Pass 1S Pass 1N
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J764.32.A93.KJT8 T2.T86.KQ87.9742 AQ85.AJ94.J2.A65 K93.KQ75.T654.Q3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "S"]
+Pass Pass 1H Pass
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J764.32.A93.KJT8 T2.T86.KQ87.9742 AQ85.AJ94.J2.A65 K93.KQ75.T654.Q3 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "S"]
+Pass Pass 1H Pass
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 83.K953.A84.Q985 KT974.T86.3.T732 652.Q742.KJT76.6 AQJ.AJ.Q952.AKJ4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "W"]
+Pass Pass 2N an
+20 Pass 3H Pass
+3S Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: 83.K953.A84.Q985 KT974.T86.3.T732 652.Q742.KJT76.6 AQJ.AJ.Q952.AKJ4 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "W"]
+Pass Pass 2N Pass
+3H Pass 3S Pass
+3N Pass 4S Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A.A96.KJ7.AT9863 QJ8765.532.A9.72 KT43.QT8.6532.Q5 92.KJ74.QT84.KJ4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "N"]
+Pass Pass 1C 2S
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A.A96.KJ7.AT9863 QJ8765.532.A9.72 KT43.QT8.6532.Q5 92.KJ74.QT84.KJ4 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "N"]
+Pass Pass 1C 2S
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ72.QJ4.T9.KT65 AQ8.T963.AK832.4 T653.72.J754.AJ9 94.AK85.Q6.Q8732 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 2S an
+Do Pass 3D an
+Co Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: KJ72.QJ4.T9.KT65 AQ8.T963.AK832.4 T653.72.J754.AJ9 94.AK85.Q6.Q8732 "]
+[Declarer "E"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A93.AT7.Q74.KQ54 KJ762.J.JT953.AJ 54.9432.AK8.T983 QT8.KQ865.62.762 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "S"]
+1C 1S X 2S
+X! Pass 2N Pass
+3C 3D Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A93.AT7.Q74.KQ54 KJ762.J.JT953.AJ 54.9432.AK8.T983 QT8.KQ865.62.762 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "S"]
+1C 1S 2C 2S
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A6.T632.Q9842.54 9832.A875.A.AQ97 QJT4.QJ94.KT.JT8 K75.K.J7653.K632 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A6.T632.Q9842.54 9832.A875.A.AQ97 QJT4.QJ94.KT.JT8 K75.K.J7653.K632 "]
+[Declarer "W"]
+[Contract "5"]
+[Result "9"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "W"]
+1C Pass 3C Pass
+5C Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK743.Q6.AQ2.J97 JT965.T83.T.AQ54 Q.AK952.K8753.82 82.J74.J964.KT63 "]
+[Declarer "N"]
+[Contract "6"]
+[Result "10"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 3C Pass
+3D Pass 3S Pass
+4D Pass 4H Pass
+4S Pass 6D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "25"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AK743.Q6.AQ2.J97 JT965.T83.T.AQ54 Q.AK952.K8753.82 82.J74.J964.KT63 "]
+[Declarer "N"]
+[Contract "5"]
+[Result "10"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 3C an
+FS Pass 3D Pass
+4D Pass 5D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q743.T953.952.Q4 A95.KQ74.AT84.JT KJ86.62.K7.K7532 T2.AJ8.QJ63.A986 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "E"]
+[Play "N"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "26"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q743.T953.952.Q4 A95.KQ74.AT84.JT KJ86.62.K7.K7532 T2.AJ8.QJ63.A986 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "E"]
+1N Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K42.KQ95.A642.A9 AJT73.A863.93.K7 9865.J4.85.QT853 Q.T72.KQJT7.J642 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "S"]
+1H 1S Pass Pass
+X Pass 2C 2D
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "27"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: K42.KQ95.A642.A9 AJT73.A863.93.K7 9865.J4.85.QT853 Q.T72.KQJT7.J642 "]
+[Declarer "S"]
+[Contract "1"]
+[Result "7"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +70"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "S"]
+1D X Pass Pass
+Pass
+[Play "W"]
+*
+
+
+[Event "Lady Milne"]
+[Site "00"]
+[Date "00"]
+[Board "28"]
+[West "Smith"]
+[North "Clench"]
+[East "Dhondy"]
+[South "Hirst"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: AQT.643.QT63.AT7 862.AKJ.98.KJ852 K9.Q8752.AK42.93 J7543.T9.J75.Q64 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Wales"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "England"]
+[Auction "W"]
+1C 1H Pass 2C
+X! an sh 2D
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+*
+
+

@@ -1,0 +1,467 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: AK3.KJT98.Q5.AKQ Q984.42.JT84.T54 JT752.7.A932.J96 6.AQ653.K76.8732 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "N"]
+Pass Pass 1C 1H
+1S Pass 1N Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "E"]
+CQ CT C6 C8
+D5 D4 DA D6
+DQ D8 D2 DK
+SA S4 S2 S6
+HK H2 H7 HA
+CK C4 C9 C2
+HJ H4 S5 H3
+S3 DT D3 D7
+H8 C5 S7 H5
+SK DJ D9 C3
+CA S8 CJ C7
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: Q85.J7542.32.Q97 AK.Q63.AKJ.KJ643 976.AT9.QT86.T85 JT432.K8.9754.A2 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +630"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2N Pass
+3C Pass 3D Pass
+3N Pass Pass Pass
+[Play "W"]
+S5 SA S6 S3
+C7 C3 C5 CA
+C9 CJ C8 C2
+CQ CK CT S2
+D2 C6 S7 D4
+H2 C4 D6 D5
+S8 SK S9 S4
+H5 H3 HA H8
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: JT6.K4.K9852.J43 AK73.93.QJT.K987 92.A8762.764.652 Q854.QJT5.A3.AQT "]
+[Declarer "W"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "S"]
+Pass 1N Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: K962.AQ7.AK3.532 754.863.QJ54.KJ9 AJ.KT542.T982.Q6 QT83.J9.76.AT874 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "W"]
+Pass 2H an 54
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: J642.Q965.975.94 AKQ83.KJ84.AJ.A6 9.AT732.84.KQT83 T75.KQT632.J752."]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "N"]
+2H an 54 Pass
+Pass X Pass 3D
+Pass 3N Pass 4C
+Pass 4N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: JT.Q932.QJ97.KJ9 A7.AK74.A542.875 KQ6542.JT6.86.Q2 983.85.KT3.AT643 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "E"]
+Pass Pass 1D 2S
+an ma Pass 2N
+Pass 3C Pass 3S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: A.K93.QT984.A943 QT75.QJT74.5.KJ8 KJ8632.65.K762.5 94.A82.AJ3.QT762 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "S"]
+1D 1H 1S X
+an Pa 2C Pass
+2D 2H 3D Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: A93.AK96.J73.KT9 KQT5.QT95.Q8542.8742 Q84.A64.A63.J6 JT7532.K82.J7."]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "W"]
+Pass Pass 2D an
+mu Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: KT8.T952.86.Q842 A4.KQ87.J543.AKJ J532.64.KQT972.3 Q976.AJ3.A.T9765 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 2C Pass 2N
+an gf Pass 3C
+an as Pass 3H
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: 9853.JT.AJ42.Q85 AK.97643.KQ87.62 Q6.AK8.T96.KJ974 JT742.Q52.53.AT3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "E"]
+Pass Pass 1H Pass
+1S Pass 2D Pass
+2H Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: Q.3.AJ98542.J982 T864.T842.T6.AT7 AK932.KJ975.7.64 J75.AQ6.KQ3.KQ53 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "S"]
+Pass Pass 1S X
+2C an xf Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: J92.J54.AQJ984.J KQT64.KT.T73.QT3 A83.AQ632.2.AK42 75.987.K65.98765 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "W"]
+Pass 1C an 16
+1S an sh 2C
+Pass 2H Pass 4H
+Pass 4N Pass 5C
+Pass 5H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: KQ87.KJ7.76.K853 A952.64.984.A962 J.AQT982.QJ32.JT T643.53.AKT5.Q74 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 4H Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: T.AJ843.T75.K953 AK84.72.J83.Q872 Q9732.QT9.A64.T6 J65.K65.KQ92.AJ4 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "E"]
+1N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Czech Teams Championships"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Jansa"]
+[North "Chvalina"]
+[East "Svoboda"]
+[South "Hebak"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: AK86.Q72.K954.63 JT542.A65.AJ3.AQ 7.3.QT862.JT8542 Q93.KJT984.7.K97 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "JAS"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "ACOL"]
+[Auction "S"]
+1D 1N Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+

@@ -1,0 +1,430 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 97632.AK54.8.983 AQ8.J982.KT642.4 KT54.T7.A753.J65 J.Q63.QJ9.AKQT72 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 2C Pass 2N
+Pass 3N Pass Pass
+Pass
+[Play "N"]
+S2 S8 S4 SJ
+D8 D2 DA DQ
+HK H2 HT H3
+HA H8 H7 H6
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: T92.864.AKQT2.A3 AK73.QJT93.J5.Q7 J5.A2.943.KT9654 Q864.K75.876.J82 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass 1D 1H Pass
+Pass Pass
+[Play "None"]
+DQ D5 D3 D6
+CA C7 C9 C2
+C3 CQ CK C8
+DK DJ D4 D7
+DA H3 D9 D8
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: Q85.K86.Q542.Q42 J962.7532.T7.AK5 43.AQT.J986.JT73 AKT7.J94.AK3.986 "]
+[Declarer "W"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H Pass 1S Pass
+2S Pass Pass Pass
+[Play "N"]
+C2 CA C7 C6
+SQ S9 S3 S7
+C4 CK C3 C8
+S5 S2 S4 SA
+S8 S6 D6 SK
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 92.J985.972.J964 K8654.Q2.Q5.AT53 AT7.AT6.AJT3.Q72 QJ3.K743.K864.K8 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1N Pass Pass Pass
+[Play "None"]
+H8 HQ HA H3
+HJ H2 HT H4
+D2 D5 DJ DK
+S2 S4 S7 SQ
+S9 S5 ST SJ
+H5 C5 H6 HK
+D7 SK SA S3
+C6 C3 CQ CK
+D9 DQ DA D4
+C4 S6 DT D6
+C9 CT D3 D8
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 8753.J8.AT95.QJ6 KQT642.74.87.AT7 AJ9.AT6532.KJ6.3 .KQ9.Q432.K98542 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1S 2H
+3C Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: AKJ5.QT3.A862.74 764.K74.93.AKJ65 82.AJ985.K75.Q82 QT93.62.QJT4.T93 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1D Pass 1H Pass
+1S 2C X Pass
+2H Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: T964.K4.KQ74.KJ5 AJ52.9.JT.AQ7432 Q87.AQ8752.62.86 K3.JT63.A9853.T9 "]
+[Declarer "E"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C 1H Pass 2N
+Pass 3N X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: AJ864.KQ73.4.QT7 T532.J54.KJT2.A3 K9.A96.AQ53.J654 Q7.T82.9876.K982 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+1D Pass 1S Pass
+1N Pass 2D an
+fm Pass 2N Pass
+3N Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: JT972.T852.J8.T4 65.QJ96.AQ.QJ832 AKQ4.A74.54.K765 83.K3.KT97632.A9 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+1D Pass 1H X
+2D 2S 3S X
+4D Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: 96532.J9872.J32.A4 AK3.T.QT87643.KT8 6.AQ98754.A9. QJ7.QT54.K6.KJ52 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+Pass 1C 1D 1H
+Pass 2C 2D 3N
+Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: K754.J8753.8.AJ4 AQ9.Q964.A76.985 J632.KT532.KQT6.T8 AKT2.QJ94.732."]
+[Declarer "E"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "W"]
+1C 1D 1H Pass
+2H Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: 32.63.K52.K87642 J7.JT872.T84.AQ3 AQT94.AQ9.AQJ.JT K865.K54.9763.95 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "N"]
+2N Pass 3N Pass
+Pass Pass
+[Play "None"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: 63.84.K976.KJT95 Q92.QJT65.AT52.8 AKJ4.973.Q.AQ632 T875.AK2.J843.74 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "11"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "E"]
+Pass Pass 1H 1S
+2H Pass Pass 3C
+Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Multicoms"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Gaviard J"]
+[North "Sebbane"]
+[East "Chemla"]
+[South "Thuillez"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: T6542.J.AKQJT.82 AJ8.T63.842.AQJ9 7.AQ8754.963.T64 KQ93.K92.75.K753 "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "Team 1"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Team 2"]
+[Auction "S"]
+1S Pass 1N Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "None"]
+*
+
+

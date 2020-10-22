@@ -1,0 +1,451 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: Q4.98.KJT985.A96 T92.Q654.A42.532 AJ763.AT73.Q7.J7 K85.KJ2.63.KQT84 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "N"]
+1S Pass 2D Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "E"]
+C6 C5 C7 CK
+S4 S2 SJ S8
+DJ D4 D7 D3
+D5 D2 DQ D6
+H8 H4 H3 HJ
+CA C2 CJ CQ
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KJT9.A4.AKT74.A5 Q7532.Q86.92.KJ9 64.J975.J865.642 A8.KT32.Q3.QT873 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "E"]
+1C X 1S Pass
+2C 2D X Pass
+2H Pass 3C Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: J9.K4.QJT752.KJ5 KQT42.T876.K4.A2 63.J9.A9863.T876 A875.AQ532.Q943."]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "S"]
+1D 1S 3D 3H
+4D 4H 5D 6S
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: A963.K984.Q762.4 J4.QJT5.KJT83.J5 KT2.763.A4.KQ862 Q875.A2.95.AT973 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1N Pass Pass
+Pass
+[Play "S"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: A3.J.AKT763.6532 QT962.KQ43.5.QJ8 754.A982.942.KT4 KJ8.T765.QJ8.A97 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "N"]
+Pass 1N Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: AQ95.Q864.T8732.43 KJ9732.J7.AK4.KJ76 AT8.K952.J9.T82 Q654.AT3.Q65."]
+[Declarer "S"]
+[Contract "5"]
+[Result "11"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "E"]
+Pass Pass 1H Pass
+2H X 3H 3S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: QJ9742.T53.9876.AT8 Q62.AK54.QJT.K5 A84.QT2.K9842. 63.KJ97.J3.A7653 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "5"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "S"]
+2D 2N 3H 3N
+4S X Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AT8542.T6.Q76.Q6 76.J943.AT84.J54 Q93.AKQ72.9.K872 KJ.85.KJ532.AT93 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2C Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: 942.AT87.QJT943.42 T63.KQ653.K76.AKQT5 875.942.85.J98763 AKQJ.J.A2."]
+[Declarer "E"]
+[Contract "4"]
+[Result "8"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +200"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "N"]
+Pass 1S 3C Pass
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: AQ643.QT.A.AJ975 T872.5.JT4.KT862 J5.AJ94.Q653.Q43 K9.K87632.K9872."]
+[Declarer "E"]
+[Contract "2"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -430"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "E"]
+1H 2H Pass 2N
+Pass 4C Pass 5C
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: QT762.A76.QT7.95 A4.QT83.654.KJT2 K985.942.83.A874 J3.KJ5.AKJ92.Q63 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "S"]
+Pass Pass Pass 1D
+1S X 2S X
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QT2.862.J63.QJT7 A763.QT754.AT4.5 84.AKJ3.K985.832 KJ95.9.Q72.AK964 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "W"]
+1H Pass 2C Pass
+2H Pass 2S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "13"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N: K765.A5.T975.J85 T42.K73.AKQ4.Q62 A93.QJ6.J3.K9743 QJ8.T9842.862.AT "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "N"]
+Pass Pass Pass 1N
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "14"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "N: K42.32.KQ9.KJT53 A863.AJ.J5.98742 T9.KQT865.763.Q6 QJ75.974.AT842.A "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -400"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "E"]
+1D Pass 2C Pass
+2D Pass 3N Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Victorian Playoff"]
+[Site "00"]
+[Date "00"]
+[Board "15"]
+[West "Mill"]
+[North "Fruewirth"]
+[East "Stark"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N: A962.AQ8.A5.Q764 QT74.73.JT43.AJ2 J3.6542.KQ9.K953 K85.KJT9.8762.T8 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Jacobs"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +620"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Butler"]
+[Auction "S"]
+1N Pass 2C Pass
+2D Pass 2N Pass
+3C Pass 3D Pass
+3S Pass 3N Pass
+Pass Pass
+[Play "W"]
+*
+
+

@@ -1,0 +1,92 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kasprzak"]
+[North "Stirbu"]
+[East "Nowosadzki"]
+[South "Serpoi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT8.K52.KQ9.A752 965.QT964.T.Q643 AQ3.8.J76542.K98 J742.AJ73.A83.JT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Romania"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+1D Pass 3N Pass
+Pass Pass
+[Play "W"]
+H5 H6 H8 HA
+H2 H4 C8 H3
+HK H9 S3 HJ
+DK DT D2 DA
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Kasprzak"]
+[North "Stirbu"]
+[East "Nowosadzki"]
+[South "Serpoi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT8.K52.KQ9.A752 965.QT964.T.Q643 AQ3.8.J76542.K98 J742.AJ73.A83.JT "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "Romania"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "N"]
+Pass Pass 1N Pass
+3N Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Samobor Tournament"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Kasprzak"]
+[North "Stirbu"]
+[East "Nowosadzki"]
+[South "Serpoi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: KT.KJ975.Q9.KT54 AQ876.QT.K6.AJ97 94.A2.J875432.Q6 J532.8643.AT.832 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "Romania"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass 1H 1S 2C
+3S an Pa Pass
+Pass Pass
+[Play "N"]
+*
+
+

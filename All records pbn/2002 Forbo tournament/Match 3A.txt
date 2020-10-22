@@ -1,0 +1,459 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 85.AJ83.QJT4.K98 3.T92.K932.T6532 AKQJT42.Q7.75.AJ 976.K654.A86.Q74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+2C P 2D P
+2S P 2N P
+3S P 4C P
+4S P P P
+[Play "E"]
+S5 S3 SQ S7
+S8 C6 SA S6
+D4 C2 SK S9
+DT DK D5 D8
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "17"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: 85.AJ83.QJT4.K98 3.T92.K932.T6532 AKQJT42.Q7.75.AJ 976.K654.A86.Q74 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "12"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +680"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+1C D R 1D
+3S P 4C P
+4S P P P
+[Play "E"]
+D4 D3 D7 DA
+H3 HT HQ H4
+S5 S3 SA S6
+S8 C6 SK S7
+H8 D2 SQ S9
+DT D9 SJ D8
+DJ C2 ST H5
+DQ C3 S4 D6
+CK C5 CJ C4
+C9 CT CA C7
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 8754.KT2.8652.Q7 T62.9873.T94.T64 AKJ3.QJ64.AKQ.K9 Q9.A5.J73.AJ8532 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +690"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+2C P P D
+P 2D P 3N
+P P P
+[Play "E"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "18"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: 8754.KT2.8652.Q7 T62.9873.T94.T64 AKJ3.QJ64.AKQ.K9 Q9.A5.J73.AJ8532 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +650"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+2C P 3N 4C
+P 4D P 4H
+P 4S P P
+P
+[Play "W"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ42.KT.Q3.KQ842 A986.AQ72.A972.J T.J8653.KT64.A76 Q753.94.J85.T953 "]
+[Declarer "N"]
+[Contract "1"]
+[Result "8"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +120"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+1C D 1H P
+1S P 1N P
+P P
+[Play "E"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "19"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: KJ42.KT.Q3.KQ842 A986.AQ72.A972.J T.J8653.KT64.A76 Q753.94.J85.T953 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "6"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +300"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+2C D P 2S
+P P 3C P
+P 3S P P
+P
+[Play "S"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQT8632.Q32.72.6 9.KT4.AKJ95.AT85 5.9765.T863.J972 KJ74.AJ8.Q4.KQ43 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "W"]
+1D P 1S P
+2C P 2H P
+2N P 3N P
+P P
+[Play "N"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "20"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: AQT8632.Q32.72.6 9.KT4.AKJ95.AT85 5.9765.T863.J972 KJ74.AJ8.Q4.KQ43 "]
+[Declarer "W"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -990"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "W"]
+1C P 1S P
+1N P 2N P
+3N P 6N D
+P P P
+[Play "N"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ976.K9743.T82.T932 Q43.AJ.J653.AQJ76 T8.T82.KQ9.K854 A52.Q65.A74."]
+[Declarer "S"]
+[Contract "1"]
+[Result "6"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+1S P 1N P
+P P
+[Play "W"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "21"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: KJ976.K9743.T82.T932 Q43.AJ.J653.AQJ76 T8.T82.KQ9.K854 A52.Q65.A74."]
+[Declarer "N"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "N"]
+1S D 2D P
+2H P P P
+[Play "E"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A97.A53.AK753.KQ T654.KJ9.T92.J97 3.T87642.AT6532.KQJ82 Q.QJ864.84."]
+[Declarer "N"]
+[Contract "6"]
+[Result "11"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+2S D P 3H
+P 3S D 4C
+P 4H P 6H
+P P P
+[Play "E"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "22"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: A97.A53.AK753.KQ T654.KJ9.T92.J97 3.T87642.AT6532.KQJ82 Q.QJ864.84."]
+[Declarer "N"]
+[Contract "6"]
+[Result "12"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +980"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "E"]
+2S D 3S 4H
+P 4S P 6H
+P P D P
+P P
+[Play "E"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 96.AQJ653.A87.KT 8.K92.KQT92.J643 AKT7542.T.J5.Q95 QJ3.874.643.A872 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +420"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+1H P 1S P
+2H P 2S P
+3S P 4S P
+P P
+[Play "E"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "23"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: 96.AQJ653.A87.KT 8.K92.KQT92.J643 AKT7542.T.J5.Q95 QJ3.874.643.A872 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "S"]
+1H P 1S P
+3H P 4S P
+P P
+[Play "E"]
+*
+
+
+[Event "2002 Forbo tournament"]
+[Site "00"]
+[Date "00"]
+[Board "24"]
+[West "Mihov"]
+[North "Moller"]
+[East "Nanev"]
+[South "Auken S"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: AK64.984.JT3.752 T975.JT.95.AK984 J832.A532.742.J3 Q.KQ76.AKQ86.QT6 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "12"]
+[HomeTeam "Auken"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -490"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "Bulgaria"]
+[Auction "W"]
+P P 1C P
+2C P 2D P
+2S P 3N P
+P P
+[Play "S"]
+*
+
+

@@ -1,0 +1,709 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT4.Q532.AQ7.643 AQJ2.T8.J65.KJ72 73.AK974.T43.QT8 9865.J6.K982.A95 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+Pass Pass 1C 1S
+2H 2S Pass Pass
+Pass
+[Play "N"]
+H5 H8 HA H6
+H3 HT HK HJ
+C6 CJ C8 C5
+S4 SA S3 S5
+SK SQ S7 S6
+ST SJ D3 S8
+C3 C2 CT CA
+C4 CK CQ C9
+H2 C7 H4 D2
+DQ DJ D4 D8
+DA D5 DT D9
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "1"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N: KT4.Q532.AQ7.643 AQJ2.T8.J65.KJ72 73.AK974.T43.QT8 9865.J6.K982.A95 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass Pass X
+2H 2S 3H 3S
+Pass Pass Pass
+[Play "S"]
+H2 H8 HK H6
+DQ D5 D4 D8
+DA D6 D3 D2
+H3 HT HA HJ
+D7 DJ DT DK
+ST SJ S3 S5
+C6 C2 CT CA
+S4 SQ S7 S6
+SK SA H4 S8
+H5 S2 H7 S9
+HQ C7 H9 D9
+C3 CJ CQ C5
+C4 CK C8 C9
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A64.T74.QJ84.T62 832.KQJ52.932.KQ KQJ5.A86.75.A975 T97.93.AKT6.J843 "]
+[Declarer "W"]
+[Contract "2"]
+[Result "6"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+Pass 2D Pass Pass
+Pass
+[Play "N"]
+S6 S3 SK S7
+S4 S2 SQ S9
+SA S8 S5 ST
+C6 CQ CA C3
+C2 CK C5 C4
+DJ D2 D5 DT
+H7 HQ H6 H3
+H4 HK HA H9
+CT D3 SJ C8
+D4 D9 D7 DA
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "2"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N: A64.T74.QJ84.T62 832.KQJ52.932.KQ KQJ5.A86.75.A975 T97.93.AKT6.J843 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "7"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+Pass Pass 1H X
+Pass 1S Pass Pass
+2H Pass Pass 2S
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ.J752.JT642.92 KT764.6.987.QT43 982.AKT983.A3.J6 Q53.Q4.KQ5.AK875 "]
+[Declarer "N"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass Pass 1H X
+2N 3S 4H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "3"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N: AJ.J752.JT642.92 KT764.6.987.QT43 982.AKT983.A3.J6 Q53.Q4.KQ5.AK875 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass Pass 1H 2C
+2H 2S 3H 4S
+Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT.KT8.AK65.QJ72 J7652.Q5.QT82.AT 93.A97632.943.54 AK84.J4.J7.K9863 "]
+[Declarer "N"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "W"]
+Pass Pass 1C 1N
+X 2H Pass 2S
+Pass 3H Pass Pass
+Pass
+[Play "E"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "4"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N: QT.KT8.AK65.QJ72 J7652.Q5.QT82.AT 93.A97632.943.54 AK84.J4.J7.K9863 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +140"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "W"]
+Pass Pass 2C 2N
+Pass 3D Pass 3H
+Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9863.AQ84.AQ.974 AKQT75.T63.T7.Q2 J.J972.KJ94.KJ85 42.K5.86532.AT63 "]
+[Declarer "S"]
+[Contract "4"]
+[Result "9"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+Pass Pass 1C 2S
+X Pass 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "5"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N: 9863.AQ84.AQ.974 AKQT75.T63.T7.Q2 J.J972.KJ94.KJ85 42.K5.86532.AT63 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+Pass Pass 1C 1S
+X Pass 2H 2S
+3H Pass Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 876.J72.A.T97642 KJ.A4.KQJ8653.J8 AT432.KQ6.T74.K5 Q95.T9853.92.AQ3 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -660"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+Pass Pass 1D 1S
+X 2S 2N Pass
+3N Pass Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "6"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N: 876.J72.A.T97642 KJ.A4.KQJ8653.J8 AT432.KQ6.T74.K5 Q95.T9853.92.AQ3 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "10"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+Pass Pass 1D 1S
+X 3S 4D Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K85.74.KJ.K98542 A972.986.Q95.AT3 J4.A532.A862.Q76 QT63.KQJT.T743.J "]
+[Declarer "N"]
+[Contract "3"]
+[Result "7"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -100"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+2C an Pa Pass
+2D Pass 3C Pass
+3N Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "7"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N: K85.74.KJ.K98542 A972.986.Q95.AT3 J4.A532.A862.Q76 QT63.KQJT.T743.J "]
+[Declarer "None"]
+[Contract "Pass"]
+[Result "0"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS 0"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass Pass Pass Pass
+[Play "None"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9.A86.QT9765.642 AJ64.7.K4.AKQ753 QT7532.KQJ2.A.T9 K8.T9543.J832.J8 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "10"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -130"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "W"]
+1C an    1S
+Pass Pass 2C 2H
+Pass Pass 3C Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "8"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N: 9.A86.QT9765.642 AJ64.7.K4.AKQ753 QT7532.KQJ2.A.T9 K8.T9543.J832.J8 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "8"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +50"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "W"]
+1C 1S Pass Pass
+2C 2H Pass Pass
+3C Pass 3N Pass
+Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: JT9.JT.AKJ964.32 A43.AK87.82.JT96 KQ75.Q9432.T53.K 862.65.Q7.AQ8754 "]
+[Declarer "S"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+Pass Pass 3D Pass
+Pass Pass
+[Play "W"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "9"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N: JT9.JT.AKJ964.32 A43.AK87.82.JT96 KQ75.Q9432.T53.K 862.65.Q7.AQ8754 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "N"]
+2C an st Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q9743.JT.A7.J872 AT86.AK862.T9.Q6 KJ2.Q73.543.T953 5.954.KQJ862.AK4 "]
+[Declarer "W"]
+[Contract "4"]
+[Result "11"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -450"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+1D Pass 1H Pass
+2D Pass 2N an
+fo Pass 3S an
+13 Pass 4H Pass
+Pass Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "10"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N: Q9743.JT.A7.J872 AT86.AK862.T9.Q6 KJ2.Q73.543.T953 5.954.KQJ862.AK4 "]
+[Declarer "E"]
+[Contract "3"]
+[Result "11"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -460"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "E"]
+1D Pass 1H Pass
+2D Pass 2S Pass
+3N Pass Pass Pass
+[Play "S"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J632.T6.973.QJT2 T74.A8.Q6542.K64 AKQ8.QJ7432.A.53 95.K95.KJT8.A987 "]
+[Declarer "W"]
+[Contract "3"]
+[Result "9"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS -110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass Pass 1H Pass
+Pass X XX 1N
+Pass Pass 2H 2N
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "11"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "N: J632.T6.973.QJT2 T74.A8.Q6542.K64 AKQ8.QJ7432.A.53 95.K95.KJT8.A987 "]
+[Declarer "N"]
+[Contract "2"]
+[Result "8"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "S"]
+Pass Pass 1H Pass
+Pass X 1S 1N
+2S Pass Pass Pass
+[Play "E"]
+*
+
+
+[Event "Polish First Division"]
+[Site "00"]
+[Date "00"]
+[Board "12"]
+[West "Jassem"]
+[North "Pikus"]
+[East "Martens"]
+[South "Rogowski"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N: QJ7.AK75.AK853.T K82.QT432.2.KQ74 T543.98.QT.A9653 A96.J6.J9764.J82 "]
+[Declarer "S"]
+[Contract "2"]
+[Result "9"]
+[HomeTeam "MRAGOVIA"]
+[Room "Closed"]
+[Round "00"]
+[Score "NS +110"]
+[Section "00"]
+[Table "00"]
+[VisitTeam "SAKURA"]
+[Auction "W"]
+1H an 9- Pass
+1N 2D Pass Pass
+Pass
+[Play "W"]
+*
+
+
